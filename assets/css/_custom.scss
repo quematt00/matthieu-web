@@ -1,0 +1,628 @@
+/* -------------------------------------------------- */
+/* 1. FONTS & TYPOGRAPHY                            */
+/* -------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+:root {
+    --global-font-family: 'Lato', sans-serif;
+    --global-font-size: 20px;
+    --color-primary: #004488;
+    --card-border-radius: 16px;
+    --transition-speed: 0.3s ease;
+    --page-bg: radial-gradient(circle at 20% 20%, #f8fbff 0, #eef2f8 45%, #e8edf5 100%);
+    --page-bg-dark: radial-gradient(circle at 20% 20%, #12131a 0, #0d0e14 40%, #080910 100%);
+    --surface-divider: rgba(0, 0, 0, 0.08);
+    --surface-divider-dark: rgba(255, 255, 255, 0.1);
+}
+
+body {
+    font-family: var(--global-font-family) !important;
+    background: var(--page-bg);
+    color: #1c1e24;
+}
+
+[data-theme='dark'] body {
+    background: var(--page-bg-dark);
+    color: #e6e8ef;
+}
+
+.section-list-heading {
+    margin-top: 3rem;
+}
+
+.section-list-heading-practical {
+    margin-top: 3rem;
+}
+
+.section-list-heading-history {
+    margin-top: 3rem;
+}
+
+h1, h2, h3, h4, .header-title, .menu-item {
+    font-family: 'Lato', sans-serif !important;
+}
+
+/* Keep desktop top-nav items vertically aligned */
+#header-desktop .menu,
+#header-desktop .menu .menu-inner {
+    display: flex !important;
+    align-items: center !important;
+    height: 3rem !important;
+    line-height: 3rem !important;
+    gap: 0.25rem;
+}
+#header-desktop .menu > .menu-item,
+#header-desktop .menu .menu-inner > .menu-item {
+    display: flex !important;
+    align-items: center !important;
+    margin: 0 !important;
+    padding: 0 1.2rem !important;
+    height: 100% !important;
+    line-height: inherit !important;
+}
+#header-desktop .menu .menu-link,
+#header-desktop .menu .menu-inner .menu-link {
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+    line-height: inherit !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    vertical-align: middle !important;
+    font-weight: 500 !important;
+}
+#header-desktop .menu .menu-item.active > .menu-link,
+#header-desktop .menu .menu-inner .menu-item.active > .menu-link {
+    font-weight: 700 !important;
+}
+
+/* Adjust delimiter spacing */
+#header-desktop .menu .menu-item.delimiter,
+#header-desktop .menu .menu-inner .menu-item.delimiter {
+    padding-left: 0.6rem !important;
+    padding-right: 0.6rem !important;
+}
+
+/* tighter padding for icons */
+#header-desktop .menu .menu-item.search,
+#header-desktop .menu .menu-item.theme-switch,
+#header-desktop .menu .menu-item.language-switch {
+    padding: 0 0.6rem !important;
+}
+
+/* Language switcher dropdown alignment and spacing */
+#header-desktop .menu .menu-item.language-switch .sub-menu {
+    padding: 0.2rem 0 !important;
+    min-width: 8rem !important;
+}
+#header-desktop .menu .menu-item.language-switch .sub-menu .menu-item {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: auto !important;
+    line-height: 1.2 !important;
+}
+#header-desktop .menu .menu-item.language-switch .sub-menu .menu-link,
+#header-desktop .menu .menu-item.language-switch .sub-menu .text-secondary {
+    display: block !important;
+    padding: 0.28rem 0.8rem !important;
+    line-height: 1.2 !important;
+    text-indent: 0 !important;
+    margin: 0 !important;
+    white-space: nowrap !important;
+}
+
+/* extra right padding for the last top-level menu item (Media) */
+#header-desktop .menu > .menu-item > a.menu-link[href="/media/"],
+#header-desktop .menu > .menu-item > a.menu-link[href="/fr/media/"],
+#header-desktop .menu > .menu-item > a.menu-link[href="/de/media/"] {
+    padding-right: 1.4rem !important;
+}
+
+/* Mobile header language switcher: keep dropdown hidden until toggled */
+#header-mobile .header-wrapper .language-switch {
+    position: relative;
+    line-height: 1.25em;
+}
+#header-mobile .header-wrapper .language-switch .sub-menu {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 0.6rem);
+    margin: 0;
+    padding: 0.25rem 0;
+    list-style: none;
+    display: none;
+    border-radius: 12px;
+    border: 1px solid var(--fi-global-border-color);
+    background-color: rgba(255, 255, 255, 0.98);
+    box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.12);
+    max-height: 60vh;
+    overflow-y: auto;
+    z-index: 20;
+}
+[data-theme='dark'] #header-mobile .header-wrapper .language-switch .sub-menu {
+    border-color: var(--fi-global-border-color);
+    background-color: rgba(41, 42, 46, 0.98);
+    box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.35);
+}
+#header-mobile .header-wrapper .language-switch .sub-menu.open,
+#header-mobile .header-wrapper .language-switch:focus-within .sub-menu {
+    display: block;
+}
+#header-mobile .header-wrapper .language-switch .sub-menu .menu-item {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#header-mobile .header-wrapper .language-switch .sub-menu .menu-link,
+#header-mobile .header-wrapper .language-switch .sub-menu .text-secondary {
+    display: block;
+    padding: 0.5rem 0.9rem;
+    white-space: nowrap;
+}
+
+/* Add breathing room at the bottom of the home page */
+.page.home {
+    padding-bottom: 4rem !important;
+}
+
+/* Keep theme-switch icon stable */
+.theme-switch i {
+    transform: rotate(225deg) scale(1);
+    transition: transform 0.3s ease;
+}
+.theme-switch:hover i {
+    transform: rotate(225deg) scale(1.05);
+}
+
+/* -------------------------------------------------- */
+/* 2. THE HEADER (Glassmorphism - Smart Mode)       */
+/* -------------------------------------------------- */
+
+/* Default (Light Mode) - Translucent White */
+#header-desktop, 
+#header-mobile {
+    background-color: rgba(255, 255, 255, 0.7) !important; /* See-through White */
+    backdrop-filter: blur(15px) !important;
+    -webkit-backdrop-filter: blur(15px) !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03) !important;
+}
+
+/* Dark Mode Override - Translucent Dark Grey */
+[data-theme='dark'] #header-desktop, 
+[data-theme='dark'] #header-mobile {
+    background-color: rgba(30, 32, 40, 0.8) !important; /* See-through Dark */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+}
+
+/* Ensure container is clear */
+.header .container {
+    background: transparent !important;
+}
+
+/* Remove footer line styling */
+footer .footer-container .footer-line {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    line-height: 1.4 !important;
+}
+
+/* -------------------------------------------------- */
+/* 3. THE "CARD" AESTHETIC                          */
+/* -------------------------------------------------- */
+
+/* Light Mode Cards */
+.single .content, 
+.summary, 
+.admonition, 
+.home-profile {
+    background: transparent !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding: 0.5rem 0 !important;
+    margin-bottom: 2.5rem !important;
+    border: none !important;
+    transition: var(--transition-speed);
+    text-align: left;
+}
+
+.page.single.special h2 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.32);
+    padding-bottom: 0.35rem;
+}
+[data-theme='dark'] .page.single.special h2 {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.42);
+}
+
+.page.home .home-profile {
+    margin-bottom: 1.2rem !important;
+}
+
+.single .content,
+.summary,
+.home-profile {
+    border-bottom: 1px solid var(--surface-divider) !important;
+}
+
+/* Dark Mode Cards Override */
+[data-theme='dark'] .single .content, 
+[data-theme='dark'] .summary, 
+[data-theme='dark'] .admonition, 
+[data-theme='dark'] .home-profile {
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+[data-theme='dark'] .single .content,
+[data-theme='dark'] .summary,
+[data-theme='dark'] .home-profile {
+    border-bottom: 1px solid var(--surface-divider-dark) !important;
+}
+
+/* Hover Lift Effect */
+.summary:hover, 
+.admonition:hover,
+.home-profile:hover,
+.single .content:hover {
+    transform: none;
+    box-shadow: none !important;
+}
+
+/* Profile socials */
+.home-profile .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+}
+
+.home-profile .links a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    line-height: 1;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.home-profile .links .icon,
+.home-profile .links svg.icon {
+    width: 26px;
+    height: 26px;
+    display: block;
+}
+
+.home-profile .links .fa-orcid {
+    font-size: 24px;
+}
+
+.home-profile .links a[title="Google Scholar"] svg.icon {
+    width: 28px;
+    height: 28px;
+    transform: scale(1.08);
+    margin-left: -0.2rem;
+}
+
+.home-profile .links a:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
+
+/* Profile avatar sizing override */
+.home-profile .home-avatar img {
+    width: 9.5rem !important;
+    height: auto !important;
+}
+
+.home-profile .links a:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
+
+/* -------------------------------------------------- */
+/* 4. BOOK SHOWCASE (Smart Colors)                  */
+/* -------------------------------------------------- */
+
+/* Light Mode Book Box */
+.admonition.abstract {
+    border-left: 3px solid var(--color-primary) !important;
+    border-top: none !important;
+    background: linear-gradient(to right, rgba(0, 68, 136, 0.08), rgba(0, 68, 136, 0.02)) !important;
+}
+
+/* Dark Mode Book Box */
+[data-theme='dark'] .admonition.abstract {
+    background: linear-gradient(to right, rgba(102, 178, 255, 0.12), rgba(102, 178, 255, 0.04)) !important;
+    border-left: 3px solid #66b2ff !important; /* Lighter blue for dark mode visibility */
+}
+
+.admonition-title {
+    background: transparent !important;
+    color: var(--color-primary) !important;
+    font-size: 1.1rem;
+    border-bottom: 1px solid var(--surface-divider) !important;
+}
+
+[data-theme='dark'] .admonition-title {
+    color: #66b2ff !important; /* Light Blue Title in Dark Mode */
+    border-bottom: 1px solid var(--surface-divider-dark) !important;
+}
+
+/* Image Styling */
+.admonition img {
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease;
+}
+.admonition img:hover {
+    transform: scale(1.03);
+}
+
+/* -------------------------------------------------- */
+/* 5. PAGE ANIMATION                                */
+/* -------------------------------------------------- */
+main {
+    animation: fadeUp 0.8s ease-out forwards;
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+@keyframes fadeUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* -------------------------------------------------- */
+/* 6. HOMEPAGE LAYOUT (Hero + Books)                 */
+/* -------------------------------------------------- */
+.hero-intro {
+    padding: 0 0 0.15rem;
+}
+
+.page.home .single .content {
+    padding-top: 0rem !important;
+}
+
+.hero-text {
+    max-width: 2820px;
+}
+
+.eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.9rem;
+    color: #4a6078;
+    margin-bottom: 0.3rem;
+    display: inline-block;
+}
+
+[data-theme='dark'] .eyebrow {
+    color: #9fb7d6;
+}
+
+.hero-text h1 {
+    margin: 0 0 0;
+    line-height: 0.15;
+}
+
+.lede {
+    font-size: 1.05rem;
+    line-height: 1.65;
+    margin: 0 0 0rem;
+}
+
+.hero-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.2rem;
+    color: #425066;
+    font-size: 0.95rem;
+}
+
+[data-theme='dark'] .hero-meta {
+    color: #c7d2e7;
+}
+
+.hero-divider {
+    width: 100%;
+    height: 0;
+    border-top: 1px solid var(--surface-divider);
+    margin: 1rem 0 1.5rem;
+    display: block;
+}
+
+[data-theme='dark'] .hero-divider {
+    border-top-color: var(--surface-divider-dark);
+}
+
+.books-section {
+    padding: 1.4rem 0 1rem;
+}
+
+.books-header {
+    max-width: 800px;
+    margin-bottom: 1.1rem;
+}
+
+.books-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+}
+
+.book-card {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 1.3rem;
+    align-items: start;
+    padding-bottom: 1.5rem;
+    border-bottom: none;
+    opacity: 0;
+    transform: translateY(12px);
+    animation: cardFade 0.6s ease forwards;
+}
+
+.book-media img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+    transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.book-media a {
+    display: block;
+    border-radius: 12px;
+    overflow: visible;
+}
+
+.book-media:hover img {
+    transform: translateY(-6px) scale(1.02);
+    box-shadow: 0 18px 50px rgba(0, 0, 0, 0.14);
+}
+
+.book-body h3 {
+    margin: 0 0 0.3rem;
+}
+
+.book-body .subtitle {
+    display: block;
+    color: #425066;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+[data-theme='dark'] .book-body .subtitle {
+    color: #c7d2e7;
+}
+
+.book-meta {
+    color: #5a6b7a;
+    margin-bottom: 0.7rem;
+    font-size: 0.95rem;
+}
+
+[data-theme='dark'] .book-meta {
+    color: #d3deef;
+}
+
+.book-abstract {
+    margin-bottom: 0.9rem;
+}
+
+.book-card:hover {
+    background: transparent;
+    border-radius: 12px;
+}
+
+.book-card a {
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+.book-card a:hover {
+    text-decoration: underline;
+}
+
+.oa-icon {
+    height: 1.15em;
+    width: auto;
+    vertical-align: text-top;
+    margin-left: 0.6rem;
+    margin-right: 0.1rem;
+    /* Match subtitle color */
+    filter: invert(27%) sepia(11%) saturate(517%) hue-rotate(170deg) brightness(87%) contrast(87%);
+}
+
+.book-reviews {
+    display: grid;
+    gap: 0.2rem;
+}
+
+.review-quote {
+    margin: 0;
+    font-style: italic;
+    color: #2c3440;
+}
+
+[data-theme='dark'] .review-quote {
+    color: #e6e8ef;
+}
+
+.review-author {
+    display: inline-block;
+    margin-left: 0.3rem;
+    font-style: normal;
+    font-weight: 600;
+    color: var(--color-primary);
+}
+
+[data-theme='dark'] .review-author {
+    color: #66b2ff;
+}
+
+@media (max-width: 900px) {
+    .hero-intro {
+        padding-top: 2.5rem;
+    }
+
+    .books-grid {
+        gap: 2rem 1.2rem;
+    }
+
+    .book-card {
+        grid-template-columns: 1fr;
+        padding-bottom: 1.5rem;
+    }
+
+    .book-media {
+        max-width: 220px;
+        margin: 0 auto;
+    }
+}
+
+/* Staggered fade for book cards */
+.books-grid .book-card:nth-child(1) { animation-delay: 0.05s; }
+.books-grid .book-card:nth-child(2) { animation-delay: 0.12s; }
+.books-grid .book-card:nth-child(3) { animation-delay: 0.19s; }
+
+@keyframes cardFade {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Match tag icon color to tag links */
+.fa-tags {
+    color: currentColor !important;
+    margin-right: 0.15rem;
+    font-size: 0.9em;
+}
+
+/* Download link spacing */
+.download-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    text-decoration: none;
+    margin-top: 0.2rem;
+    margin-bottom: 0.8rem;
+}
+.download-link:hover {
+    text-decoration: underline;
+}
+
+/* Tighter divider spacing after entries */
+hr.section-divider {
+    margin: 0.75rem 0 0.5rem !important;
+}

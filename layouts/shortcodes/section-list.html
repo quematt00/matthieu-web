@@ -1,0 +1,32 @@
+{{- $category := .Get "category" -}}
+{{- $pages := where site.RegularPages "Params.categories" "intersect" (slice $category) -}}
+{{- $upcoming := slice -}}
+{{- $dated := slice -}}
+{{- range $pages -}}
+  {{- $year := lower (default "" .Params.year) -}}
+  {{- $isNumericYear := gt (len (findRE "^[0-9]{4}$" $year)) 0 -}}
+  {{- if $isNumericYear -}}
+    {{- $dated = $dated | append . -}}
+  {{- else -}}
+    {{- $upcoming = $upcoming | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $upcoming = sort $upcoming "Title" -}}
+{{- $dated = sort $dated "Params.year" "desc" -}}
+{{- $first := true -}}
+{{- range $i, $p := $upcoming -}}
+{{- if not $first -}}<hr class="section-divider" />{{- end -}}
+<article class="entry-item" id="{{ $p.File.BaseFileName }}">
+  <h3>{{ $p.Title }}</h3>
+  {{ $p.Content }}
+</article>
+{{- $first = false -}}
+{{- end -}}
+{{- range $dated -}}
+{{- if not $first -}}<hr class="section-divider" />{{- end -}}
+<article class="entry-item" id="{{ .File.BaseFileName }}">
+  <h3>{{ .Title }}</h3>
+  {{ .Content }}
+</article>
+{{- $first = false -}}
+{{- end -}}

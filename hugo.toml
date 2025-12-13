@@ -1,0 +1,226 @@
+baseURL = "https://www.matthieuqueloz.com"
+title = "Matthieu Queloz"
+theme = "FixIt"
+languageCode = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+# This generates the Search Index (JSON) so the search bar works
+[outputs]
+  home = ["HTML", "RSS", "search"]
+
+[params]
+  description = "Privatdozent at the University of Bern | Philosophy"
+  defaultTheme = "auto" # Auto-detects if user prefers Dark Mode
+
+  # --- HEADER & PROFILE ---
+[params.header]
+  desktopMode = "fixed"
+  mobileMode = "auto"
+  languageSwitcher = true
+  [params.header.title]
+    name = "Matthieu Queloz"
+    
+[params.home.profile]
+  enable = true
+  gravatarEmail = "matthieu.queloz@unibe.ch" # Add your email here later for auto-profile pic
+  avatarURL = "/images/profile.jpg" # We will add this image in Step 4
+  title = "Matthieu Queloz"
+  subtitle = "Institute of Philosophy, University of Bern"
+  typeit = false # Disable typing animation for the subtitle
+  social = true # Shows social icons
+
+[params.home.posts]
+  enable = false
+
+  # --- SOCIAL LINKS ---
+  [params.social]
+    Email = { id = "matthieu.queloz@unibe.ch", weight = 1 }
+    ORCID = { id = "0000-0001-6644-9992", weight = 2 } # replace with your ORCID ID
+    RSS = false
+
+    [params.social.Scholar]
+      url = "https://scholar.google.ch/citations?user=uHg8FJAAAAAJ&hl=en&oi=ao"
+      title = "Google Scholar"
+      weight = 3
+      [params.social.Scholar.icon]
+        src = "icons/google-scholar.svg"
+
+    [params.social.PhilPapers]
+      url = "https://philpeople.org/profiles/matthieu-queloz" # replace with your PhilPapers profile path
+      title = "PhilPapers"
+      weight = 4
+      [params.social.PhilPapers.icon]
+        src = "icons/philpapers.svg"
+
+  # --- ANIMATIONS & VISUALS ---
+  [params.page]
+    lightgallery = true # Click to zoom on images
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Linkedin = true
+      Facebook = true
+
+  # Global reading progress (works on home when enabled here)
+[params.readingProgress]
+  enable = true
+  start = "left"
+  position = "top"
+  reversed = false
+  light = "#004488"
+  dark = "#66b2ff"
+  height = "2px"
+
+[params.cookieconsent]
+  enable = false
+
+  # --- SEARCH ENGINE (LUNR) ---
+[params.search]
+  enable = true
+  type = "fuse"
+  contentLength = 4000
+  maxResultLength = 10
+  highlightTag = "em"
+  absoluteURL = false
+
+# --- MULTILINGUAL ---
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 1
+    title = "Matthieu Queloz"
+    [languages.en.params.home.profile]
+      title = "Matthieu Queloz"
+      subtitle = "Institute of Philosophy, University of Bern"
+
+  [languages.fr]
+    languageName = "Français"
+    languageCode = "fr"
+    weight = 2
+    title = "Matthieu Queloz"
+    [languages.fr.params.home.profile]
+      title = "Matthieu Queloz"
+      subtitle = "Institut de philosophie, Université de Berne"
+
+  [languages.de]
+    languageName = "Deutsch"
+    languageCode = "de"
+    weight = 3
+    title = "Matthieu Queloz"
+    [languages.de.params.home.profile]
+      title = "Matthieu Queloz"
+      subtitle = "Institut für Philosophie, Universität Bern"
+
+# Menus per language (labels localized; URLs stay the same for now)
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "theoretical"
+    name = "Theoretical Philosophy"
+    url = "/theoretical-philosophy/"
+    weight = 1
+  [[languages.en.menu.main]]
+    identifier = "practical"
+    name = "Practical Philosophy"
+    url = "/practical-philosophy/"
+    weight = 2
+  [[languages.en.menu.main]]
+    identifier = "history"
+    name = "History of Philosophy"
+    url = "/history-of-philosophy/"
+    weight = 3
+  [[languages.en.menu.main]]
+    identifier = "media"
+    name = "Media"
+    url = "/media/"
+    weight = 4
+
+[languages.fr.menu]
+  [[languages.fr.menu.main]]
+    identifier = "theoretical"
+    name = "Philosophie théorique"
+    url = "/theoretical-philosophy/"
+    weight = 1
+  [[languages.fr.menu.main]]
+    identifier = "practical"
+    name = "Philosophie pratique"
+    url = "/practical-philosophy/"
+    weight = 2
+  [[languages.fr.menu.main]]
+    identifier = "history"
+    name = "Histoire de la philosophie"
+    url = "/history-of-philosophy/"
+    weight = 3
+  [[languages.fr.menu.main]]
+    identifier = "media"
+    name = "Médias"
+    url = "/media/"
+    weight = 4
+
+[languages.de.menu]
+  [[languages.de.menu.main]]
+    identifier = "theoretical"
+    name = "Theoretische Philosophie"
+    url = "/theoretical-philosophy/"
+    weight = 1
+  [[languages.de.menu.main]]
+    identifier = "practical"
+    name = "Praktische Philosophie"
+    url = "/practical-philosophy/"
+    weight = 2
+  [[languages.de.menu.main]]
+    identifier = "history"
+    name = "Philosophiegeschichte"
+    url = "/history-of-philosophy/"
+    weight = 3
+  [[languages.de.menu.main]]
+    identifier = "media"
+    name = "Medien"
+    url = "/media/"
+    weight = 4
+
+# --- THE MENU ---
+# Logic: These link to "Categories". Hugo automatically lists all papers 
+# that you tag with "Theoretical Philosophy" on that specific page.
+
+[menu]
+  [[menu.main]]
+    identifier = "theoretical"
+    name = "Theoretical Philosophy"
+    url = "/theoretical-philosophy/"
+    weight = 1
+  
+  [[menu.main]]
+    identifier = "practical"
+    name = "Practical Philosophy"
+    url = "/practical-philosophy/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "history"
+    name = "History of Philosophy"
+    url = "/history-of-philosophy/"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "media"
+    name = "Media"
+    url = "/media/"
+    weight = 4
+
+    [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# App / favicon configuration
+[params.app]
+  title = "Matthieu Queloz"
+  noFavicon = false
+  svgFavicon = "favicon.svg"
+  iconColor = "#111111"
+  tileColor = "#111111"
+
+[params.customPartials]
+  head = ["favicon-fallback.html"]

@@ -1,0 +1,18 @@
+{{- /* secure-email shortcode: base64-encodes an email at build time and decodes on click */ -}}
+{{- /* Args: 0=email (required), 1=display text (optional), 2=icon class (optional) */ -}}
+{{- $address := .Get 0 -}}
+{{- $display := .Get 1 | default $address -}}
+{{- $icon := .Get 2 -}}
+{{- $b64 := $address | base64Encode -}}
+
+<a href="#"
+   class="fixit-secure-email"
+   title="Send email"
+   data-enc="{{ $b64 }}"
+   onclick="window.location.href='mailto:' + atob(this.dataset.enc); return false;"
+   style="text-decoration: none; cursor: pointer;">
+    {{- if $icon -}}
+        <i class="{{ $icon }} fa-fw"></i>&nbsp;
+    {{- end -}}
+    {{- $display -}}
+</a>

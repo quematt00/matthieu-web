@@ -1,0 +1,15 @@
+.DS_Store
+.hugo_build.lock
+.hugo_cache/
+.tmp/
+
+# Hugo build output
+public/
+resources/
+
+# Common tooling
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env

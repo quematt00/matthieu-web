@@ -126,6 +126,24 @@ h1, h2, h3, h4, .header-title, .menu-item {
     position: relative;
     line-height: 1.25em;
 }
+
+/* Mobile header: add spacing between icons (search/theme/language/menu) for touch */
+#header-mobile .header-wrapper {
+    justify-content: flex-start !important;
+}
+#header-mobile .header-wrapper .header-title {
+    margin-right: auto !important;
+}
+#header-mobile .header-wrapper > .theme-switch,
+#header-mobile .header-wrapper > .language-switch,
+#header-mobile .header-wrapper > .menu-toggle {
+    margin-left: 0.55rem;
+}
+#header-mobile .header-wrapper > .theme-switch,
+#header-mobile .header-wrapper > .menu-toggle,
+#header-mobile .header-wrapper > .language-switch > span {
+    padding: 0 0.35rem;
+}
 #header-mobile .header-wrapper .language-switch .sub-menu {
     position: absolute;
     right: 0;

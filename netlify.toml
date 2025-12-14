@@ -6,21 +6,3 @@
   HUGO_VERSION = "0.152.2"
   HUGO_ENV = "production"
   HUGO_CACHEDIR = "/tmp/hugo_cache"
-
-[[redirects]]
-  from = "http://matthieuqueloz.com/*"
-  to = "https://www.matthieuqueloz.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://matthieuqueloz.com/*"
-  to = "https://www.matthieuqueloz.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://www.matthieuqueloz.com/*"
-  to = "https://www.matthieuqueloz.com/:splat"
-  status = 301
-  force = true

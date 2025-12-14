@@ -101,13 +101,19 @@ h1, h2, h3, h4, .header-title, .menu-item {
         transform: rotate(180deg);
     }
 
-    /* Mobile has no hover; do a brief rotate while pressed */
+    /* Mobile: rotate on tap via JS-applied class */
     #header-mobile .language-switch > span .fa-globe {
-        transition: transform 0.4s ease;
         transform-origin: center;
     }
-    #header-mobile .language-switch > span:active .fa-globe {
-        transform: rotate(180deg);
+
+    #header-desktop .language-switch .fa-globe.globe-tap,
+    #header-mobile .language-switch .fa-globe.globe-tap {
+        animation: globe-tap-rotate 650ms cubic-bezier(0.2, 0.9, 0.2, 1);
+        transform-origin: center;
+    }
+    @keyframes globe-tap-rotate {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
     }
 }
 

@@ -1,4 +1,12 @@
 (() => {
+  function prefersReducedMotion() {
+    return (
+      typeof window !== "undefined" &&
+      typeof window.matchMedia === "function" &&
+      window.matchMedia("(prefers-reduced-motion: reduce)").matches
+    );
+  }
+
   function languageCode() {
     const lang = (document.documentElement.getAttribute("lang") || "").toLowerCase();
     if (lang.startsWith("fr")) return "fr";
@@ -87,4 +95,33 @@
   } else {
     ensureDownloadLinksOpenNewTab(document);
   }
+
+  function triggerGlobeTapAnimation(toggleEl) {
+    if (prefersReducedMotion()) return;
+    const icon = toggleEl.querySelector?.(".fa-globe");
+    if (!icon) return;
+    icon.classList.remove("globe-tap");
+    // Force reflow so the animation can replay on rapid taps.
+    void icon.offsetWidth;
+    icon.classList.add("globe-tap");
+    icon.addEventListener(
+      "animationend",
+      () => {
+        icon.classList.remove("globe-tap");
+      },
+      { once: true }
+    );
+  }
+
+  // Animate the language globe toggle on tap/click (works on mobile too).
+  document.addEventListener(
+    "pointerdown",
+    (event) => {
+      const toggle = event.target?.closest?.(
+        "#header-desktop .language-switch > span[role=\"button\"], #header-mobile .language-switch > span[role=\"button\"]"
+      );
+      if (toggle) triggerGlobeTapAnimation(toggle);
+    },
+    true
+  );
 })();

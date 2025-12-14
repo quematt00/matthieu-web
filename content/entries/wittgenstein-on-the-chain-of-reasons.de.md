@@ -1,5 +1,5 @@
 ---
-title: "Wittgenstein on the Chain of Reasons."
+title: "Wittgenstein on the Chain of Reasons"
 year: "2016"
 tags:
   - "handlungstheorie"
@@ -34,6 +34,6 @@ Untersucht Wittgensteins Verständnis von Vernunft und Rationalität durch die L
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/handlungstheorie/">Handlungstheorie</a>, <a href="/de/tags/bioethik/">Bioethik</a>, <a href="/de/tags/gemeinsames-erbe/">gemeinsames Erbe</a>, <a href="/de/tags/dns/">DNS</a>, <a href="/de/tags/analytische-philosophie/">analytische Philosophie</a>, <a href="/de/tags/20-jahrhundert/">20. Jahrhundert</a></span>
 
-<a class="download-link" href="#" aria-label="PDF folgt: Wittgenstein on the Chain of Reasons.">
-  <i class="fa-solid fa-download"></i> PDF folgt
+<a class="download-link" href="https://philarchive.org/archive/QUEWOT" target="_blank" rel="noopener noreferrer" aria-label="PDF von Wittgenstein on the Chain of Reasons herunterladen">
+  <i class="fa-solid fa-download"></i> PDF herunterladen
 </a>

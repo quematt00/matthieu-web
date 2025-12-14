@@ -1,5 +1,5 @@
 ---
-title: "Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear."
+title: "Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear"
 year: "2025"
 tags:
   - "ia"

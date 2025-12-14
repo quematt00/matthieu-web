@@ -1,5 +1,5 @@
 ---
-title: "Williams’s Pragmatic Genealogy and Self-Effacing Functionality."
+title: "Williams’s Pragmatic Genealogy and Self-Effacing Functionality"
 year: "2018"
 tags:
   - "bernard-williams"

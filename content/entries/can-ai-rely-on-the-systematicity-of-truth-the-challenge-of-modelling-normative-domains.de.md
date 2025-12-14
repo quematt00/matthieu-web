@@ -1,5 +1,5 @@
 ---
-title: "Can AI Rely on the Systematicity of Truth? The Challenge of Modelling Normative Domains."
+title: "Can AI Rely on the Systematicity of Truth? The Challenge of Modelling Normative Domains"
 year: "2025"
 tags:
   - "ki"

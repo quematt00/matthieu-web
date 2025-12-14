@@ -1,5 +1,5 @@
 ---
-title: "The Double Nature of DNA: Reevaluating the Common Heritage Idea."
+title: "The Double Nature of DNA: Reevaluating the Common Heritage Idea"
 year: "2016"
 tags:
   - "common-heritage"

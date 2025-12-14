@@ -4,7 +4,6 @@ description: "Linking modern debates with their historical roots."
 layout: "page"
 readingProgress:
   enable: true
-tags: ["history of philosophy", "genealogy", "Nietzsche", "Williams", "Wittgenstein"]
 categories: ["History of Philosophy"]
 ---
 
@@ -44,6 +43,8 @@ hr.section-divider {
 
 ## {{< i18n "section_history" >}}
 
+<div class="section-hero">
+
 My work on the history of philosphy ranges from Early Modern theorists of the state of nature and the ideal of systematicity through Nietzsche to twentieth-century ordinary language philosophers and their existentialist inheritance. My most sustained exegetical efforts to date have been concentrated on Hume, Nietzsche, Wittgenstein, and Bernard Williams, but much of my historical work has been structured in terms of themes rather than figures. The main themes have been the following:
 
 (1) The tradition of state-of-nature genealogies (Hobbes, Mandeville, Hume, Rousseau, Smith, Nietzsche, B. Williams, E. J. Craig, Miranda Fricker, Philip Pettit), which is the topic of my first monograph, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf) and several papers ([Genealogy, Evaluation, and Engineering](#genealogy-evaluation-and-engineering); [Williams’s Pragmatic Genealogy and Self-Effacing Functionality](#williams-s-pragmatic-genealogy-and-self-effacing-functionality); [Nietzsche's English Genealogy of Truthfulness](#nietzsche-s-english-genealogy-of-truthfulness));
@@ -61,6 +62,8 @@ My work on the history of philosphy ranges from Early Modern theorists of the st
 (7) The social and intellectual history of Bernard Williams's oeuvre ([The Shaken Realist: Bernard Williams, the War, and Philosophy as Cultural Critique](#the-shaken-realist-bernard-williams-the-war-and-philosophy-as-cultural-critique); [The Dworkin–Williams Debate](#the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics); [Williams’s Debt to Wittgenstein](#williams-s-debt-to-wittgenstein));
 
 (8) Finally, the significance of history, including philosophy’s own history, to philosophy. I co-edited a volume on philosophy’s relation to history---including its own history---through the lens of Williams's work in and on the history of philosophy ([*Bernard Williams on Philosophy and History* (OUP 2025)](https://doi.org/10.1093/9780191966361.001.0001)), and have repeatedly explored various rationales for engaging with the history of philosophy ([Doing History Philosophically and Philosophy Historically](#doing-history-philosophically-and-philosophy-historically); [Making Past Thinkers Speak to Us Through Pragmatic Genealogies](#making-past-thinkers-speak-to-us-through-pragmatic-genealogies); [Does Philosophy Have a Vindicatory History?](#does-philosophy-have-a-vindicatory-history-bernard-williams-on-the-history-of-philosophy)).
+
+</div>
 
 
 <h2 class="section-list-heading section-list-heading-history">Selected Articles on the History of Philosophy</h2>

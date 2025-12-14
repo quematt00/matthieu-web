@@ -1,5 +1,5 @@
 ---
-title: "Davidsonian Causalism and Wittgensteinian Anti-Causalism: A Rapprochement."
+title: "Davidsonian Causalism and Wittgensteinian Anti-Causalism: A Rapprochement"
 year: "2018"
 tags:
   - "causalism"

@@ -4,7 +4,6 @@ description: "Ethik, Politik, Handlungsfähigkeit und handlungsleitende Begriffe
 layout: "page"
 readingProgress:
   enable: true
-tags: ["ethik", "politik", "normativitaet", "begriffsengineering", "KI", "genealogie"]
 categories: ["Practical Philosophy"]
 ---
 
@@ -44,6 +43,8 @@ hr.section-divider {
 
 ## {{< i18n "section_practical" >}}
 
+<div class="section-hero">
+
 Meine Forschung in der praktischen Philosophie befasst sich mit grundlegenden Fragen nach den Ursprüngen politischer Begriffe wie Eigentum, Gerechtigkeit, Wahrhaftigkeit und Freiheit; damit, wie man mit Wertekonflikten und dem politischen Moralismus umgeht, der ihre Existenz leugnet; und damit, warum öffentlicher Diskurs eine systematischere Form annehmen muss als private Deliberation.
 
 Eine Leitfrage meiner Arbeit lautet: Auf welche praktischen Zwänge und menschlichen Bedürfnisse antworten unsere fundamentalsten Begriffe und Ideale? Diese Frage prägt mein erstes Buch, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), das die praktischen Kräfte rekonstruiert, die die Entwicklung von Ideen zu Eigentum, Gerechtigkeit und Wahrhaftigkeit vorangetrieben haben. Es untersucht außerdem die Entstehung des Begriffs des Wissens und die Probleme epistemischer Ungerechtigkeit, die damit einhergingen. Eine zentrale These des Buches ist, dass das Mittel, Naturzustandserzählungen zu erzählen — ein Markenzeichen der politischen Philosophie der Aufklärung — auch heute legitim eingesetzt werden kann, um sozialhistorisch lokale Phänomene zu erklären, etwa die Gewaltenteilung oder den Aufstieg des Liberalismus. In Zusammenarbeit mit einer Rechtswissenschaftlerin habe ich die daraus resultierende Auffassung historischer Normativität auf kritische Geschichtsschreibungen im Völkerrecht angewandt ([Theorizing the Normative Significance of Critical Histories for International Law](#theorizing-the-normative-significance-of-critical-histories-for-international-law)). Außerdem habe ich zur Legitimität der Patentierung menschlicher Gene gearbeitet ([The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea)) sowie dazu, warum Tadel nicht funktionieren würde, wenn wir ihn rein instrumental verstünden ([The Self-Effacing Functionality of Blame](#the-self-effacing-functionality-of-blame)).
@@ -55,6 +56,8 @@ In einer Reihe von Artikeln, die auf Rousseau, Dworkin, Williams und Shklar zur�
 Im vierjährigen Ambizione-Projekt des Schweizerischen Nationalfonds, das ich geleitet habe, habe ich untersucht, wie die Asystematik normativer Wahrheiten eine Herausforderung für künstliche Intelligenz darstellt ([Can AI Rely on the Systematicity of Truth? The Challenge of Modelling Normative Domains](#can-ai-rely-on-the-systematicity-of-truth-the-challenge-of-modelling-normative-domains)) und was dies für den Einsatz von KI als praktische Beraterin bedeutet ([On the Fundamental Limitations of AI Moral Advisors](#on-the-fundamental-limitations-of-ai-moral-advisors)).
 
 Zudem argumentiere ich, dass ein an Shklar orientierter Liberalismus der Furcht eine besonders relevante Perspektive bietet, um über die Politik der KI nachzudenken ([Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear](#dropping-anchor-in-rough-seas-co-reasoning-with-personalized-ai-advisors-and-the-liberalism-of-fear)). Dieser Forschungsbogen kulminiert in der SNSF Professorship (Starting Grant), die mir zugesprochen wurde und die untersucht, was auf dem Spiel steht, wenn wir über künstliche Kognition nachdenken.
+
+</div>
 
 <h2 class="section-list-heading section-list-heading-practical">Ausgewählte Artikel in der praktischen Philosophie</h2>
 

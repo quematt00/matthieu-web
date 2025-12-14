@@ -1,5 +1,5 @@
 ---
-title: "Two Orders of Things: Wittgenstein on Reasons and Causes."
+title: "Two Orders of Things: Wittgenstein on Reasons and Causes"
 year: "2017"
 tags:
   - "causalite"

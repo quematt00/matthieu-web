@@ -4,7 +4,6 @@ description: "Esprit, langage, concepts et généalogie"
 layout: "page"
 readingProgress:
   enable: true
-tags: ["ia", "systematicite", "explicabilite", "connexionnisme", "ingenierie-conceptuelle", "authority", "fonctions", "Strawson", "genealogie", "paradigmes", "explication"]
 categories: ["Theoretical Philosophy"]
 ---
 
@@ -44,6 +43,8 @@ hr.section-divider {
 
 ## {{< i18n "section_theoretical" >}}
 
+<div class="section-hero">
+
 Ma recherche en philosophie théorique s’articule autour de six thèmes liés : (1) des explications généalogiques de nos concepts cognitifs centraux — vérité, connaissance et compréhension — et de ce qu’ils font pour nous ; (2) le rapport entre raisons et causes, à la fois en épistémologie (justification vs explication causale) et en philosophie de l’action (réconcilier l’agentivité volontaire et la détermination causale de la volonté) ; (3) la rationalité du changement conceptuel et du conceptual engineering ainsi que leur fondement théorique par différentes conceptions des « briques » de la pensée et du sens ; (4) la systématicité de la pensée et les limites de vertus théoriques telles que la précision, la profondeur, la consistance et la cohérence ; (5) la cognition artificielle, notamment la manière de conceptualiser les capacités et les perspectives des large language models à la lumière des points 1–4 ; (6) le rapport de la philosophie aux sciences humaines et sa nature de discipline humaniste.
 
 Mon premier livre, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), développe une méthode de « conceptual reverse-engineering » visant à mettre au jour les défis pratiques à la racine de nos concepts les plus abstraits et les plus insaisissables. À travers des lectures de Nietzsche et de Bernard Williams, le livre explore la généalogie de la notion de vérité et la manière dont des normes d’exactitude et de sincérité ont évolué avec notre capacité de croyance et d’assertion pour devenir des vertus constitutives de la pensée et de la communication. Le livre reconstruit également, à travers des lectures de E. J. Craig et de Miranda Fricker, la généalogie de la connaissance, du témoignage et de l’injustice épistémique, et la réconcilie avec l’épistémologie knowledge-first (voir aussi [Genealogy and Knowledge-First Epistemology: A Mismatch?](#genealogy-and-knowledge-first-epistemology-a-mismatch)). Une série d’articles plus récents sur la compréhension ([Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression)) complète ce travail antérieur sur la généalogie du « mindware » de base structurant pensée et discours.
@@ -57,6 +58,8 @@ J’ai ensuite dirigé un projet Ambizione de quatre ans explorant les rationale
 Un fil conducteur de mon travail est la pertinence des sciences humaines pour la philosophie. Mon premier livre a théorisé la nécessité de cet engagement ; depuis, je l’ai mis en pratique en mobilisant l’anthropologie et l’ethnographie dans mon deuxième livre et en coéditant un volume sur le rapport entre philosophie et histoire, intitulé : [*Bernard Williams on Philosophy and History* (OUP 2025)](https://doi.org/10.1093/9780191966361.001.0001).
 
 Avec la SNSF Starting Grant de cinq ans qui m’a été récemment attribuée, je reconnecte avec mon parcours académique en linguistique cognitive et computationnelle à travers un projet sur la cognition artificielle. En travaillant sur trois études de cas fondamentales — *concept formation*, *understanding* et *reasoning* — le projet vise à dissocier les rôles fonctionnels indispensables de ces concepts de leurs présupposés anthropocentriques. Cela exige de combler l’écart entre la philosophie et le champ émergent de la mechanistic interpretability. Pour un exemple, voir [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models).
+
+</div>
 
 <h2 class="section-list-heading">Articles sélectionnés en philosophie théorique</h2>
 

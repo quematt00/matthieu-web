@@ -4,7 +4,6 @@ description: "Éthique, politique, agentivité et concepts guidant l’action."
 layout: "page"
 readingProgress:
   enable: true
-tags: ["ethique", "politique", "normativite", "ingenierie-conceptuelle", "ia", "genealogie"]
 categories: ["Practical Philosophy"]
 ---
 
@@ -44,6 +43,8 @@ hr.section-divider {
 
 ## {{< i18n "section_practical" >}}
 
+<div class="section-hero">
+
 Mes recherches en philosophie pratique portent sur des questions fondamentales concernant l’origine de concepts politiques comme la propriété, la justice, la véracité et la liberté ; sur la manière de faire face aux conflits de valeurs et au moralisme politique qui en nie l’existence ; et sur les raisons pour lesquelles le discours public doit prendre une forme plus systématique que la délibération privée.
 
 Une question centrale qui anime mon travail est la suivante : à quelles pressions pratiques et à quels besoins humains répondent nos concepts et idéaux les plus fondamentaux ? Cette question traverse mon premier livre, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), qui reconstruit les pressions pratiques ayant conduit au développement d’idées de propriété, de justice et de véracité. Il examine aussi l’émergence du concept de connaissance et les problèmes d’injustice épistémique qu’elle a engendrés. Une thèse majeure du livre est que le dispositif consistant à raconter des récits d’état de nature — marque caractéristique de la philosophie politique des Lumières — peut aussi légitimement être mobilisé aujourd’hui pour expliquer des phénomènes localement situés dans l’histoire sociale, comme la séparation des pouvoirs ou l’essor du libéralisme. En collaboration avec un juriste, j’ai appliqué la conception de la normativité historique qui en résulte à des histoires critiques en droit international ([Theorizing the Normative Significance of Critical Histories for International Law](#theorizing-the-normative-significance-of-critical-histories-for-international-law)). J’ai également travaillé sur la légitimité du brevetage de gènes humains ([The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea)) et sur la raison pour laquelle le blâme ne fonctionnerait pas si nous le concevions en termes purement instrumentaux ([The Self-Effacing Functionality of Blame](#the-self-effacing-functionality-of-blame)).
@@ -55,6 +56,8 @@ Dans une série d’articles s’appuyant sur Rousseau, Dworkin, Williams et Shk
 Dans le projet Ambizione de quatre ans du Fonds national suisse que j’ai dirigé, j’ai étudié la manière dont l’asystématicité des vérités normatives pose un défi à l’intelligence artificielle ([Can AI Rely on the Systematicity of Truth? The Challenge of Modelling Normative Domains](#can-ai-rely-on-the-systematicity-of-truth-the-challenge-of-modelling-normative-domains)) et ce que cela implique pour l’usage de l’IA comme conseillère pratique ([On the Fundamental Limitations of AI Moral Advisors](#on-the-fundamental-limitations-of-ai-moral-advisors)).
 
 J’ai également soutenu qu’un libéralisme de la peur à la manière de Shklar offre une perspective particulièrement pertinente pour penser la politique de l’IA ([Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear](#dropping-anchor-in-rough-seas-co-reasoning-with-personalized-ai-advisors-and-the-liberalism-of-fear)). Cet axe de recherche aboutit à la SNSF Professorship (Starting Grant) qui m’a été attribuée, et qui examine ce qui est en jeu dans la manière dont nous pensons la cognition artificielle.
+
+</div>
 
 <h2 class="section-list-heading section-list-heading-practical">Articles sélectionnés en philosophie pratique</h2>
 

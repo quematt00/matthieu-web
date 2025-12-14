@@ -1,5 +1,5 @@
 ---
-title: "Nietzsche’s Pragmatic Genealogy of Justice."
+title: "Nietzsche’s Pragmatic Genealogy of Justice"
 year: "2016"
 tags:
   - "genealogy"

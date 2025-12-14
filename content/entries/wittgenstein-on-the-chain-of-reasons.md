@@ -1,5 +1,5 @@
 ---
-title: "Wittgenstein on the Chain of Reasons."
+title: "Wittgenstein on the Chain of Reasons"
 year: "2016"
 tags:
   - "action-theory"
@@ -34,6 +34,6 @@ Examines Wittgenstein's conception of reason and rationality through the lens of
 
 <span><i class="fa-solid fa-tags"></i> <a href="/tags/action-theory/">action theory</a>, <a href="/tags/bioethics/">bioethics</a>, <a href="/tags/common-heritage/">common heritage</a>, <a href="/tags/dna/">DNA</a>, <a href="/tags/analytic-philosophy/">analytic philosophy</a>, <a href="/tags/20th-century/">20th century</a></span>
 
-<a class="download-link" href="#" aria-label="PDF coming soon: Wittgenstein on the Chain of Reasons.">
-  <i class="fa-solid fa-download"></i> PDF coming soon
+<a class="download-link" href="https://philarchive.org/archive/QUEWOT" target="_blank" rel="noopener noreferrer" aria-label="Download PDF of Wittgenstein on the Chain of Reasons">
+  <i class="fa-solid fa-download"></i> Download PDF
 </a>

@@ -1,5 +1,5 @@
 ---
-title: "On the Fundamental Limitations of AI Moral Advisors."
+title: "On the Fundamental Limitations of AI Moral Advisors"
 year: "2025"
 tags:
   - "ai"

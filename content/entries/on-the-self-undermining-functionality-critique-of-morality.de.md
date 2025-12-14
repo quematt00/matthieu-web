@@ -1,5 +1,5 @@
 ---
-title: "On the Self-Undermining Functionality Critique of Morality."
+title: "On the Self-Undermining Functionality Critique of Morality"
 year: "2023"
 tags:
   - "funktionalitaet"

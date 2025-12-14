@@ -1,5 +1,5 @@
 ---
-title: "Nietzsche as a Critic of Genealogical Debunking: Making Room for Naturalism without Subversion."
+title: "Nietzsche as a Critic of Genealogical Debunking: Making Room for Naturalism without Subversion"
 year: "2019"
 tags:
   - "genealogical-debunking"

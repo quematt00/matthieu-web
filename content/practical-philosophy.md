@@ -4,7 +4,6 @@ description: "Ethics, politics, agency, and the concepts that steer action."
 layout: "page"
 readingProgress:
   enable: true
-tags: ["ethics", "politics", "normativity", "conceptual engineering", "AI", "genealogy"]
 categories: ["Practical Philosophy"]
 ---
 
@@ -44,6 +43,8 @@ hr.section-divider {
 
 ## {{< i18n "section_practical" >}}
 
+<div class="section-hero">
+
 My research in practical philosophy addresses foundational questions concerning the origins of political concepts like property, justice, truthfulness, and liberty, how to deal with conflicts of values and the political moralism that denies their existence, and why public discourse needs to take a more systematic form than private deliberation.
 
 A key question driving my work is what practical pressures and human needs our most fundamental concepts and ideals answer to. This question animates my first monograph, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), which reconstructs the practical pressures that drove the development of ideas of property, justice, and truthfulness. It also examines the emergence of the concept of knowledge and the problems of epistemic injustice it brought in its wake. A key claim of the book is that the device of telling state-of-nature stories---a hallmark of Enlightenment political philosophy---can also legitimately be used today to explain sociohistorically local phenomena, such as the separation of powers or the rise of liberalism. In collaboration with a legal scholar, I have applied the resulting account of historical normativity to critical histories in international law ([Theorizing the Normative Significance of Critical Histories for International Law
@@ -57,6 +58,8 @@ In a series of articles drawing on Rousseau, Dworkin, Williams, and Shklar, I ha
 In the four-year Ambizione project of the Swiss National Science Foundation I have been leading, I explored how the asystematicity of normative truths poses a challenge for artificial intelligence ([Can AI Rely on the Systematicity of Truth? The Challenge of Modelling Normative Domains](#can-ai-rely-on-the-systematicity-of-truth-the-challenge-of-modelling-normative-domains)), and what this means for the use of AI as a practical advisor ([On the Fundamental Limitations of AI Moral Advisors](#on-the-fundamental-limitations-of-ai-moral-advisors)).
 
 I have also been arguing that a Shklarian liberalism of fear provides an especially relevant perspective from which to think about the politics of AI ([Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear](#dropping-anchor-in-rough-seas-co-reasoning-with-personalized-ai-advisors-and-the-liberalism-of-fear)). This research arc culminates in the SNSF Professorship (Starting Grant) I was awarded, which examines the stakes of how we think about artificial cognition.
+
+</div>
 
 <h2 class="section-list-heading section-list-heading-practical">Selected Articles in Practical Philosophy</h2>
 

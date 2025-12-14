@@ -4,7 +4,6 @@ description: "Geist, Sprache, Begriffe und Genealogie"
 layout: "page"
 readingProgress:
   enable: true
-tags: ["KI", "systematizitaet", "erklaerbarkeit", "konnektionismus", "begriffsengineering", "autoritaet", "funktionen", "Strawson", "genealogie", "paradigmen", "erklaerung"]
 categories: ["Theoretical Philosophy"]
 ---
 
@@ -44,6 +43,8 @@ hr.section-divider {
 
 ## {{< i18n "section_theoretical" >}}
 
+<div class="section-hero">
+
 Meine Forschung in der theoretischen Philosophie konzentriert sich auf sechs miteinander verbundene Themen: (1) genealogische Erklärungen unserer zentralen kognitiven Begriffe — Wahrheit, Wissen und Verständnis — und darauf, was sie für uns leisten; (2) das Verhältnis von Gründen und Ursachen sowohl in der Erkenntnistheorie (Rechtfertigung vs. kausale Erklärung) als auch in der Philosophie des Handelns (die Versöhnung freiwilliger Handlungsfähigkeit mit der kausalen Determination des Willens); (3) die Rationalität begrifflichen Wandels und des conceptual engineering sowie ihre theoretische Fundierung durch unterschiedliche Auffassungen der Bausteine von Denken und Bedeutung; (4) die Systematizität des Denkens und die Grenzen theoretischer Tugenden wie Präzision, Tiefe, Konsistenz und Kohärenz; (5) künstliche Kognition, insbesondere die Frage, wie die Fähigkeiten und Aussichten von large language models im Lichte von 1–4 zu konzeptualisieren sind; (6) das Verhältnis der Philosophie zu den Humanwissenschaften und ihr Charakter als humanistische Disziplin.
 
 Mein erstes Buch, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), entwickelt eine Methode des „conceptual reverse-engineering“, um die praktischen Herausforderungen freizulegen, die den abstraktesten und schwer fassbaren Begriffen zugrunde liegen. Durch Perspektiven aus Nietzsche und Bernard Williams untersucht das Buch die Genealogie des Wahrheitsbegriffs und wie Normen der Genauigkeit und Aufrichtigkeit zusammen mit unserer Fähigkeit zu Glauben und Behaupten entstanden sind und zu prägenden Tugenden von Denken und Kommunikation wurden. Zudem rekonstruiert das Buch, durch Perspektiven aus E. J. Craig und Miranda Fricker, die Genealogie von Wissen, Zeugnis und epistemischer Ungerechtigkeit und versöhnt sie mit der knowledge-first epistemology (siehe auch [Genealogy and Knowledge-First Epistemology: A Mismatch?](#genealogy-and-knowledge-first-epistemology-a-mismatch)). Eine Reihe neuerer Aufsätze zum Verständnis ([Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression)) ergänzt diese frühere Arbeit zur Genealogie des grundlegenden mindware, das Denken und Sprechen strukturiert.
@@ -57,6 +58,8 @@ Anschließend habe ich ein vierjähriges Ambizione-Projekt geleitet, das die Rat
 Ein roter Faden meiner Arbeit ist die Relevanz der Humanwissenschaften für die Philosophie. Mein erstes Buch hat die Notwendigkeit dieses Engagements theoretisch begründet; seitdem habe ich dies praktisch umgesetzt, indem ich in meinem zweiten Buch auf Anthropologie und Ethnographie zurückgreife und indem ich einen Band zur Beziehung zwischen Philosophie und Geschichte herausgegeben habe: [*Bernard Williams on Philosophy and History* (OUP 2025)](https://doi.org/10.1093/9780191966361.001.0001).
 
 Mit der fünfjährigen SNSF-Professur (Starting Grant), die mir kürzlich zugesprochen wurde, knüpfe ich über ein Projekt zur künstlichen Kognition wieder an meinen akademischen Hintergrund in kognitiver und computerlinguistischer Forschung an. Anhand von drei grundlegenden Fallstudien — *concept formation*, *understanding* und *reasoning* — zielt das Projekt darauf, die unverzichtbaren funktionalen Rollen dieser Begriffe von ihren anthropozentrischen Voraussetzungen zu entkoppeln. Dazu muss die Lücke zwischen Philosophie und dem entstehenden Feld der mechanistic interpretability überbrückt werden. Ein Beispiel hierfür ist [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models).
+
+</div>
 
 <h2 class="section-list-heading">Ausgewählte Artikel in der theoretischen Philosophie</h2>
 

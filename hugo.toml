@@ -99,6 +99,11 @@ enableGitInfo = true
   highlightTag = "em"
   absoluteURL = false
 
+# Disable the theme’s “recently updated” block on taxonomy term pages (e.g. tags),
+# which otherwise duplicates the same entries with update dates.
+[params.recentlyUpdated]
+  list = false
+
 # --- MULTILINGUAL ---
 [languages]
   [languages.en]

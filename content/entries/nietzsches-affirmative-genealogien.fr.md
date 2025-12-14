@@ -1,5 +1,5 @@
 ---
-title: "Nietzsches affirmative Genealogien."
+title: "Nietzsches affirmative Genealogien"
 year: "2019"
 tags:
   - "affirmatif"

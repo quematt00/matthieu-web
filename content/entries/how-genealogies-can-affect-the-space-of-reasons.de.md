@@ -1,5 +1,5 @@
 ---
-title: "How Genealogies Can Affect the Space of Reasons."
+title: "How Genealogies Can Affect the Space of Reasons"
 year: "2020"
 tags:
   - "kontinuitaet"

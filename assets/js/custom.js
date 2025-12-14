@@ -113,10 +113,29 @@
     );
   }
 
-  // Animate the language globe toggle on tap/click (works on mobile too).
+  function triggerThemeTapAnimation(themeSwitchEl) {
+    if (prefersReducedMotion()) return;
+    const icon = themeSwitchEl.querySelector?.(".fa-adjust");
+    if (!icon) return;
+    icon.classList.remove("theme-tap");
+    void icon.offsetWidth;
+    icon.classList.add("theme-tap");
+    icon.addEventListener(
+      "animationend",
+      () => {
+        icon.classList.remove("theme-tap");
+      },
+      { once: true }
+    );
+  }
+
+  // Animate header icons on tap/click (works on mobile too).
   document.addEventListener(
     "pointerdown",
     (event) => {
+      const themeSwitch = event.target?.closest?.("#header-mobile .theme-switch");
+      if (themeSwitch) triggerThemeTapAnimation(themeSwitch);
+
       const toggle = event.target?.closest?.(
         "#header-desktop .language-switch > span[role=\"button\"], #header-mobile .language-switch > span[role=\"button\"]"
       );

@@ -38,6 +38,22 @@ body {
     margin-top: 3rem;
 }
 
+/* Section pages: make the long intro text read like hero text */
+.page.single.special .section-hero {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-top: 1.25rem;
+    margin-bottom: 2.25rem;
+}
+
+.page.single.special .section-hero p {
+    margin: 0 0 1.15rem;
+}
+
+.page.single.special .section-hero p:last-child {
+    margin-bottom: 0;
+}
+
 h1, h2, h3, h4, .header-title, .menu-item {
     font-family: 'Lato', sans-serif !important;
 }
@@ -114,6 +130,16 @@ h1, h2, h3, h4, .header-title, .menu-item {
     @keyframes globe-tap-rotate {
         0% { transform: rotate(0deg); }
         100% { transform: rotate(360deg); }
+    }
+
+    /* Theme "moon" icon: rotate on tap (mobile only) */
+    #header-mobile .theme-switch .fa-adjust.theme-tap {
+        animation: theme-tap-rotate 650ms cubic-bezier(0.2, 0.9, 0.2, 1);
+        transform-origin: center;
+    }
+    @keyframes theme-tap-rotate {
+        0% { transform: rotate(225deg) scale(1); }
+        100% { transform: rotate(585deg) scale(1); }
     }
 }
 
@@ -244,15 +270,6 @@ h1, h2, h3, h4, .header-title, .menu-item {
 /* Add breathing room at the bottom of the home page */
 .page.home {
     padding-bottom: 4rem !important;
-}
-
-/* Keep theme-switch icon stable */
-.theme-switch i {
-    transform: rotate(225deg) scale(1);
-    transition: transform 0.3s ease;
-}
-.theme-switch:hover i {
-    transform: rotate(225deg) scale(1.05);
 }
 
 /* -------------------------------------------------- */

@@ -1,0 +1,5 @@
+AI / crawler notes
+
+- Please use the canonical base URL: https://www.matthieuqueloz.com/
+- Sitemap: https://www.matthieuqueloz.com/sitemap.xml
+- See https://www.matthieuqueloz.com/llms.txt for a short map of the site and where publications live.

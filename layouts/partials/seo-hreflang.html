@@ -1,0 +1,13 @@
+{{- /* Emit hreflang alternates for multilingual SEO. */ -}}
+{{- if hugo.IsMultilingual -}}
+  {{- $alts := .AllTranslations -}}
+  {{- if gt (len $alts) 1 -}}
+    {{- range $alts -}}
+      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+    {{- end -}}
+    {{- with (where $alts "Lang" "en") -}}
+      <link rel="alternate" hreflang="x-default" href="{{ (index . 0).Permalink }}">
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+

@@ -1,0 +1,21 @@
+# Matthieu Queloz — publications site
+
+This site contains a portfolio of academic philosophy publications with abstracts and (when available) PDF links.
+
+Canonical base URL: https://www.matthieuqueloz.com/
+
+Languages:
+- English: https://www.matthieuqueloz.com/
+- Français: https://www.matthieuqueloz.com/fr/
+- Deutsch: https://www.matthieuqueloz.com/de/
+
+Key indexes:
+- Sitemap (all pages): https://www.matthieuqueloz.com/sitemap.xml
+- Search index (JSON): https://www.matthieuqueloz.com/search.json
+
+Where to find publications:
+- Entries list (EN): https://www.matthieuqueloz.com/theoretical-philosophy/ , https://www.matthieuqueloz.com/practical-philosophy/ , https://www.matthieuqueloz.com/history-of-philosophy/
+- Individual entries are under: https://www.matthieuqueloz.com/entries/
+
+Metadata:
+- Entry pages include machine-readable citation meta tags and schema.org JSON-LD (ScholarlyArticle).

@@ -4,14 +4,29 @@ theme = "FixIt"
 languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+enableGitInfo = true
 
 # This generates the Search Index (JSON) so the search bar works
 [outputs]
   home = ["HTML", "RSS", "search"]
 
+[frontmatter]
+  lastmod = [":git", ":fileModTime", ":default"]
+
 [params]
   description = "Privatdozent at the University of Bern | Philosophy"
   defaultTheme = "auto" # Auto-detects if user prefers Dark Mode
+
+  [params.author]
+    name = "Matthieu Queloz"
+
+  [params.seo]
+    image = "/images/profile.jpg"
+    thumbnailUrl = "/images/profile.jpg"
+
+  [params.verification]
+    google = "vRFoiSrlv2Qyawk3XSxRe1Am8KNjgQkDYX7Zif1LxUs"
+    bing = "7E455C0626AD962ED9DC87E0562AB725"
 
   # --- HEADER & PROFILE ---
 [params.header]
@@ -223,4 +238,4 @@ defaultContentLanguageInSubdir = false
   tileColor = "#111111"
 
 [params.customPartials]
-  head = ["favicon-fallback.html"]
+  head = ["favicon-fallback.html", "seo-hreflang.html", "seo-identity.html", "seo-publication.html"]

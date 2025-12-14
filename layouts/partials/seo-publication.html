@@ -1,0 +1,155 @@
+{{- /*
+  Adds SEO-friendly scholarly metadata for entry pages:
+  - Google Scholar-style citation meta tags
+  - schema.org JSON-LD (ScholarlyArticle)
+
+  This is intentionally conservative: we only emit for pages in the `entries` section.
+*/ -}}
+
+{{- if and .IsPage (eq .Section "entries") -}}
+  {{- $title := .Title -}}
+  {{- $permalink := .Permalink -}}
+  {{- $lang := .Lang -}}
+  {{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+  {{- $personID := printf "%s/#person" $base -}}
+
+  {{- /* Author(s): prefer explicit frontmatter; fall back to site profile title. */ -}}
+  {{- $primaryAuthor := site.Params.author.name | default site.Params.home.profile.title | default site.Title -}}
+  {{- $authors := slice -}}
+  {{- with .Params.authors -}}
+    {{- if reflect.IsSlice . -}}
+      {{- $authors = . -}}
+    {{- else -}}
+      {{- $authors = slice . -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $authors = slice $primaryAuthor -}}
+    {{- /* Heuristic co-author detection for the common “With/Avec/Mit ….” boilerplate. */ -}}
+    {{- $plain := .Plain -}}
+    {{- $co := "" -}}
+    {{- $m := findRESubmatch "(?m)^With\\s+([^\\.]+)\\." $plain 1 -}}
+    {{- if gt (len $m) 0 -}}
+      {{- $co = index (index $m 0) 1 -}}
+    {{- else -}}
+      {{- $m = findRESubmatch "(?m)^Avec\\s+([^\\.]+)\\." $plain 1 -}}
+      {{- if gt (len $m) 0 -}}
+        {{- $co = index (index $m 0) 1 -}}
+      {{- else -}}
+        {{- $m = findRESubmatch "(?m)^Mit\\s+([^\\.]+)\\." $plain 1 -}}
+        {{- if gt (len $m) 0 -}}
+          {{- $co = index (index $m 0) 1 -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $co -}}
+      {{- $co = replace $co " and " ", " -}}
+      {{- $co = replace $co " et " ", " -}}
+      {{- $co = replace $co " und " ", " -}}
+      {{- range (split $co ",") -}}
+        {{- $name := strings.TrimSpace . -}}
+        {{- if and $name (ne $name $primaryAuthor) -}}
+          {{- $authors = $authors | append $name -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $authors = uniq $authors -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Extract first download-link href (if any) to use as citation_pdf_url when it is a real link. */ -}}
+  {{- $pdfURL := "" -}}
+  {{- $pdfMatches := findRESubmatch "<a\\s+class=\\\"download-link\\\"[^>]*href=\\\"([^\\\"]+)\\\"" .Content 1 -}}
+  {{- if gt (len $pdfMatches) 0 -}}
+    {{- $href := index (index $pdfMatches 0) 1 -}}
+    {{- if and $href (ne $href "#") -}}
+      {{- if strings.HasPrefix $href "http" -}}
+        {{- $pdfURL = $href -}}
+      {{- else -}}
+        {{- $pdfURL = absURL $href -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Extract DOI from content if present (doi.org/... or doi:...). */ -}}
+  {{- $doi := "" -}}
+  {{- $doiMatches := findRESubmatch "doi\\.org/(10\\.[0-9]{4,9}/[^\\s\\\"<]+)" .Content 1 -}}
+  {{- if gt (len $doiMatches) 0 -}}
+    {{- $doi = index (index $doiMatches 0) 1 -}}
+  {{- else -}}
+    {{- $doiMatches2 := findRESubmatch "doi:\\s*(10\\.[0-9]{4,9}/[^\\s\\\"<]+)" .Content 1 -}}
+    {{- if gt (len $doiMatches2) 0 -}}
+      {{- $doi = index (index $doiMatches2 0) 1 -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Year handling: emit a publication date only if we have a 4-digit year. */ -}}
+  {{- $year := printf "%v" (.Params.year | default "") -}}
+  {{- $hasYear := (findRE "^[0-9]{4}$" $year) -}}
+
+  {{- /* Extract a clean description (abstract) for structured data. */ -}}
+  {{- $description := "" -}}
+  {{- if .Description -}}
+    {{- $description = .Description -}}
+  {{- else -}}
+    {{- $plain := replaceRE "\r\n" "\n" .Plain -}}
+    {{- range (split $plain "\n") -}}
+      {{- $line := strings.TrimSpace . -}}
+      {{- if not $description -}}
+        {{- if and $line (not (findRE "^(With|Avec|Mit)\\b" $line)) (not (findRE "(Download PDF|Télécharger le PDF|PDF herunterladen|PDF coming soon|PDF à venir|PDF folgt)" $line)) -}}
+          {{- if le (len (split $line ",")) 4 -}}
+            {{- $description = $line -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $description = ($description | plainify | htmlUnescape | truncate 280) -}}
+
+  <meta name="citation_title" content="{{ $title }}">
+  {{- range $authors -}}
+    <meta name="citation_author" content="{{ . }}">
+  {{- end -}}
+  <meta name="citation_fulltext_html_url" content="{{ $permalink }}">
+  {{- if $pdfURL -}}
+    <meta name="citation_pdf_url" content="{{ $pdfURL }}">
+  {{- end -}}
+  {{- if $doi -}}
+    <meta name="citation_doi" content="{{ $doi }}">
+  {{- end -}}
+  {{- if $hasYear -}}
+    <meta name="citation_publication_date" content="{{ $year }}/01/01">
+  {{- end -}}
+
+  {{- /* schema.org JSON-LD (rendered explicitly; mirrors FixIt’s built-in SEO partial style) */ -}}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "name": {{ $title | jsonify | safeJS }},
+    "headline": {{ $title | jsonify | safeJS }},
+    "url": {{ $permalink | jsonify | safeJS }},
+    "inLanguage": {{ $lang | jsonify | safeJS }},
+    "mainEntityOfPage": {{ $permalink | jsonify | safeJS }},
+    "author": [
+      {{- range $i, $a := $authors -}}
+        {{- if gt $i 0 }},{{ end -}}
+        { "@type": "Person", "name": {{ $a | jsonify | safeJS }}{{- if eq $a $primaryAuthor -}}, "@id": {{ $personID | jsonify | safeJS }}{{- end -}} }
+      {{- end -}}
+    ]
+    {{- with $description -}}
+      , "description": {{ . | jsonify | safeJS }}
+    {{- end -}}
+    {{- if $hasYear -}}
+      , "datePublished": {{ (printf "%s-01-01" $year) | jsonify | safeJS }}
+    {{- end -}}
+    {{- if not .Lastmod.IsZero -}}
+      , "dateModified": {{ .Lastmod.Format "2006-01-02" | jsonify | safeJS }}
+    {{- end -}}
+    {{- if $pdfURL -}}
+      , "encoding": { "@type": "MediaObject", "contentUrl": {{ $pdfURL | jsonify | safeJS }}, "fileFormat": "application/pdf" }
+    {{- end -}}
+    {{- if $doi -}}
+      , "identifier": { "@type": "PropertyValue", "propertyID": "DOI", "value": {{ $doi | jsonify | safeJS }} }
+    {{- end -}}
+  }
+  </script>
+{{- end -}}

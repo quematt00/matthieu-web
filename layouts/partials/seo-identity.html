@@ -1,0 +1,64 @@
+{{- /*
+  Adds stable identity structured data for crawlers:
+  - schema.org Person JSON-LD (with sameAs links)
+
+  Emitted site-wide so crawlers can discover it from any page.
+*/ -}}
+
+{{- $name := site.Params.author.name | default site.Params.home.profile.title | default site.Title -}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $personID := printf "%s/#person" $base -}}
+
+{{- $image := site.Params.home.profile.avatarURL | default site.Params.seo.image | default "" -}}
+{{- if and $image (not (strings.HasPrefix $image "http")) -}}
+  {{- $image = absURL $image -}}
+{{- end -}}
+
+{{- $sameAs := slice -}}
+
+{{- with site.Params.social.ORCID -}}
+  {{- $id := "" -}}
+  {{- if reflect.IsMap . -}}
+    {{- $id = .id | default .Id -}}
+  {{- else -}}
+    {{- $id = . -}}
+  {{- end -}}
+  {{- $id = strings.TrimSpace $id -}}
+  {{- if $id -}}
+    {{- $sameAs = $sameAs | append (printf "https://orcid.org/%s" $id) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- with site.Params.social.Scholar.url -}}
+  {{- $sameAs = $sameAs | append . -}}
+{{- end -}}
+{{- with site.Params.social.PhilPapers.url -}}
+  {{- $sameAs = $sameAs | append . -}}
+{{- end -}}
+
+{{- $sameAs = uniq $sameAs -}}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": {{ $personID | jsonify | safeJS }},
+  "name": {{ $name | jsonify | safeJS }},
+  "url": {{ $base | jsonify | safeJS }}
+  {{- with $image -}}
+    , "image": {{ . | jsonify | safeJS }}
+  {{- end -}}
+  {{- with site.Params.home.profile.subtitle -}}
+    , "affiliation": { "@type": "Organization", "name": {{ . | jsonify | safeJS }} }
+  {{- end -}}
+  {{- if gt (len $sameAs) 0 -}}
+    , "sameAs": [
+      {{- range $i, $u := $sameAs -}}
+        {{- if gt $i 0 }},{{ end -}}
+        {{ $u | jsonify | safeJS }}
+      {{- end -}}
+    ]
+  {{- end -}}
+}
+</script>
+

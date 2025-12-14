@@ -92,8 +92,11 @@ h1, h2, h3, h4, .header-title, .menu-item {
 
 /* Language switcher dropdown alignment and spacing */
 #header-desktop .menu .menu-item.language-switch .sub-menu {
+    list-style: none !important;
     padding: 0.2rem 0 !important;
-    min-width: 8rem !important;
+    padding-left: 0 !important;
+    min-width: 0 !important;
+    width: max-content !important;
 }
 #header-desktop .menu .menu-item.language-switch .sub-menu .menu-item {
     margin: 0 !important;

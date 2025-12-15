@@ -5,6 +5,19 @@ languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableGitInfo = true
+enableRobotsTXT = true
+
+[minify]
+  minifyOutput = true
+  disableHTML = true
+
+[minify.tdewolff.html]
+  keepQuotes = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 # This generates the Search Index (JSON) so the search bar works
 [outputs]
@@ -15,6 +28,7 @@ enableGitInfo = true
 
 [params]
   description = "Privatdozent at the University of Bern | Philosophy"
+  keywords = ["philosophy", "Matthieu Queloz", "University of Bern", "Bern", "ethics", "political philosophy", "Kant"]
   defaultTheme = "auto" # Auto-detects if user prefers Dark Mode
 
   [params.author]
@@ -23,6 +37,9 @@ enableGitInfo = true
   [params.seo]
     image = "/images/profile.jpg"
     thumbnailUrl = "/images/profile.jpg"
+    [params.seo.publisher]
+      name = "Matthieu Queloz"
+      logoUrl = "/images/profile.jpg"
 
   [params.verification]
     google = "vRFoiSrlv2Qyawk3XSxRe1Am8KNjgQkDYX7Zif1LxUs"

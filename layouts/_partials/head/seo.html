@@ -136,12 +136,20 @@
     {{- with .Site.Copyright -}}
       "license": {{ . | safeHTML }},
     {{- end -}}
-    {{- $publisher := $authorName | dict "name" -}}
-    {{- $publisher = $params.seo.publisher | default dict | merge $publisher -}}
+    {{- $publisher := dict "name" $authorName -}}
+    {{- with .Site.Params.seo.publisher -}}
+      {{- $publisher = merge $publisher . -}}
+    {{- end -}}
+    {{- with $params.seo.publisher -}}
+      {{- $publisher = merge $publisher . -}}
+    {{- end -}}
     "publisher": {
       "@type": "Organization",
-      "name": {{ $publisher.name | safeHTML }}
-      {{- $logo := $publisher.logoUrl -}}
+      "name": {{ ($publisher.name | default $authorName) | safeHTML }}
+      {{- $logo := (index $publisher "logoUrl") | default (index $publisher "logourl") | default (index $publisher "logoURL") -}}
+      {{- if not $logo -}}
+        {{- $logo = .Site.Params.seo.image -}}
+      {{- end -}}
       {{- with dict "Path" $logo | partial "function/resource.html" -}}
         ,"logo": {
           "@type": "ImageObject",

@@ -39,13 +39,71 @@ hr.section-divider {
 [data-theme='dark'] hr.section-divider {
   background: rgba(255, 255, 255, 0.12);
 }
+.page.single.special .section-hero p.themes-intro {
+  margin: 0 0 1rem !important;
+}
+.page.single.special .section-hero p.themes-intro + ol {
+  margin-top: 0 !important;
+}
+.page.single.special .section-hero p.themes-intro + ol {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: themes;
+}
+.page.single.special .section-hero p.themes-intro + ol > li {
+  counter-increment: themes;
+  position: relative;
+  padding-left: 2.3rem;
+}
+.page.single.special .section-hero p.themes-intro + ol > li::before {
+  content: counter(themes);
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+  width: 1.45rem;
+  height: 1.45rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-primary);
+  opacity: 0.6;
+  background: rgba(0, 68, 136, 0.06);
+  border: 1px solid rgba(0, 68, 136, 0.14);
+}
+[data-theme='dark'] .page.single.special .section-hero p.themes-intro + ol > li::before {
+  color: #66b2ff;
+  opacity: 0.75;
+  background: rgba(102, 178, 255, 0.1);
+  border-color: rgba(102, 178, 255, 0.2);
+}
+.section-hero > ol {
+  padding-left: 2rem;
+  margin: 0 0 1rem !important;
+}
+.section-hero ol li {
+  margin: 0.35rem 0;
+}
+.section-hero ol li:first-child {
+  margin-top: 0;
+}
 </style>
 
 ## {{< i18n "section_theoretical" >}}
 
 <div class="section-hero">
 
-My research centres on six connected themes: (1) genealogical explanations of our core cognitive concepts—truth, knowledge, and understanding—and what they do for us; (2) the relation between reasons and causes, both in epistemology (justification vs. causal explanation) and in the philosophy of action (reconciling voluntary agency and the causal determination of the will); (3) the rationality of conceptual change and conceptual engineering and their theoretical underpinning by different accounts of the building-blocks of thought and meaning; (4) the systematicity of thought and the limits of theoretical virtues such as precision, depth, consistency, and coherence; (5) artificial cognition, especially how to conceptualize the capacities and prospects of large language models in light of 1–4; (6) philosophy’s relation to the human sciences and its nature as a humanistic discipline.
+<p class="themes-intro">My research centres on six connected themes:</p>
+
+1. **Genealogical explanations of our core cognitive concepts**—*truth*, *knowledge*, and *understanding*—and what they do for us.
+2. **The relation between reasons and causes**, both in epistemology (justification vs. causal explanation) and in the philosophy of action (reconciling voluntary agency and the causal determination of the will).
+3. **The rationality of conceptual change and conceptual engineering** and their theoretical underpinning by different accounts of the building-blocks of thought and meaning.
+4. **The systematicity of thought and the limits of theoretical virtues** such as precision, depth, consistency, and coherence.
+5. **Artificial cognition**, especially how to conceptualize the capacities and prospects of large language models in light of 1–4.
+6. **Philosophy’s relation to the human sciences** and its nature as a humanistic discipline.
 
 My first monograph, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), develops a method of “conceptual reverse-engineering” to uncover the practical challenges at the root of our most abstract and elusive concepts. Through lenses from Nietzsche and Bernard Williams, the book explores the genealogy of the notion of truth and how norms of accuracy and sincerity evolved with our capacity for belief and assertion to become defining virtues of thought and communication. The book also reconstructs, through lenses from E.J. Craig and Miranda Fricker, the genealogy of knowledge, testimony, and epistemic injustice, and reconciles it with knowledge-first epistemology (see also [Genealogy and Knowledge-First Epistemology: A Mismatch?](#genealogy-and-knowledge-first-epistemology-a-mismatch)). A series of more recent papers on understanding ([Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression)) complements this earlier work on the genealogy of the core mindware structuring thought and talk.
 
@@ -70,6 +128,12 @@ With the five-year SNSF Starting Grant I was recently awarded, I am reconnecting
 [From Paradigm-Based Explanation to Pragmatic Genealogy](#from-paradigm-based-explanation-to-pragmatic-genealogy), *Mind*
 
 [Genealogy and Knowledge-First Epistemology: A Mismatch?](#genealogy-and-knowledge-first-epistemology-a-mismatch), *The Philosophical Quarterly*
+
+[The Points of Concepts: Their Types, Tensions, and Connections](#the-points-of-concepts-their-types-tensions-and-connections), *Canadian Journal of Philosophy*
+
+[Davidsonian Causalism and Wittgensteinian Anti-Causalism: A Rapprochement](#davidsonian-causalism-and-wittgensteinian-anti-causalism-a-rapprochement), *Ergo*
+
+[Two Orders of Things: Wittgenstein on Reasons and Causes](#two-orders-of-things-wittgenstein-on-reasons-and-causes), *Philosophy*
 
 [Explainability through Systematicity: The Hard Systematicity Challenge for Artificial Intelligence
 ](#explainability-through-systematicity-the-hard-systematicity-challenge-for-artificial-intelligence), *Minds & Machines*

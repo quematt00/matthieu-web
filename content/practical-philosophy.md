@@ -39,13 +39,69 @@ hr.section-divider {
 [data-theme='dark'] hr.section-divider {
   background: rgba(255, 255, 255, 0.12);
 }
+.section-hero p.themes-intro {
+  margin: 0 0 1rem !important;
+}
+.page.single.special .section-hero p.themes-intro + ol {
+  margin-top: 0 !important;
+  list-style: none;
+  padding-left: 0;
+  counter-reset: themes;
+}
+.page.single.special .section-hero p.themes-intro + ol > li {
+  counter-increment: themes;
+  position: relative;
+  padding-left: 2.3rem;
+}
+.page.single.special .section-hero p.themes-intro + ol > li::before {
+  content: counter(themes);
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+  width: 1.45rem;
+  height: 1.45rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-primary);
+  opacity: 0.6;
+  background: rgba(0, 68, 136, 0.06);
+  border: 1px solid rgba(0, 68, 136, 0.14);
+}
+[data-theme='dark'] .page.single.special .section-hero p.themes-intro + ol > li::before {
+  color: #66b2ff;
+  opacity: 0.75;
+  background: rgba(102, 178, 255, 0.1);
+  border-color: rgba(102, 178, 255, 0.2);
+}
+.section-hero > ol {
+  padding-left: 2rem;
+  margin: 0 0 1rem !important;
+}
+.section-hero ol li {
+  margin: 0.35rem 0;
+}
+.section-hero ol li:first-child {
+  margin-top: 0;
+}
 </style>
 
 ## {{< i18n "section_practical" >}}
 
 <div class="section-hero">
 
-My research in practical philosophy addresses foundational questions concerning the origins of political concepts like property, justice, truthfulness, and liberty, how to deal with conflicts of values and the political moralism that denies their existence, and why public discourse needs to take a more systematic form than private deliberation.
+<p class="themes-intro">My research in practical philosophy revolves around six connected themes:</p>
+
+1. **The origins of political concepts** like property, justice, truthfulness, and liberty.
+2. **How to deal with conflicts of values** and the political moralism that denies their existence.
+3. **The normative significance of history** for our practices and institutions in morality, politics, and international law.
+4. **Responsibility and liability**, and how our conceptions of the psychology of action can be distorted by moral demands.
+5. **The politics of conceptual engineering**, i.e. attempts to assess and improve the repertoire of concepts we live by.
+6. **The value of systematicity** in public discourse, the asystematicity of normative domains, and the tension between them.
 
 A key question driving my work is what practical pressures and human needs our most fundamental concepts and ideals answer to. This question animates my first monograph, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), which reconstructs the practical pressures that drove the development of ideas of property, justice, and truthfulness. It also examines the emergence of the concept of knowledge and the problems of epistemic injustice it brought in its wake. A key claim of the book is that the device of telling state-of-nature stories---a hallmark of Enlightenment political philosophy---can also legitimately be used today to explain sociohistorically local phenomena, such as the separation of powers or the rise of liberalism. In collaboration with a legal scholar, I have applied the resulting account of historical normativity to critical histories in international law ([Theorizing the Normative Significance of Critical Histories for International Law
 ](#theorizing-the-normative-significance-of-critical-histories-for-international-law)). I have also worked on the legitimacy of patenting human genes ([The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea)) and why blame would not work if we thought of it in purely instrumental terms ([The Self-Effacing Functionality of Blame](#the-self-effacing-functionality-of-blame)).

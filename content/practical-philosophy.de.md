@@ -39,13 +39,69 @@ hr.section-divider {
 [data-theme='dark'] hr.section-divider {
   background: rgba(255, 255, 255, 0.12);
 }
+.section-hero p.themes-intro {
+  margin: 0 0 1rem !important;
+}
+.page.single.special .section-hero p.themes-intro + ol {
+  margin-top: 0 !important;
+  list-style: none;
+  padding-left: 0;
+  counter-reset: themes;
+}
+.page.single.special .section-hero p.themes-intro + ol > li {
+  counter-increment: themes;
+  position: relative;
+  padding-left: 2.3rem;
+}
+.page.single.special .section-hero p.themes-intro + ol > li::before {
+  content: counter(themes);
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+  width: 1.45rem;
+  height: 1.45rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-primary);
+  opacity: 0.6;
+  background: rgba(0, 68, 136, 0.06);
+  border: 1px solid rgba(0, 68, 136, 0.14);
+}
+[data-theme='dark'] .page.single.special .section-hero p.themes-intro + ol > li::before {
+  color: #66b2ff;
+  opacity: 0.75;
+  background: rgba(102, 178, 255, 0.1);
+  border-color: rgba(102, 178, 255, 0.2);
+}
+.section-hero > ol {
+  padding-left: 2rem;
+  margin: 0 0 1rem !important;
+}
+.section-hero ol li {
+  margin: 0.35rem 0;
+}
+.section-hero ol li:first-child {
+  margin-top: 0;
+}
 </style>
 
 ## {{< i18n "section_practical" >}}
 
 <div class="section-hero">
 
-Meine Forschung in der praktischen Philosophie befasst sich mit grundlegenden Fragen nach den Ursprüngen politischer Begriffe wie Eigentum, Gerechtigkeit, Wahrhaftigkeit und Freiheit; damit, wie man mit Wertekonflikten und dem politischen Moralismus umgeht, der ihre Existenz leugnet; und damit, warum öffentlicher Diskurs eine systematischere Form annehmen muss als private Deliberation.
+<p class="themes-intro">Meine Forschung in der praktischen Philosophie kreist um sechs miteinander verbundene Themen:</p>
+
+1. **Die Ursprünge politischer Begriffe** wie Eigentum, Gerechtigkeit, Wahrhaftigkeit und Freiheit.
+2. **Der Umgang mit Wertekonflikten** und mit dem politischen Moralismus, der ihre Existenz leugnet.
+3. **Die normative Bedeutung der Geschichte** unserer Praktiken und Institutionen in Moral, Politik und Völkerrecht.
+4. **Verantwortung und Haftung**, und wie unsere Konzeptionen der Handlungspsychologie durch moralische Forderungen verzerrt werden können.
+5. **Die Politik des conceptual engineering**, d. h. Versuche, das Repertoire der Begriffe, nach denen wir leben, zu beurteilen und zu verbessern.
+6. **Der Wert von Systematizität** im öffentlichen Diskurs, die Asystematik normativer Domänen und die Spannung zwischen beiden.
 
 Eine Leitfrage meiner Arbeit lautet: Auf welche praktischen Zwänge und menschlichen Bedürfnisse antworten unsere fundamentalsten Begriffe und Ideale? Diese Frage prägt mein erstes Buch, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), das die praktischen Kräfte rekonstruiert, die die Entwicklung von Ideen zu Eigentum, Gerechtigkeit und Wahrhaftigkeit vorangetrieben haben. Es untersucht außerdem die Entstehung des Begriffs des Wissens und die Probleme epistemischer Ungerechtigkeit, die damit einhergingen. Eine zentrale These des Buches ist, dass das Mittel, Naturzustandserzählungen zu erzählen — ein Markenzeichen der politischen Philosophie der Aufklärung — auch heute legitim eingesetzt werden kann, um sozialhistorisch lokale Phänomene zu erklären, etwa die Gewaltenteilung oder den Aufstieg des Liberalismus. In Zusammenarbeit mit einer Rechtswissenschaftlerin habe ich die daraus resultierende Auffassung historischer Normativität auf kritische Geschichtsschreibungen im Völkerrecht angewandt ([Theorizing the Normative Significance of Critical Histories for International Law](#theorizing-the-normative-significance-of-critical-histories-for-international-law)). Außerdem habe ich zur Legitimität der Patentierung menschlicher Gene gearbeitet ([The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea)) sowie dazu, warum Tadel nicht funktionieren würde, wenn wir ihn rein instrumental verstünden ([The Self-Effacing Functionality of Blame](#the-self-effacing-functionality-of-blame)).
 

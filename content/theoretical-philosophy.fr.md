@@ -39,13 +39,71 @@ hr.section-divider {
 [data-theme='dark'] hr.section-divider {
   background: rgba(255, 255, 255, 0.12);
 }
+.page.single.special .section-hero p.themes-intro {
+  margin: 0 0 1rem !important;
+}
+.page.single.special .section-hero p.themes-intro + ol {
+  margin-top: 0 !important;
+}
+.page.single.special .section-hero p.themes-intro + ol {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: themes;
+}
+.page.single.special .section-hero p.themes-intro + ol > li {
+  counter-increment: themes;
+  position: relative;
+  padding-left: 2.3rem;
+}
+.page.single.special .section-hero p.themes-intro + ol > li::before {
+  content: counter(themes);
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+  width: 1.45rem;
+  height: 1.45rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-primary);
+  opacity: 0.6;
+  background: rgba(0, 68, 136, 0.06);
+  border: 1px solid rgba(0, 68, 136, 0.14);
+}
+[data-theme='dark'] .page.single.special .section-hero p.themes-intro + ol > li::before {
+  color: #66b2ff;
+  opacity: 0.75;
+  background: rgba(102, 178, 255, 0.1);
+  border-color: rgba(102, 178, 255, 0.2);
+}
+.section-hero > ol {
+  padding-left: 2rem;
+  margin: 0 0 1rem !important;
+}
+.section-hero ol li {
+  margin: 0.35rem 0;
+}
+.section-hero ol li:first-child {
+  margin-top: 0;
+}
 </style>
 
 ## {{< i18n "section_theoretical" >}}
 
 <div class="section-hero">
 
-Ma recherche en philosophie théorique s’articule autour de six thèmes liés : (1) des explications généalogiques de nos concepts cognitifs centraux — vérité, connaissance et compréhension — et de ce qu’ils font pour nous ; (2) le rapport entre raisons et causes, à la fois en épistémologie (justification vs explication causale) et en philosophie de l’action (réconcilier l’agentivité volontaire et la détermination causale de la volonté) ; (3) la rationalité du changement conceptuel et du conceptual engineering ainsi que leur fondement théorique par différentes conceptions des « briques » de la pensée et du sens ; (4) la systématicité de la pensée et les limites de vertus théoriques telles que la précision, la profondeur, la consistance et la cohérence ; (5) la cognition artificielle, notamment la manière de conceptualiser les capacités et les perspectives des large language models à la lumière des points 1–4 ; (6) le rapport de la philosophie aux sciences humaines et sa nature de discipline humaniste.
+<p class="themes-intro">Ma recherche en philosophie théorique s’articule autour de six thèmes liés :</p>
+
+1. **Des explications généalogiques de nos concepts cognitifs centraux** — vérité, connaissance et compréhension — et de ce qu’ils font pour nous.
+2. **Le rapport entre raisons et causes**, à la fois en épistémologie (justification vs explication causale) et en philosophie de l’action (réconcilier l’agentivité volontaire et la détermination causale de la volonté).
+3. **La rationalité du changement conceptuel et du conceptual engineering** ainsi que leur fondement théorique par différentes conceptions des « briques » de la pensée et du sens.
+4. **La systématicité de la pensée et les limites de vertus théoriques** telles que la précision, la profondeur, la consistance et la cohérence.
+5. **La cognition artificielle**, notamment la manière de conceptualiser les capacités et les perspectives des large language models à la lumière des points 1–4.
+6. **Le rapport de la philosophie aux sciences humaines** et sa nature de discipline humaniste.
 
 Mon premier livre, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), développe une méthode de « conceptual reverse-engineering » visant à mettre au jour les défis pratiques à la racine de nos concepts les plus abstraits et les plus insaisissables. À travers des lectures de Nietzsche et de Bernard Williams, le livre explore la généalogie de la notion de vérité et la manière dont des normes d’exactitude et de sincérité ont évolué avec notre capacité de croyance et d’assertion pour devenir des vertus constitutives de la pensée et de la communication. Le livre reconstruit également, à travers des lectures de E. J. Craig et de Miranda Fricker, la généalogie de la connaissance, du témoignage et de l’injustice épistémique, et la réconcilie avec l’épistémologie knowledge-first (voir aussi [Genealogy and Knowledge-First Epistemology: A Mismatch?](#genealogy-and-knowledge-first-epistemology-a-mismatch)). Une série d’articles plus récents sur la compréhension ([Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression)) complète ce travail antérieur sur la généalogie du « mindware » de base structurant pensée et discours.
 
@@ -70,6 +128,12 @@ Avec la SNSF Starting Grant de cinq ans qui m’a été récemment attribuée, j
 [From Paradigm-Based Explanation to Pragmatic Genealogy](#from-paradigm-based-explanation-to-pragmatic-genealogy), *Mind*
 
 [Genealogy and Knowledge-First Epistemology: A Mismatch?](#genealogy-and-knowledge-first-epistemology-a-mismatch), *The Philosophical Quarterly*
+
+[The Points of Concepts: Their Types, Tensions, and Connections](#the-points-of-concepts-their-types-tensions-and-connections), *Canadian Journal of Philosophy*
+
+[Davidsonian Causalism and Wittgensteinian Anti-Causalism: A Rapprochement](#davidsonian-causalism-and-wittgensteinian-anti-causalism-a-rapprochement), *Ergo*
+
+[Two Orders of Things: Wittgenstein on Reasons and Causes](#two-orders-of-things-wittgenstein-on-reasons-and-causes), *Philosophy*
 
 [Explainability through Systematicity: The Hard Systematicity Challenge for Artificial Intelligence](#explainability-through-systematicity-the-hard-systematicity-challenge-for-artificial-intelligence), *Minds & Machines*
 

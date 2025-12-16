@@ -26,6 +26,35 @@ hr.section-divider {
 [data-theme='dark'] hr.section-divider {
   background: rgba(255, 255, 255, 0.12);
 }
+
+.page.single #content > ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 1.2rem 0 2rem;
+}
+.page.single #content > ul > li {
+  position: relative;
+  padding-left: 1.4rem;
+}
+.page.single #content > ul > li + li {
+  margin-top: 0.65rem;
+}
+.page.single #content > ul > li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.75em;
+  transform: translateY(-50%);
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 999px;
+  background: rgba(0, 68, 136, 0.28);
+  box-shadow: 0 0 0 1px rgba(0, 68, 136, 0.12);
+}
+[data-theme='dark'] .page.single #content > ul > li::before {
+  background: rgba(102, 178, 255, 0.55);
+  box-shadow: 0 0 0 1px rgba(102, 178, 255, 0.22);
+}
 </style>
 
 ## {{< i18n "section_media" >}}

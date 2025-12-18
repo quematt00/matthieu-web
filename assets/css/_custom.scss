@@ -556,7 +556,7 @@ main {
 
 .book-card {
     display: grid;
-    grid-template-columns: 220px 1fr;
+    grid-template-columns: 240px 1fr;
     gap: 1.3rem;
     align-items: start;
     padding-bottom: 1.5rem;
@@ -564,6 +564,12 @@ main {
     opacity: 0;
     transform: translateY(12px);
     animation: cardFade 0.6s ease forwards;
+}
+
+.book-media {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .book-media img {
@@ -580,9 +586,15 @@ main {
     overflow: visible;
 }
 
-.book-media:hover img {
+.book-media a:hover img {
     transform: translateY(-6px) scale(1.02);
     box-shadow: 0 18px 50px rgba(0, 0, 0, 0.14);
+}
+
+.book-media .book-actions {
+    justify-content: center;
+    width: 100%;
+    margin: 0.65rem 0 0;
 }
 
 .book-body h3 {
@@ -681,13 +693,13 @@ main {
     }
 
     .book-media {
-        max-width: 220px;
+        max-width: 240px;
         margin: 0 auto;
     }
 }
 
 /* Staggered fade for book cards */
-.books-grid .book-card:nth-child(1) { animation-delay: 0.05s; }
+.books-grid .book-card:nth-child(1) { animation-delay: 0.05s; padding-bottom: 2.25rem; }
 .books-grid .book-card:nth-child(2) { animation-delay: 0.12s; }
 .books-grid .book-card:nth-child(3) { animation-delay: 0.19s; }
 
@@ -718,6 +730,76 @@ main {
 }
 .download-link:hover {
     text-decoration: underline;
+}
+
+/* Book card buttons */
+.book-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0.1rem 0 0.85rem;
+}
+
+.book-audio-player {
+    width: 100%;
+    margin-top: 0.6rem;
+}
+
+.book-action-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0;
+    padding: 0.22rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 650;
+    font-size: 0.76rem;
+    line-height: 1;
+    color: var(--color-primary);
+    background-color: rgba(23, 114, 238, 0.06);
+    background-color: color-mix(in srgb, currentColor 6%, transparent);
+    border: 1px solid currentColor;
+    text-decoration: none;
+    -webkit-font-smoothing: antialiased;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    transition:
+        background-color 0.35s ease,
+        box-shadow 0.35s ease,
+        transform 0.35s ease,
+        color 0.35s ease;
+}
+
+.book-action-button i {
+    font-size: 0.9em;
+    position: relative;
+    top: -0.5px;
+    margin-inline-end: 0.2rem;
+}
+
+.book-actions .book-action-button:hover,
+.book-actions .book-action-button:active,
+.book-actions .book-action-button:focus,
+.book-actions .book-action-button:focus-visible {
+    text-decoration: none !important;
+}
+
+.book-actions .book-action-button:hover,
+.book-actions .book-action-button:active,
+.book-actions .book-action-button:focus:not(:focus-visible) {
+    background-color: rgba(23, 114, 238, 0.12);
+    background-color: color-mix(in srgb, currentColor 12%, transparent);
+    box-shadow: none;
+}
+
+.book-actions .book-action-button:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .book-action-button,
+    .book-action-button i {
+        transition: none !important;
+    }
 }
 
 /* Tighter divider spacing after entries */

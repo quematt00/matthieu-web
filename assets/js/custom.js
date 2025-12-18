@@ -96,6 +96,75 @@
     ensureDownloadLinksOpenNewTab(document);
   }
 
+  function setupBookAudioButtons(root) {
+    const buttons = root.querySelectorAll?.("a.book-audio-button") ?? [];
+    if (!buttons.length) return;
+
+    let activePlayer = null;
+
+    function getOrCreatePlayer(bookMediaEl) {
+      let player = bookMediaEl.querySelector?.("audio.book-audio-player");
+      if (player) return player;
+
+      player = document.createElement("audio");
+      player.className = "book-audio-player";
+      player.controls = true;
+      player.preload = "none";
+      player.setAttribute("playsinline", "");
+      player.hidden = true;
+
+      const actions = bookMediaEl.querySelector?.(".book-actions");
+      if (actions && actions.parentElement === bookMediaEl) {
+        actions.insertAdjacentElement("afterend", player);
+      } else {
+        bookMediaEl.appendChild(player);
+      }
+
+      return player;
+    }
+
+    for (const button of buttons) {
+      button.addEventListener("click", (event) => {
+        const href = (button.getAttribute("href") || "").trim();
+        const bookMedia = button.closest?.(".book-media");
+
+        if (!href || !bookMedia) return;
+
+        event.preventDefault();
+
+        const player = getOrCreatePlayer(bookMedia);
+        const src = new URL(href, window.location.href).toString();
+
+        if (activePlayer && activePlayer !== player) {
+          activePlayer.pause();
+          activePlayer.hidden = true;
+        }
+
+        activePlayer = player;
+        player.hidden = false;
+
+        if (player.src !== src) {
+          player.src = src;
+        }
+
+        const shouldPlay = player.paused || player.ended;
+        if (shouldPlay) {
+          player.play().catch(() => {
+            window.location.href = src;
+          });
+        } else {
+          player.pause();
+        }
+      });
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", () => setupBookAudioButtons(document));
+  } else {
+    setupBookAudioButtons(document);
+  }
+
   function triggerGlobeTapAnimation(toggleEl) {
     if (prefersReducedMotion()) return;
     const icon = toggleEl.querySelector?.(".fa-globe");

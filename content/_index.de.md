@@ -15,7 +15,7 @@ readingProgress:
   <div class="hero-text">
     <p class="eyebrow">Willkommen</p>
     <p class="lede">
-      Ich bin Privatdozent an der Universität Bern und Ambizione Fellow des Schweizerischen Nationalfonds. Zuvor war ich drei Jahre lang Junior Research Fellow am Wolfson College, Oxford, und Mitglied der Faculty of Philosophy der University of Oxford. Ab 2027 werde ich eine SNSF Professorship (Starting Grant) innehaben und ein fünfjähriges Projekt zu künstlicher Kognition leiten.
+      Ich bin Privatdozent an der Universität Bern und Ambizione Fellow des Schweizerischen Nationalfonds. Zuvor war ich drei Jahre lang Junior Research Fellow am Wolfson College, Oxford, und Mitglied der Faculty of Philosophy der University of Oxford. Ab 2027 werde ich eine <a href="https://data.snf.ch/grants/grant/234746" target="_blank" rel="noopener noreferrer">SNSF Professorship (Starting Grant)</a> innehaben und ein fünfjähriges Projekt zu künstlicher Kognition leiten.
     </p>
     <p class="lede">
       Ich arbeite am Ursprung und Wert einiger der grundlegendsten Konzepte, die unser Denken strukturieren, etwa Wahrheit, Wissen, Verständnis, Freiwilligkeit und Freiheit. Besonders interessiert mich, wie sich die Genealogie mit der Phänomenologie des Denkens versöhnen lässt und auf welcher Grundlage wir unsere Denkweisen angesichts gesellschaftlicher und technologischer Veränderungen bewerten und weiterentwickeln können. Ich greife dafür auf Ressourcen der theoretischen und praktischen Philosophie zurück, und meine Arbeit ist zudem stark von der Philosophiegeschichte geprägt. 2022 erhielt ich den <a href="https://www.unibas.ch/en/University/About-University/Dies-Academicus/Amerbach-Prize.html">Amerbach Prize</a> der Universität Basel und den <a href="http://lauener-foundation.ch/award.php?aktiv=200000">Lauener Prize for Up-and-Coming Philosophers</a>.
@@ -33,31 +33,42 @@ readingProgress:
 
   <div class="books-grid">
       <article class="book-card">
-      <div class="book-media">
-        <a href="https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198926252.pdf" target="_blank" rel="noopener">
-          <img src="/images/conceptualization.jpg" alt="Cover von The Ethics of Conceptualization">
-        </a>
-      </div>
+	      <div class="book-media">
+	        <a href="https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198926252.pdf" target="_blank" rel="noopener">
+	          <img src="/images/conceptualization.jpg" alt="Cover von The Ethics of Conceptualization">
+	        </a>
+	        <div class="book-actions">
+	          <a class="book-action-button book-audio-button" href="/audio/the-ethics-of-conceptualization-audio-overview-de.m4a" title="Erstellt mit NotebookLM">
+	            <i class="fa-solid fa-headphones"></i> Audio-Überblick
+	          </a>
+	        </div>
+	      </div>
       <div class="book-body">
         <h3>The Ethics of Conceptualization</h3>
         <p class="subtitle">Tailoring Thought and Language to Need</p>
                   <p class="book-meta">Oxford University Press, 2025 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
         <p class="book-abstract">
           Warum sollten wir eine Definition einer anderen vorziehen? Das Buch entwickelt einen Rahmen, um Konzepte anhand der konzeptuellen Bedürfnisse zu beurteilen, die wir erkennen, wenn wir einen Schritt zurücktreten. Es zeigt, dass manchmal vage, sogar widersprüchliche Konzepte genau das sind, was wir brauchen, und erklärt, wie man hilfreiche Klärung von begrifflichem Gerrymandering unterscheidet.
-        </p>
-        <div class="book-reviews">
-          <p class="review-quote">Gegenstand der Bielefeld Masterclass in Philosophy 2024.</p>
-          <p class="review-quote">„Auf welcher Grundlage sollten wir die besten Konzepte auswählen, um unsere Welt und unsere Psychologie zu repräsentieren, unsere ethischen und politischen Ideale zu formulieren? Queloz bietet eine scharfsinnige und umfassende Untersuchung, wie diese Frage beantwortet wurde und werden sollte ... ein wichtiger Beitrag zu einem wachsenden Forschungsprogramm.“ <span class="review-author">— Philip Pettit</span></p>
-          <p class="review-quote">„Eines der anspruchsvollsten und subtilsten Buchprojekte … das in den letzten zehn Jahren erschienen ist ... tritt einen Schritt zurück und kartiert das logische Terrain seines Gegenstands neu … und zeigt zudem eine bemerkenswerte Tiefe des Wissens in vielen Bereichen.“ <span class="review-author">— Jennifer Nado</span></p>
-        </div>
+	        </p>
+	        <div class="book-reviews">
+	          <p class="review-quote">Gegenstand der Bielefeld Masterclass in Philosophy 2024.</p>
+	          <p class="review-quote">Als Beleg vor dem britischen Parlament zitiert (schriftliche Stellungnahme FDO0024).</p>
+	          <p class="review-quote">„Auf welcher Grundlage sollten wir die besten Konzepte auswählen, um unsere Welt und unsere Psychologie zu repräsentieren, unsere ethischen und politischen Ideale zu formulieren? Queloz bietet eine scharfsinnige und umfassende Untersuchung, wie diese Frage beantwortet wurde und werden sollte ... ein wichtiger Beitrag zu einem wachsenden Forschungsprogramm.“ <span class="review-author">— Philip Pettit</span></p>
+	          <p class="review-quote">„Eines der anspruchsvollsten und subtilsten Buchprojekte … das in den letzten zehn Jahren erschienen ist ... tritt einen Schritt zurück und kartiert das logische Terrain seines Gegenstands neu … und zeigt zudem eine bemerkenswerte Tiefe des Wissens in vielen Bereichen.“ <span class="review-author">— Jennifer Nado</span></p>
+	        </div>
       </div>
     </article>
-    <article class="book-card">
-      <div class="book-media">
-        <a href="https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf" target="_blank" rel="noopener">
-          <img src="/images/origins-cover.jpg" alt="Cover von The Practical Origins of Ideas">
-        </a>
-      </div>
+	    <article class="book-card">
+	      <div class="book-media">
+	        <a href="https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf" target="_blank" rel="noopener">
+	          <img src="/images/origins-cover.jpg" alt="Cover von The Practical Origins of Ideas">
+	        </a>
+	        <div class="book-actions">
+	          <a class="book-action-button book-audio-button" href="/audio/the-practical-origins-of-ideas-audio-overview-de.m4a" title="Erstellt mit NotebookLM">
+	            <i class="fa-solid fa-headphones"></i> Audio-Überblick
+	          </a>
+	        </div>
+	      </div>
       <div class="book-body">
        <h3>The Practical Origins of Ideas</h3>
         <p class="subtitle">Genealogy as Conceptual Reverse-Engineering</p>

@@ -45,6 +45,12 @@ enableRobotsTXT = true
     google = "vRFoiSrlv2Qyawk3XSxRe1Am8KNjgQkDYX7Zif1LxUs"
     bing = "7E455C0626AD962ED9DC87E0562AB725"
 
+  [params.analytics]
+    enable = true
+    [params.analytics.google]
+      id = "G-1K5G1HWQK0"
+      anonymizeIP = false
+
   # --- HEADER & PROFILE ---
 [params.header]
   desktopMode = "fixed"

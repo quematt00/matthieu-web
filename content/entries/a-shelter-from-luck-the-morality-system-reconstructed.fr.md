@@ -25,7 +25,7 @@ Dans *Morality and Agency: Themes from Bernard Williams*. András Szigeti et Mat
 
 Propose une synthèse des remarques critiques de Williams sur la morale kantienne ; l’idée clé est que la morale moderne cherche à soustraire la vie à la chance.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/agentivite/">agentivité</a>, <a href="/fr/tags/ethique/">éthique</a>, <a href="/fr/tags/blâme/">blâme</a>, <a href="/fr/tags/chance-morale/">chance morale</a>, <a href="/fr/tags/systeme-de-la-moralite/">système de la moralité</a>, <a href="/fr/tags/volontarite/">volontarite</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/agentivite/">agentivité</a>, <a href="/fr/tags/ethique/">éthique</a>, <a href="/fr/tags/blame/">blâme</a>, <a href="/fr/tags/chance-morale/">chance morale</a>, <a href="/fr/tags/systeme-de-la-moralite/">système de la moralité</a>, <a href="/fr/tags/volontarite/">volontarite</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEASF.pdf" aria-label="Télécharger le PDF de A Shelter from Luck: The Morality System Reconstructed" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

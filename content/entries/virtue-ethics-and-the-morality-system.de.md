@@ -31,7 +31,7 @@ categories:
 
 Zeigt, dass „Moralsysteme“ in Williams’ Sinne nicht auf kantische Ethik beschränkt sind, sondern durch das ordnende Bestreben gekennzeichnet sind, menschliche Handlungsfähigkeit vor Kontingenz zu schützen. Argumentiert, dass dieses Bestreben – und die damit verbundene Neukonzeption der menschlichen Psychologie – bis zum Stoizismus zurückverfolgt werden kann.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/moralisches-glück/">moralisches Glück</a>, <a href="/de/tags/moralsystem/">Moralsystem</a>, <a href="/de/tags/moralpsychologie/">Moralpsychologie</a>, <a href="/de/tags/tadel/">Tadel</a>, <a href="/de/tags/normativitaet/">Normativität</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/moralisches-gluck/">moralisches Glück</a>, <a href="/de/tags/moralsystem/">Moralsystem</a>, <a href="/de/tags/moralpsychologie/">Moralpsychologie</a>, <a href="/de/tags/tadel/">Tadel</a>, <a href="/de/tags/normativitaet/">Normativität</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEVEA.pdf" aria-label="PDF von Virtue Ethics and the Morality System herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

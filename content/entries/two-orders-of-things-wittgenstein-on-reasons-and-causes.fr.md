@@ -27,7 +27,7 @@ categories:
 
 En situant Wittgenstein dans le débat causaliste/anti-causaliste en philosophie de l’esprit, cet article soutient que les arguments de Wittgenstein diffèrent de ceux de ses successeurs immédiats ; qu’il anticipe des tendances anti-psychologistes actuelles ; et qu’il est peut-être plus proche de Davidson que ne le suggèrent les dialectiques historiques.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/theorie-de-l-action/">théorie de l’action</a>, <a href="/fr/tags/action-explication/">action et explication</a>, <a href="/fr/tags/philosophie-analytique/">philosophie analytique</a>, <a href="/fr/tags/raisons-contre-causes/">raisons contre causes</a>, <a href="/fr/tags/philosophie-du-langage/">philosophie du langage</a>, <a href="/fr/tags/20e-siècle/">20e siècle</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/theorie-de-l-action/">théorie de l’action</a>, <a href="/fr/tags/action-explication/">action et explication</a>, <a href="/fr/tags/philosophie-analytique/">philosophie analytique</a>, <a href="/fr/tags/raisons-contre-causes/">raisons contre causes</a>, <a href="/fr/tags/philosophie-du-langage/">philosophie du langage</a>, <a href="/fr/tags/20e-siecle/">20e siècle</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/MATTOO-11.pdf" aria-label="Télécharger le PDF de Two Orders of Things: Wittgenstein on Reasons and Causes." target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

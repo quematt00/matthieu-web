@@ -29,7 +29,7 @@ categories:
 
 Cherche à rapprocher les deux camps dans le débat de longue date entre causalistes davidsoniens et anti‑causalistes wittgensteiniens, en soutenant que les deux parties peuvent s’accorder sur le fait que les raisons ne sont pas des causes, tout en admettant que les explications intentionnelles sont des explications causales.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/raisons-contre-causes/">raisons contre causes</a>, <a href="/fr/tags/action-explication/">action et explication</a>, <a href="/fr/tags/explication/">explication</a>, <a href="/fr/tags/philosophie-analytique/">philosophie analytique</a>, <a href="/fr/tags/20e-siècle/">20e siècle</a>, <a href="/fr/tags/interpretation/">interpretation</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/raisons-contre-causes/">raisons contre causes</a>, <a href="/fr/tags/action-explication/">action et explication</a>, <a href="/fr/tags/explication/">explication</a>, <a href="/fr/tags/philosophie-analytique/">philosophie analytique</a>, <a href="/fr/tags/20e-siecle/">20e siècle</a>, <a href="/fr/tags/interpretation/">interpretation</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEDCA.pdf" aria-label="Télécharger le PDF de Davidsonian Causalism and Wittgensteinian Anti-Causalism: A Rapprochement." target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

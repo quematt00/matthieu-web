@@ -25,7 +25,7 @@ In *Morality and Agency: Themes from Bernard Williams*. András Szigeti und Matt
 
 Bietet eine Synthese von Williams’ kritischen Bemerkungen zur kantischen Moral; die zentrale Idee ist, dass die moderne Moral danach strebt, das Leben vor dem Zufall zu schützen.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/handlungsfaehigkeit/">Handlungsfähigkeit</a>, <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/tadel/">Tadel</a>, <a href="/de/tags/moralisches-glück/">moralisches Glück</a>, <a href="/de/tags/moralsystem/">Moralsystem</a>, <a href="/de/tags/freiwilligkeit/">Freiwilligkeit</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/handlungsfaehigkeit/">Handlungsfähigkeit</a>, <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/tadel/">Tadel</a>, <a href="/de/tags/moralisches-gluck/">moralisches Glück</a>, <a href="/de/tags/moralsystem/">Moralsystem</a>, <a href="/de/tags/freiwilligkeit/">Freiwilligkeit</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEASF.pdf" aria-label="PDF von A Shelter from Luck: The Morality System Reconstructed herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

@@ -27,7 +27,7 @@ categories:
 
 S’appuyant sur divers fragments posthumes, l’article reconstruit la première — et peu connue — généalogie nietzschéenne de la manière dont la valeur de vérité et la culture de la vertu de véracité ne proviennent pas d’un pur amour de la vérité, mais de la nécessité pratique de la coopération sociale.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/genealogique-methode/">méthode généalogique</a>, <a href="/fr/tags/19e-siècle/">19e siècle</a>, <a href="/fr/tags/pragmatique-genealogie/">généalogie pragmatique</a>, <a href="/fr/tags/nietzsche/">Nietzsche</a>, <a href="/fr/tags/philosophie-continentale/">philosophie continentale</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/genealogique-methode/">méthode généalogique</a>, <a href="/fr/tags/19e-siecle/">19e siècle</a>, <a href="/fr/tags/pragmatique-genealogie/">généalogie pragmatique</a>, <a href="/fr/tags/nietzsche/">Nietzsche</a>, <a href="/fr/tags/philosophie-continentale/">philosophie continentale</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUENEG.pdf" aria-label="Télécharger le PDF de Nietzsche’s English Genealogy of Truthfulness." target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

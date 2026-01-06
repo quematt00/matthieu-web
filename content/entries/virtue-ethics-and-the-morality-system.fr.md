@@ -31,7 +31,7 @@ categories:
 
 Montre que les « systèmes de moralité » au sens de Williams ne se limitent pas à l’éthique kantienne, mais se caractérisent par l’ambition organisatrice de soustraire l’agentivité humaine à la contingence. Soutient que cette ambition — et la reconceptualisation de la psychologie humaine sur laquelle elle s’appuie — peut être retracée jusqu’au stoïcisme.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ethique/">éthique</a>, <a href="/fr/tags/chance-morale/">chance morale</a>, <a href="/fr/tags/systeme-de-la-moralite/">système de la moralité</a>, <a href="/fr/tags/psychologie-morale/">psychologie morale</a>, <a href="/fr/tags/blâme/">blâme</a>, <a href="/fr/tags/normativite/">normativité</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ethique/">éthique</a>, <a href="/fr/tags/chance-morale/">chance morale</a>, <a href="/fr/tags/systeme-de-la-moralite/">système de la moralité</a>, <a href="/fr/tags/psychologie-morale/">psychologie morale</a>, <a href="/fr/tags/blame/">blâme</a>, <a href="/fr/tags/normativite/">normativité</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEVEA.pdf" aria-label="Télécharger le PDF de Virtue Ethics and the Morality System" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

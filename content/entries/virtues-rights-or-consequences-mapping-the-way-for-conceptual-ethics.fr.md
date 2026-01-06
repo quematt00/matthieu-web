@@ -24,7 +24,7 @@ categories:
 
 Cartographie les manières dont la réflexion morale et politique sur les concepts à employer peut s’orienter à partir des traditions de l’éthique des vertus, de la déontologie et du conséquentialisme, en signalant les principales difficultés auxquelles chaque approche est confrontée.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ethique-conceptuelle/">éthique conceptuelle</a>, <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/metaethique/">métaéthique</a>, <a href="/fr/tags/psychologie-morale/">psychologie morale</a>, <a href="/fr/tags/philosophie-politique/">philosophie politique</a>, <a href="/fr/tags/éthique-des-vertus/">éthique des vertus</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ethique-conceptuelle/">éthique conceptuelle</a>, <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/metaethique/">métaéthique</a>, <a href="/fr/tags/psychologie-morale/">psychologie morale</a>, <a href="/fr/tags/philosophie-politique/">philosophie politique</a>, <a href="/fr/tags/ethique-des-vertus/">éthique des vertus</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEVRO.pdf" aria-label="Télécharger le PDF de Virtues, Rights, or Consequences? Mapping the Way for Conceptual Ethics" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

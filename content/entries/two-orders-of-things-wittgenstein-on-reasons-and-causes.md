@@ -24,6 +24,7 @@ categories:
 ---
 
 *Philosophy* 92 (3): 369–97. 2017. [doi:10.1017/S0031819117000055](https://doi.org/10.1017/S0031819117000055)
+<!--more-->
 
 Situating Wittgenstein in the causalism/anti-causalism debate in the philosophy of mind, this paper argues that Wittgenstein’s arguments differ from those of his immediate successors; that he anticipates current anti-psychologistic trends; and that he is perhaps closer to Davidson than historical dialectics suggest.
 

@@ -20,6 +20,7 @@ categories:
 ---
 
 *British Journal for the History of Philosophy* 25 (4): 727–49. 2017. [doi:10.1080/09608788.2016.1266462](https://doi.org/10.1080/09608788.2016.1266462)
+<!--more-->
 
 Examine la thèse de Nietzsche selon laquelle l’idéal de justice est un développement politique contingent, n’apparaissant que lorsque des parties d’une puissance à peu près égale ont besoin d’un système d’échange et de rétribution afin d’éviter une destruction mutuelle assurée ; de sorte que l’applicabilité des normes de justice est à l’origine liée à des distributions de pouvoir. Cette perspective reconçoit la justice comme une solution humaine au problème récurrent de l’ordre social. Comprendre ces origines permet de justifier la justice comme une invention indispensable à la vie sociale.
 

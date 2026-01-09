@@ -23,6 +23,7 @@ categories:
 ---
 
 *Philosophy & Technology* 38 (34): 1–27. 2025. [doi:10.1007/s13347-025-00864-x](https://doi.org/10.1007/s13347-025-00864-x)
+<!--more-->
 
 Argues that the asystematicity of normative domains, stemming from the plurality, incompatibility, and incommensurability of values, poses a challenge to AI’s ability to comprehensively model these domains and underscores the indispensable role of human agency in practical deliberation.
 

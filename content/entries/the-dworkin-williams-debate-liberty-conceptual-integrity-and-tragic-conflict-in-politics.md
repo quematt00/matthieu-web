@@ -25,6 +25,7 @@ categories:
 ---
 
 *Philosophy and Phenomenological Research* 109 (1): 3–29. 2024. [doi:10.1111/phpr.13002](http://doi.org/10.1111/phpr.13002)
+<!--more-->
 
 By reconstructing the little-known Dworkin-Williams debate over whether political concepts like liberty and equality can and should be reconciled to avoid conflict, the article explores the nature of political values, the limits of philosophical intervention in politics, the challenge of pluralism, and the conditions for political legitimacy in the face of inevitable conflict and loss.
 

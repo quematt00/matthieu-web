@@ -27,6 +27,7 @@ categories:
 ---
 
 *The Philosophical Quarterly* 75 (3): 1094–1120. 2025. [doi:10.1093/pq/pqae051](http://doi.org/10.1093/pq/pqae051)
+<!--more-->
 
 Soutient que l’internalisme de Bernard Williams à propos des raisons constitue le fondement philosophique de son libéralisme, et qu’il doit être compris en lien avec ses travaux tardifs sur la normativité de l’explication généalogique et sur la stance ethnographique, où nous habitons par l’imagination une perspective conceptuelle et motivationnelle sans l’endosser.
 

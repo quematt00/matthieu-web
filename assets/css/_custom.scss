@@ -187,10 +187,10 @@ h1, h2, h3, h4, .header-title, .menu-item {
     white-space: nowrap !important;
 }
 
-/* extra right padding for the last top-level menu item (Media) */
-#header-desktop .menu > .menu-item > a.menu-link[href="/media/"],
-#header-desktop .menu > .menu-item > a.menu-link[href="/fr/media/"],
-#header-desktop .menu > .menu-item > a.menu-link[href="/de/media/"] {
+/* extra right padding for the last top-level menu item (Bibliography) */
+#header-desktop .menu > .menu-item > a.menu-link[href="/bibliography/"],
+#header-desktop .menu > .menu-item > a.menu-link[href="/fr/bibliography/"],
+#header-desktop .menu > .menu-item > a.menu-link[href="/de/bibliography/"] {
     padding-right: 1.4rem !important;
 }
 

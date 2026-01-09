@@ -26,6 +26,7 @@ categories:
 ---
 
 *Ergo* 5 (6): 153–72. 2018. [doi:10.3998/ergo.12405314.0005.006](https://doi.org/10.3998/ergo.12405314.0005.006)
+<!--more-->
 
 Versucht, die beiden Seiten in der langjährigen Debatte zwischen davidsonianischen Kausalisten und wittgensteinianischen Anti‑Kausalisten einander anzunähern, indem gezeigt wird, dass beide Seiten darin übereinstimmen können, dass Gründe keine Ursachen sind, zugleich aber intentionale Erklärungen kausale Erklärungen sind.
 

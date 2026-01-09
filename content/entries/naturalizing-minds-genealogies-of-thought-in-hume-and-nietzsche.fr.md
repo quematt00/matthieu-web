@@ -23,6 +23,7 @@ categories:
 ---
 
 Dans *Hume and Nietzsche*. Peter Kail et Paolo Stellino (dir.). Oxford: Oxford University Press.
+<!--more-->
 
 Soutient qu’une fois reconnue la forme généalogique du pragmatisme méthodologique de Hume et de Nietzsche, on peut voir comment tous deux évitent des conceptions plus grossières qui identifient le sens, la vérité ou la valeur des choses à leurs effets.
 

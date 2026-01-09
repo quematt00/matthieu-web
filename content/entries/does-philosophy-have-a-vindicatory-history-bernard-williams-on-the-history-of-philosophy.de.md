@@ -19,6 +19,7 @@ categories:
 ---
 
 *Studia Philosophica* 76: 137–52. 2017. [doi:10.24894/StPh-en.2017.76008](https://doi.org/10.24894/StPh-en.2017.76008)
+<!--more-->
 
 Entfaltet Williams’ Vorschlag, dass die Philosophie, wenn sie ihre Geschichte ignoriert, damit voraussetzt, ihre Geschichte sei vindikatorisch. Der Aufsatz will eine fruchtbare Untersuchungslinie zur Frage eröffnen, ob die Philosophie eine vindikatorische Geschichte hat, indem er eine Karte möglicher Antworten entwirft. Zunächst unterscheidet er drei Arten von Geschichte: Entdeckungsgeschichte, Fortschrittsgeschichte und Veränderungsgeschichte. Anschließend legt er nahe, dass große Teile der Philosophie aus Gründen, die ihren Charakter als geisteswissenschaftliche Disziplin widerspiegeln, keine vindikatorische Geschichte besitzen.
 

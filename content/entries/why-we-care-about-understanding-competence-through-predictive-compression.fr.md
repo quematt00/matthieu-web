@@ -21,6 +21,7 @@ categories:
 ---
 
 Avec Pierre Beckmann.
+<!--more-->
 
 Propose une théorie unificatrice de la compréhension en rétro‑ingénierant la fonction à la fois de l’état mental et du concept. Soutient que nous tenons à la compréhension parce qu’elle fonde une compétence robuste. Notre concept de compréhension a évolué comme un proxy efficace pour suivre cette propriété difficile à cerner, ce qui nous permet d’identifier à qui faire confiance et de qui apprendre. Cela met en lumière la dimension sociale de la compréhension et la manière dont elle façonne la compréhension humaine. La compréhension résulte de pressions convergentes à prédire le monde au moyen de modèles cognitifs non seulement exacts, mais aussi suffisamment compressés pour être stockés, démontrés et transmis.
 

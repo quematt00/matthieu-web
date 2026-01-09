@@ -28,6 +28,7 @@ categories:
 ---
 
 *European Journal of Philosophy* 31 (1): 226–247. 2023. Mit Nikhil Krishnan. [doi:10.1111/ejop.12794](http://doi.org/10.1111/ejop.12794)
+<!--more-->
 
 Bietet eine neue Lesart von *Ethics and the Limits of Philosophy*, indem sie die weiter reichenden kulturellen Resonanzen des Buches herausarbeitet. Weit davon entfernt, bloß eine Kritik akademischer Tendenzen zu sein, erweist sich das Buch als eine Auseinandersetzung mit ethischen Fragen, die im Gefolge des Zweiten Weltkriegs besondere Dringlichkeit erhielten: die Primatstellung des Charakters gegenüber der Methode, die Pflicht, Befehlen zu folgen, und die Möglichkeit, Wahrheit, Wahrhaftigkeit und ein sinnvolles Leben zu verbinden.
 

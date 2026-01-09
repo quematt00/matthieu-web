@@ -28,6 +28,7 @@ categories:
 ---
 
 In *Bernard Williams on Law and Jurisprudence: From Agency and Responsibility to Methodology*. Veronica Rodriguez-Blanco, Daniel Peixoto Murata und Julieta Rabanos (Hrsg.). Oxford: Hart. Im Erscheinen. [https://philpapers.org/archive/QUELAA.pdf](https://philpapers.org/archive/QUELAA.pdf)
+<!--more-->
 
 Liest Williams’ „What Has Philosophy to Learn from Tort Law?“ als Radikalisierung von Austins Einsicht, dass das Deliktsrecht der Ort ist, an dem die Begriffe des gesunden Menschenverstands wirklich auf die Probe gestellt werden. Identifiziert sieben Merkmale der Deliktsrechtspraxis, die Begriffe wie Verschulden, Absicht, Fahrlässigkeit und Freiwilligkeit einem außergewöhnlichen Druck aussetzen. Erklärt – im Kontrast zum Strafrecht –, wie Unterschiede in Beweismaßstäben, Fallprofilen und Doktrinen der Gefährdungshaftung sowohl die Stärke als auch die Schwachstellen unserer Begriffe zur Zuschreibung von Verantwortung sichtbar machen.
 

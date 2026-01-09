@@ -20,6 +20,7 @@ categories:
 ---
 
 *The Philosophical Quarterly* 69 (274): 100–120. 2019. [doi:10.1093/pq/pqy041](https://doi.org/10.1093/pq/pqy041)
+<!--more-->
 
 Timothy Williamson’s knowledge-first epistemology holds that the concept of knowledge is primitive and explanatorily fundamental. This seems to leave little room for attempts to give a genealogical explanation of the concept of knowledge, much less ones that explain the formation of the concept of knowledge in terms of the concept of belief, as E.J. Craig does. Yet I argue that Craig’s genealogy of the concept of knowledge not only is compatible with knowledge-first epistemology, but actually lends succour to it.
 

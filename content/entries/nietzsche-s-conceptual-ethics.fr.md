@@ -31,6 +31,7 @@ categories:
 ---
 
 *Inquiry* 66 (7): 1335–1364. Actes de l’International Society of Nietzsche Studies. 2023. [doi:10.1080/0020174X.2022.2164049](http://doi.org/10.1080/0020174X.2022.2164049)
+<!--more-->
 
 Bien que Nietzsche semble recourir à deux modes apparemment contraires d’évaluation des concepts — l’un s’intéresse aux effets des concepts, l’autre à ce que les concepts expriment — cet article propose une conception du caractère expressif des concepts qui unifie ces deux modes et fournit une approche puissante de la réflexion pratique sur les concepts à employer.
 

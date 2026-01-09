@@ -23,6 +23,7 @@ categories:
 ---
 
 *Philosophy & Technology* 38 (71): 1–4. 2025. Invited commentary. [doi:10.1007/s13347-025-00896-3](https://doi.org/10.1007/s13347-025-00896-3)
+<!--more-->
 
 Argues that while the asystematicity of truth militates against the personalization of AI moral advisors, it also imposes limitations on generalist AI moral advisors.
 

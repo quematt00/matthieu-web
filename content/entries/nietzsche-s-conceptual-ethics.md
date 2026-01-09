@@ -31,6 +31,7 @@ categories:
 ---
 
 *Inquiry* 66 (7): 1335–1364. Proceedings of the International Society of Nietzsche Studies. 2023. [doi:10.1080/0020174X.2022.2164049](http://doi.org/10.1080/0020174X.2022.2164049)
+<!--more-->
 
 While Nietzsche appears to engage in two seemingly contrary modes of concept evaluation—one looks to concepts’ effects, the other to what concepts express—this article offers an account of the expressive character of concepts which unifies these two modes and yields a powerful approach to practical reflection on which concepts to use.
 

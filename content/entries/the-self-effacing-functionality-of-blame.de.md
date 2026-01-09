@@ -18,6 +18,7 @@ categories:
 ---
 
 *Philosophical Studies* 178 (4): 1361–1379. 2021. [doi:10.1007/s11098-020-01479-y](http://doi.org/10.1007/s11098-020-01479-y)
+<!--more-->
 
 Führt den Begriff der „selbstverbergenden Funktionalität“ ein, um zwei gegensätzliche Auffassungen des Vorwurfs zu versöhnen. Zwar erfüllt Vorwurf eine wichtige regulative Funktion, doch verlangt gerade diese Funktionalität, dass er durch nicht-instrumentelle moralische Gründe und nicht durch seine Funktionalität gerechtfertigt wird. Dieser Ansatz bewahrt die Einsichten instrumentalistischer Auffassungen und vindiziert zugleich die Autorität unserer moralischen Gründe, Vorwürfe zu erheben.
 

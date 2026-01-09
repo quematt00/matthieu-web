@@ -33,6 +33,7 @@ categories:
 ---
 
 In *Social Functions in Philosophy: Metaphysical, Normative, and Methodological Perspectives*. Rebekka Hufendiek, Daniel James, and Raphael Van Riel (eds.), 200–218. London: Routledge. 2020. [doi:10.4324/9780429435393](https://doi.org/10.4324/9780429435393)
+<!--more-->
 
 This paper argues that state-of-nature stories, read as dynamic models rather than history, can reveal how key normative practices meet collective needs of coordination, conflict-management, and non-domination. Drawing on Hume’s genealogy of justice, Williams’s genealogy of truthfulness, and related work, it shows how concepts like property, knowledge, and testimonial justice underpin social cooperation and political legitimacy. In doing so, it offers social and political philosophers a way to explain both the persistence of ideas and institutions and the grounds on which they can be criticized.
 

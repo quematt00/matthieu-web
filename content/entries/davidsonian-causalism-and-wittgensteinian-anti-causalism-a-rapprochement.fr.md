@@ -26,6 +26,7 @@ categories:
 ---
 
 *Ergo* 5 (6): 153–72. 2018. [doi:10.3998/ergo.12405314.0005.006](https://doi.org/10.3998/ergo.12405314.0005.006)
+<!--more-->
 
 Cherche à rapprocher les deux camps dans le débat de longue date entre causalistes davidsoniens et anti‑causalistes wittgensteiniens, en soutenant que les deux parties peuvent s’accorder sur le fait que les raisons ne sont pas des causes, tout en admettant que les explications intentionnelles sont des explications causales.
 

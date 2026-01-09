@@ -21,6 +21,7 @@ categories:
 ---
 
 Mit Pierre Beckmann.
+<!--more-->
 
 Entwirft eine einheitliche Theorie des Verstehens, indem die Funktion sowohl des Zustands als auch des Begriffs mittels Reverse Engineering rekonstruiert wird. Argumentiert, dass uns Verständnis wichtig ist, weil es robuste Kompetenz begründet. Unser Begriff des Verstehens hat sich als effizientes Proxy entwickelt, um diese schwer fassbare Eigenschaft zu verfolgen, sodass wir erkennen können, wem wir vertrauen und von wem wir lernen sollten. Das macht die Sozialität des Verstehens sichtbar und zeigt, wie sie den Charakter menschlichen Verstehens prägt. Verständnis ist das Ergebnis konvergierender Kräfte, die uns dazu drängen, die Welt mithilfe kognitiver Modelle vorherzusagen, die nicht nur akkurat, sondern auch hinreichend komprimiert sind, um gespeichert, demonstriert und weitergegeben werden zu können.
 

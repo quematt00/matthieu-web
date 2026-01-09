@@ -24,6 +24,7 @@ categories:
 ---
 
 *Archiv für Geschichte der Philosophie* 103 (2): 341–63. 2021. [doi:10.1515/agph-2018-0048](https://doi.org/10.1515/agph-2018-0048)
+<!--more-->
 
 S’appuyant sur divers fragments posthumes, l’article reconstruit la première — et peu connue — généalogie nietzschéenne de la manière dont la valeur de vérité et la culture de la vertu de véracité ne proviennent pas d’un pur amour de la vérité, mais de la nécessité pratique de la coopération sociale.
 

@@ -27,6 +27,7 @@ categories:
 ---
 
 *The Philosophical Quarterly* 75 (3): 1094–1120. 2025. [doi:10.1093/pq/pqae051](http://doi.org/10.1093/pq/pqae051)
+<!--more-->
 
 Argues that Bernard Williams’s internalism about reasons is the philosophical underpinning of his liberalism, and that it needs to be understood in relation to his later work on the normativity of genealogical explanation and the ethnographic stance, where we imaginatively inhabit a conceptual and motivational perspective without endorsing it.
 

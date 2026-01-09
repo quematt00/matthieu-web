@@ -23,6 +23,7 @@ categories:
 ---
 
 *Philosophy & Technology* 38 (34): 1–27. 2025. [doi:10.1007/s13347-025-00864-x](https://doi.org/10.1007/s13347-025-00864-x)
+<!--more-->
 
 Argumentiert, dass die Asystematizität normativer Bereiche, die aus der Pluralität, Unvereinbarkeit und Inkommensurabilität von Werten resultiert, die Fähigkeit der KI herausfordert, diese Bereiche umfassend zu modellieren, und die unverzichtbare Rolle menschlicher Handlungsfähigkeit in der praktischen Deliberation unterstreicht.
 

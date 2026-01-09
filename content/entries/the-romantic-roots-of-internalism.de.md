@@ -13,6 +13,7 @@ categories:
 ---
 
 Mit Nikhil Krishnan.
+<!--more-->
 
 Legt die Verbindungen zwischen dem Gründe‑Internalismus und der romantischen Tradition offen und zeigt, dass Internalismus romantische Ideen nicht bloß in eine technischere Sprache übersetzt, sondern sie transformiert.
 

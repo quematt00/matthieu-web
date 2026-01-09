@@ -27,6 +27,7 @@ categories:
 ---
 
 *The Philosophical Quarterly* 75 (3): 1094–1120. 2025. [doi:10.1093/pq/pqae051](http://doi.org/10.1093/pq/pqae051)
+<!--more-->
 
 Argumentiert, dass Bernard Williams’ Internalismus über Gründe die philosophische Grundlage seines Liberalismus bildet und dass er im Zusammenhang mit seinem späteren Werk zur Normativität genealogischer Erklärung und zur ethnographischen Haltung verstanden werden muss, in der wir uns imaginativ in eine begriffliche und motivationale Perspektive hineinversetzen, ohne sie zu bejahen.
 

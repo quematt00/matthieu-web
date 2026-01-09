@@ -23,6 +23,7 @@ categories:
 ---
 
 *Philosophy & Technology* 38 (71): 1–4. 2025. Commentaire invité. [doi:10.1007/s13347-025-00896-3](https://doi.org/10.1007/s13347-025-00896-3)
+<!--more-->
 
 Soutient que, si l’asystématicité de la vérité milite contre la personnalisation des conseillers moraux fondés sur l’IA, elle impose aussi des limites aux conseillers moraux d’IA généralistes.
 

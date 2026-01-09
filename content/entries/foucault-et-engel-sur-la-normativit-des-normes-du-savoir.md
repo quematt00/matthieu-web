@@ -16,6 +16,7 @@ categories:
 ---
 
 *Dialogue: Revue canadienne de philosophie*
+<!--more-->
 
 After comparing how the relation between normativity, truth, and emancipation is conceived in the works of Michel Foucault and Pascal Engel, this paper critically assesses Engel’s conception of normativity as the foundation of thought, querying the systematicity and solidity of this form of normativity.
 

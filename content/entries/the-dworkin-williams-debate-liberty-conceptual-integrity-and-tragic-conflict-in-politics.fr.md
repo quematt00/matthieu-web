@@ -25,6 +25,7 @@ categories:
 ---
 
 *Philosophy and Phenomenological Research* 109 (1): 3–29. 2024. [doi:10.1111/phpr.13002](http://doi.org/10.1111/phpr.13002)
+<!--more-->
 
 En reconstruisant le peu connu débat Dworkin–Williams sur la question de savoir si des concepts politiques tels que la liberté et l’égalité peuvent et doivent être réconciliés afin d’éviter les conflits, l’article explore la nature des valeurs politiques, les limites de l’intervention philosophique en politique, le défi du pluralisme et les conditions de la légitimité politique face à l’inévitabilité des conflits et des pertes.
 

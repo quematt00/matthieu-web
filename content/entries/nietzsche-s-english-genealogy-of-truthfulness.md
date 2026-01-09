@@ -24,6 +24,7 @@ categories:
 ---
 
 *Archiv für Geschichte der Philosophie* 103 (2): 341–63. 2021. [doi:10.1515/agph-2018-0048](https://doi.org/10.1515/agph-2018-0048)
+<!--more-->
 
 Based on various posthumous fragments, the article reconstructs Nietzsche’s little-known early genealogical account of how the value of truth and the cultivation of the virtue of truthfulness originated not from a pure love of truth, but from the practical necessity of social cooperation.
 

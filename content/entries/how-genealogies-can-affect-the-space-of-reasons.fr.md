@@ -22,6 +22,7 @@ categories:
 ---
 
 *Synthese* 197 (5): 2005–2027. 2020. [doi:10.1007/s11229-018-1777-9](https://doi.org/10.1007/s11229-018-1777-9)
+<!--more-->
 
 On dit souvent que les tentatives de dériver des raisons à partir d’affirmations sur la genèse de quelque chose commettent la « genetic fallacy » : elles confondent genèse et justification. Une manière pour les généalogies de contourner cette objection est de se concentrer sur les origines fonctionnelles des pratiques. Mais cela invite une seconde objection, selon laquelle les tentatives de dériver la fonction actuelle de la fonction originelle souffrent d’un défaut de continuité : les conditions auxquelles quelque chose a répondu à l’origine ne sont plus réunies. Cet article montre comment des généalogies normativement ambitieuses peuvent éviter ces deux écueils.
 

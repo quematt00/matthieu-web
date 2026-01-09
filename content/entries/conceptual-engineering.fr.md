@@ -14,6 +14,7 @@ categories:
 ---
 
 Dans *Metzler Handbuch Analytische Philosophie*. Hans-Johann Glock, Christoph Pfisterer et Stefan Roski (dir.). Stuttgart: Metzler.
+<!--more-->
 
 <span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/philosophie-analytique/">philosophie analytique</a>, <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/changement-conceptuel/">changement conceptuel</a>, <a href="/fr/tags/analyse/">analyse</a>, <a href="/fr/tags/handbuch/">handbuch</a>, <a href="/fr/tags/conceptuel-adaptation/">conceptuel adaptation</a></span>
 

@@ -23,6 +23,7 @@ categories:
 ---
 
 *Philosophy & Technology* 38 (71): 1–4. 2025. Eingeladener Kommentar. [doi:10.1007/s13347-025-00896-3](https://doi.org/10.1007/s13347-025-00896-3)
+<!--more-->
 
 Argumentiert, dass die Asystematizität der Wahrheit zwar gegen die Personalisierung von KI-Moralberatern spricht, aber auch Beschränkungen für generalistische KI-Moralberater mit sich bringt.
 

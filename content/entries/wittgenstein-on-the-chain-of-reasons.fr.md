@@ -29,6 +29,7 @@ categories:
 ---
 
 *Wittgenstein-Studien* 7 (1): 105–30. 2016. [doi:10.1515/witt-2016-0108](https://doi.org/10.1515/witt-2016-0108)
+<!--more-->
 
 Examine la conception wittgensteinienne de la raison et de la rationalité à travers le prisme de sa conception des raisons.
 

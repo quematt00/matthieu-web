@@ -20,6 +20,7 @@ categories:
 ---
 
 *Canadian Journal of Philosophy* 49 (8): 1122–1145. 2019. [doi:10.1080/00455091.2019.1584940](https://doi.org/10.1080/00455091.2019.1584940)
+<!--more-->
 
 Indem er vier Bedeutungen unterscheidet, in denen man sagen kann, dass Begriffe einen „point“ haben, löst dieser Aufsatz die Spannung zwischen dem Anspruch point-basierter Erklärungen, informativ zu sein, und der – für Dummetts Sprachphilosophie, aber auch für die Literatur zu thick concepts zentralen – These, dass die Beherrschung von Begriffen bereits das Erfassen ihres „point“ voraussetzt.
 

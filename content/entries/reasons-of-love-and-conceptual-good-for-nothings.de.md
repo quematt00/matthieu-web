@@ -20,6 +20,7 @@ categories:
 ---
 
 In *Themes from Susan Wolf*. Michael Frauchiger und Markus Stepanians (Hrsg.). Berlin: De Gruyter. Im Erscheinen.
+<!--more-->
 
 Die Berufung auf die Instrumentalität von Begriffen weckt die Sorge, die ‚falsche Art von Gründen‘ zu liefern. Unter Rückgriff auf Susan Wolfs Arbeiten zu ‚Gründen der Liebe‘ argumentiere ich, dass diese Sorge unbegründet ist. Ferner untersuche ich Wolfs Konzept der ‚wertvollen Taugenichtse‘, um zu zeigen, wie nicht-instrumentelle Werte letztlich die Bedeutung von Gründen der Liebe für die Begriffsverwendung untermauern.
 

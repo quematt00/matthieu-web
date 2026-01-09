@@ -19,6 +19,7 @@ categories:
 ---
 
 *Studia Philosophica* 76: 137–52. 2017. [doi:10.24894/StPh-en.2017.76008](https://doi.org/10.24894/StPh-en.2017.76008)
+<!--more-->
 
 Develops Williams’s suggestion that for philosophy to ignore its history is for it to assume that its history is vindicatory. The paper aims to offer a fruitful line of inquiry into the question whether philosophy has a vindicatory history by providing a map of possible answers to it. It first distinguishes three types of history: the history of discovery, the history of progress, and the history of change. It then suggests that much of philosophy lacks a vindicatory history, for reasons that reflect philosophy’s character as a humanistic discipline.
 

@@ -13,6 +13,7 @@ categories:
 ---
 
 With Nikhil Krishnan.
+<!--more-->
 
 Uncovers the links between reasons internalism and the Romantic tradition, and shows that internalism does not merely translate Romantic ideas into more technical language, but transforms them.
 

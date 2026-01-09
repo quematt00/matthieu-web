@@ -24,6 +24,7 @@ categories:
 ---
 
 *Journal of the History of International Law* 24 (4): 561–587. 2022. [doi:10.1163/15718050-12340207](http://doi.org/10.1163/15718050-12340207)
+<!--more-->
 
 Aborde la question de savoir si l’histoire entachée du droit international doit affecter notre évaluation actuelle de celui-ci. Soutient que les histoires critiques tirent leur force de trois manières principales : en subvertissant les revendications historiques qui soutiennent l’autorité d’une pratique ; en décevant les attentes normatives que les lecteurs projettent sur le passé ; et en retraçant les continuités fonctionnelles qui relient les problèmes passés au présent. Ce cadre explique comment l’histoire peut être normativement significative même lorsque son influence directe sur l’argumentation juridique est obscure.
 

@@ -25,6 +25,7 @@ categories:
 ---
 
 *Philosophical Studies* 179 (5): 1591–1620. 2022. [doi:10.1007/s11098-021-01720-2](http://doi.org/10.1007/s11098-021-01720-2)
+<!--more-->
 
 Argumentiert, dass der Begriff des Freiwilligen ein wesentlich oberflächlicher Begriff ist, der wichtige Arbeit leistet, sofern wir nicht versuchen, ihn metaphysisch zu vertiefen, und dass Versuche einer solchen Vertiefung eine problematische Tendenz illustrieren, unser Verständnis des Geistes unter dem Druck moralischer Bestrebungen zu verbiegen.
 

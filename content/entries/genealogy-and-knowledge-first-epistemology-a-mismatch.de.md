@@ -20,6 +20,7 @@ categories:
 ---
 
 *The Philosophical Quarterly* 69 (274): 100–120. 2019. [doi:10.1093/pq/pqy041](https://doi.org/10.1093/pq/pqy041)
+<!--more-->
 
 Timothy Williamsons Knowledge‑First‑Erkenntnistheorie behauptet, dass der Wissensbegriff primitiv und erklärungsmäßig fundamental ist. Das scheint wenig Raum für Versuche zu lassen, eine genealogische Erklärung des Wissensbegriffs zu geben – erst recht nicht für solche, die die Entstehung des Wissensbegriffs, wie bei E. J. Craig, in Begriffen des Glaubensbegriffs erklären. Ich argumentiere jedoch, dass Craigs Genealogie des Wissensbegriffs nicht nur mit der Knowledge‑First‑Erkenntnistheorie vereinbar ist, sondern sie tatsächlich stützt.
 

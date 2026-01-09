@@ -24,6 +24,7 @@ categories:
 ---
 
 *Archiv für Geschichte der Philosophie* 103 (2): 341–63. 2021. [doi:10.1515/agph-2018-0048](https://doi.org/10.1515/agph-2018-0048)
+<!--more-->
 
 Ausgehend von verschiedenen nachgelassenen Fragmenten rekonstruiert der Aufsatz Nietzsches wenig bekannte frühe genealogische Darstellung davon, wie der Wert der Wahrheit und die Kultivierung der Tugend der Wahrhaftigkeit nicht aus einer reinen Liebe zur Wahrheit hervorgegangen sind, sondern aus der praktischen Notwendigkeit sozialer Kooperation.
 

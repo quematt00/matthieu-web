@@ -19,6 +19,7 @@ categories:
 ---
 
 *Australasian Philosophical Review* 3 (3): 305–11. 2019. [doi:10.1080/24740500.2020.1859234](https://doi.org/10.1080/24740500.2020.1859234)
+<!--more-->
 
 Partant du débat sur le « pardon de justice morale » et le pardon « gracieux », cet article examine de façon critique la méthode de Miranda Fricker pour ordonner des conceptions plurielles d’une pratique. Il soutient que la sélection d’un cas paradigmatique, tel que le « pardon de justice morale », n’est pas absolue, mais dépend de l’aspect fonctionnel de la pratique que l’on souhaite expliquer.
 

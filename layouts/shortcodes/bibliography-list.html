@@ -1,0 +1,20 @@
+{{- $pages := where site.RegularPages "Section" "in" (slice "entries" "books") -}}
+{{- $pages = where $pages "Lang" $.Page.Lang -}}
+{{- $numeric := slice -}}
+{{- $nonNumeric := slice -}}
+{{- range $pages -}}
+  {{- $year := printf "%v" (.Params.year | default "") -}}
+  {{- if findRE "^\\d{4}$" $year -}}
+    {{- $numeric = $numeric | append . -}}
+  {{- else -}}
+    {{- $nonNumeric = $nonNumeric | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $numeric = sort $numeric "Params.year" "desc" -}}
+{{- $sorted := $nonNumeric | append $numeric -}}
+
+<ol reversed start="{{ len $sorted }}">
+  {{- range $sorted -}}
+    <li><strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong>{{ .Summary | safeHTML }}</li>
+  {{- end -}}
+</ol>

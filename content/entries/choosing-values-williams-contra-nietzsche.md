@@ -29,6 +29,7 @@ categories:
 ---
 
 *The Philosophical Quarterly* 71 (2): 286–307. 2021. [doi:10.1093/pq/pqaa026](http://doi.org/10.1093/pq/pqaa026)
+<!--more-->
 
 Highlights enduring epistemic and metaphysical difficulties for any project of evaluating and improving the values we live by, including contemporary work in conceptual ethics and engineering, and argues that attempts to sidestep these difficulties fall prey to “Saint-Just’s illusion”—the mistake of believing that a set of values from one political context can be successfully transplanted into a different political context.
 

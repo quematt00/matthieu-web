@@ -26,6 +26,7 @@ categories:
 ---
 
 *Political Philosophy* 1 (2): 432–462. 2024. [doi:10.16995/pp.17532](https://doi.org/10.16995/pp.17532)
+<!--more-->
 
 Argumentiert, dass Moralismus sowohl in der Ethik als auch in der Politik aus einem problematischen Dualismus hervorgeht, der die nützliche Unterscheidung zwischen Moralischem und Nicht‑Moralischem in eine starre Trennlinie verwandelt. Wie der historische Vergleich mit dem antiken griechischen Denken zeigt, verschleiert dies echte Wertkonflikte und wird komplexen politischen Realitäten wie „dirty hands“-Situationen nicht angemessen gerecht.
 

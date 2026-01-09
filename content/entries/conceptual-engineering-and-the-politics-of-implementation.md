@@ -24,6 +24,7 @@ categories:
 ---
 
 *Pacific Philosophical Quarterly* 103 (3): 670–691. 2022. With Friedemann Bieber. [doi:10.1111/papq.12394](http://doi.org/10.1111/papq.12394)
+<!--more-->
 
 Argues that how much control we have over conceptual change is itself something we can control, and while some domains require the institutionalization of the power to enforce conceptual innovations, because there are strong practical pressures to coordinate on a single harmonized technical terminology, there are also liberal and democratic rationales for making conceptual engineering hard to implement by default.
 

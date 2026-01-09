@@ -27,6 +27,7 @@ categories:
 ---
 
 In *Historiography and the Formation of Philosophical Canons*. Sandra Lapointe und Erich Reck (Hrsg.), 171–191. New York: Routledge. 2023. [doi:10.4324/9781003184294-9](https://doi.org/10.4324/9781003184294-9)
+<!--more-->
 
 Anstatt Hobbes und Hume so zu behandeln, als beantworteten sie dieselben Fragen wie wir heute, schlägt dieser Aufsatz vor, von den praktischen Zwangslagen auszugehen, auf die ihre politischen Begriffe in ihrer Zeit reagierten. Humes Darstellung des Eigentums und Hobbes’ Darstellung souveräner Macht werden als historisch lokale, aber strukturell aufschlussreiche Antworten auf Zwangslagen – Konflikt, Sicherheit und Kooperation – rekonstruiert, die unser politisches Leben weiterhin strukturieren.
 

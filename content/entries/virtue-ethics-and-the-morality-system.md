@@ -28,6 +28,7 @@ categories:
 ---
 
 *Topoi* 43 (2): 413–424. 2024. With Marcel van Ackeren. [doi:10.1007/s11245-023-09964-9](https://doi.org/10.1007/s11245-023-09964-9)
+<!--more-->
 
 Shows that “morality systems” in Williams’s sense are not confined to Kantian ethics, but are characterized by the organizing ambition to shelter human agency from contingency. Argues that this ambition and the reconceptualization of human psychology it draws on can be traced back to Stoicism.
 

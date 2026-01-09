@@ -14,6 +14,7 @@ categories:
 ---
 
 With Pierre Beckmann.
+<!--more-->
 
 Argues that the concept of understanding needs to be re-engineered for artificial cognition in a way that is empirically informed by mechanistic interpretability research and theoretically informed by a grasp of the functions of the concept.
 

@@ -31,6 +31,7 @@ categories:
 ---
 
 *Inquiry* 66 (7): 1335–1364. Tagungsband der International Society of Nietzsche Studies. 2023. [doi:10.1080/0020174X.2022.2164049](http://doi.org/10.1080/0020174X.2022.2164049)
+<!--more-->
 
 Obwohl Nietzsche zwei scheinbar gegensätzliche Weisen der Begriffs­bewertung zu verfolgen scheint – die eine richtet sich auf die Wirkungen von Begriffen, die andere auf das, was Begriffe ausdrücken –, entwickelt dieser Aufsatz eine Darstellung des expressiven Charakters von Begriffen, die beide Weisen vereint und einen leistungsfähigen Ansatz für praktische Überlegungen dazu liefert, welche Begriffe zu verwenden sind.
 

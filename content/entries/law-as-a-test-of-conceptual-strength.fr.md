@@ -28,6 +28,7 @@ categories:
 ---
 
 Dans *Bernard Williams on Law and Jurisprudence: From Agency and Responsibility to Methodology*. Veronica Rodriguez-Blanco, Daniel Peixoto Murata et Julieta Rabanos (dir.). Oxford: Hart. Sous presse. [https://philpapers.org/archive/QUELAA.pdf](https://philpapers.org/archive/QUELAA.pdf)
+<!--more-->
 
 Lit « What Has Philosophy to Learn from Tort Law? » de Williams comme une radicalisation de l’intuition d’Austin selon laquelle le droit de la responsabilité civile est le lieu où les concepts du sens commun sont véritablement mis à l’épreuve. Identifie sept caractéristiques du contentieux de la responsabilité civile qui soumettent des notions telles que la faute, l’intention, la négligence et la voluntarité à une pression extraordinaire. Explique, en opposant la responsabilité civile au droit pénal, comment les différences de standards probatoires, de profils d’affaires et de doctrines de responsabilité stricte révèlent à la fois la puissance et les points faibles de nos concepts destinés à suivre la responsabilité.
 

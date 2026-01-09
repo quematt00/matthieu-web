@@ -19,6 +19,7 @@ categories:
 ---
 
 *Canadian Journal of Philosophy* 49 (8): 1122–1145. 2019. [doi:10.1080/00455091.2019.1584940](https://doi.org/10.1080/00455091.2019.1584940)
+<!--more-->
 
 By distinguishing four senses in which concepts might be said to have a “point,” this paper resolves the tension between the ambition of point-based explanations to be informative and the claim—central to Dummett’s philosophy of language, but also to the literature on thick concepts—that mastering concepts already requires grasping their point.
 

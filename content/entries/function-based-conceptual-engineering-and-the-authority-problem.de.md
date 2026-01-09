@@ -25,6 +25,7 @@ categories:
 ---
 
 *Mind* 131 (524): 1247–1278. 2022. [doi:10.1093/mind/fzac028](http://doi.org/10.1093/mind/fzac028)
+<!--more-->
 
 Identifiziert ein zentrales Problem des Conceptual Engineering – das Problem, die Autorität von „engineerten“ Begriffen zu begründen – und argumentiert, dass dieses Problem sich im Allgemeinen nicht durch den Verweis auf größere Präzision, Konsistenz oder andere theoretische Tugenden lösen lässt. Eine Lösung erfordert, dass Conceptual Engineering eine funktionale Wende vollzieht und die Funktionen von Begriffen in den Blick nimmt. Das hilft zudem, strawsonsche Sorgen über Themenwechsel zu entschärfen.
 

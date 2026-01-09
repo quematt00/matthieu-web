@@ -28,6 +28,7 @@ categories:
 ---
 
 *The Monist* 105 (4): 435–51. By invitation. 2022. [doi:10.1093/monist/onac010](http://doi.org/10.1093/monist/onac010)
+<!--more-->
 
 Argues that genealogical explanations can be used to evaluate and improve conceptual practices, taking as an example the demand for conceptual innovation around notions of legitimacy created by the increasing power of international institutions.
 

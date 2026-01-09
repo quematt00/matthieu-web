@@ -18,6 +18,7 @@ categories:
 ---
 
 *Philosophical Studies* 178 (4): 1361–1379. 2021. [doi:10.1007/s11098-020-01479-y](http://doi.org/10.1007/s11098-020-01479-y)
+<!--more-->
 
 Introduces the concept of “self-effacing functionality” to reconcile two opposing views on blame. While blame serves an important regulatory function, this very functionality requires that it be justified by non-instrumental moral reasons rather than by its functionality. This approach preserves the insights of instrumentalist accounts while vindicating the authority of our moral reasons for blame.
 

@@ -28,6 +28,7 @@ categories:
 ---
 
 In *Historiography and the Formation of Philosophical Canons*. Sandra Lapointe and Erich Reck (eds.), 171–191. New York: Routledge. 2023. [doi:10.4324/9781003184294-9](https://doi.org/10.4324/9781003184294-9)
+<!--more-->
 
 Instead of treating Hobbes and Hume as answering the same questions we ask today, this article proposes that we start from the practical predicaments their political concepts addressed in their own time. Hume’s account of property and Hobbes’s account of sovereign power are reconstructed as historically local, yet structurally revealing, responses to predicaments—over conflict, security, and cooperation—that still structure our political life.
 

@@ -21,6 +21,7 @@ categories:
 ---
 
 *Studia Philosophica: The Swiss Journal of Philosophy* 83 (1): 9–22. 2024. [doi:10.24894/StPh-en.2024.83002](https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/media/3249A5E5CE2FB5CFC227875B32C3A27A/10_24894_StPh-en_2024_83002_49475.pdf)
+<!--more-->
 
 Skizziert die Weisen, in denen moralische und politische Reflexion darüber, welche Begriffe zu verwenden sind, sich an tugendethischen, deontologischen und konsequentialistischen Traditionen orientieren kann, und markiert die wichtigsten Schwierigkeiten, denen jede Herangehensweise gegenübersteht.
 

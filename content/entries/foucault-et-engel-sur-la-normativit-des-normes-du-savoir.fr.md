@@ -16,6 +16,7 @@ categories:
 ---
 
 *Dialogue: Revue canadienne de philosophie*
+<!--more-->
 
 Après avoir comparé la manière dont la relation entre normativité, vérité et émancipation est conçue dans les œuvres de Michel Foucault et de Pascal Engel, l’article évalue de manière critique la conception engelienne de la normativité comme fondement de la pensée, en mettant en question la systématicité et la solidité de cette forme de normativité.
 

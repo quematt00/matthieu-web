@@ -24,6 +24,7 @@ categories:
 ---
 
 *Midwest Studies in Philosophy* 47 (1): 195–225. By invitation. 2023. [doi:10.5840/msp2023111347](https://doi.org/10.5840/msp2023111347)
+<!--more-->
 
 Argues that the debunking of concepts should extend beyond assessing their epistemological merits to include their evaluation on moral, social, and political grounds, based on their societal functions and effects.
 

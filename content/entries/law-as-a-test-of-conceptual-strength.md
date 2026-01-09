@@ -29,6 +29,7 @@ categories:
 ---
 
 In *Bernard Williams on Law and Jurisprudence: From Agency and Responsibility to Methodology*. Veronica Rodriguez-Blanco, Daniel Peixoto Murata and Julieta Rabanos (eds.). Oxford: Hart. In Press. [https://philpapers.org/archive/QUELAA.pdf](https://philpapers.org/archive/QUELAA.pdf)
+<!--more-->
 
 Reads Williams’s “What Has Philosophy to Learn from Tort Law?” as a radicalization of Austin’s insight that tort law is where the concepts of common sense are truly put on trial. Identifies seven features of tort litigation that subject notions like fault, intention, negligence, and voluntariness to extraordinary pressure. Explains, by contrasting tort law with criminal law,  how differences in evidential standards, case profiles, and doctrines of strict liability display both the power and the weak points of our responsibility-tracking concepts.
 

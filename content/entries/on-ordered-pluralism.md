@@ -19,6 +19,7 @@ categories:
 ---
 
 *Australasian Philosophical Review* 3 (3): 305–11. 2019. [doi:10.1080/24740500.2020.1859234](https://doi.org/10.1080/24740500.2020.1859234)
+<!--more-->
 
 Beginning with the debate concerning “moral justice forgiveness” and “gifted” forgiveness, this paper critically examines Miranda Fricker’s method for ordering plural conceptions of a practice. It argues that the selection of a paradigm case, such as “moral justice forgiveness,” is not absolute, but depends on which functional aspect of the practice one wishes to explain.
 

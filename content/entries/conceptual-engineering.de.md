@@ -14,6 +14,7 @@ categories:
 ---
 
 In *Metzler Handbuch Analytische Philosophie*. Hans-Johann Glock, Christoph Pfisterer und Stefan Roski (Hrsg.). Stuttgart: Metzler.
+<!--more-->
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/analytische-philosophie/">analytische Philosophie</a>, <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/begriffswandel/">Begriffswandel</a>, <a href="/de/tags/analyse/">Analyse</a>, <a href="/de/tags/handbuch/">Handbuch</a>, <a href="/de/tags/begriffsanpassung/">Begriffsanpassung</a></span>
 

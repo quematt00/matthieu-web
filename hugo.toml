@@ -179,6 +179,11 @@ enableRobotsTXT = true
     name = "Media"
     url = "/media/"
     weight = 4
+  [[languages.en.menu.main]]
+    identifier = "bibliography"
+    name = "Bibliography"
+    url = "/bibliography/"
+    weight = 5
 
 [languages.fr.menu]
   [[languages.fr.menu.main]]
@@ -201,6 +206,11 @@ enableRobotsTXT = true
     name = "Médias"
     url = "/media/"
     weight = 4
+  [[languages.fr.menu.main]]
+    identifier = "bibliography"
+    name = "Bibliographie"
+    url = "/bibliography/"
+    weight = 5
 
 [languages.de.menu]
   [[languages.de.menu.main]]
@@ -223,6 +233,11 @@ enableRobotsTXT = true
     name = "Medien"
     url = "/media/"
     weight = 4
+  [[languages.de.menu.main]]
+    identifier = "bibliography"
+    name = "Bibliographie"
+    url = "/bibliography/"
+    weight = 5
 
 # --- THE MENU ---
 # Logic: These link to "Categories". Hugo automatically lists all papers 
@@ -252,6 +267,11 @@ enableRobotsTXT = true
     name = "Media"
     url = "/media/"
     weight = 4
+  [[menu.main]]
+    identifier = "bibliography"
+    name = "Bibliography"
+    url = "/bibliography/"
+    weight = 5
 
     [markup]
   [markup.goldmark]

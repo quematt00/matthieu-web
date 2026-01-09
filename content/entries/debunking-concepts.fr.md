@@ -24,6 +24,7 @@ categories:
 ---
 
 *Midwest Studies in Philosophy* 47 (1): 195–225. Sur invitation. 2023. [doi:10.5840/msp2023111347](https://doi.org/10.5840/msp2023111347)
+<!--more-->
 
 Soutient que la démystification des concepts doit dépasser l’évaluation de leurs mérites épistémologiques pour inclure leur évaluation sur des bases morales, sociales et politiques, à partir de leurs fonctions et effets sociétaux.
 

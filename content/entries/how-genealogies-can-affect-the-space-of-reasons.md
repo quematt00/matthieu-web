@@ -22,6 +22,7 @@ categories:
 ---
 
 *Synthese* 197 (5): 2005–2027. 2020. [doi:10.1007/s11229-018-1777-9](https://doi.org/10.1007/s11229-018-1777-9)
+<!--more-->
 
 Attempts to derive reasons from claims about the genesis of something are often said to commit the genetic fallacy—they conflate genesis and justification. One way for genealogies to side-step this objection is to focus on the functional origins of practices. But this invites a second objection, which maintains that attempts to derive current from original function suffer from continuity failure—the conditions in response to which something originated no longer obtain. This paper shows how normatively ambitious genealogies can steer clear of both problems.
 

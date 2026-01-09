@@ -18,6 +18,7 @@ categories:
 ---
 
 R&R à *Philosophical Studies*.
+<!--more-->
 
 L’article propose une analyse des « besoins de l’esprit » en termes d’une normativité proprement aptique — une normativité de convenance. Après avoir reconstruit l’histoire des différentes conceptions des besoins et leur progressive subjectivisation, l’article se concentre sur les besoins conceptuels et soutient qu’ils enregistrent une privation cognitive qui dépasse une simple pénurie de mots : ils signalent un décalage entre notre répertoire conceptuel et notre situation, qui réoriente l’ingénierie conceptuelle d’une amélioration détachée vers une adaptation située. Cela rend une approche needs‑first particulièrement apte à guider l’adaptation conceptuelle en période de disruption technologique.
 

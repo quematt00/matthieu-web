@@ -96,7 +96,7 @@ hr.section-divider {
 
 <div class="section-hero">
 
-<p class="themes-intro">Ma recherche en philosophie théorique s’articule autour de six thèmes liés :</p>
+<p class="themes-intro">Ma recherche en philosophie théorique se concentre sur six thèmes liés :</p>
 
 1. **Des explications généalogiques de nos concepts cognitifs centraux** — vérité, connaissance et compréhension — et de ce qu’ils font pour nous.
 2. **Le rapport entre raisons et causes**, à la fois en épistémologie (justification vs explication causale) et en philosophie de l’action (réconcilier l’agentivité volontaire et la détermination causale de la volonté).

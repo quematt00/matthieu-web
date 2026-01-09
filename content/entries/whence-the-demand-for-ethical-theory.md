@@ -21,6 +21,7 @@ categories:
 ---
 
 *American Philosophical Quarterly* 58 (2): 135–46. 2021. [doi:10.2307/48614001](https://doi.org/10.2307/48614001)
+<!--more-->
 
 Offers a practical derivation of the need for public and judicial reasoning to take a more discursive and consistent form than private deliberation (a theme more fully explored in ch. 10 of my second book).
 

@@ -20,6 +20,7 @@ categories:
 ---
 
 In *Themes from Susan Wolf*. Michael Frauchiger and Markus Stepanians (eds.). Berlin: De Gruyter. In Press.
+<!--more-->
 
 Appealing to the instrumentality of concepts raises the worry of yielding the "wrong kind of reasons." Drawing on Susan Wolf’s work on "reasons of love," I argue this worry is misplaced. I further explore Wolf’s notion of "valuable good-for-nothings" to demonstrate how non-instrumental values ultimately reinforce the importance of reasons of love in concept use.
 

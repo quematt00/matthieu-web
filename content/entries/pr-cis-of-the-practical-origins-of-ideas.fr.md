@@ -25,6 +25,7 @@ categories:
 ---
 
 *Analysis* 84 (2): 341–344. 2024. Symposium sur mon *The Practical Origins of Ideas*. Sur invitation. [doi:10.1093/analys/anad011](https://doi.org/10.1093/analys/anad011)
+<!--more-->
 
 Résume mon livre à l’occasion d’un symposium dans *Analysis*.
 

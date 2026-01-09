@@ -96,7 +96,7 @@ hr.section-divider {
 
 <div class="section-hero">
 
-<p class="themes-intro">My research centres on six connected themes:</p>
+<p class="themes-intro">My research in theoretical philosophy centres on six connected themes:</p>
 
 1. **Genealogical explanations of our core cognitive concepts**—*truth*, *knowledge*, and *understanding*—and what they do for us.
 2. **The relation between reasons and causes**, both in epistemology (justification vs. causal explanation) and in the philosophy of action (reconciling voluntary agency and the causal determination of the will).

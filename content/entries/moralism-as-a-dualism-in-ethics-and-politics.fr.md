@@ -26,6 +26,7 @@ categories:
 ---
 
 *Political Philosophy* 1 (2): 432–462. 2024. [doi:10.16995/pp.17532](https://doi.org/10.16995/pp.17532)
+<!--more-->
 
 Soutient que tant le moralisme en éthique que le moralisme politique prennent leur origine dans un dualisme problématique qui transforme la distinction utile entre le moral et le non‑moral en une séparation rigide. Comme le montre la comparaison historique avec la pensée grecque antique, cela obscurcit de véritables conflits de valeurs et ne parvient pas à traiter adéquatement des réalités politiques complexes telles que les situations de « mains sales ».
 

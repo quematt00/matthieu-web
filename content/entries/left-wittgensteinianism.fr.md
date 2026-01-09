@@ -25,6 +25,7 @@ categories:
 ---
 
 *European Journal of Philosophy* 29 (4): 758–77. 2021. [doi:10.1111/ejop.12603](http://doi.org/10.1111/ejop.12603)
+<!--more-->
 
 En se concentrant sur les pratiques conceptuelles sociales et politiques que Wittgenstein a négligées, l’article propose une interprétation nouvelle, plus dynamique, de son modèle du changement conceptuel, selon laquelle le changement conceptuel devient intelligible non seulement comme une imposition brute et exogène au discours rationnel, mais comme endogène et guidée par des raisons. Cela contrecarre les tendances socialement conservatrices des interprétations existantes et rend intelligible la possibilité d’une critique radicale au sein d’un cadre wittgensteinien.
 

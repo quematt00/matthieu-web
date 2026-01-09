@@ -96,7 +96,7 @@ hr.section-divider {
 
 <div class="section-hero">
 
-<p class="themes-intro">Meine Forschung in der theoretischen Philosophie konzentriert sich auf sechs miteinander verbundene Themen:</p>
+<p class="themes-intro">Meine Forschung in der theoretischen Philosophie konzentriert sich auf sechs zusammenhängende Themen:</p>
 
 1. **Genealogische Erklärungen unserer zentralen kognitiven Begriffe** — Wahrheit, Wissen und Verständnis — und darauf, was sie für uns leisten.
 2. **Das Verhältnis von Gründen und Ursachen** sowohl in der Erkenntnistheorie (Rechtfertigung vs. kausale Erklärung) als auch in der Handlungstheorie (die Versöhnung freiwilliger Handlungsfähigkeit mit der kausalen Determination des Willens).

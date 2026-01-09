@@ -22,6 +22,7 @@ categories:
 ---
 
 *The Journal of Political Philosophy* 24 (1): 47–66. 2016. [doi:10.1111/jopp.12063](https://doi.org/10.1111/jopp.12063)
+<!--more-->
 
 Behandelt den politischen und rechtlichen Konflikt um die Patentierung von Genen, indem die einflussreiche Idee neu bewertet wird, dass das menschliche Genom das „gemeinsame Erbe der Menschheit“ sei. Argumentiert, dass das menschliche Genom am besten nicht als eine Form gemeinsamen Eigentums, sondern als ein Informationsspeicher zu verstehen ist, zu dem wir in einem treuhänderischen Verhältnis stehen, das Pflichten der Bewahrung und des Zugangs begründet. Diese „bewahrungsorientierte Erbe-Idee“ löst den Konflikt mit der Patentierung von Genen selbst weitgehend auf, zeigt jedoch zugleich, wie jüngere Gerichtsentscheidungen weiterhin Raum für die Patentierung kommerziell relevanter Moleküle lassen, die aus menschlicher DNA abgeleitet sind.
 

@@ -16,6 +16,7 @@ categories:
 ---
 
 *Dialogue: Revue canadienne de philosophie*
+<!--more-->
 
 Nach einem Vergleich der Auffassungen des Verhältnisses von Normativität, Wahrheit und Emanzipation bei Michel Foucault und Pascal Engel unterzieht der Aufsatz Engels Konzeption der Normativität als Fundament des Denkens einer kritischen Prüfung und hinterfragt die Systematizität und Tragfähigkeit dieser Form von Normativität.
 

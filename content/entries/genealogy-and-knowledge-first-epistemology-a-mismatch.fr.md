@@ -20,6 +20,7 @@ categories:
 ---
 
 *The Philosophical Quarterly* 69 (274): 100–120. 2019. [doi:10.1093/pq/pqy041](https://doi.org/10.1093/pq/pqy041)
+<!--more-->
 
 L’épistémologie knowledge‑first de Timothy Williamson soutient que le concept de connaissance est primitif et explicativement fondamental. Cela semble laisser peu de place aux tentatives de fournir une explication généalogique du concept de connaissance — a fortiori à celles qui, comme chez E. J. Craig, expliquent la formation du concept de connaissance à partir du concept de croyance. Pourtant, je soutiens que la généalogie craigienne du concept de connaissance n’est pas seulement compatible avec l’épistémologie knowledge‑first, mais qu’elle lui apporte en réalité un soutien.
 

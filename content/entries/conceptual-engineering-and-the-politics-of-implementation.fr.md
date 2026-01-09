@@ -24,6 +24,7 @@ categories:
 ---
 
 *Pacific Philosophical Quarterly* 103 (3): 670–691. 2022. Avec Friedemann Bieber. [doi:10.1111/papq.12394](http://doi.org/10.1111/papq.12394)
+<!--more-->
 
 Soutient que l’ampleur du contrôle que nous exerçons sur le changement conceptuel est elle‑même quelque chose que nous pouvons contrôler. Et si certains domaines requièrent l’institutionnalisation du pouvoir d’imposer des innovations conceptuelles — parce qu’il existe de fortes pressions pratiques à se coordonner sur une terminologie technique unique et harmonisée — il existe aussi des raisons libérales et démocratiques de faire en sorte que, par défaut, l’ingénierie conceptuelle soit difficile à mettre en œuvre.
 

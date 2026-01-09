@@ -22,6 +22,7 @@ categories:
 ---
 
 *Philosophers’ Imprint* 18 (17): 1–20. 2018. [doi:2027/spo.3521354.0018.017](https://doi.org/2027/spo.3521354.0018.017)
+<!--more-->
 
 Reconstructs Williams’s genealogical investigation into the social function of the norms of truthfulness and brings out its social and political implications. Develops an understanding of this “pragmatic” form of the genealogical method which reveals it to be uniquely suited to dealing with practices exhibiting what I call “self-effacing functionality”—practices that are functional only insofar as and because we do not engage in them for their functionality.
 

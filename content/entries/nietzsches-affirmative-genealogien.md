@@ -20,6 +20,7 @@ categories:
 ---
 
 *Deutsche Zeitschrift für Philosophie* 67 (3): 429–439. By invitation. 2019. [doi:10.1515/dzph-2019-0034](https://doi.org/10.1515/dzph-2019-0034)
+<!--more-->
 
 Argues that alongside his well-known critical genealogies, Nietzsche also developed “affirmative genealogies” that are not historically situated. These genealogies investigate the “practical origins” of concepts like justice and truth, showing how they arise instrumentally from fundamental human needs. By presenting these concepts as naturalistically intelligible and practically indispensable, this approach offers an affirmative justification, which the author connects to Nietzsche’s later idea of an “economic justification of morality.”
 

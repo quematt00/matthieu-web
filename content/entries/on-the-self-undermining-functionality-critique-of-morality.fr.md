@@ -25,6 +25,7 @@ categories:
 ---
 
 *European Journal of Philosophy* 31 (2): 501–508. Sur invitation. 2023. [doi:10.1111/ejop.12874](http://doi.org/10.1111/ejop.12874)
+<!--more-->
 
 Reconstruit l’interprétation par Reginster de la critique nietzschéenne de la morale comme une « critique fonctionnaliste auto-invalidante » et soulève trois difficultés à son égard.
 

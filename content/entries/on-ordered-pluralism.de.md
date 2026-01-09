@@ -19,6 +19,7 @@ categories:
 ---
 
 *Australasian Philosophical Review* 3 (3): 305–11. 2019. [doi:10.1080/24740500.2020.1859234](https://doi.org/10.1080/24740500.2020.1859234)
+<!--more-->
 
 Ausgehend von der Debatte über „moral justice forgiveness“ und „gifted“ forgiveness untersucht dieser Aufsatz kritisch Miranda Frickers Methode, pluralen Auffassungen einer Praxis eine Ordnung zu geben. Er argumentiert, dass die Auswahl eines Paradigmenfalls wie „moral justice forgiveness“ nicht absolut ist, sondern davon abhängt, welchen funktionalen Aspekt der Praxis man erklären möchte.
 

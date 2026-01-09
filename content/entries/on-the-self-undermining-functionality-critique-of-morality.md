@@ -25,6 +25,7 @@ categories:
 ---
 
 *European Journal of Philosophy* 31 (2): 501–508. By invitation. 2023. [doi:10.1111/ejop.12874](http://doi.org/10.1111/ejop.12874)
+<!--more-->
 
 Reconstructs Reginster’s account of Nietzsche’s critique of morality as a “self-undermining functionality critique” and raise three problems for it.
 

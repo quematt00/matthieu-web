@@ -13,6 +13,7 @@ categories:
 ---
 
 *The Monist*. Numéro spécial sur Explication and Conceptual Engineering.
+<!--more-->
 
 S’appuie sur la distinction Windelband/Rickert entre sciences nomothétiques et idiographiques pour développer deux conceptions contrastées de la normativité de l’explicitation.
 

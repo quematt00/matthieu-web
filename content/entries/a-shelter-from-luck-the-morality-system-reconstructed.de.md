@@ -22,6 +22,7 @@ categories:
 ---
 
 In *Morality and Agency: Themes from Bernard Williams*. András Szigeti und Matthew Talbert (Hrsg.), 184–211. New York: Oxford University Press. 2022. [doi:10.1093/oso/9780197626566.003.0009](https://doi.org/10.1093/oso/9780197626566.003.0009)
+<!--more-->
 
 Bietet eine Synthese von Williams’ kritischen Bemerkungen zur kantischen Moral; die zentrale Idee ist, dass die moderne Moral danach strebt, das Leben vor dem Zufall zu schützen.
 
@@ -30,4 +31,3 @@ Bietet eine Synthese von Williams’ kritischen Bemerkungen zur kantischen Moral
 <a class="download-link" href="https://philpapers.org/archive/QUEASF.pdf" aria-label="PDF von A Shelter from Luck: The Morality System Reconstructed herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen
 </a>
-

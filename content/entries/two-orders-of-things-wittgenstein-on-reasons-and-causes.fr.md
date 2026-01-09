@@ -24,6 +24,7 @@ categories:
 ---
 
 *Philosophy* 92 (3): 369–97. 2017. [doi:10.1017/S0031819117000055](https://doi.org/10.1017/S0031819117000055)
+<!--more-->
 
 En situant Wittgenstein dans le débat causaliste/anti-causaliste en philosophie de l’esprit, cet article soutient que les arguments de Wittgenstein diffèrent de ceux de ses successeurs immédiats ; qu’il anticipe des tendances anti-psychologistes actuelles ; et qu’il est peut-être plus proche de Davidson que ne le suggèrent les dialectiques historiques.
 

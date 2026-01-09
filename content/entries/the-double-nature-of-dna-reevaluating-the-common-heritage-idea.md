@@ -22,6 +22,7 @@ categories:
 ---
 
 *The Journal of Political Philosophy* 24 (1): 47–66. 2016. [doi:10.1111/jopp.12063](https://doi.org/10.1111/jopp.12063)
+<!--more-->
 
 Addresses the political and legal conflict over gene patenting by reevaluating the influential idea that the human genome is the “common heritage of mankind.” Argues that the human genome is best understood not as a form of shared property, but as a repository of information to which we have a fiduciary relationship, which creates duties of preservation and access. This “preservationist heritage idea” largely dissolves the conflict with the patenting of genes themselves, though it also reveals how recent court decisions still make room for the patenting of commercially relevant molecules deriving from human DNA.
 

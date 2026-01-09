@@ -57,7 +57,7 @@ hr.section-divider {
 }
 </style>
 
-## {{< i18n "section_media" >}}
+<h2>{{< i18n "section_media" >}}</h2>
 
 - **Understanding in Deep Learning Models**. *RSAM Podcast for Philosophy and Cognitive Science*. To be recorded on December 16, 2025.
 - **Mechanistic Indicators of Understanding in Large Language Models**. *Compass of the AI Era*. Japanese Paper Commentary Video Series, July 18, 2025.

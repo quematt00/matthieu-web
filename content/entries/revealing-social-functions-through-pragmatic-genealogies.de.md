@@ -33,6 +33,7 @@ categories:
 ---
 
 In *Social Functions in Philosophy: Metaphysical, Normative, and Methodological Perspectives*. Rebekka Hufendiek, Daniel James und Raphael Van Riel (Hrsg.), 200–218. London: Routledge. 2020. [doi:10.4324/9780429435393](https://doi.org/10.4324/9780429435393)
+<!--more-->
 
 Der Aufsatz argumentiert, dass Naturzustandsnarrative, gelesen als dynamische Modelle statt als Geschichtsschreibung, sichtbar machen können, wie zentrale normative Praktiken kollektive Bedürfnisse nach Koordination, Konfliktbewältigung und Nicht-Dominierung erfüllen. Anknüpfend an Humes Genealogie der Gerechtigkeit, Williams’ Genealogie der Wahrhaftigkeit und verwandte Arbeiten zeigt er, wie Begriffe wie Eigentum, Wissen und testimoniale Gerechtigkeit soziale Kooperation und politische Legitimität tragen. Damit bietet er der Sozial- und politischen Philosophie eine Möglichkeit, sowohl die Persistenz von Ideen und Institutionen als auch die Gründe zu erklären, auf deren Grundlage sie kritisiert werden können.
 

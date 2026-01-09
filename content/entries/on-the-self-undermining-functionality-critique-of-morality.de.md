@@ -25,6 +25,7 @@ categories:
 ---
 
 *European Journal of Philosophy* 31 (2): 501–508. Auf Einladung. 2023. [doi:10.1111/ejop.12874](http://doi.org/10.1111/ejop.12874)
+<!--more-->
 
 Rekonstruiert Reginsters Deutung von Nietzsches Moralkritik als eine „sich selbst unterminierende Funktionskritik“ und formuliert drei Probleme dagegen.
 

@@ -22,6 +22,7 @@ categories:
 ---
 
 *Synthese* 197 (5): 2005–2027. 2020. [doi:10.1007/s11229-018-1777-9](https://doi.org/10.1007/s11229-018-1777-9)
+<!--more-->
 
 Versuche, Gründe aus Behauptungen über die Genese von etwas abzuleiten, gelten oft als genetischer Fehlschluss: Sie verwechseln Genese und Rechtfertigung. Eine Möglichkeit für Genealogien, diesem Einwand auszuweichen, besteht darin, sich auf die funktionalen Ursprünge von Praktiken zu konzentrieren. Das ruft jedoch einen zweiten Einwand hervor: Der Versuch, aus der ursprünglichen Funktion auf die heutige Funktion zu schließen, leide an einem Kontinuitätsbruch – die Bedingungen, auf die etwas ursprünglich reagierte, bestehen nicht mehr. Der Aufsatz zeigt, wie normativ ambitionierte Genealogien beide Probleme vermeiden können.
 

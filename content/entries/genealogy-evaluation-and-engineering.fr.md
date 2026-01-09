@@ -28,6 +28,7 @@ categories:
 ---
 
 *The Monist* 105 (4): 435–51. Sur invitation. 2022. [doi:10.1093/monist/onac010](http://doi.org/10.1093/monist/onac010)
+<!--more-->
 
 Soutient que les explications généalogiques peuvent servir à évaluer et à améliorer des pratiques conceptuelles, en prenant pour exemple la demande d’innovation conceptuelle autour des notions de légitimité suscitée par le pouvoir croissant des institutions internationales.
 

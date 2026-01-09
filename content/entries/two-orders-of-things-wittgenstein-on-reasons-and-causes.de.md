@@ -24,6 +24,7 @@ categories:
 ---
 
 *Philosophy* 92 (3): 369–97. 2017. [doi:10.1017/S0031819117000055](https://doi.org/10.1017/S0031819117000055)
+<!--more-->
 
 Indem der Aufsatz Wittgenstein im kausalistischen/anti-kausalistischen Streit der Philosophie des Geistes verortet, argumentiert er, dass Wittgensteins Argumente sich von denen seiner unmittelbaren Nachfolger unterscheiden; dass er gegenwärtige anti-psychologistische Tendenzen antizipiert; und dass er vielleicht näher bei Davidson steht, als es historische Dialektiken nahelegen.
 

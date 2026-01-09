@@ -22,6 +22,7 @@ categories:
 ---
 
 *Philosophers’ Imprint* 18 (17): 1–20. 2018. [doi:2027/spo.3521354.0018.017](https://doi.org/2027/spo.3521354.0018.017)
+<!--more-->
 
 Rekonstruiert Williams’ genealogische Untersuchung der sozialen Funktion der Normen der Wahrhaftigkeit und arbeitet ihre sozialen und politischen Implikationen heraus. Entwickelt ein Verständnis dieser „pragmatischen“ Form der genealogischen Methode, das zeigt, dass sie in einzigartiger Weise geeignet ist, mit Praktiken umzugehen, die das aufweisen, was ich „selbstverbergende Funktionalität“ nenne – Praktiken, die nur insofern und gerade deshalb funktional sind, als und weil wir sie nicht wegen ihrer Funktionalität ausüben.
 

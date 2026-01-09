@@ -25,6 +25,7 @@ categories:
 ---
 
 *Philosophical Studies* 179 (5): 1591–1620. 2022. [doi:10.1007/s11098-021-01720-2](http://doi.org/10.1007/s11098-021-01720-2)
+<!--more-->
 
 Argues that the notion of the voluntary is an essentially superficial notion that does important work on the condition that we do not try to metaphysically deepen it, and that attempts to deepen it illustrate a problematic tendency to warp our conception of the mind under pressure from moral aspirations.
 

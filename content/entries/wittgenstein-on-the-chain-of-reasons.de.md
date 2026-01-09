@@ -29,6 +29,7 @@ categories:
 ---
 
 *Wittgenstein-Studien* 7 (1): 105–30. 2016. [doi:10.1515/witt-2016-0108](https://doi.org/10.1515/witt-2016-0108)
+<!--more-->
 
 Untersucht Wittgensteins Verständnis von Vernunft und Rationalität durch die Linse seiner Auffassung von Gründen.
 

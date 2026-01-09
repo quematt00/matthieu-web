@@ -21,6 +21,7 @@ categories:
 ---
 
 With Nikhil Krishnan. In *Bernard Williams on Philosophy and History*. Marcel van Ackeren and Matthieu Queloz (eds.), 283–316. Oxford: Oxford University Press. 2025.
+<!--more-->
 
 Argues that several aspects of Bernard Williams's style, methodology, and metaphilosophy can be interpreted as evolving dialectically from those of Wittgenstein.
 

@@ -23,6 +23,7 @@ categories:
 ---
 
 *arXiv*. Avec Pierre Beckmann. [doi:10.48550/arXiv.2507.08017](https://doi.org/10.48550/arXiv.2507.08017)
+<!--more-->
 
 Mobilise des preuves techniques détaillées issues de la recherche sur l’interprétabilité mécaniste (MI) pour soutenir que, bien que les LLM diffèrent profondément de la cognition humaine, ils font plus que comptabiliser des cooccurrences de mots : ils forment des structures internes que l’on peut comparer de façon féconde à différentes formes de compréhension humaine, telles que la compréhension conceptuelle, factuelle et principielle. Nous synthétisons les résultats les plus pertinents à ce jour de la MI tout en les inscrivant dans un cadre théorique intégrateur pour penser la compréhension dans les LLM. Le phénomène des « parallel mechanisms » montre toutefois que les différences entre les LLM et la cognition humaine sont aussi fécondes philosophiquement à considérer que les similarités.
 

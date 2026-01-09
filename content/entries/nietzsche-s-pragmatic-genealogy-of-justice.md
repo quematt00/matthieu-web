@@ -20,6 +20,7 @@ categories:
 ---
 
 *British Journal for the History of Philosophy* 25 (4): 727–49. 2017. [doi:10.1080/09608788.2016.1266462](https://doi.org/10.1080/09608788.2016.1266462)
+<!--more-->
 
 Examines Nietzsche’s view that the ideal of justice is a contingent political development emerging only when parties of roughly equal power need a system of exchange and requital to avoid mutually assured destruction, meaning the applicability of norms of justice is originally tied to distributions of power. This perspective reframes justice as a human-made solution to the recurring problem of social order. Understanding these origins vindicates justice as an indispensable invention for social life.
 

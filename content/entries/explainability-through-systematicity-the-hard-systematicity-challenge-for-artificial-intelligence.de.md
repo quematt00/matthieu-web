@@ -22,6 +22,7 @@ categories:
 ---
 
 *Minds and Machines* 35 (35): 1–39. 2025. [doi:10.1007/s11023-025-09738-9](https://doi.org/10.1007/s11023-025-09738-9)
+<!--more-->
 
 Bietet einen Rahmen, um über die „Systematizität des Denkens“ nachzudenken: Er unterscheidet vier Bedeutungen der Wendung, entschärft die vermeintliche Spannung zwischen Systematizität und Konnektionismus, die Fodor und Pylyshyn einflussreich diagnostiziert haben, und identifiziert eine „harte“ Form der Systematizitätsherausforderung, der konnektionistische Modelle weiterhin nicht gewachsen sind.
 

@@ -28,6 +28,7 @@ categories:
 ---
 
 *Topoi* 43 (2): 413–424. 2024. Avec Marcel van Ackeren. [doi:10.1007/s11245-023-09964-9](https://doi.org/10.1007/s11245-023-09964-9)
+<!--more-->
 
 Montre que les « systèmes de moralité » au sens de Williams ne se limitent pas à l’éthique kantienne, mais se caractérisent par l’ambition organisatrice de soustraire l’agentivité humaine à la contingence. Soutient que cette ambition — et la reconceptualisation de la psychologie humaine sur laquelle elle s’appuie — peut être retracée jusqu’au stoïcisme.
 

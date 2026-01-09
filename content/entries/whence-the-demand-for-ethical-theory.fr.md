@@ -21,6 +21,7 @@ categories:
 ---
 
 *American Philosophical Quarterly* 58 (2): 135–46. 2021. [doi:10.2307/48614001](https://doi.org/10.2307/48614001)
+<!--more-->
 
 Propose une dérivation pratique de la nécessité pour le raisonnement public et judiciaire de prendre une forme plus discursive et cohérente que la délibération privée (un thème que j’explore plus pleinement au chapitre 10 de mon deuxième livre).
 

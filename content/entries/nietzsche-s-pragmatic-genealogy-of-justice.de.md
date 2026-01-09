@@ -20,6 +20,7 @@ categories:
 ---
 
 *British Journal for the History of Philosophy* 25 (4): 727–49. 2017. [doi:10.1080/09608788.2016.1266462](https://doi.org/10.1080/09608788.2016.1266462)
+<!--more-->
 
 Untersucht Nietzsches Auffassung, dass das Ideal der Gerechtigkeit eine kontingente politische Entwicklung ist, die erst entsteht, wenn Parteien ungefähr gleicher Macht ein System von Austausch und Vergeltung brauchen, um eine wechselseitig gesicherte Zerstörung zu vermeiden; damit ist die Anwendbarkeit von Gerechtigkeitsnormen ursprünglich an Machtverteilungen gebunden. Diese Perspektive fasst Gerechtigkeit als eine von Menschen geschaffene Lösung für das wiederkehrende Problem sozialer Ordnung. Das Verständnis dieser Ursprünge vindiziert Gerechtigkeit als eine unverzichtbare Erfindung für das soziale Leben.
 

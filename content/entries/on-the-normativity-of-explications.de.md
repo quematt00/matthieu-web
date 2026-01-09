@@ -14,6 +14,7 @@ categories:
 ---
 
 *The Monist*. Sonderheft zu Explication and Conceptual Engineering.
+<!--more-->
 
 Greift die Windelband/Rickert‑Unterscheidung zwischen nomothetischen und idiographischen Wissenschaften auf, um zwei kontrastierende Auffassungen der Normativität der Explizierung zu entwickeln.
 

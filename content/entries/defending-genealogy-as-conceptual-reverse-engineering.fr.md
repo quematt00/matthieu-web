@@ -27,6 +27,7 @@ categories:
 ---
 
 *Analysis* 84 (2): 385–400. 2024. Symposium sur mon *The Practical Origins of Ideas*. Sur invitation. [doi:10.1093/analys/anad010](https://doi.org/10.1093/analys/anad010)
+<!--more-->
 
 Répond aux commentaires de Cheryl Misak, Alexander Prescott‑Couch et Paul Roth.
 

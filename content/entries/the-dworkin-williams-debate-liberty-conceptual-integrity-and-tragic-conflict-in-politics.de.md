@@ -25,6 +25,7 @@ categories:
 ---
 
 *Philosophy and Phenomenological Research* 109 (1): 3–29. 2024. [doi:10.1111/phpr.13002](http://doi.org/10.1111/phpr.13002)
+<!--more-->
 
 Indem der Aufsatz die wenig bekannte Dworkin–Williams-Debatte darüber rekonstruiert, ob und wie politische Begriffe wie Freiheit und Gleichheit zur Vermeidung von Konflikten versöhnt werden können und sollen, untersucht er die Natur politischer Werte, die Grenzen philosophischer Intervention in der Politik, die Herausforderung des Pluralismus sowie die Bedingungen politischer Legitimität angesichts unvermeidlicher Konflikte und Verluste.
 

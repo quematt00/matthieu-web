@@ -13,6 +13,7 @@ categories:
 ---
 
 Avec Nikhil Krishnan.
+<!--more-->
 
 Met au jour les liens entre l’internalisme des raisons et la tradition romantique, et montre que l’internalisme ne se contente pas de traduire des idées romantiques dans un langage plus technique, mais les transforme.
 

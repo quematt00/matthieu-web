@@ -14,6 +14,7 @@ categories:
 ---
 
 Mit Pierre Beckmann.
+<!--more-->
 
 Argumentiert, dass der Begriff des Verstehens für künstliche Kognition neu zu konzipieren ist – empirisch informiert durch die Forschung zur mechanistischen Interpretierbarkeit und theoretisch geleitet durch ein Verständnis der Funktionen des Begriffs.
 

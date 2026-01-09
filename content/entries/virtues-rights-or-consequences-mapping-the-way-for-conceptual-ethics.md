@@ -21,6 +21,7 @@ categories:
 ---
 
 *Studia Philosophica: The Swiss Journal of Philosophy* 83 (1): 9–22. 2024. [doi:10.24894/StPh-en.2024.83002](https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/media/3249A5E5CE2FB5CFC227875B32C3A27A/10_24894_StPh-en_2024_83002_49475.pdf)
+<!--more-->
 
 Maps out the ways in which moral and political reflection on which concepts to use might take its cue from virtue-ethical, deontological, and consequentialist traditions, flagging the main difficulties facing each approach.
 

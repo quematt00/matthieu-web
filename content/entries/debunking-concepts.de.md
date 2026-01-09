@@ -24,6 +24,7 @@ categories:
 ---
 
 *Midwest Studies in Philosophy* 47 (1): 195–225. Auf Einladung. 2023. [doi:10.5840/msp2023111347](https://doi.org/10.5840/msp2023111347)
+<!--more-->
 
 Argumentiert, dass die Entlarvung von Begriffen über die Beurteilung ihrer erkenntnistheoretischen Meriten hinausgehen und auch eine moralische, soziale und politische Bewertung auf Grundlage ihrer gesellschaftlichen Funktionen und Wirkungen umfassen sollte.
 

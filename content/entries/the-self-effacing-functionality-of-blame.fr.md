@@ -18,6 +18,7 @@ categories:
 ---
 
 *Philosophical Studies* 178 (4): 1361–1379. 2021. [doi:10.1007/s11098-020-01479-y](http://doi.org/10.1007/s11098-020-01479-y)
+<!--more-->
 
 Introduit le concept de « fonctionnalité auto-effacée » afin de concilier deux conceptions opposées du blâme. Si le blâme remplit une importante fonction régulatrice, cette fonctionnalité exige précisément qu’il soit justifié par des raisons morales non instrumentales plutôt que par sa fonctionnalité. Cette approche préserve les acquis des analyses instrumentalistes tout en justifiant l’autorité de nos raisons morales de blâmer.
 

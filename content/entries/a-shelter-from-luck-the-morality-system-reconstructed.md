@@ -22,6 +22,7 @@ categories:
 ---
 
 In *Morality and Agency: Themes from Bernard Williams*. András Szigeti and Matthew Talbert (eds.), 184–211. New York: Oxford University Press. 2022. [doi:10.1093/oso/9780197626566.003.0009](https://doi.org/10.1093/oso/9780197626566.003.0009)
+<!--more-->
 
 Offers a synthesis of Williams’s critical remarks on Kantian morality; the key idea is that modern morality strives to shelter life from luck.
 

@@ -4,6 +4,7 @@ theme = "FixIt"
 languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+removePathAccents = true
 enableGitInfo = true
 enableRobotsTXT = true
 

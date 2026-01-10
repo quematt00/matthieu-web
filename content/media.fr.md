@@ -62,9 +62,9 @@ hr.section-divider {
 - **Understanding in Deep Learning Models**. *RSAM Podcast for Philosophy and Cognitive Science*. Enregistrement prévu le 16 décembre 2025.
 - **Mechanistic Indicators of Understanding in Large Language Models**. *Compass of the AI Era*. Série japonaise de vidéos de commentaires d’articles, 18 juillet 2025.
 - **Pragmatic Genealogy**. Podcast du *Moral Sciences Club*, University of Cambridge. [https://sms.cam.ac.uk/media/4728376](https://sms.cam.ac.uk/media/4728376)
-- **Kein Sicherheitsnetz der Wahrheit: Warum Normativität für LLMs schwierig bleibt**. *meta(φ)* 13 (1): 1—29. 2025.
+- **Kein Sicherheitsnetz der Wahrheit: Warum Normativität für LLMs schwierig bleibt**. *meta(φ)* 13 (1): 51—89. 2025.
 - **Richard Marshall interviews Matthieu Queloz**. *3:16 AM, End Times Series*. À paraître. [www.3-16am.co.uk](https://www.3-16am.co.uk/articles/.c/end-times-series)
-- **Tracing Concepts to Needs**. *The Philosopher* 109 (3): 34—39. 2021. [www.thephilosopher1923.org](https://www.thephilosopher1923.org)
+- **Tracing Concepts to Needs**. *The Philosopher* 109 (3): 34—39. 2021. [https://philpapers.org/archive/QUETCT.pdf](https://philpapers.org/archive/QUETCT.pdf)
 - **Ideas that Work**. *Aeon: A World of Ideas*, 24 juin 2021. [https://aeon.co/essays/our-most-abstract-concepts-emerged-as-solutions-to-our-needs](https://aeon.co/essays/our-most-abstract-concepts-emerged-as-solutions-to-our-needs)
 - **Warum die liberale Demokratie laufend verteidigt werden muss**. *Schweizer Radio und Fernsehen (SRF Kultur)*, 2015.
 - **Problem und Chance zugleich**. *Basler Zeitung*, 4 mai 2011.

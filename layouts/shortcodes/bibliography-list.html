@@ -15,6 +15,11 @@
 
 <ol reversed start="{{ len $sorted }}">
   {{- range $sorted -}}
-    <li><strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong>{{ .Summary | safeHTML }}</li>
+    {{- $link := .RelPermalink -}}
+    {{- $external := .Params.external_link -}}
+    {{- if $external -}}
+      {{- $link = $external -}}
+    {{- end -}}
+    <li><strong><a href="{{ $link }}">{{ .Title }}</a></strong>{{ .Summary | safeHTML }}</li>
   {{- end -}}
 </ol>

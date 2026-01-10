@@ -15,6 +15,7 @@ tags:
 categories:
   - "Praktische Philosophie"
   - "Theoretische Philosophie"
+  - "Geschichte der Philosophie"
 ---
 
 R&R bei *Philosophical Studies*.

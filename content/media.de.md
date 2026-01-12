@@ -59,7 +59,7 @@ hr.section-divider {
 
 <h2>{{< i18n "section_media" >}}</h2>
 
-- **Understanding in Deep Learning Models**. *RSAM Podcast for Philosophy and Cognitive Science*. Aufnahme geplant am 16. Dezember 2025.
+- **Mechanistic Interpretability and How LLMs Understand**. *RSAM Podcast for Philosophy and Cognitive Science*. 10. Januar 2026. [https://open.spotify.com/episode/61XaYy42EGa8BjF5CnPjl3?si=a41c403438df4f8a](https://open.spotify.com/episode/61XaYy42EGa8BjF5CnPjl3?si=a41c403438df4f8a)
 - **Mechanistic Indicators of Understanding in Large Language Models**. *Compass of the AI Era*. Japanische Video-Reihe mit Paper-Commentaries, 18. Juli 2025.
 - **Pragmatic Genealogy**. Podcast des *Moral Sciences Club*, University of Cambridge. [https://sms.cam.ac.uk/media/4728376](https://sms.cam.ac.uk/media/4728376)
 - **Kein Sicherheitsnetz der Wahrheit: Warum Normativität für LLMs schwierig bleibt**. *meta(φ)* 13 (1): 51—89. 2025.

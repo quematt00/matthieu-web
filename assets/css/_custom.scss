@@ -642,13 +642,18 @@ main {
 }
 
 .oa-icon {
-    height: 1.15em;
+    height: 1.25em;
     width: auto;
     vertical-align: text-top;
     margin-left: 0.6rem;
     margin-right: 0.1rem;
     /* Match subtitle color */
     filter: invert(27%) sepia(11%) saturate(517%) hue-rotate(170deg) brightness(87%) contrast(87%);
+}
+
+[data-theme='dark'] .oa-icon {
+    /* Brighten for dark mode so the icon matches the lighter meta text */
+    filter: invert(93%) sepia(9%) saturate(240%) hue-rotate(175deg) brightness(110%) contrast(94%);
 }
 
 .book-reviews {

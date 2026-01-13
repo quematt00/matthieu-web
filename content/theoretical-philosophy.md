@@ -98,11 +98,11 @@ hr.section-divider {
 
 <p class="themes-intro">My research in theoretical philosophy centres on six connected themes:</p>
 
-1. **Genealogical explanations of our core cognitive concepts**—*truth*, *knowledge*, and *understanding*—and what they do for us.
+1. **The origins of our core cognitive concepts**—*truth*, *knowledge*, and *understanding*—and what they do for us.
 2. **The relation between reasons and causes**, both in epistemology (justification vs. causal explanation) and in the philosophy of action (reconciling voluntary agency and the causal determination of the will).
 3. **The rationality of conceptual change and conceptual engineering** and their theoretical underpinning by different accounts of the building-blocks of thought and meaning.
 4. **The systematicity of thought and the limits of theoretical virtues** such as precision, depth, consistency, and coherence.
-5. **Artificial cognition**, especially how to conceptualize the capacities and prospects of large language models in light of 1–4.
+5. **The epistemology of artificial cognition**, especially how best to conceptualize the emergent capacities of large language models in light of 1–4.
 6. **Philosophy’s relation to the human sciences** and its nature as a humanistic discipline.
 
 My first monograph, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), develops a method of “conceptual reverse-engineering” to uncover the practical challenges at the root of our most abstract and elusive concepts. Through lenses from Nietzsche and Bernard Williams, the book explores the genealogy of the notion of truth and how norms of accuracy and sincerity evolved with our capacity for belief and assertion to become defining virtues of thought and communication. The book also reconstructs, through lenses from E.J. Craig and Miranda Fricker, the genealogy of knowledge, testimony, and epistemic injustice, and reconciles it with knowledge-first epistemology (see also [Genealogy and Knowledge-First Epistemology: A Mismatch?](#genealogy-and-knowledge-first-epistemology-a-mismatch)). A series of more recent papers on understanding ([Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression)) complements this earlier work on the genealogy of the core mindware structuring thought and talk.

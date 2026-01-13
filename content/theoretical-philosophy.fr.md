@@ -98,11 +98,11 @@ hr.section-divider {
 
 <p class="themes-intro">Ma recherche en philosophie théorique se concentre sur six thèmes liés :</p>
 
-1. **Des explications généalogiques de nos concepts cognitifs centraux** — vérité, connaissance et compréhension — et de ce qu’ils font pour nous.
+1. **Les origines de nos concepts cognitifs centraux** — *vérité*, *connaissance* et *compréhension* — et ce qu’ils font pour nous.
 2. **Le rapport entre raisons et causes**, à la fois en épistémologie (justification vs explication causale) et en philosophie de l’action (réconcilier l’agentivité volontaire et la détermination causale de la volonté).
 3. **La rationalité du changement conceptuel et du conceptual engineering** ainsi que leur fondement théorique par différentes conceptions des « briques » de la pensée et du sens.
 4. **La systématicité de la pensée et les limites de vertus théoriques** telles que la précision, la profondeur, la consistance et la cohérence.
-5. **La cognition artificielle**, notamment la manière de conceptualiser les capacités et les perspectives des large language models à la lumière des points 1–4.
+5. **L’épistémologie de la cognition artificielle**, notamment la meilleure manière de conceptualiser les capacités émergentes des large language models à la lumière des points 1–4.
 6. **Le rapport de la philosophie aux sciences humaines** et sa nature de discipline humaniste.
 
 Mon premier livre, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), développe une méthode de « conceptual reverse-engineering » visant à mettre au jour les défis pratiques à la racine de nos concepts les plus abstraits et les plus insaisissables. À travers des lectures de Nietzsche et de Bernard Williams, le livre explore la généalogie de la notion de vérité et la manière dont des normes d’exactitude et de sincérité ont évolué avec notre capacité de croyance et d’assertion pour devenir des vertus constitutives de la pensée et de la communication. Le livre reconstruit également, à travers des lectures de E. J. Craig et de Miranda Fricker, la généalogie de la connaissance, du témoignage et de l’injustice épistémique, et la réconcilie avec l’épistémologie knowledge-first (voir aussi [Genealogy and Knowledge-First Epistemology: A Mismatch?](#genealogy-and-knowledge-first-epistemology-a-mismatch)). Une série d’articles plus récents sur la compréhension ([Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression)) complète ce travail antérieur sur la généalogie du « mindware » de base structurant pensée et discours.

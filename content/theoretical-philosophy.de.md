@@ -98,11 +98,11 @@ hr.section-divider {
 
 <p class="themes-intro">Meine Forschung in der theoretischen Philosophie konzentriert sich auf sechs zusammenhängende Themen:</p>
 
-1. **Genealogische Erklärungen unserer zentralen kognitiven Begriffe** — Wahrheit, Wissen und Verständnis — und darauf, was sie für uns leisten.
+1. **Die Ursprünge unserer zentralen kognitiven Begriffe** — *Wahrheit*, *Wissen* und *Verständnis* — und was sie für uns leisten.
 2. **Das Verhältnis von Gründen und Ursachen** sowohl in der Erkenntnistheorie (Rechtfertigung vs. kausale Erklärung) als auch in der Handlungstheorie (die Versöhnung freiwilliger Handlungsfähigkeit mit der kausalen Determination des Willens).
 3. **Die Rationalität begrifflichen Wandels und des conceptual engineering** sowie ihre theoretische Fundierung durch unterschiedliche Auffassungen der Bausteine von Denken und Bedeutung.
 4. **Die Systematizität des Denkens und die Grenzen theoretischer Tugenden** wie Präzision, Tiefe, Konsistenz und Kohärenz.
-5. **Künstliche Kognition**, insbesondere die Frage, wie die Fähigkeiten und Aussichten von large language models im Lichte von 1–4 zu konzeptualisieren sind.
+5. **Die Erkenntnistheorie der künstlichen Kognition**, insbesondere wie die emergenten Fähigkeiten von large language models im Lichte von 1–4 am besten zu konzeptualisieren sind.
 6. **Das Verhältnis der Philosophie zu den Humanwissenschaften** und ihr Charakter als humanistische Disziplin.
 
 Mein erstes Buch, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), entwickelt eine Methode des „conceptual reverse-engineering“, um die praktischen Herausforderungen freizulegen, die den abstraktesten und schwer fassbaren Begriffen zugrunde liegen. Durch Perspektiven aus Nietzsche und Bernard Williams untersucht das Buch die Genealogie des Wahrheitsbegriffs und wie Normen der Genauigkeit und Aufrichtigkeit zusammen mit unserer Fähigkeit zu Glauben und Behaupten entstanden sind und zu prägenden Tugenden von Denken und Kommunikation wurden. Zudem rekonstruiert das Buch, durch Perspektiven aus E. J. Craig und Miranda Fricker, die Genealogie von Wissen, Zeugnis und epistemischer Ungerechtigkeit und versöhnt sie mit der knowledge-first epistemology (siehe auch [Genealogy and Knowledge-First Epistemology: A Mismatch?](#genealogy-and-knowledge-first-epistemology-a-mismatch)). Eine Reihe neuerer Aufsätze zum Verständnis ([Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression)) ergänzt diese frühere Arbeit zur Genealogie des grundlegenden mindware, das Denken und Sprechen strukturiert.

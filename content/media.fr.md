@@ -61,7 +61,7 @@ hr.section-divider {
 
 - **Mechanistic Indicators of Understanding in Large Language Models** a été présenté dans la très populaire série vidéo *AI Explained* le 14 janvier 2026 : [https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764](https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764)
 - **Mechanistic Interpretability and How LLMs Understand**. *RSAM Podcast for Philosophy and Cognitive Science*. 10 janvier 2026. [https://open.spotify.com/episode/61XaYy42EGa8BjF5CnPjl3?si=a41c403438df4f8a](https://open.spotify.com/episode/61XaYy42EGa8BjF5CnPjl3?si=a41c403438df4f8a)
-- **Mechanistic Indicators of Understanding in Large Language Models**. *Compass of the AI Era*. Série japonaise de vidéos de commentaires d’articles, 18 juillet 2025.
+- **Mechanistic Indicators of Understanding in Large Language Models** a été présenté dans la série japonaise de commentaires d’articles *Compass of the AI Era* le 18 juillet 2025 : [https://youtu.be/P06GXup5CcQ](https://youtu.be/P06GXup5CcQ)
 - **Pragmatic Genealogy**. Podcast du *Moral Sciences Club*, University of Cambridge. [https://sms.cam.ac.uk/media/4728376](https://sms.cam.ac.uk/media/4728376)
 - **Kein Sicherheitsnetz der Wahrheit: Warum Normativität für LLMs schwierig bleibt**. *meta(φ)* 13 (1): 51—89. 2025.
 - **Richard Marshall interviews Matthieu Queloz**. *3:16 AM, End Times Series*. À paraître. [www.3-16am.co.uk](https://www.3-16am.co.uk/articles/.c/end-times-series)

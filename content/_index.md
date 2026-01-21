@@ -87,9 +87,14 @@ readingProgress:
     </article>
     <article class="book-card">
       <div class="book-media">
-        <a href="https://doi.org/10.1093/9780191966361.001.0001" target="_blank" rel="noopener">
+        <a href="https://philpapers.org/archive/VANMSO-5.pdf" target="_blank" rel="noopener">
           <img src="/images/williams.jpg" alt="Bernard Williams on Philosophy and History cover">
         </a>
+        <div class="book-actions">
+          <a class="book-action-button book-audio-button" href="/audio/bernard-williams-on-philosophy-and-history-audio-overview.m4a" title="Generated with NotebookLM">
+            <i class="fa-solid fa-headphones"></i> Audio Overview
+          </a>
+        </div>
       </div>
       <div class="book-body">
         <h3>Bernard Williams on Philosophy and History</h3>

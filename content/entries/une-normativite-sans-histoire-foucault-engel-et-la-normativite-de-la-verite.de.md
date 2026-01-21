@@ -8,6 +8,11 @@ tags:
   - "epistemische-tugenden"
   - "glaube"
   - "behauptung"
+  - "foucault"
+  - "engel"
+  - "williams"
+  - "wahrhaftigkeit"
+  - "genealogie"
 categories:
   - "Praktische Philosophie"
   - "Theoretische Philosophie"

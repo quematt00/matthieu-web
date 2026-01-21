@@ -8,6 +8,11 @@ tags:
   - "vertus-epistemiques"
   - "croyance"
   - "assertion"
+  - "foucault"
+  - "engel"
+  - "williams"
+  - "veracite"
+  - "genealogie"
 categories:
   - "philosophie pratique"
   - "philosophie théorique"

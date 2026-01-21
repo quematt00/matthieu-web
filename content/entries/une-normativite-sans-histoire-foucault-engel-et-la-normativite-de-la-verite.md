@@ -8,6 +8,11 @@ tags:
   - "epistemic-virtues"
   - "belief"
   - "assertion"
+  - "foucault"
+  - "engel"
+  - "williams"
+  - "truthfulness"
+  - "genealogy"
 categories:
   - "practical philosophy"
   - "theoretical philosophy"

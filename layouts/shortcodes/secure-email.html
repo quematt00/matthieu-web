@@ -4,15 +4,9 @@
 {{- $display := .Get 1 | default $address -}}
 {{- $icon := .Get 2 -}}
 {{- $b64 := $address | base64Encode -}}
-
 <a href="#"
    class="fixit-secure-email"
    title="Send email"
    data-enc="{{ $b64 }}"
    onclick="window.location.href='mailto:' + atob(this.dataset.enc); return false;"
-   style="text-decoration: none; cursor: pointer;">
-    {{- if $icon -}}
-        <i class="{{ $icon }} fa-fw"></i>&nbsp;
-    {{- end -}}
-    {{- $display -}}
-</a>
+   style="text-decoration: none; cursor: pointer;">{{- if $icon -}}<i class="{{ $icon }} fa-fw"></i>&nbsp;{{- end -}}{{- $display -}}</a>{{- "" -}}

@@ -12,7 +12,7 @@ categories:
   - "practical philosophy"
 ---
 
-*Zeitschrift für Ethik und Moralphilosophie (ZEMO) – Journal for Ethics and Moral Philosophy*. Forthcoming. [https://philpapers.org/archive/QUETAA-2.pdf](https://philpapers.org/archive/QUETAA-2.pdf)
+*Zeitschrift für Ethik und Moralphilosophie (ZEMO) – Journal for Ethics and Moral Philosophy*. Forthcoming.
 <!--more-->
 
 In response to Chappell’s work on epiphanies, the article first questions the normative authority of epiphanic experiences over more sober reflection, warning that their power can distort our values and lead to a kind of “transcendent ventriloquism” before challenging Chappell’s political solution of “conversational justice,” arguing that its rationalist constraints ultimately undermine the very experiential and emotional dimension that epiphanies were meant to champion.

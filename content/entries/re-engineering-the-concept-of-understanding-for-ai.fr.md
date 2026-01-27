@@ -16,7 +16,7 @@ categories:
 Avec Pierre Beckmann.
 <!--more-->
 
-Soutient que le concept de compréhension doit être ré‑ingénié pour la cognition artificielle, d’une manière empiriquement informée par la recherche sur l’interprétabilité mécaniste et théoriquement informée par une compréhension des fonctions du concept.
+Soutient que le concept de compréhension doit être repensé pour la cognition artificielle, d’une manière empiriquement informée par la recherche sur l’interprétabilité mécaniste et théoriquement informée par une compréhension des fonctions du concept.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ia/">IA</a>, <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/interpretabilite-mecaniste/">interprétabilité mécaniste</a>, <a href="/fr/tags/comprehension/">compréhension</a>, <a href="/fr/tags/changement-conceptuel/">changement conceptuel</a>, <a href="/fr/tags/fonctions/">fonctions</a></span>
 

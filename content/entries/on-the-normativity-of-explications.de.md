@@ -13,10 +13,10 @@ categories:
   - "Praktische Philosophie"
 ---
 
-*The Monist*. Sonderheft zu Explication and Conceptual Engineering.
+*The Monist*. Sonderheft zu Explication and Begriffsengineering.
 <!--more-->
 
-Greift die Windelband/Rickert‑Unterscheidung zwischen nomothetischen und idiographischen Wissenschaften auf, um zwei kontrastierende Auffassungen der Normativität der Explizierung zu entwickeln.
+Greift die Unterscheidung zwischen nomothetischen und idiographischen Wissenschaften nach Windelband und Rickert auf, um zwei kontrastierende Auffassungen der Normativität der Explizierung zu entwickeln.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/normativitaet/">Normativität</a>, <a href="/de/tags/explizierung/">Explizierung</a>, <a href="/de/tags/rickert/">Rickert</a>, <a href="/de/tags/windelband/">Windelband</a>, <a href="/de/tags/begriffswandel/">Begriffswandel</a>, <a href="/de/tags/theoretische-philosophie/">theoretische Philosophie</a></span>
 

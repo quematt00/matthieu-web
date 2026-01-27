@@ -4,7 +4,7 @@ year: "2024"
 tags:
   - "geschichte-der-philosophie"
   - "ethik"
-  - "moralisches-glück"
+  - "moralischer-zufall"
   - "moralsystem"
   - "moralpsychologie"
   - "tadel"
@@ -30,9 +30,9 @@ categories:
 *Topoi* 43 (2): 413–424. 2024. Mit Marcel van Ackeren. [doi:10.1007/s11245-023-09964-9](https://doi.org/10.1007/s11245-023-09964-9)
 <!--more-->
 
-Zeigt, dass „Moralsysteme“ in Williams’ Sinne nicht auf kantische Ethik beschränkt sind, sondern durch das ordnende Bestreben gekennzeichnet sind, menschliche Handlungsfähigkeit vor Kontingenz zu schützen. Argumentiert, dass dieses Bestreben – und die damit verbundene Neukonzeption der menschlichen Psychologie – bis zum Stoizismus zurückverfolgt werden kann.
+Zeigt, dass „Moralsysteme“ in Williams’ Sinne nicht auf kantische Ethik beschränkt sind, sondern durch das ordnende Bestreben gekennzeichnet sind, menschliche Handlungsfähigkeit vor Kontingenz zu schützen. Argumentiert, dass dieses Bestreben – und die damit verbundene Neubestimmung unserer Begriffe der menschlichen Psychologie – bis zum Stoizismus zurückverfolgt werden kann.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/moralisches-gluck/">moralisches Glück</a>, <a href="/de/tags/moralsystem/">Moralsystem</a>, <a href="/de/tags/moralpsychologie/">Moralpsychologie</a>, <a href="/de/tags/tadel/">Tadel</a>, <a href="/de/tags/normativitaet/">Normativität</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/moralischer-zufall/">moralischer Zufall</a>, <a href="/de/tags/moralsystem/">Moralsystem</a>, <a href="/de/tags/moralpsychologie/">Moralpsychologie</a>, <a href="/de/tags/tadel/">Tadel</a>, <a href="/de/tags/normativitaet/">Normativität</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEVEA.pdf" aria-label="PDF von Virtue Ethics and the Morality System herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

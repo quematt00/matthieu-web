@@ -15,7 +15,7 @@ categories:
 Mit Nikhil Krishnan.
 <!--more-->
 
-Legt die Verbindungen zwischen dem Gründe‑Internalismus und der romantischen Tradition offen und zeigt, dass Internalismus romantische Ideen nicht bloß in eine technischere Sprache übersetzt, sondern sie transformiert.
+Legt die Verbindungen zwischen dem Gründe‑Internalismus und der romantischen Tradition offen und zeigt, dass Internalismus romantische Ideen nicht bloss in eine technischere Sprache übersetzt, sondern sie transformiert.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/internalismus/">Internalismus</a>, <a href="/de/tags/interne-gruende/">Interne Gründe</a>, <a href="/de/tags/romantik/">Romantik</a>, <a href="/de/tags/begriffswandel/">Begriffswandel</a>, <a href="/de/tags/geschichte-der-philosophie/">Geschichte der Philosophie</a>, <a href="/de/tags/krishnan/">Krishnan</a></span>
 

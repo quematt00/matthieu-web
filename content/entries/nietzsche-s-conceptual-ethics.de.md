@@ -13,7 +13,7 @@ tags:
   - "neo-pragmatismus"
   - "metaethik"
   - "pragmatismus"
-  - "kulturell-kritik"
+  - "kulturkritik"
   - "expressiv"
   - "sprachphilosophie"
   - "19-jahrhundert"

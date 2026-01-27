@@ -100,7 +100,7 @@ hr.section-divider {
 
 1. **The origins of our core cognitive concepts**—*truth*, *knowledge*, and *understanding*—and what they do for us.
 2. **The relation between reasons and causes**, both in epistemology (justification vs. causal explanation) and in the philosophy of action (reconciling voluntary agency and the causal determination of the will).
-3. **The rationality of conceptual change and conceptual engineering** and their theoretical underpinning by different accounts of the building-blocks of thought and meaning.
+3. **The rationality of conceptual change and conceptual engineering** and their theoretical underpinning by different accounts of concepts and meaning.
 4. **The systematicity of thought and the limits of theoretical virtues** such as precision, depth, consistency, and coherence.
 5. **The epistemology of artificial cognition**, especially how best to conceptualize the emergent capacities of large language models in light of 1–4.
 6. **Philosophy’s relation to the human sciences** and its nature as a humanistic discipline.

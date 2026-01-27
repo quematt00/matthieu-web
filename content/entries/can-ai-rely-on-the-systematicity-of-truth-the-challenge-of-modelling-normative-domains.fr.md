@@ -25,7 +25,7 @@ categories:
 *Philosophy & Technology* 38 (34): 1–27. 2025. [doi:10.1007/s13347-025-00864-x](https://doi.org/10.1007/s13347-025-00864-x)
 <!--more-->
 
-Soutient que l’asystématicité des domaines normatifs, provenant de la pluralité, de l’incompatibilité et de l’incommensurabilité des valeurs, pose un défi à la capacité de l’IA de modéliser ces domaines de manière exhaustive, et souligne le rôle indispensable de l’agentivité humaine dans la délibération pratique.
+Soutient que le caractère asystématique des domaines normatifs, provenant de la pluralité, de l’incompatibilité et de l’incommensurabilité des valeurs, pose un défi à la capacité de l’IA de modéliser ces domaines de manière exhaustive, et souligne le rôle indispensable de l’agentivité humaine dans la délibération pratique.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ia/">IA</a>, <a href="/fr/tags/asystematicite/">asystématicité</a>, <a href="/fr/tags/llm/">LLM</a>, <a href="/fr/tags/philosophie-de-la-technologie/">philosophie de la technologie</a>, <a href="/fr/tags/normativite/">normativité</a>, <a href="/fr/tags/systematicite/">systématicité</a></span>
 

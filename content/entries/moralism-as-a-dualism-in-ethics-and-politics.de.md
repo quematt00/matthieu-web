@@ -10,7 +10,7 @@ tags:
   - "unterscheidung-moralisch-nichtmoralisch"
   - "moral-klugheit-dualismus"
   - "wertkonflikt"
-  - "moralisches-glück"
+  - "moralischer-zufall"
   - "handlungsfaehigkeit"
   - "verantwortung"
   - "politik"
@@ -30,7 +30,7 @@ categories:
 
 Argumentiert, dass Moralismus sowohl in der Ethik als auch in der Politik aus einem problematischen Dualismus hervorgeht, der die nützliche Unterscheidung zwischen Moralischem und Nicht‑Moralischem in eine starre Trennlinie verwandelt. Wie der historische Vergleich mit dem antiken griechischen Denken zeigt, verschleiert dies echte Wertkonflikte und wird komplexen politischen Realitäten wie „dirty hands“-Situationen nicht angemessen gerecht.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/ethiktheorie/">Ethiktheorie</a>, <a href="/de/tags/wertkonflikt/">Wertkonflikt</a>, <a href="/de/tags/moralisches-gluck/">moralisches Glück</a>, <a href="/de/tags/handlungsfaehigkeit/">Handlungsfähigkeit</a>, <a href="/de/tags/verantwortung/">Verantwortung</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/ethiktheorie/">Ethiktheorie</a>, <a href="/de/tags/wertkonflikt/">Wertkonflikt</a>, <a href="/de/tags/moralischer-zufall/">moralischer Zufall</a>, <a href="/de/tags/handlungsfaehigkeit/">Handlungsfähigkeit</a>, <a href="/de/tags/verantwortung/">Verantwortung</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEMAA.pdf" aria-label="PDF von Moralism as a Dualism in Ethics and Politics herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

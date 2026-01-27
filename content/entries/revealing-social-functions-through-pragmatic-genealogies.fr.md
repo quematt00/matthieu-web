@@ -10,7 +10,7 @@ tags:
   - "hume"
   - "nietzsche"
   - "methodologie"
-  - "methodological-pragmatisme"
+  - "pragmatisme-methodologique"
   - "non-domination"
   - "normatif"
   - "philosophie-pratique"
@@ -32,7 +32,7 @@ categories:
   - "philosophie théorique"
 ---
 
-Dans *Social Functions in Philosophy: Metaphysical, Normative, and Methodological Perspectives*. Rebekka Hufendiek, Daniel James et Raphael Van Riel (dir.), 200–218. London : Routledge. 2020. [doi:10.4324/9780429435393](https://doi.org/10.4324/9780429435393)
+Dans *Social Functions in Philosophy: Metaphysical, Normative, and Methodological Perspectives*. Rebekka Hufendiek, Daniel James et Raphael Van Riel (dir.), 200–218. London : Routledge. 2020. [doi:10.4324/9780429435393](https://doi.org/10.4324/9780429435393)
 <!--more-->
 
 Cet article soutient que les récits de l’état de nature, lus comme des modèles dynamiques plutôt que comme de l’histoire, peuvent révéler comment des pratiques normatives centrales répondent à des besoins collectifs de coordination, de gestion des conflits et de non-domination. En s’appuyant sur la généalogie humienne de la justice, la généalogie williamsienne de la véracité et des travaux connexes, il montre comment des concepts tels que la propriété, la connaissance et la justice testimoniale sous-tendent la coopération sociale et la légitimité politique. Il offre ainsi aux philosophes sociaux et politiques une manière d’expliquer à la fois la persistance des idées et des institutions et les bases sur lesquelles elles peuvent être critiquées.

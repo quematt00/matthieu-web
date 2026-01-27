@@ -25,7 +25,7 @@ categories:
 In *Hume and Nietzsche*. Peter Kail und Paolo Stellino (Hrsg.). Oxford: Oxford University Press.
 <!--more-->
 
-Behauptet, dass wir, sobald wir die genealogische Form erkennen, die Humes und Nietzsches methodologischer Pragmatismus annimmt, sehen können, wie beide grobere Auffassungen vermeiden, die Bedeutung, Wahrheit oder Wert von Dingen mit ihren Wirkungen identifizieren.
+Der Text argumentiert, dass die Einsicht in die genealogische Ausprägung des methodologischen Pragmatismus bei Hume und Nietzsche verdeutlicht, wie beide eine simplifizierende Gleichsetzung von Bedeutung, Wahrheit oder Wert mit reinen Wirkungszusammenhängen umgehen.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/genealogien/">Genealogien</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/genealogische-methode/">genealogische Methode</a>, <a href="/de/tags/methodologischer-pragmatismus/">methodologischer Pragmatismus</a>, <a href="/de/tags/hume/">Hume</a>, <a href="/de/tags/18-jahrhundert/">18. Jahrhundert</a></span>
 

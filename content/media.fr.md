@@ -1,5 +1,5 @@
 ---
-title: "Médias"
+title: "Presse et médiation scientifique"
 description: "Interventions, entretiens et écrits destinés à un public plus large."
 layout: "page"
 readingProgress:
@@ -57,17 +57,17 @@ hr.section-divider {
 }
 </style>
 
-<h2>{{< i18n "section_media" >}}</h2>
+<h2>Presse et médiation scientifique</h2>
 
-- **[Mechanistic Indicators of Understanding in Large Language Models](/fr/entries/mechanistic-indicators-of-understanding-in-large-language-models/)** a été présenté dans la très populaire série vidéo *AI Explained* le 14 janvier 2026 : [https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764](https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764)
+- **[Mechanistic Indicators of Understanding in Large Language Models](/fr/entries/mechanistic-indicators-of-understanding-in-large-language-models/)** a fait l’objet d’une présentation détaillée sur la chaîne *AI Explained* le 14 janvier 2026 : [https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764](https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764)
 - **Mechanistic Interpretability and How LLMs Understand**. *RSAM Podcast for Philosophy and Cognitive Science*. 10 janvier 2026. [https://open.spotify.com/episode/61XaYy42EGa8BjF5CnPjl3?si=a41c403438df4f8a](https://open.spotify.com/episode/61XaYy42EGa8BjF5CnPjl3?si=a41c403438df4f8a)
-- **[Mechanistic Indicators of Understanding in Large Language Models](/fr/entries/mechanistic-indicators-of-understanding-in-large-language-models/)** a été présenté dans la série japonaise de commentaires d’articles *Compass of the AI Era* le 18 juillet 2025 : [https://youtu.be/P06GXup5CcQ](https://youtu.be/P06GXup5CcQ)
+- **[Mechanistic Indicators of Understanding in Large Language Models](/fr/entries/mechanistic-indicators-of-understanding-in-large-language-models/)** a été analysé dans la série japonaise *Compass of the AI Era* le 18 juillet 2025 : [https://youtu.be/P06GXup5CcQ](https://youtu.be/P06GXup5CcQ)
 - **Pragmatic Genealogy**. Podcast du *Moral Sciences Club*, University of Cambridge. [https://sms.cam.ac.uk/media/4728376](https://sms.cam.ac.uk/media/4728376)
 - **Kein Sicherheitsnetz der Wahrheit: Warum Normativität für LLMs schwierig bleibt**. *meta(φ)* 13 (1): 51—89. 2025.
 - **Richard Marshall interviews Matthieu Queloz**. *3:16 AM, End Times Series*. À paraître. [www.3-16am.co.uk](https://www.3-16am.co.uk/articles/.c/end-times-series)
 - **Tracing Concepts to Needs**. *The Philosopher* 109 (3): 34—39. 2021. [https://philpapers.org/archive/QUETCT.pdf](https://philpapers.org/archive/QUETCT.pdf)
 - **Ideas that Work**. *Aeon: A World of Ideas*, 24 juin 2021. [https://aeon.co/essays/our-most-abstract-concepts-emerged-as-solutions-to-our-needs](https://aeon.co/essays/our-most-abstract-concepts-emerged-as-solutions-to-our-needs)
-- **Warum die liberale Demokratie laufend verteidigt werden muss**. *Schweizer Radio und Fernsehen* (SRF Kultur), September 5, 2015. https://www.srf.ch/kultur/gesellschaft-religion/gesellschaft-religion-warum-die-liberale-demokratie-laufend-verteidigt-werden-muss
+- **Warum die liberale Demokratie laufend verteidigt werden muss**. *Schweizer Radio und Fernsehen* (SRF Kultur), 5 septembre 2015. https://www.srf.ch/kultur/gesellschaft-religion/gesellschaft-religion-warum-die-liberale-demokratie-laufend-verteidigt-werden-muss
 - **Problem und Chance zugleich**. *Basler Zeitung*, 4 mai 2011.
 - **Momentaufnahme der Kunst im Wandel**. *Basler Zeitung*, 11 mars 2011.
 - **Kunst auf Wanderschaft**. *Basler Zeitung*, 9 mars 2011. Avec Andrea Fopp.

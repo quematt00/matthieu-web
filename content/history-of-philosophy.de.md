@@ -87,44 +87,44 @@ hr.section-divider {
 
 <div class="section-hero">
 
-Meine Arbeit zur Philosophiegeschichte reicht von frühneuzeitlichen Theorien des state of nature und des Ideals der systematicity über Nietzsche bis zu den ordinary language philosophers des 20. Jahrhunderts und ihrem existentialistischen Erbe. Meine bislang nachhaltigsten exegetischen Arbeiten konzentrieren sich auf Hume, Nietzsche, Wittgenstein und Bernard Williams, doch vieles meiner historischen Forschung ist eher thematisch als nach Figuren strukturiert. Die wichtigsten Themen sind:
+Meine Arbeit zur Geschichte der Philosophie reicht von den frühneuzeitlichen Theoretikern des Naturzustands und dem Ideal der Systematizität über Nietzsche bis hin zu den Philosophen der normalen Sprache (ordinary language philosophers) des 20. Jahrhunderts und ihrem existentialistischen Erbe. Meine intensivste exegetische Auseinandersetzung konzentrierte sich bisher auf Hume, Nietzsche, Wittgenstein und Bernard Williams, doch ist ein Grossteil meiner historischen Arbeit eher thematisch als nach Personen strukturiert. Die Hauptthemen waren dabei folgende:
 
-1. **Die Tradition von state-of-nature Genealogien** (Hobbes, Mandeville, Hume, Rousseau, Smith, Nietzsche, B. Williams, E. J. Craig, Miranda Fricker, Philip Pettit), die Gegenstand meines ersten Buches, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), sowie mehrerer Aufsätze ist ([Genealogy, Evaluation, and Engineering](#genealogy-evaluation-and-engineering); [Williams’s Pragmatic Genealogy and Self-Effacing Functionality](#williams-s-pragmatic-genealogy-and-self-effacing-functionality); [Nietzsche's English Genealogy of Truthfulness](#nietzsche-s-english-genealogy-of-truthfulness)).
-2. **Die Geschichte evaluativer Standards für Begriffe** (Descartes, Kant, Nietzsche, Wittgenstein, Carnap, Murdoch, P. F. Strawson, Sellars, Rorty, Diamond), die Gegenstand meines zweiten Buches, [*The Ethics of Conceptualization: Tailoring Thought and Language to Need* (OUP 2025)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198926252.pdf), sowie mehrerer Aufsätze ist ([Nietzsche’s Conceptual Ethics](#nietzsche-s-conceptual-ethics); [Choosing Values? Williams contra Nietzsche](#choosing-values-williams-contra-nietzsche); [Needs of the Mind](#needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation)).
-3. **Die Entwicklung von Theorien der Freiheit und des Willens** ([Davidsonian Causalism and Wittgensteinian Anti-Causalism](#davidsonian-causalism-and-wittgensteinian-anti-causalism-a-rapprochement); [The Essential Superficiality of the Voluntary and the Moralization of Psychology](#the-essential-superficiality-of-the-voluntary-and-the-moralization-of-psychology)).
-4. **Die Geschichte dessen, wie unterschiedliche Moralkonzeptionen mit Zufall und Wertekonflikten umgehen** (von Aristoteles und den Stoikern bis Kant, Nietzsche, Williams und Dworkin — siehe [A Shelter from Luck](#a-shelter-from-luck-the-morality-system-reconstructed); [Virtue Ethics and the Morality System](#virtue-ethics-and-the-morality-system); [Moralism as a Dualism in Ethics and Politics](#moralism-as-a-dualism-in-ethics-and-politics)).
-5. **Die Geschichte des Ideals kognitiver systematicity** (Leibniz, Lambert, Kant, Bradley, Rescher — siehe [Whence the Demand for Ethical Theory?](#whence-the-demand-for-ethical-theory); [Explainability through Systematicity](#explainability-through-systematicity-the-hard-systematicity-challenge-for-artificial-intelligence)).
-6. **Die Geschichte der Gründe/Ursachen-Unterscheidung und des genetic fallacy** ([Genealogy, Evaluation, and Engineering](#genealogy-evaluation-and-engineering); [Two Orders of Things: Wittgenstein on Reasons and Causes](#two-orders-of-things-wittgenstein-on-reasons-and-causes); [Wittgenstein on the Chain of Reasons](#wittgenstein-on-the-chain-of-reasons)).
-7. **Die soziale und intellektuelle Geschichte von Bernard Williams’ Werk** ([The Shaken Realist: Bernard Williams, the War, and Philosophy as Cultural Critique](#the-shaken-realist-bernard-williams-the-war-and-philosophy-as-cultural-critique); [The Dworkin–Williams Debate](#the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics); [Williams’s Debt to Wittgenstein](#williams-s-debt-to-wittgenstein)).
-8. **Die Bedeutung der Geschichte** — einschließlich der eigenen Geschichte der Philosophie — für die Philosophie. Ich habe einen Band zur Beziehung der Philosophie zur Geschichte — einschließlich ihrer eigenen Geschichte — aus der Perspektive von Williams’ Arbeit in und zur Philosophiegeschichte mit herausgegeben ([*Bernard Williams on Philosophy and History* (OUP 2025)](https://philpapers.org/archive/VANMSO-5.pdf)) und wiederholt verschiedene Begründungen dafür untersucht, sich mit der Philosophiegeschichte zu beschäftigen ([Doing History Philosophically and Philosophy Historically](#doing-history-philosophically-and-philosophy-historically); [Making Past Thinkers Speak to Us Through Pragmatic Genealogies](#making-past-thinkers-speak-to-us-through-pragmatic-genealogies); [Does Philosophy Have a Vindicatory History?](#does-philosophy-have-a-vindicatory-history-bernard-williams-on-the-history-of-philosophy)).
+1. **Die Tradition der Naturzustandsgenealogien** (Hobbes, Mandeville, Hume, Rousseau, Smith, Nietzsche, B. Williams, E. J. Craig, Miranda Fricker, Philip Pettit). Dies ist das Thema meiner ersten Monographie *The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021) sowie mehrerer Aufsätze ([Genealogy, Evaluation, and Engineering](#genealogy-evaluation-and-engineering.de); [Williams’s Pragmatic Genealogy and Self-Effacing Functionality](#williams-s-pragmatic-genealogy-and-self-effacing-functionality.de); [Nietzsche’s English Genealogy of Truthfulness](#nietzsche-s-english-genealogy-of-truthfulness.de)).
+2. **Die Geschichte evaluativer Standards für Begriffe** (Descartes, Kant, Nietzsche, Wittgenstein, Carnap, Murdoch, P. F. Strawson, Sellars, Rorty, Diamond). Dies ist das Thema meiner zweiten Monographie *The Ethics of Conceptualization: Tailoring Thought and Language to Need* (OUP 2025) und mehrerer Aufsätze ([Nietzsche’s Conceptual Ethics](#nietzsche-s-conceptual-ethics.de); [Choosing Values? Williams contra Nietzsche](#choosing-values-williams-contra-nietzsche.de); [Needs of the Mind](#needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation.de)).
+3. **Die Entwicklung von Theorien der Freiheit und des Willens** ([Davidsonian Causalism and Wittgensteinian Anti-Causalism](#davidsonian-causalism-and-wittgensteinian-anti-causalism-a-rapprochement.de); [The Essential Superficiality of the Voluntary and the Moralization of Psychology](#the-essential-superficiality-of-the-voluntary-and-the-moralization-of-psychology.de)).
+4. **Die Geschichte des Umgangs verschiedener Moralauffassungen mit dem Zufall (luck) und mit Wertekonflikten** (von Aristoteles und den Stoikern bis zu Kant, Nietzsche, Williams und Dworkin – siehe [A Shelter from Luck](#a-shelter-from-luck-the-morality-system-reconstructed.de); [Virtue Ethics and the Morality System](#virtue-ethics-and-the-morality-system.de); [Moralism as a Dualism in Ethics and Politics](#moralism-as-a-dualism-in-ethics-and-politics.de)).
+5. **Die Geschichte des Ideals kognitiver Systematizität** (Leibniz, Lambert, Kant, Bradley, Rescher – siehe [Whence the Demand for Ethical Theory?](#whence-the-demand-for-ethical-theory.de); [Explainability through Systematicity](#explainability-through-systematicity-the-hard-systematicity-challenge-for-artificial-intelligence.de)).
+6. **Die Geschichte der Unterscheidung von Gründen und Ursachen sowie des genetischen Fehlschlusses** ([Genealogy, Evaluation, and Engineering](#genealogy-evaluation-and-engineering.de); [Two Orders of Things: Wittgenstein on Reasons and Causes](#two-orders-of-things-wittgenstein-on-reasons-and-causes.de); [Wittgenstein on the Chain of Reasons](#wittgenstein-on-the-chain-of-reasons.de)).
+7. **Die Sozial- und Ideengeschichte von Bernard Williams’ Werk** ([The Shaken Realist: Bernard Williams, the War, and Philosophy as Cultural Critique](#the-shaken-realist-bernard-williams-the-war-and-philosophy-as-cultural-critique.de); [The Dworkin–Williams Debate](#the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics.de); [Williams’s Debt to Wittgenstein](#williams-s-debt-to-wittgenstein.de)).
+8. **Die Bedeutung der Geschichte**, einschliesslich der philosophieeigenen Geschichte, für die Philosophie. Ich habe einen Sammelband über das Verhältnis der Philosophie zur Geschichte – einschliesslich ihrer eigenen Geschichte – durch die Linse von Williams’ Arbeit in und zur Geschichte der Philosophie mitherausgegeben ([*Bernard Williams on Philosophy and History* (OUP 2025)](https://philpapers.org/archive/VANMSO-5.pdf)) und wiederholt verschiedene Begründungen für die Auseinandersetzung mit der Philosophiegeschichte untersucht ([Doing History Philosophically and Philosophy Historically](#doing-history-philosophically-and-philosophy-historically.de); [Making Past Thinkers Speak to Us Through Pragmatic Genealogies](#making-past-thinkers-speak-to-us-through-pragmatic-genealogies.de); [Does Philosophy Have a Vindicatory History?](#does-philosophy-have-a-vindicatory-history-bernard-williams-on-the-history-of-philosophy.de)).
 
 </div>
 
 <h2 class="section-list-heading section-list-heading-history">Ausgewählte Artikel zur Philosophiegeschichte</h2>
 
-[Nietzsche’s Pragmatic Genealogy of Justice](#nietzsche-s-pragmatic-genealogy-of-justice), *British Journal for the History of Philosophy*
+[Nietzsche’s Pragmatic Genealogy of Justice](#nietzsche-s-pragmatic-genealogy-of-justice.de), *British Journal for the History of Philosophy*
 
-[Nietzsche's English Genealogy of Truthfulness](#nietzsche-s-english-genealogy-of-truthfulness), *Archiv für Geschichte der Philosophie*
+[Nietzsche's English Genealogy of Truthfulness](#nietzsche-s-english-genealogy-of-truthfulness.de), *Archiv für Geschichte der Philosophie*
 
-[Nietzsche as a Critic of Genealogical Debunking](#content/entries/nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion.md), *The Monist*
+[Nietzsche as a Critic of Genealogical Debunking](#nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion.de), *The Monist*
 
-[Nietzsche’s Conceptual Ethics](#nietzsche-s-conceptual-ethics), *Inquiry*
+[Nietzsche’s Conceptual Ethics](#nietzsche-s-conceptual-ethics.de), *Inquiry*
 
-[Williams’s Pragmatic Genealogy and Self-Effacing Functionality](#williams-s-pragmatic-genealogy-and-self-effacing-functionality), *Philosophers' Imprint*
+[Williams’s Pragmatic Genealogy and Self-Effacing Functionality](#williams-s-pragmatic-genealogy-and-self-effacing-functionality.de), *Philosophers' Imprint*
 
-[The Shaken Realist: Bernard Williams, the War, and Philosophy as Cultural Critique](#the-shaken-realist-bernard-williams-the-war-and-philosophy-as-cultural-critique), *European Journal of Philosophy*
+[The Shaken Realist: Bernard Williams, the War, and Philosophy as Cultural Critique](#the-shaken-realist-bernard-williams-the-war-and-philosophy-as-cultural-critique.de), *European Journal of Philosophy*
 
-[Virtue Ethics and the Morality System](#virtue-ethics-and-the-morality-system), *Topoi*
+[Virtue Ethics and the Morality System](#virtue-ethics-and-the-morality-system.de), *Topoi*
 
-[The Dworkin–Williams Debate](#the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics), *Philosophy & Phenomenological Research*
+[The Dworkin–Williams Debate](#the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics.de), *Philosophy & Phenomenological Research*
 
-[Choosing Values? Williams contra Nietzsche](#choosing-values-williams-contra-nietzsche), *The Philosophical Quarterly*
+[Choosing Values? Williams contra Nietzsche](#choosing-values-williams-contra-nietzsche.de), *The Philosophical Quarterly*
 
-[Genealogy, Evaluation, and Engineering](#genealogy-evaluation-and-engineering), *The Monist*
+[Genealogy, Evaluation, and Engineering](#genealogy-evaluation-and-engineering.de), *The Monist*
 
-[Two Orders of Things: Wittgenstein on Reasons and Causes](#two-orders-of-things-wittgenstein-on-reasons-and-causes), *Philosophy*
+[Two Orders of Things: Wittgenstein on Reasons and Causes](#two-orders-of-things-wittgenstein-on-reasons-and-causes.de), *Philosophy*
 
-[Making Past Thinkers Speak to Us Through Pragmatic Genealogies](#making-past-thinkers-speak-to-us-through-pragmatic-genealogies), in *Historiography and the Formation of Philosophical Canons*
+[Making Past Thinkers Speak to Us Through Pragmatic Genealogies](#making-past-thinkers-speak-to-us-through-pragmatic-genealogies.de), in *Historiography and the Formation of Philosophical Canons*
 
 <h2 class="section-list-heading section-list-heading-history">Detaillierte Liste</h2>
 

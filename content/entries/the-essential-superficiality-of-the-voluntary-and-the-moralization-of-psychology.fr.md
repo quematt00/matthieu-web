@@ -16,7 +16,6 @@ tags:
   - "superficiality"
   - "philosophie-théorique"
   - "philosophie-de-l'action"
-  - "volontarite"
   - "volontaire"
 categories:
   - "histoire de la philosophie"
@@ -27,7 +26,7 @@ categories:
 *Philosophical Studies* 179 (5): 1591–1620. 2022. [doi:10.1007/s11098-021-01720-2](http://doi.org/10.1007/s11098-021-01720-2)
 <!--more-->
 
-Soutient que la notion de volontaire est une notion essentiellement superficielle qui accomplit un travail important à la condition que nous ne cherchions pas à l’approfondir métaphysiquement, et que les tentatives d’approfondissement illustrent une tendance problématique à déformer notre conception de l’esprit sous la pression d’aspirations morales.
+Soutient que la notion du volontaire est une notion essentiellement superficielle qui accomplit un travail important à la condition que nous ne cherchions pas à l’approfondir métaphysiquement, et que les tentatives d’approfondissement illustrent une tendance problématique à déformer notre conception de l’esprit sous la pression d’aspirations morales.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/histoire/">histoire</a>, <a href="/fr/tags/justice/">justice</a>, <a href="/fr/tags/psychologie-morale/">psychologie morale</a>, <a href="/fr/tags/agentivite/">agentivité</a>, <a href="/fr/tags/responsabilite/">responsabilité</a>, <a href="/fr/tags/philosophie-de-laction/">philosophie de l’action</a></span>
 

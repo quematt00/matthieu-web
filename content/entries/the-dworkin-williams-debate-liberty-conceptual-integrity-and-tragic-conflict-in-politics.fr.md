@@ -29,7 +29,7 @@ categories:
 
 En reconstruisant le peu connu débat Dworkin–Williams sur la question de savoir si des concepts politiques tels que la liberté et l’égalité peuvent et doivent être réconciliés afin d’éviter les conflits, l’article explore la nature des valeurs politiques, les limites de l’intervention philosophique en politique, le défi du pluralisme et les conditions de la légitimité politique face à l’inévitabilité des conflits et des pertes.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/legitimite/">légitimité</a>, <a href="/fr/tags/politique-realisme/">politique realisme</a>, <a href="/fr/tags/pluralisme/">pluralisme</a>, <a href="/fr/tags/williams/">Williams</a>, <a href="/fr/tags/changement-conceptuel/">changement conceptuel</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/legitimite/">légitimité</a>, <a href="/fr/tags/politique-realisme/">réalisme politique</a>, <a href="/fr/tags/pluralisme/">pluralisme</a>, <a href="/fr/tags/williams/">Williams</a>, <a href="/fr/tags/changement-conceptuel/">changement conceptuel</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUETDD.pdf" aria-label="Télécharger le PDF de The Dworkin–Williams Debate: Liberty, Conceptual Integrity, and Tragic Conflict in Politics" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

@@ -35,7 +35,7 @@ categories:
 
 Bien que Nietzsche semble recourir à deux modes apparemment contraires d’évaluation des concepts — l’un s’intéresse aux effets des concepts, l’autre à ce que les concepts expriment — cet article propose une conception du caractère expressif des concepts qui unifie ces deux modes et fournit une approche puissante de la réflexion pratique sur les concepts à employer.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ethique-conceptuelle/">éthique conceptuelle</a>, <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/genealogique-methode/">méthode généalogique</a>, <a href="/fr/tags/naturalisme/">naturalisme</a>, <a href="/fr/tags/reevaluation-des-valeurs/">reevaluation des valeurs</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/ethique-conceptuelle/">éthique conceptuelle</a>, <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/genealogique-methode/">méthode généalogique</a>, <a href="/fr/tags/naturalisme/">naturalisme</a>, <a href="/fr/tags/reevaluation-des-valeurs/">réévaluation des valeurs</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUENCE.pdf" aria-label="Télécharger le PDF de Nietzsche’s Conceptual Ethics" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

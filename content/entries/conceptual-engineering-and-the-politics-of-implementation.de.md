@@ -26,7 +26,7 @@ categories:
 *Pacific Philosophical Quarterly* 103 (3): 670–691. 2022. Mit Friedemann Bieber. [doi:10.1111/papq.12394](http://doi.org/10.1111/papq.12394)
 <!--more-->
 
-Argumentiert, dass der Grad an Kontrolle, den wir über begrifflichen Wandel haben, selbst etwas ist, das wir beeinflussen können. Und während manche Bereiche die Institutionalisierung der Macht erfordern, begriffliche Innovationen durchzusetzen – weil es starke praktische Zwänge gibt, sich auf eine einheitliche, harmonisierte Fachterminologie zu koordinieren –, gibt es zugleich liberale und demokratische Gründe dafür, Conceptual Engineering standardmäßig schwer umsetzbar zu machen.
+Argumentiert, dass der Grad an Kontrolle, den wir über begrifflichen Wandel haben, selbst etwas ist, das wir beeinflussen können. Und während manche Bereiche die Institutionalisierung der Macht erfordern, begriffliche Innovationen durchzusetzen – weil es starke praktische Zwänge gibt, sich auf eine einheitliche, harmonisierte Fachterminologie zu koordinieren –, gibt es zugleich liberale und demokratische Gründe dafür, Begriffsengineering standardmässig schwer umsetzbar zu machen.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/begriffswandel/">Begriffswandel</a>, <a href="/de/tags/koordination/">Koordination</a>, <a href="/de/tags/liberalismus/">Liberalismus</a>, <a href="/de/tags/macht/">Macht</a></span>
 

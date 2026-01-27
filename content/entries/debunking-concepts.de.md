@@ -26,7 +26,7 @@ categories:
 *Midwest Studies in Philosophy* 47 (1): 195–225. Auf Einladung. 2023. [doi:10.5840/msp2023111347](https://doi.org/10.5840/msp2023111347)
 <!--more-->
 
-Argumentiert, dass die Entlarvung von Begriffen über die Beurteilung ihrer erkenntnistheoretischen Meriten hinausgehen und auch eine moralische, soziale und politische Bewertung auf Grundlage ihrer gesellschaftlichen Funktionen und Wirkungen umfassen sollte.
+Argumentiert, dass die Entlarvung von Begriffen über die Beurteilung ihrer epistemischen Vorzüge hinausgehen und auch eine moralische, soziale und politische Bewertung auf Grundlage ihrer gesellschaftlichen Funktionen und Wirkungen umfassen sollte.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffe/">Begriffe</a>, <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/genealogische-entlarvung/">genealogische Entlarvung</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/ideologie-kritik/">Ideologiekritik</a>, <a href="/de/tags/methodologie/">Methodologie</a></span>
 

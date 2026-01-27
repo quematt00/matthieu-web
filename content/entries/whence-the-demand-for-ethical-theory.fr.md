@@ -13,7 +13,7 @@ tags:
   - "public-délibération"
   - "legitimite"
   - "philosophie-pratique"
-  - "public-raison"
+  - "raison-publique"
   - "changement-conceptuel"
 categories:
   - "histoire de la philosophie"
@@ -25,7 +25,7 @@ categories:
 
 Propose une dérivation pratique de la nécessité pour le raisonnement public et judiciaire de prendre une forme plus discursive et cohérente que la délibération privée (un thème que j’explore plus pleinement au chapitre 10 de mon deuxième livre).
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/public-raison/">public raison</a>, <a href="/fr/tags/theorie-ethique/">théorie éthique</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/metaethique/">métaéthique</a>, <a href="/fr/tags/legitimite/">légitimité</a>, <a href="/fr/tags/changement-conceptuel/">changement conceptuel</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/raison-publique/">raison publique</a>, <a href="/fr/tags/theorie-ethique/">théorie éthique</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/metaethique/">métaéthique</a>, <a href="/fr/tags/legitimite/">légitimité</a>, <a href="/fr/tags/changement-conceptuel/">changement conceptuel</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/CUEWTD.pdf" aria-label="Télécharger le PDF de Whence the Demand for Ethical Theory?" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

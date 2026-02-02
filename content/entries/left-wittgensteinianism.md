@@ -24,7 +24,7 @@ categories:
   - "theoretical philosophy"
 ---
 
-*European Journal of Philosophy* 29 (4): 758–77. 2021. [doi:10.1111/ejop.12603](http://doi.org/10.1111/ejop.12603)
+*European Journal of Philosophy* 29 (4): 758–77. 2021. With Damian Cueni. [doi:10.1111/ejop.12603](http://doi.org/10.1111/ejop.12603)
 <!--more-->
 
 Focusing on the social and political conceptual practices that Wittgenstein neglected, the paper presents a novel, more dynamic interpretation of Wittgenstein’s model of conceptual change, on which conceptual change becomes intelligible not just as a brute, exogenous imposition on rational discourse, but as endogenous and reason-driven. This counters the socially conservative tendencies of existing interpretations and renders intelligible the possibility of radical critique within a Wittgensteinian framework.

@@ -29,7 +29,7 @@ categories:
   - "Praktische Philosophie"
 ---
 
-*Philosophy & Technology* 38 (170): 1–7. 2025. Eingeladener Kommentar. [doi:10.1007/s13347-025-01006-z](https://doi.org/10.1007/s13347-025-01006-z).
+*Philosophy & Technology* 38 (170): 1–7. 2025. Eingeladener Kommentar. [doi:10.1007/s13347-025-01006-z](https://doi.org/10.1007/s13347-025-01006-z)
 <!--more-->
 
 Eine politische Kritik an personalisierten KI‑Beratern aus der Perspektive des Liberalismus der Furcht. Hebt die involvierten Machtasymmetrien hervor und argumentiert, dass Personalisierung die Gefahr birgt, Dominanz zu stabilisieren, indem strukturelle Ungerechtigkeiten in individualisierte, aspirationale Herausforderungen übersetzt werden. Anschliessend werden drei politische Beschränkungen für personalisierte KI vorgeschlagen: der Vorrang der Nicht-Beherrschung, die öffentliche Bestreitbarkeit operativer Normen und die Anerkennung nicht‑personalisierbarer bürgerschaftlicher Lasten.

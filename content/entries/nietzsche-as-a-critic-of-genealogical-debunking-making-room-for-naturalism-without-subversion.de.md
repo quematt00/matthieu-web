@@ -19,7 +19,7 @@ categories:
   - "Theoretische Philosophie"
 ---
 
-*The Monist* 102 (3): 277–297. 2019. [doi:10.1093/monist/onz010](https://academic.oup.com/monist/article/102/3/277/5499216?guestAccessKey=48ffd71d-0574-49ae-9a5b-b6ab937d60b8)
+*The Monist* 102 (3): 277–297. 2019. Mit Damian Cueni. [doi:10.1093/monist/onz010](https://academic.oup.com/monist/article/102/3/277/5499216?guestAccessKey=48ffd71d-0574-49ae-9a5b-b6ab937d60b8)
 <!--more-->
 
 Argumentiert, dass Nietzsches genealogische Methode entgegen verbreiteter Auffassung nicht darauf abzielt, zu subvertieren, indem sie immanente und niedere naturalistische Ursprünge aufdeckt – im Gegenteil: Nietzsche ist ein Kritiker eines so verstandenen genealogischen Debunkings, weil es droht, Reflexion in einer durch wissenschaftlichen Fortschritt zunehmend entzauberten Welt zu einer universellen Säure zu machen. Stattdessen befürwortet Nietzsche eine Perspektive, die naturalistisches Verständnis zulässt und den Gegensatz zwischen vindizierenden und subversiven Genealogien innerhalb des Raums naturalistischer Ursprünge neu zieht.

@@ -96,6 +96,21 @@
     ensureDownloadLinksOpenNewTab(document);
   }
 
+  function markEntryTags(root) {
+    const tagSpans = root.querySelectorAll?.(".entry-item span") ?? [];
+    for (const span of tagSpans) {
+      if (span.querySelector?.(".fa-tags")) {
+        span.classList.add("entry-tags");
+      }
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", () => markEntryTags(document));
+  } else {
+    markEntryTags(document);
+  }
+
   function setupBookAudioButtons(root) {
     const buttons = root.querySelectorAll?.("a.book-audio-button") ?? [];
     if (!buttons.length) return;

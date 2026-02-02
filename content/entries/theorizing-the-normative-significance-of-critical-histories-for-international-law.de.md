@@ -23,7 +23,7 @@ categories:
   - "Praktische Philosophie"
 ---
 
-*Journal of the History of International Law* 24 (4): 561–587. 2022. [doi:10.1163/15718050-12340207](http://doi.org/10.1163/15718050-12340207)
+*Journal of the History of International Law* 24 (4): 561–587. 2022. Mit Damian Cueni. [doi:10.1163/15718050-12340207](http://doi.org/10.1163/15718050-12340207)
 <!--more-->
 
 Behandelt die Frage, ob die belastete Geschichte des Völkerrechts unsere heutige Bewertung beeinflussen sollte. Er argumentiert, dass kritische Geschichtsschreibungen ihre Wirkung auf drei Hauptweisen entfalten: indem sie die historischen Ansprüche untergraben, die die Autorität einer Praxis stützen; indem sie die normativen Erwartungen verfehlen, die Lesende an die Vergangenheit herantragen; und indem sie die funktionalen Kontinuitäten nachzeichnen, die vergangene Probleme mit der Gegenwart verbinden. Der Rahmen erklärt, wie Geschichte normativ bedeutsam sein kann, selbst wenn ihr direkter Einfluss auf juristische Argumentation unklar ist.

@@ -3,10 +3,7 @@ title: "Wittgenstein on the Chain of Reasons"
 year: "2016"
 tags:
   - "action-theory"
-  - "bioethics"
   - "chain-of-reasons"
-  - "common-heritage"
-  - "dna"
   - "analytic-philosophy"
   - "20th-century"
   - "epistemology"
@@ -15,7 +12,6 @@ tags:
   - "justification"
   - "language-games"
   - "philosophy-of-language"
-  - "political-philosophy"
   - "rationality"
   - "reasoning"
   - "reasons-and-causes"
@@ -33,7 +29,7 @@ categories:
 
 Examines Wittgenstein's conception of reason and rationality through the lens of his conception of reasons.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/tags/action-theory/">action theory</a>, <a href="/tags/bioethics/">bioethics</a>, <a href="/tags/common-heritage/">common heritage</a>, <a href="/tags/dna/">DNA</a>, <a href="/tags/analytic-philosophy/">analytic philosophy</a>, <a href="/tags/20th-century/">20th century</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/tags/action-theory/">action theory</a>, <a href="/tags/wittgenstein/">Wittgenstein</a>, <a href="/tags/reasons-and-causes/">reasons and causes</a>, <a href="/tags/philosophy-of-mind/">philosophy of mind</a>, <a href="/tags/explanation/">explanation</a>, <a href="/tags/justification/">justification</a></span>
 
 <a class="download-link" href="https://philarchive.org/archive/QUEWOT" target="_blank" rel="noopener noreferrer" aria-label="Download PDF of Wittgenstein on the Chain of Reasons">
   <i class="fa-solid fa-download"></i> Download PDF

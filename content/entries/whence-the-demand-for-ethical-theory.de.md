@@ -20,7 +20,7 @@ categories:
   - "Praktische Philosophie"
 ---
 
-*American Philosophical Quarterly* 58 (2): 135–46. 2021. [doi:10.2307/48614001](https://doi.org/10.2307/48614001)
+*American Philosophical Quarterly* 58 (2): 135–46. 2021. Mit Damian Cueni. [doi:10.2307/48614001](https://doi.org/10.2307/48614001)
 <!--more-->
 
 Bietet eine praktische Herleitung der Notwendigkeit, dass öffentliches und gerichtliches Schliessen eine stärker diskursive und konsistente Form annehmen muss als private Überlegungen (ein Thema, das ich in Kap. 10 meines zweiten Buches ausführlicher behandle).

@@ -3,10 +3,8 @@ title: "Wittgenstein on the Chain of Reasons"
 year: "2016"
 tags:
   - "handlungstheorie"
-  - "bioethik"
   - "gruendekette"
   - "gemeinsames-erbe"
-  - "dns"
   - "analytische-philosophie"
   - "20-jahrhundert"
   - "erkenntnistheorie"
@@ -15,7 +13,6 @@ tags:
   - "rechtfertigung"
   - "sprachspiele"
   - "sprachphilosophie"
-  - "politische-philosophie"
   - "rationalitaet"
   - "schlussfolgern"
   - "gruende-und-ursachen"
@@ -33,7 +30,7 @@ categories:
 
 Untersucht Wittgensteins Verständnis von Vernunft und Rationalität durch die Linse seiner Auffassung von Gründen.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/handlungstheorie/">Handlungstheorie</a>, <a href="/de/tags/bioethik/">Bioethik</a>, <a href="/de/tags/gemeinsames-erbe/">gemeinsames Erbe</a>, <a href="/de/tags/dns/">DNS</a>, <a href="/de/tags/analytische-philosophie/">analytische Philosophie</a>, <a href="/de/tags/20-jahrhundert/">20. Jahrhundert</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/handlungstheorie/">Handlungstheorie</a>, <a href="/de/tags/wittgenstein/">Wittgenstein</a>, <a href="/de/tags/gruende-vs-ursachen/">Gründe und Ursachen</a>, <a href="/de/tags/philosophie-des-geistes/">Philosophie des Geistes</a>, <a href="/de/tags/erklaerung/">Erklärung</a>, <a href="/de/tags/rechtfertigung/">Rechtfertigung</a></span>
 
 <a class="download-link" href="https://philarchive.org/archive/QUEWOT" target="_blank" rel="noopener noreferrer" aria-label="PDF von Wittgenstein on the Chain of Reasons herunterladen">
   <i class="fa-solid fa-download"></i> PDF herunterladen

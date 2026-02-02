@@ -29,7 +29,7 @@ categories:
   - "practical philosophy"
 ---
 
-*Philosophy & Technology* 38 (170): 1–7. 2025. Invited commentary. [doi:10.1007/s13347-025-01006-z](https://doi.org/10.1007/s13347-025-01006-z).
+*Philosophy & Technology* 38 (170): 1–7. 2025. Invited commentary. [doi:10.1007/s13347-025-01006-z](https://doi.org/10.1007/s13347-025-01006-z)
 <!--more-->
 
 A political critique of personalized AI advisors through the lens of the liberalism of fear. Highlights the asymmetries of power involved and argues that personalization risks stabilizing domination by translating structural injustices into individualized aspirational challenges. Three political constraints on personalized AI are then proposed: the priority of non-domination, the public contestability of operative norms, and the recognition of non-personalizable civic burdens.

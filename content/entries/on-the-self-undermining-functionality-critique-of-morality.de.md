@@ -29,7 +29,7 @@ categories:
 
 Rekonstruiert Reginsters Deutung von Nietzsches Moralkritik als eine „sich selbst unterminierende Funktionskritik“ und formuliert drei Probleme dagegen.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/funktionalitaet/">Funktionalität</a>, <a href="/de/tags/funktion/">Funktion</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/genealogische-entlarvung/">genealogische Entlarvung</a>, <a href="/de/tags/pragmatische-genealogie/">pragmatische Genealogie</a>, <a href="/de/tags/metaethik/">Metaethik</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/funktionalitaet/">Funktionalität</a>, <a href="/de/tags/funktion/">Funktion</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/genealogische-entlarvung/">genealogische Entlarvung</a>, <a href="/de/tags/metaethik/">Metaethik</a>, <a href="/de/tags/moral/">Moral</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEOTS-2.pdf" aria-label="PDF von On the Self-Undermining Functionality Critique of Morality. herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

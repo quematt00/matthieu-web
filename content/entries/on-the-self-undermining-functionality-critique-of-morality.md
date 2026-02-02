@@ -29,7 +29,7 @@ categories:
 
 Reconstructs Reginster’s account of Nietzsche’s critique of morality as a “self-undermining functionality critique” and raise three problems for it.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/tags/functionality/">functionality</a>, <a href="/tags/function/">function</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/genealogical-debunking/">genealogical debunking</a>, <a href="/tags/pragmatic-genealogy/">pragmatic genealogy</a>, <a href="/tags/metaethics/">metaethics</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/tags/functionality/">functionality</a>, <a href="/tags/function/">function</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/genealogical-debunking/">genealogical debunking</a>, <a href="/tags/metaethics/">metaethics</a>, <a href="/tags/morality/">morality</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEOTS-2.pdf" aria-label="Download PDF of On the Self-Undermining Functionality Critique of Morality." target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Download PDF

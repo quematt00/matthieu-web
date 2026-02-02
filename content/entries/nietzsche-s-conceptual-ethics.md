@@ -35,7 +35,7 @@ categories:
 
 While Nietzsche appears to engage in two seemingly contrary modes of concept evaluation—one looks to concepts’ effects, the other to what concepts express—this article offers an account of the expressive character of concepts which unifies these two modes and yields a powerful approach to practical reflection on which concepts to use.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/tags/conceptual-ethics/">conceptual ethics</a>, <a href="/tags/conceptual-engineering/">conceptual engineering</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/genealogical-method/">genealogical method</a>, <a href="/tags/naturalism/">naturalism</a>, <a href="/tags/revaluation-of-values/">revaluation of values</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/tags/conceptual-ethics/">conceptual ethics</a>, <a href="/tags/conceptual-engineering/">conceptual engineering</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/naturalism/">naturalism</a>, <a href="/tags/revaluation-of-values/">revaluation of values</a>, <a href="/tags/expressivism/">expressivism</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUENCE.pdf" aria-label="Download PDF of Nietzsche’s Conceptual Ethics" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Download PDF

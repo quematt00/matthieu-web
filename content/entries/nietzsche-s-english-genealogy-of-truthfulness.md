@@ -28,7 +28,7 @@ categories:
 
 Based on various posthumous fragments, the article reconstructs Nietzsche’s little-known early genealogical account of how the value of truth and the cultivation of the virtue of truthfulness originated not from a pure love of truth, but from the practical necessity of social cooperation.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/genealogical-method/">genealogical method</a>, <a href="/tags/19th-century/">19th century</a>, <a href="/tags/pragmatic-genealogy/">pragmatic genealogy</a>, <a href="/tags/nietzsche/">Nietzsche</a>, <a href="/tags/continental-philosophy/">continental philosophy</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/19th-century/">19th century</a>, <a href="/tags/nietzsche/">Nietzsche</a>, <a href="/tags/continental-philosophy/">continental philosophy</a>, <a href="/tags/truthfulness/">truthfulness</a>, <a href="/tags/social-cooperation/">social cooperation</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUENEG.pdf" aria-label="Download PDF of Nietzsche’s English Genealogy of Truthfulness." target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Download PDF

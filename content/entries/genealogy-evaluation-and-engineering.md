@@ -32,7 +32,7 @@ categories:
 
 Argues that genealogical explanations can be used to evaluate and improve conceptual practices, taking as an example the demand for conceptual innovation around notions of legitimacy created by the increasing power of international institutions.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/tags/conceptual-engineering/">conceptual engineering</a>, <a href="/tags/legitimacy/">legitimacy</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/genealogical-method/">genealogical method</a>, <a href="/tags/ideology-critique/">ideology critique</a>, <a href="/tags/conceptual-ethics/">conceptual ethics</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/tags/conceptual-engineering/">conceptual engineering</a>, <a href="/tags/legitimacy/">legitimacy</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/ideology-critique/">ideology critique</a>, <a href="/tags/conceptual-ethics/">conceptual ethics</a>, <a href="/tags/international-institutions/">international institutions</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEGCE.pdf" aria-label="Download PDF of Genealogy, Evaluation, and Engineering" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Download PDF

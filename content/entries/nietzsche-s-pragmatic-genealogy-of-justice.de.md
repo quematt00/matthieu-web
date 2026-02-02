@@ -24,7 +24,7 @@ categories:
 
 Untersucht Nietzsches Auffassung, dass das Ideal der Gerechtigkeit eine kontingente politische Entwicklung ist, die erst entsteht, wenn Parteien ungefähr gleicher Macht ein System von Austausch und Vergeltung brauchen, um eine wechselseitig gesicherte Zerstörung zu vermeiden; damit ist die Anwendbarkeit von Gerechtigkeitsnormen ursprünglich an Machtverteilungen gebunden. Diese Perspektive fasst Gerechtigkeit als eine von Menschen geschaffene Lösung für das wiederkehrende Problem sozialer Ordnung. Das Verständnis dieser Ursprünge vindiziert Gerechtigkeit als eine unverzichtbare Erfindung für das soziale Leben.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/genealogische-methode/">genealogische Methode</a>, <a href="/de/tags/macht/">Macht</a>, <a href="/de/tags/politische-philosophie/">politische Philosophie</a>, <a href="/de/tags/19-jahrhundert/">19. Jahrhundert</a>, <a href="/de/tags/gerechtigkeit/">Gerechtigkeit</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/macht/">Macht</a>, <a href="/de/tags/politische-philosophie/">politische Philosophie</a>, <a href="/de/tags/19-jahrhundert/">19. Jahrhundert</a>, <a href="/de/tags/gerechtigkeit/">Gerechtigkeit</a>, <a href="/de/tags/nietzsche/">Nietzsche</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUENPG.pdf" aria-label="PDF von Nietzsche’s Pragmatic Genealogy of Justice. herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

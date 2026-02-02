@@ -29,7 +29,7 @@ categories:
 
 Summarizes my book for a symposium in *Analysis*.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/tags/analysis/">analysis</a>, <a href="/tags/conceptual-engineering/">conceptual engineering</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/pragmatic-genealogy/">pragmatic genealogy</a>, <a href="/tags/history-of-ideas/">history of ideas</a>, <a href="/tags/state-of-nature/">state of nature</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/tags/analysis/">analysis</a>, <a href="/tags/conceptual-engineering/">conceptual engineering</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/history-of-ideas/">history of ideas</a>, <a href="/tags/state-of-nature/">state of nature</a>, <a href="/tags/book-symposium/">book symposium</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEPOT-2.pdf" aria-label="Download PDF of Précis of The Practical Origins of Ideas" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Download PDF

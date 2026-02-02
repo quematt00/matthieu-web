@@ -27,7 +27,7 @@ categories:
 
 Warum sollten Philosophinnen und Philosophen, die sich für die Punkte oder Funktionen unserer begrifflichen Praktiken interessieren, sich mit genealogischen Erklärungen befassen, wenn sie sich auch direkt auf paradigmatische Beispiele der Praktiken konzentrieren können, die wir heute haben? Der Aufsatz nennt drei Gründe dafür, warum der genealogische Ansatz seine Berechtigung hat, und formuliert Kriterien dafür, wann er angezeigt ist.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/erklaerung/">Erklärung</a>, <a href="/de/tags/funktionen/">Funktionen</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/pragmatische-genealogie/">pragmatische Genealogie</a>, <a href="/de/tags/geschichte/">Geschichte</a>, <a href="/de/tags/historiographie/">Historiographie</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/erklaerung/">Erklärung</a>, <a href="/de/tags/funktionen/">Funktionen</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/geschichte/">Geschichte</a>, <a href="/de/tags/historiographie/">Historiographie</a>, <a href="/de/tags/methodologie/">Methodologie</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEFPE.pdf" aria-label="PDF von From Paradigm-Based Explanation to Pragmatic Genealogy herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

@@ -24,7 +24,7 @@ categories:
 
 Timothy Williamson’s knowledge-first epistemology holds that the concept of knowledge is primitive and explanatorily fundamental. This seems to leave little room for attempts to give a genealogical explanation of the concept of knowledge, much less ones that explain the formation of the concept of knowledge in terms of the concept of belief, as E.J. Craig does. Yet I argue that Craig’s genealogy of the concept of knowledge not only is compatible with knowledge-first epistemology, but actually lends succour to it.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/tags/craig/">Craig</a>, <a href="/tags/epistemology/">epistemology</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/pragmatic-genealogy/">pragmatic genealogy</a>, <a href="/tags/methodology/">methodology</a>, <a href="/tags/williams/">Williams</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/tags/craig/">Craig</a>, <a href="/tags/epistemology/">epistemology</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/methodology/">methodology</a>, <a href="/tags/williams/">Williams</a>, <a href="/tags/knowledge-first-epistemology/">knowledge-first epistemology</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEGAK.pdf" aria-label="Download PDF of Genealogy and Knowledge-First Epistemology: A Mismatch?" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Download PDF

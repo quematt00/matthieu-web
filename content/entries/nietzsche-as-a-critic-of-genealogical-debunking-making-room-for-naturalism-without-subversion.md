@@ -24,7 +24,7 @@ categories:
 
 Argues that contrary to popular belief, Nietzsche’s genealogical method does not seek to subvert by revealing immanent and lowly naturalistic origins—quite the opposite: Nietzsche is a critic of genealogical debunking thus conceived, on the grounds that it threatens to make a universal acid of reflection in a world increasingly disenchanted by scientific advances. Instead, Nietzsche advocates an outlook which makes room for naturalistic understanding and redraws the contrast between vindicatory and subversive genealogies within the space of naturalistic origins.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/tags/genealogical-debunking/">genealogical debunking</a>, <a href="/tags/genealogical-method/">genealogical method</a>, <a href="/tags/metaethics/">metaethics</a>, <a href="/tags/naturalism/">naturalism</a>, <a href="/tags/continental-philosophy/">continental philosophy</a>, <a href="/tags/19th-century/">19th century</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/tags/genealogical-debunking/">genealogical debunking</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/metaethics/">metaethics</a>, <a href="/tags/naturalism/">naturalism</a>, <a href="/tags/continental-philosophy/">continental philosophy</a>, <a href="/tags/19th-century/">19th century</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUENAA.pdf" aria-label="Download PDF of Nietzsche as a Critic of Genealogical Debunking: Making Room for Naturalism without Subversion." target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Download PDF

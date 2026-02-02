@@ -52,13 +52,18 @@ SPAN_REPLACEMENTS: dict[str, list[str]] = {
         "technology",
         "power",
     ],
-    "on-the-normativity-of-explications.md": [
+    "explication-or-amelioration-carnapian-clarification-as-the-normative-basis-for-conceptual-engineering.md": [
+        "carnap",
+        "clarification",
         "normativity",
         "explication",
-        "rickert",
-        "windelband",
-        "conceptual-change",
-        "theoretical-philosophy",
+        "amelioration",
+        "conceptual-engineering",
+        "vienna-circle",
+        "definition",
+        "concept",
+        "begriffsengineering",
+        "conceptual-analysis",
     ],
     "reasons-of-love-and-conceptual-good-for-nothings.md": [
         "concepts",

@@ -24,7 +24,7 @@ categories:
 
 L’épistémologie knowledge‑first de Timothy Williamson soutient que le concept de connaissance est primitif et explicativement fondamental. Cela semble laisser peu de place aux tentatives de fournir une explication généalogique du concept de connaissance — a fortiori à celles qui, comme chez E. J. Craig, expliquent la formation du concept de connaissance à partir du concept de croyance. Pourtant, je soutiens que la généalogie craigienne du concept de connaissance n’est pas seulement compatible avec l’épistémologie knowledge‑first, mais qu’elle lui apporte en réalité un soutien.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/craig/">Craig</a>, <a href="/fr/tags/epistemologie/">épistémologie</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/pragmatique-genealogie/">généalogie pragmatique</a>, <a href="/fr/tags/methodologie/">méthodologie</a>, <a href="/fr/tags/williams/">Williams</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/craig/">Craig</a>, <a href="/fr/tags/epistemologie/">épistémologie</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/methodologie/">méthodologie</a>, <a href="/fr/tags/williams/">Williams</a>, <a href="/fr/tags/epistemologie-du-primat-de-la-connaissance/">épistémologie du primat de la connaissance</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEGAK.pdf" aria-label="Télécharger le PDF de Genealogy and Knowledge-First Epistemology: A Mismatch?" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

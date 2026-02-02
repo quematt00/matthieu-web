@@ -12,10 +12,36 @@ Languages:
 Key indexes:
 - Sitemap (all pages): https://www.matthieuqueloz.com/sitemap.xml
 - Search index (JSON): https://www.matthieuqueloz.com/search.json
+- Tags: https://www.matthieuqueloz.com/tags/
+- Categories: https://www.matthieuqueloz.com/categories/
+
+Core sections (English):
+- Theoretical philosophy: https://www.matthieuqueloz.com/theoretical-philosophy/
+- Practical philosophy: https://www.matthieuqueloz.com/practical-philosophy/
+- History of philosophy: https://www.matthieuqueloz.com/history-of-philosophy/
+- Media / outreach: https://www.matthieuqueloz.com/media/
+- Bibliography: https://www.matthieuqueloz.com/bibliography/
+- Books: https://www.matthieuqueloz.com/books/
+
+Core sections (Français):
+- Philosophie théorique: https://www.matthieuqueloz.com/fr/theoretical-philosophy/
+- Philosophie pratique: https://www.matthieuqueloz.com/fr/practical-philosophy/
+- Histoire de la philosophie: https://www.matthieuqueloz.com/fr/history-of-philosophy/
+- Médias: https://www.matthieuqueloz.com/fr/media/
+- Bibliographie: https://www.matthieuqueloz.com/fr/bibliography/
+- Livres: https://www.matthieuqueloz.com/fr/books/
+
+Core sections (Deutsch):
+- Theoretische Philosophie: https://www.matthieuqueloz.com/de/theoretical-philosophy/
+- Praktische Philosophie: https://www.matthieuqueloz.com/de/practical-philosophy/
+- Philosophiegeschichte: https://www.matthieuqueloz.com/de/history-of-philosophy/
+- Medien: https://www.matthieuqueloz.com/de/media/
+- Bibliographie: https://www.matthieuqueloz.com/de/bibliography/
+- Bücher: https://www.matthieuqueloz.com/de/books/
 
 Where to find publications:
-- Entries list (EN): https://www.matthieuqueloz.com/theoretical-philosophy/ , https://www.matthieuqueloz.com/practical-philosophy/ , https://www.matthieuqueloz.com/history-of-philosophy/
 - Individual entries are under: https://www.matthieuqueloz.com/entries/
+- Language-specific entries are under: https://www.matthieuqueloz.com/fr/entries/ and https://www.matthieuqueloz.com/de/entries/
 
 Metadata:
 - Entry pages include machine-readable citation meta tags and schema.org JSON-LD (ScholarlyArticle).

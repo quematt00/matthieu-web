@@ -7,6 +7,7 @@ defaultContentLanguageInSubdir = false
 removePathAccents = true
 enableGitInfo = true
 enableRobotsTXT = true
+ignoreFiles = ["^assets/jsconfig\\.json$"]
 
 [minify]
   minifyOutput = true

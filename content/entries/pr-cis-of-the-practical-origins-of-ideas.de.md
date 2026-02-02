@@ -29,7 +29,7 @@ categories:
 
 Fasst mein Buch für ein Symposium in *Analysis* zusammen.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/analyse/">Analyse</a>, <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/pragmatische-genealogie/">pragmatische Genealogie</a>, <a href="/de/tags/ideengeschichte/">Ideengeschichte</a>, <a href="/de/tags/naturzustand/">Naturzustand</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/analyse/">Analyse</a>, <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/ideengeschichte/">Ideengeschichte</a>, <a href="/de/tags/naturzustand/">Naturzustand</a>, <a href="/de/tags/buch-symposium/">Buchsymposium</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEPOT-2.pdf" aria-label="PDF von Précis of The Practical Origins of Ideas herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

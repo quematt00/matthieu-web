@@ -29,7 +29,7 @@ categories:
 
 Reconstruit l’interprétation par Reginster de la critique nietzschéenne de la morale comme une « critique fonctionnaliste auto-invalidante » et soulève trois difficultés à son égard.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/fonctionnalite/">fonctionnalité</a>, <a href="/fr/tags/fonction/">fonction</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/demystification-genealogique/">démystification généalogique</a>, <a href="/fr/tags/pragmatique-genealogie/">généalogie pragmatique</a>, <a href="/fr/tags/metaethique/">métaéthique</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/fonctionnalite/">fonctionnalité</a>, <a href="/fr/tags/fonction/">fonction</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/demystification-genealogique/">démystification généalogique</a>, <a href="/fr/tags/metaethique/">métaéthique</a>, <a href="/fr/tags/moralite/">moralité</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEOTS-2.pdf" aria-label="Télécharger le PDF de On the Self-Undermining Functionality Critique of Morality." target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

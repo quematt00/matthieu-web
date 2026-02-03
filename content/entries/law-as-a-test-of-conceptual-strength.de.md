@@ -3,7 +3,7 @@ title: "Law as a Test of Conceptual Strength"
 year: "im Erscheinen"
 tags:
   - "begriffsstaerke"
-  - "begriffsengineering"
+  - "conceptual-engineering"
   - "begriffstest"
   - "schuld"
   - "intention"
@@ -32,7 +32,7 @@ In *Bernard Williams on Law and Jurisprudence: From Agency and Responsibility to
 
 Liest Williams’ „What Has Philosophy to Learn from Tort Law?“ als Radikalisierung von Austins Einsicht, dass das Deliktsrecht der Ort ist, an dem die Begriffe des gesunden Menschenverstands wirklich auf die Probe gestellt werden. Identifiziert sieben Merkmale der Deliktsrechtspraxis, die Begriffe wie Verschulden, Absicht, Fahrlässigkeit und Freiwilligkeit einem aussergewöhnlichen Druck aussetzen. Erklärt – im Kontrast zum Strafrecht –, wie Unterschiede in Beweismassstäben, Fallprofilen und Doktrinen der Gefährdungshaftung sowohl die Stärke als auch die Schwachstellen unserer Begriffe zur Zuschreibung von Verantwortung sichtbar machen.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/rechtsphilosophie/">Rechtsphilosophie</a>, <a href="/de/tags/recht/">Recht</a>, <a href="/de/tags/verantwortung/">Verantwortung</a>, <a href="/de/tags/williams/">Williams</a>, <a href="/de/tags/begriffswandel/">Begriffswandel</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/conceptual-engineering/">Conceptual Engineering</a>, <a href="/de/tags/rechtsphilosophie/">Rechtsphilosophie</a>, <a href="/de/tags/recht/">Recht</a>, <a href="/de/tags/verantwortung/">Verantwortung</a>, <a href="/de/tags/williams/">Williams</a>, <a href="/de/tags/begriffswandel/">Begriffswandel</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUELAA.pdf" aria-label="PDF von Law as a Test of Conceptual Strength herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

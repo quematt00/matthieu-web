@@ -11,7 +11,6 @@ tags:
   - "vienna-circle"
   - "definition"
   - "concepts"
-  - "begriffsengineering"
   - "conceptual-analysis"
 categories:
   - "theoretical philosophy"

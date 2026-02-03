@@ -20,7 +20,7 @@ categories:
   - "philosophie théorique"
 ---
 
-Avec Nikhil Krishnan. Dans *Bernard Williams on Philosophy and History*. Marcel van Ackeren et Matthieu Queloz (dir.), 283–316. Oxford : Oxford University Press. 2025.
+Dans *Bernard Williams on Philosophy and History*. Marcel van Ackeren et Matthieu Queloz (dir.), 283–316. Oxford : Oxford University Press. 2025. Avec Nikhil Krishnan.
 <!--more-->
 
 Soutient que plusieurs aspects du style, de la méthodologie et de la métaphilosophie de Bernard Williams peuvent être interprétés comme se développant dialectiquement à partir de ceux de Wittgenstein.

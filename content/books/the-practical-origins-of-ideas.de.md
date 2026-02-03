@@ -4,7 +4,7 @@ year: "2021"
 tags:
   - "begriffe"
   - "begriffsethik"
-  - "begriffsengineering"
+  - "conceptual-engineering"
   - "genealogie"
   - "pragmatismus"
   - "naturzustand"

@@ -5,7 +5,7 @@ tags:
   - "begriffe"
   - "begriffsethik"
   - "begriffs-funktionen"
-  - "begriffsengineering"
+  - "conceptual-engineering"
   - "bedeutung"
   - "metaphilosophie"
   - "normativitaet"
@@ -24,7 +24,7 @@ categories:
 
 Indem er vier Bedeutungen unterscheidet, in denen man sagen kann, dass Begriffe einen „point“ haben, löst dieser Aufsatz die Spannung zwischen dem Anspruch von Erklärungen, die beim Witz eines Begriffs ansetzen, informativ zu sein, und der – für Dummetts Sprachphilosophie, aber auch für die Literatur zu thick concepts zentralen – These, dass die Beherrschung von Begriffen bereits das Erfassen ihres „point“ voraussetzt.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffe/">Begriffe</a>, <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/begrifflich-funktionen/">Begrifflich Funktionen</a>, <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/metaphilosophie/">Metaphilosophie</a>, <a href="/de/tags/normativitaet/">Normativität</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffe/">Begriffe</a>, <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/begrifflich-funktionen/">Begrifflich Funktionen</a>, <a href="/de/tags/conceptual-engineering/">Conceptual Engineering</a>, <a href="/de/tags/metaphilosophie/">Metaphilosophie</a>, <a href="/de/tags/normativitaet/">Normativität</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUETPO-4.pdf" aria-label="PDF von The Points of Concepts: Their Types, Tensions, and Connections herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

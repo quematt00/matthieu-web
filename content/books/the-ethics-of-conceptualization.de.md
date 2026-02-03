@@ -3,7 +3,7 @@ title: "The Ethics of Conceptualization: Tailoring Thought and Language to Need"
 year: "2025"
 tags:
   - "begriffsethik"
-  - "begriffsengineering"
+  - "conceptual-engineering"
   - "dicke-begriffe"
   - "normativitaet"
   - "autoritaet"

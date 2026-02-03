@@ -3,7 +3,7 @@ title: "Nietzsche’s Conceptual Ethics"
 year: "2022"
 tags:
   - "begriffsethik"
-  - "begriffsengineering"
+  - "conceptual-engineering"
   - "begriffsbewertung"
   - "expressivismus"
   - "genealogie"
@@ -35,7 +35,7 @@ categories:
 
 Obwohl Nietzsche zwei scheinbar gegensätzliche Weisen der Begriffs­bewertung zu verfolgen scheint – die eine richtet sich auf die Wirkungen von Begriffen, die andere auf das, was Begriffe ausdrücken –, entwickelt dieser Aufsatz eine Darstellung des expressiven Charakters von Begriffen, die beide Weisen vereint und einen leistungsfähigen Ansatz für praktische Überlegungen dazu liefert, welche Begriffe zu verwenden sind.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/naturalismus/">Naturalismus</a>, <a href="/de/tags/umwertung-der-werte/">Umwertung der Werte</a>, <a href="/de/tags/expressivismus/">Expressivismus</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/conceptual-engineering/">Conceptual Engineering</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/naturalismus/">Naturalismus</a>, <a href="/de/tags/umwertung-der-werte/">Umwertung der Werte</a>, <a href="/de/tags/expressivismus/">Expressivismus</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUENCE.pdf" aria-label="PDF von Nietzsche’s Conceptual Ethics herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

@@ -3,7 +3,7 @@ title: "The Dworkin–Williams Debate: Liberty, Conceptual Integrity, and Tragic
 year: "2024"
 tags:
   - "begriffsintegritaet"
-  - "begriffsengineering"
+  - "conceptual-engineering"
   - "wertkonflikt"
   - "gleichheit"
   - "legitimitaet"
@@ -29,7 +29,7 @@ categories:
 
 Indem der Aufsatz die wenig bekannte Dworkin–Williams-Debatte darüber rekonstruiert, ob und wie politische Begriffe wie Freiheit und Gleichheit zur Vermeidung von Konflikten versöhnt werden können und sollen, untersucht er die Natur politischer Werte, die Grenzen philosophischer Intervention in der Politik, die Herausforderung des Pluralismus sowie die Bedingungen politischer Legitimität angesichts unvermeidlicher Konflikte und Verluste.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/legitimitaet/">Legitimität</a>, <a href="/de/tags/politischer-realismus/">Politischer Realismus</a>, <a href="/de/tags/pluralismus/">Pluralismus</a>, <a href="/de/tags/williams/">Williams</a>, <a href="/de/tags/begriffswandel/">Begriffswandel</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/conceptual-engineering/">Conceptual Engineering</a>, <a href="/de/tags/legitimitaet/">Legitimität</a>, <a href="/de/tags/politischer-realismus/">Politischer Realismus</a>, <a href="/de/tags/pluralismus/">Pluralismus</a>, <a href="/de/tags/williams/">Williams</a>, <a href="/de/tags/begriffswandel/">Begriffswandel</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUETDD.pdf" aria-label="PDF von The Dworkin–Williams Debate: Liberty, Conceptual Integrity, and Tragic Conflict in Politics herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

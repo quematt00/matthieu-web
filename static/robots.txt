@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.matthieuqueloz.com/sitemap.xml
+Sitemap: https://www.matthieuqueloz.com/fr/sitemap.xml
+Sitemap: https://www.matthieuqueloz.com/de/sitemap.xml

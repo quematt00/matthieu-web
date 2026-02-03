@@ -8,10 +8,10 @@ tags:
   - "normativitaet"
   - "praktische-philosophie"
   - "privatsphaere"
-  - "technologie"
+  - "sprachphilosophie"
   - "theoretische-philosophie"
   - "begriffswandel"
-  - "macht"
+  - "funktionen"
 categories:
   - "Praktische Philosophie"
   - "Theoretische Philosophie"
@@ -21,9 +21,9 @@ categories:
 R&R bei *Philosophical Studies*.
 <!--more-->
 
-Der Aufsatz entwickelt eine Theorie der „Bedürfnisse des Geistes“ als einer spezifisch aptischen Normativität – einer Normativität der Angemessenheit. Nach einer Rekonstruktion der Geschichte verschiedener Bedürfnisauffassungen und ihrer allmählichen Subjektivierung konzentriert sich der Aufsatz auf begriffliche Bedürfnisse und argumentiert, dass sie eine kognitive Deprivation anzeigen, die über einen blossen Mangel an Wörtern hinausgeht: Sie markieren eine Diskrepanz zwischen unserem Begriffsrepertoire und unserer Situation und lenken Begriffsengineering von einer distanzierten Verbesserung hin zu situierter Anpassung. Dadurch eignet sich ein Needs‑First‑Ansatz in besonderer Weise dazu, begriffliche Anpassung in Zeiten technologischer Umbrüche zu leiten.
+Der Aufsatz entwickelt eine Theorie der „Bedürfnisse des Geistes“ als einer spezifisch aptischen Normativität – einer Normativität der Angemessenheit. Nach einer Rekonstruktion der Geschichte verschiedener Bedürfnisauffassungen und ihrer allmählichen Subjektivierung konzentriert sich der Aufsatz auf begriffliche Bedürfnisse und argumentiert, dass sie eine kognitive Deprivation anzeigen, die über einen blossen Mangel an Wörtern hinausgeht: Sie markieren eine Diskrepanz zwischen unserem Begriffsrepertoire und unserer Situation und lenken Conceptual Engineering von einer distanzierten Verbesserung hin zu situierter Anpassung. Dadurch eignet sich ein Needs‑First‑Ansatz in besonderer Weise dazu, begriffliche Anpassung in Zeiten technologischer Umbrüche zu leiten.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffsanpassung/">Begriffsanpassung</a>, <a href="/de/tags/beduerfnisse/">Bedürfnisse</a>, <a href="/de/tags/aptic-normativitaet/">Aptic Normativität</a>, <a href="/de/tags/privatsphaere/">Privatsphäre</a>, <a href="/de/tags/technologie/">Technologie</a>, <a href="/de/tags/macht/">Macht</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffsanpassung/">Begriffsanpassung</a>, <a href="/de/tags/beduerfnisse/">Bedürfnisse</a>, <a href="/de/tags/aptic-normativitaet/">Aptic Normativität</a>, <a href="/de/tags/privatsphaere/">Privatsphäre</a>, <a href="/de/tags/sprachphilosophie/">Sprachphilosophie</a>, <a href="/de/tags/funktionen/">Funktionen</a></span>
 
 <a class="download-link" href="/Needs.pdf" aria-label="PDF von Needs of the Mind: How the Aptic Normativity of Needs Can Guide Conceptual Adaptation herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

@@ -61,6 +61,11 @@ h1, h2, h3, h4, .header-title, .menu-item {
     font-family: 'Lato', sans-serif !important;
 }
 
+#header-desktop .header-title,
+#header-mobile .header-title {
+    letter-spacing: 0.01em;
+}
+
 /* Keep desktop top-nav items vertically aligned */
 #header-desktop .menu,
 #header-desktop .menu .menu-inner {
@@ -89,6 +94,7 @@ h1, h2, h3, h4, .header-title, .menu-item {
     margin: 0 !important;
     vertical-align: middle !important;
     font-weight: 500 !important;
+    letter-spacing: 0.01em;
 }
 #header-desktop .menu .menu-item.active > .menu-link,
 #header-desktop .menu .menu-inner .menu-item.active > .menu-link {
@@ -270,6 +276,11 @@ h1, h2, h3, h4, .header-title, .menu-item {
     white-space: nowrap;
 }
 
+#header-mobile .menu .menu-link,
+#header-mobile .menu .menu-item > a {
+    letter-spacing: 0.01em;
+}
+
 /* Add breathing room at the bottom of the home page */
 .page.home {
     padding-bottom: 4rem !important;
@@ -307,6 +318,19 @@ footer .footer-container .footer-line {
     padding: 0 !important;
     margin: 0 !important;
     line-height: 1.4 !important;
+}
+
+/* Match footer copyright line color to the WELCOME eyebrow */
+footer .footer-container .footer-line.copyright,
+footer .footer-container .footer-line.copyright .author,
+footer .footer-container .footer-line.copyright .fa-copyright {
+    color: #4a6078 !important;
+}
+
+[data-theme='dark'] footer .footer-container .footer-line.copyright,
+[data-theme='dark'] footer .footer-container .footer-line.copyright .author,
+[data-theme='dark'] footer .footer-container .footer-line.copyright .fa-copyright {
+    color: #9fb7d6 !important;
 }
 
 /* -------------------------------------------------- */
@@ -417,6 +441,11 @@ footer .footer-container .footer-line {
 .home-profile .home-avatar img {
     width: 9.5rem !important;
     height: auto !important;
+}
+
+.home-profile .home-title,
+.home-profile .home-subtitle {
+    letter-spacing: 0.01em;
 }
 
 .home-profile .links a:hover {
@@ -831,7 +860,30 @@ hr.section-divider {
 }
 
 .entry-item h3 {
-    margin-top: 0;
+    margin-top: 0.3rem;
+    margin-bottom: 0.25rem;
+    letter-spacing: 0.01em;
+}
+
+/* Make publication details slightly larger while keeping URLs at base size */
+.entry-item > p:first-of-type {
+    font-size: 1.12rem;
+    color: #40506b;
+    font-weight: 400;
+    letter-spacing: 0.005em;
+}
+
+[data-theme='dark'] .entry-item > p:first-of-type {
+    color: #9db2d1;
+}
+
+/* Match tags icon color to publication details */
+.entry-item .entry-tags i.fa-tags {
+    color: #40506b !important;
+}
+
+[data-theme='dark'] .entry-item .entry-tags i.fa-tags {
+    color: #9db2d1 !important;
 }
 
 /* Reveal tags + PDF link on hover (desktop only) */
@@ -841,6 +893,7 @@ hr.section-divider {
 }
 
 .entry-item > p:first-of-type a {
+    font-size: 1.05rem;
     transition: opacity 0.35s ease, transform 0.35s ease, visibility 0.35s ease;
 }
 

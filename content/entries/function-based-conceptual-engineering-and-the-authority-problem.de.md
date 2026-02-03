@@ -6,7 +6,7 @@ tags:
   - "autoritaet"
   - "autoritaet-problem"
   - "begriffslegitimitaet"
-  - "begriffsengineering"
+  - "conceptual-engineering"
   - "begriffsethik"
   - "begriffs-funktionen"
   - "begriffsrevision"
@@ -27,9 +27,9 @@ categories:
 *Mind* 131 (524): 1247–1278. 2022. [doi:10.1093/mind/fzac028](http://doi.org/10.1093/mind/fzac028)
 <!--more-->
 
-Identifiziert ein zentrales Problem des Begriffsengineering – das Problem, die Autorität von „konstruierten“ Begriffen zu begründen – und argumentiert, dass dieses Problem sich im Allgemeinen nicht durch den Verweis auf grössere Präzision, Konsistenz oder andere theoretische Tugenden lösen lässt. Eine Lösung erfordert, dass Begriffsengineering eine funktionale Wende vollzieht und die Funktionen von Begriffen in den Blick nimmt. Das hilft zudem, Strawson'sche Sorgen über Themenwechsel zu entschärfen.
+Identifiziert ein zentrales Problem des Conceptual Engineering – das Problem, die Autorität von „konstruierten“ Begriffen zu begründen – und argumentiert, dass dieses Problem sich im Allgemeinen nicht durch den Verweis auf grössere Präzision, Konsistenz oder andere theoretische Tugenden lösen lässt. Eine Lösung erfordert, dass Conceptual Engineering eine funktionale Wende vollzieht und die Funktionen von Begriffen in den Blick nimmt. Das hilft zudem, Strawson'sche Sorgen über Themenwechsel zu entschärfen.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/autoritaet/">Autorität</a>, <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/begrifflich-funktionen/">Begrifflich Funktionen</a>, <a href="/de/tags/hermeneutik/">Hermeneutik</a>, <a href="/de/tags/metaphilosophie/">Metaphilosophie</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/autoritaet/">Autorität</a>, <a href="/de/tags/conceptual-engineering/">Conceptual Engineering</a>, <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/begrifflich-funktionen/">Begrifflich Funktionen</a>, <a href="/de/tags/hermeneutik/">Hermeneutik</a>, <a href="/de/tags/metaphilosophie/">Metaphilosophie</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEFCE.pdf" aria-label="PDF von Function-Based Conceptual Engineering and the Authority Problem herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

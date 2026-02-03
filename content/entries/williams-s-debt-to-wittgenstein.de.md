@@ -20,7 +20,7 @@ categories:
   - "Theoretische Philosophie"
 ---
 
-Mit Nikhil Krishnan. In *Bernard Williams on Philosophy and History*. Marcel van Ackeren und Matthieu Queloz (Hrsg.), 283–316. Oxford: Oxford University Press. 2025.
+In *Bernard Williams on Philosophy and History*. Marcel van Ackeren und Matthieu Queloz (Hrsg.), 283–316. Oxford: Oxford University Press. 2025. Mit Nikhil Krishnan.
 <!--more-->
 
 Argumentiert, dass mehrere Aspekte von Bernard Williams’ Stil, Methodik und Metaphilosophie als dialektisch aus denen Wittgensteins hervorgegangen verstanden werden können.

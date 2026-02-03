@@ -2,7 +2,7 @@
 title: "Genealogy, Evaluation, and Engineering"
 year: "2022"
 tags:
-  - "begriffsengineering"
+  - "conceptual-engineering"
   - "enlightenment"
   - "funktional-erklaerung"
   - "bewertung"
@@ -32,7 +32,7 @@ categories:
 
 Argumentiert, dass genealogische Erklärungen dazu genutzt werden können, begriffliche Praktiken zu bewerten und zu verbessern, und nimmt als Beispiel den durch die zunehmende Macht internationaler Institutionen entstandenen Bedarf an begrifflicher Innovation rund um den Begriff der Legitimität.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/begriffsengineering/">Begriffsengineering</a>, <a href="/de/tags/legitimitaet/">Legitimität</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/ideologie-kritik/">Ideologiekritik</a>, <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/international-institutions/">internationale Institutionen</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/conceptual-engineering/">Conceptual Engineering</a>, <a href="/de/tags/legitimitaet/">Legitimität</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/ideologie-kritik/">Ideologiekritik</a>, <a href="/de/tags/begriffsethik/">Begriffsethik</a>, <a href="/de/tags/international-institutions/">internationale Institutionen</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEGCE.pdf" aria-label="PDF von Genealogy, Evaluation, and Engineering herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

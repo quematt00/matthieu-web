@@ -28,7 +28,7 @@ categories:
 *Wittgenstein-Studien* 7 (1): 105–30. 2016. [doi:10.1515/witt-2016-0108](https://doi.org/10.1515/witt-2016-0108)
 <!--more-->
 
-Untersucht Wittgensteins Verständnis von Vernunft und Rationalität durch die Linse seiner Auffassung von Gründen.
+Dieser Artikel untersucht Wittgensteins Konzeption der Rationalität anhand des zentralen Bildes der „Kette“ und argumentiert, dass Gründe nicht durch intrinsische Eigenschaften definiert sind, sondern durch ihre relationale Rolle, Handlungen verständlich zu machen. Der Autor vertritt die These, dass Ketten von Gründen – im Gegensatz zu Kausalketten – notwendigerweise endlich und in gemeinschaftlichen Praktiken des Gründegebens verankert sind, was bedeutet, dass die Rechtfertigung unvermeidlich an den Grenzen eines spezifischen Sprachspiels endet. Schließlich legt der Beitrag nahe, dass diese endliche Struktur die Handelnden von der irreführenden Erwartung einer unendlichen Rechtfertigung befreit, während sie gleichzeitig die Reichweite von Gründen auf jene spezifischen Praktiken beschränkt, die sie stützen.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/handlungstheorie/">Handlungstheorie</a>, <a href="/de/tags/wittgenstein/">Wittgenstein</a>, <a href="/de/tags/gruende-vs-ursachen/">Gründe und Ursachen</a>, <a href="/de/tags/philosophie-des-geistes/">Philosophie des Geistes</a>, <a href="/de/tags/erklaerung/">Erklärung</a>, <a href="/de/tags/rechtfertigung/">Rechtfertigung</a></span>
 

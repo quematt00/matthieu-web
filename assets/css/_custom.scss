@@ -63,7 +63,7 @@ h1, h2, h3, h4, .header-title, .menu-item {
 
 #header-desktop .header-title,
 #header-mobile .header-title {
-    letter-spacing: 0.01em;
+    letter-spacing: normal;
 }
 
 /* Keep desktop top-nav items vertically aligned */
@@ -256,6 +256,18 @@ h1, h2, h3, h4, .header-title, .menu-item {
     background-color: rgba(41, 42, 46, 0.98);
     box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.35);
 }
+
+/* Search dropdown: allow scrolling long result lists */
+.search-dropdown .dropdown-menu {
+    max-height: calc(100vh - 3.5rem);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+}
+
+.search-dropdown .dropdown-menu .suggestions {
+    max-height: none;
+}
 #header-mobile .header-wrapper .language-switch .sub-menu.open,
 #header-mobile .header-wrapper .language-switch:focus-within .sub-menu {
     visibility: visible;
@@ -445,7 +457,7 @@ footer .footer-container .footer-line.copyright .fa-copyright {
 
 .home-profile .home-title,
 .home-profile .home-subtitle {
-    letter-spacing: 0.01em;
+    letter-spacing: normal;
 }
 
 .home-profile .links a:hover {

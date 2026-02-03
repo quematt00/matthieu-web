@@ -120,7 +120,7 @@ ignoreFiles = ["^assets/jsconfig\\.json$"]
   enable = true
   type = "fuse"
   contentLength = 4000
-  maxResultLength = 10
+  maxResultLength = 70
   highlightTag = "em"
   absoluteURL = false
 

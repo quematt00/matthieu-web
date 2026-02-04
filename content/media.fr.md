@@ -68,6 +68,11 @@ hr.section-divider {
 - **Tracing Concepts to Needs**. *The Philosopher* 109 (3): 34—39. 2021. [https://philpapers.org/archive/QUETCT.pdf](https://philpapers.org/archive/QUETCT.pdf)
 - **Ideas that Work**. *Aeon: A World of Ideas*, 24 juin 2021. [https://aeon.co/essays/our-most-abstract-concepts-emerged-as-solutions-to-our-needs](https://aeon.co/essays/our-most-abstract-concepts-emerged-as-solutions-to-our-needs)
 - **Warum die liberale Demokratie laufend verteidigt werden muss**. *Schweizer Radio und Fernsehen* (SRF Kultur), 5 septembre 2015. https://www.srf.ch/kultur/gesellschaft-religion/gesellschaft-religion-warum-die-liberale-demokratie-laufend-verteidigt-werden-muss
+- **Kolmogorov Axioms and Dutch Book Arguments**. Série d’introduction à la théorie de la rationalité, partie V. *Science Communication Blog*, tenu par des étudiants de l’Université de Bâle. 2013.
+- **Updating Degrees of Belief**. Série d’introduction à la théorie de la rationalité, partie IV. *Science Communication Blog*, tenu par des étudiants de l’Université de Bâle. 2013.
+- **The Base Rate Fallacy**. Série d’introduction à la théorie de la rationalité, partie III. *Science Communication Blog*, tenu par des étudiants de l’Université de Bâle. 2013.
+- **Bayes’s Theorem**. Série d’introduction à la théorie de la rationalité, partie II. *Science Communication Blog*, tenu par des étudiants de l’Université de Bâle. 2013.
+- **Subjective and Objective Probabilities**. Série d’introduction à la théorie de la rationalité, partie I. *Science Communication Blog*, tenu par des étudiants de l’Université de Bâle. 2013.
 - **Problem und Chance zugleich**. *Basler Zeitung*, 4 mai 2011.
 - **Momentaufnahme der Kunst im Wandel**. *Basler Zeitung*, 11 mars 2011.
 - **Kunst auf Wanderschaft**. *Basler Zeitung*, 9 mars 2011. Avec Andrea Fopp.

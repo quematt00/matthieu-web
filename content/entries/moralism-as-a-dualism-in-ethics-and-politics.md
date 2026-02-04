@@ -22,7 +22,6 @@ tags:
 categories:
   - "history of philosophy"
   - "practical philosophy"
-  - "theoretical philosophy"
 ---
 
 *Political Philosophy* 1 (2): 432–462. 2024. [doi:10.16995/pp.17532](https://doi.org/10.16995/pp.17532)

@@ -97,5 +97,6 @@ User-agent: ClaudeBot
 Disallow: /
 
 Sitemap: {{ "/sitemap.xml" | absURL }}
+Sitemap: {{ "/en/sitemap.xml" | absURL }}
 Sitemap: {{ "/fr/sitemap.xml" | absURL }}
 Sitemap: {{ "/de/sitemap.xml" | absURL }}

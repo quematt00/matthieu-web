@@ -140,6 +140,8 @@ With the five-year SNSF Starting Grant I was recently awarded, I am reconnecting
 
 [Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression)
 
+[Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation](#needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation), *Philosophical Studies*
+
 [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models), *R&R at Philosophical Studies*
 
 

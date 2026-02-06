@@ -139,6 +139,8 @@ Mit dem fünfjährigen SNF Starting Grant, der mir kürzlich zugesprochen wurde,
 
 [Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression.de)
 
+[Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation](#needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation.de), *Philosophical Studies*
+
 [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models.de), *R&R at Philosophical Studies*
 
 <h2 class="section-list-heading">Detaillierte Liste</h2>

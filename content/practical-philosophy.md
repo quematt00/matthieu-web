@@ -131,6 +131,8 @@ I have also been arguing that a Shklarian liberalism of fear provides an especia
 
 [Moralism as a Dualism in Ethics and Politics](#moralism-as-a-dualism-in-ethics-and-politics), *Political Philosophy*
 
+[Law as a Test of Conceptual Strength](#law-as-a-test-of-conceptual-strength), *Bernard Williams on Law and Jurisprudence*
+
 [The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea), *The Journal of Political Philosophy*
 
 <h2 class="section-list-heading section-list-heading-practical">Detailed List</h2>

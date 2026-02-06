@@ -129,6 +129,8 @@ J’ai également soutenu qu’un libéralisme de la peur (liberalism of fear) d
 
 [Moralism as a Dualism in Ethics and Politics](#moralism-as-a-dualism-in-ethics-and-politics.fr), *Political Philosophy*
 
+[Law as a Test of Conceptual Strength](#law-as-a-test-of-conceptual-strength.fr), *Bernard Williams on Law and Jurisprudence*
+
 [The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea.fr), *The Journal of Political Philosophy*
 
 <h2 class="section-list-heading section-list-heading-practical">Liste détaillée</h2>

@@ -129,6 +129,8 @@ Ich habe zudem argumentiert, dass ein Shklar'scher „Liberalismus der Furcht“
 
 [Moralism as a Dualism in Ethics and Politics](#moralism-as-a-dualism-in-ethics-and-politics.de), *Political Philosophy*
 
+[Law as a Test of Conceptual Strength](#law-as-a-test-of-conceptual-strength.de), *Bernard Williams on Law and Jurisprudence*
+
 [The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea.de), *The Journal of Political Philosophy*
 
 <h2 class="section-list-heading section-list-heading-practical">Detaillierte Liste</h2>

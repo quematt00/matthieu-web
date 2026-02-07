@@ -227,4 +227,98 @@
     },
     true
   );
+
+  function searchDateRank(value) {
+    const date = (value || "").trim().toLowerCase();
+    const manuscriptValues = new Set([
+      "manuscript",
+      "manuscrit",
+      "manuskript",
+      "under review",
+      "en cours d’évaluation",
+      "en cours d'evaluation",
+      "in begutachtung",
+    ]);
+    const forthcomingValues = new Set([
+      "forthcoming",
+      "à paraître",
+      "a paraitre",
+      "im erscheinen",
+      "in press",
+      "sous presse",
+    ]);
+
+    if (manuscriptValues.has(date)) return 0;
+    if (forthcomingValues.has(date)) return 1;
+    if (/^\d{4}$/.test(date)) return 3;
+    return 2;
+  }
+
+  function searchDateYear(value) {
+    const date = (value || "").trim();
+    if (!/^\d{4}$/.test(date)) return null;
+    return Number.parseInt(date, 10);
+  }
+
+  function reorderSearchSuggestions(dropdownEl) {
+    if (!dropdownEl || dropdownEl.dataset.sortingSuggestions === "1") return;
+
+    let options = Array.from(dropdownEl.querySelectorAll('[role="option"]')).filter((node) =>
+      node.querySelector(".suggestion-date")
+    );
+    if (!options.length) {
+      options = Array.from(dropdownEl.querySelectorAll(".suggestion")).filter((node) =>
+        node.querySelector(".suggestion-date")
+      );
+    }
+    if (options.length < 2) return;
+
+    const sorted = options
+      .map((node, index) => {
+        const dateText = node.querySelector(".suggestion-date")?.textContent ?? "";
+        return {
+          node,
+          index,
+          rank: searchDateRank(dateText),
+          year: searchDateYear(dateText),
+        };
+      })
+      .sort((a, b) => {
+        if (a.rank !== b.rank) return a.rank - b.rank;
+        if (a.rank === 3 && b.rank === 3 && a.year !== b.year) return (b.year ?? 0) - (a.year ?? 0);
+        return a.index - b.index;
+      });
+
+    const hasChanges = sorted.some((item, index) => item.node !== options[index]);
+    if (!hasChanges) return;
+
+    dropdownEl.dataset.sortingSuggestions = "1";
+    try {
+      for (const item of sorted) {
+        item.node.parentElement?.appendChild(item.node);
+      }
+    } finally {
+      dropdownEl.dataset.sortingSuggestions = "0";
+    }
+  }
+
+  function setupSearchSuggestionSorting(root) {
+    const dropdowns = [
+      root.querySelector("#search-dropdown-desktop"),
+      root.querySelector("#search-dropdown-mobile"),
+    ].filter(Boolean);
+    if (!dropdowns.length) return;
+
+    for (const dropdown of dropdowns) {
+      reorderSearchSuggestions(dropdown);
+      const observer = new MutationObserver(() => reorderSearchSuggestions(dropdown));
+      observer.observe(dropdown, { childList: true, subtree: true });
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", () => setupSearchSuggestionSorting(document));
+  } else {
+    setupSearchSuggestionSorting(document);
+  }
 })();

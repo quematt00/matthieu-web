@@ -1,6 +1,6 @@
 ---
 title: "Why We Care about Understanding: Competence through Predictive Compression"
-year: "forthcoming"
+year: "manuscript"
 tags:
   - "competence"
   - "cognitive-science"

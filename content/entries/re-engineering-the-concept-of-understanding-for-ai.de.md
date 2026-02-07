@@ -1,6 +1,6 @@
 ---
 title: "Re-Engineering the Concept of Understanding for AI"
-year: "im Erscheinen"
+year: "manuskript"
 tags:
   - "ki"
   - "conceptual-engineering"

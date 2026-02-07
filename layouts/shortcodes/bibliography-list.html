@@ -1,17 +1,40 @@
 {{- $pages := where site.RegularPages "Section" "in" (slice "entries" "books") -}}
 {{- $pages = where $pages "Lang" $.Page.Lang -}}
 {{- $numeric := slice -}}
-{{- $nonNumeric := slice -}}
+{{- $manuscriptValues := slice "manuscript" "manuscrit" "manuskript" "under review" "en cours d’évaluation" "en cours d'evaluation" "in begutachtung" -}}
+{{- $forthcomingValues := slice "forthcoming" "à paraître" "a paraitre" "im erscheinen" "in press" "sous presse" -}}
+{{- $manuscript := slice -}}
+{{- $forthcoming := slice -}}
+{{- $otherNonNumeric := slice -}}
 {{- range $pages -}}
-  {{- $year := printf "%v" (.Params.year | default "") -}}
+  {{- $year := lower (printf "%v" (.Params.year | default "")) -}}
   {{- if findRE "^\\d{4}$" $year -}}
     {{- $numeric = $numeric | append . -}}
+  {{- else if in $manuscriptValues $year -}}
+    {{- $manuscript = $manuscript | append . -}}
+  {{- else if in $forthcomingValues $year -}}
+    {{- $forthcoming = $forthcoming | append . -}}
   {{- else -}}
-    {{- $nonNumeric = $nonNumeric | append . -}}
+    {{- $otherNonNumeric = $otherNonNumeric | append . -}}
   {{- end -}}
 {{- end -}}
+{{- $manuscript = sort $manuscript "Title" -}}
+{{- $forthcoming = sort $forthcoming "Title" -}}
+{{- $otherNonNumeric = sort $otherNonNumeric "Title" -}}
 {{- $numeric = sort $numeric "Params.year" "desc" -}}
-{{- $sorted := $nonNumeric | append $numeric -}}
+{{- $sorted := slice -}}
+{{- range $manuscript -}}
+  {{- $sorted = $sorted | append . -}}
+{{- end -}}
+{{- range $forthcoming -}}
+  {{- $sorted = $sorted | append . -}}
+{{- end -}}
+{{- range $otherNonNumeric -}}
+  {{- $sorted = $sorted | append . -}}
+{{- end -}}
+{{- range $numeric -}}
+  {{- $sorted = $sorted | append . -}}
+{{- end -}}
 
 <ol reversed start="{{ len $sorted }}">
   {{- range $sorted -}}

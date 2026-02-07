@@ -1,6 +1,6 @@
 ---
 title: "Der erfundene Erfinder: Anpassung des Patentrechts an generative KI"
-year: "im Erscheinen"
+year: "manuskript"
 tags:
   - "geistige-eigentumsrechte"
   - "patente"

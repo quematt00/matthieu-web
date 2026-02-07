@@ -1,6 +1,6 @@
 ---
 title: "The Invented Inventor: Adapting Patent Law to Generative AI"
-year: "forthcoming"
+year: "manuscript"
 tags:
   - "intellectual-property-rights"
   - "patents"

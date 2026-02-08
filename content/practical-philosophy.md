@@ -97,11 +97,11 @@ hr.section-divider {
 <p class="themes-intro">My research in practical philosophy revolves around six connected themes:</p>
 
 1. **The origins of political concepts** like property, justice, truthfulness, and liberty.
-2. **How to deal with conflicts of values** and the political moralism that denies their existence.
-3. **The normative significance of history** for our practices and institutions in morality, politics, and international law.
-4. **Responsibility and liability**, and how our conceptions of the psychology of action can be distorted by moral demands.
-5. **The politics of conceptual engineering**, i.e. attempts to assess and improve the repertoire of concepts we live by.
-6. **The value of systematicity** in public discourse, the asystematicity of normative domains, and the tension between them.
+2. **Intellectual property rights**, especially patents on genes and AI-assisted inventions.
+3. **The politics of conceptual engineering and conceptual adaptation**, i.e. attempts to assess and improve the repertoire of concepts we live by.
+4. **Conflicts of values**, the political moralism that denies their existence, and the asystematicity of normative domains.
+5. **The normative significance of history** for our practices and institutions in morality, politics, and international law.
+6. **Responsibility and liability**, and how our conceptions of the psychology of action can be distorted by moral demands.
 
 A key question driving my work is what practical pressures and human needs our most fundamental concepts and ideals answer to. This question animates my first monograph, [*The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering* (OUP 2021)](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf), which reconstructs the practical pressures that drove the development of ideas of property, justice, and truthfulness. It also examines the emergence of the concept of knowledge and the problems of epistemic injustice it brought in its wake. A key claim of the book is that the device of telling state-of-nature stories---a hallmark of Enlightenment political philosophy---can also legitimately be used today to explain sociohistorically local phenomena, such as the separation of powers or the rise of liberalism. In collaboration with a legal scholar, I have applied the resulting account of historical normativity to critical histories in international law ([Theorizing the Normative Significance of Critical Histories for International Law
 ](#theorizing-the-normative-significance-of-critical-histories-for-international-law)). I have also worked on the legitimacy of patenting human genes ([The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea)) and why blame would not work if we thought of it in purely instrumental terms ([The Self-Effacing Functionality of Blame](#the-self-effacing-functionality-of-blame)).
@@ -113,7 +113,7 @@ In a series of articles drawing on Rousseau, Dworkin, Williams, and Shklar, I ha
 
 In the four-year Ambizione project of the Swiss National Science Foundation I have been leading, I explored how the asystematicity of normative truths poses a challenge for artificial intelligence ([Can AI Rely on the Systematicity of Truth? The Challenge of Modelling Normative Domains](#can-ai-rely-on-the-systematicity-of-truth-the-challenge-of-modelling-normative-domains)), and what this means for the use of AI as a practical advisor ([On the Fundamental Limitations of AI Moral Advisors](#on-the-fundamental-limitations-of-ai-moral-advisors)).
 
-I have also been arguing that a Shklarian liberalism of fear provides an especially relevant perspective from which to think about the politics of AI ([Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear](#dropping-anchor-in-rough-seas-co-reasoning-with-personalized-ai-advisors-and-the-liberalism-of-fear)). This research arc culminates in the SNSF Professorship (Starting Grant) I was awarded, which examines the stakes of how we think about artificial cognition.
+I have also been arguing that a Shklarian liberalism of fear provides an especially relevant perspective from which to think about the politics of AI ([Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear](#dropping-anchor-in-rough-seas-co-reasoning-with-personalized-ai-advisors-and-the-liberalism-of-fear)). This research arc culminates in my SNSF Starting Grant project, which examines the stakes of how we think about artificial cognition. It gives me the opportunity to continue working on the philosophy of patent law by addressing one of the most consequential questions of the AI era: how we deal with the discoveries made by generative AI ([The Invented Inventor: Adapting Patent Law to Generative AI](#the-invented-inventor-adapting-patent-law-to-generative-ai)).
 
 </div>
 

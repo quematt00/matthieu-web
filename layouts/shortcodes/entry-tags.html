@@ -1,10 +1,10 @@
 {{- $tagTerms := .Page.GetTerms "tags" -}}
 {{- if $tagTerms -}}
-  <span><i class="fa-solid fa-tags"></i>
+  <span class="entry-tags"><i class="fa-solid fa-tags"></i>
     {{- range $i, $t := $tagTerms -}}
-      {{- if gt $i 0 -}}, {{- end -}}
-      <a href="{{ $t.RelPermalink }}">{{ $t.LinkTitle }}</a>
+      {{- if gt $i 0 }}, {{ end -}}
+      {{- $label := ($t.LinkTitle | lower | replaceRE "-+" " ") -}}
+      <a href="{{ $t.RelPermalink }}">{{ $label }}</a>
     {{- end -}}
   </span>
 {{- end -}}
-

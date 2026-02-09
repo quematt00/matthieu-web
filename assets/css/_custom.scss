@@ -861,7 +861,14 @@ main {
 
 /* Section list divider spacing */
 hr.section-divider {
+    border: 0;
+    height: 1px;
+    background: rgba(0, 0, 0, 0.08);
     margin: 0.5rem 0 2.1rem !important;
+}
+
+[data-theme='dark'] hr.section-divider {
+    background: rgba(255, 255, 255, 0.12);
 }
 
 /* Section list entries: add breathing space */
@@ -898,6 +905,25 @@ hr.section-divider {
     color: #9db2d1 !important;
 }
 
+/* Keep tag links on archive/tag term pages aligned with single-page link colors */
+.page.archive .entry-item .entry-tags a {
+    color: #2376b7;
+}
+
+[data-theme='dark'] .page.archive .entry-item .entry-tags a {
+    color: #66b2ff;
+}
+
+.page.archive .entry-item .entry-tags a:hover,
+.page.archive .entry-item .entry-tags a:active {
+    color: #ea517f;
+}
+
+[data-theme='dark'] .page.archive .entry-item .entry-tags a:hover,
+[data-theme='dark'] .page.archive .entry-item .entry-tags a:active {
+    color: #cc5595;
+}
+
 /* Reveal tags + PDF link on hover (desktop only) */
 .entry-item .entry-tags,
 .entry-item .download-link {
@@ -907,6 +933,26 @@ hr.section-divider {
 .entry-item > p:first-of-type a {
     font-size: 1.05rem;
     transition: opacity 0.35s ease, transform 0.35s ease, visibility 0.35s ease;
+}
+
+.page.archive .entry-item > p:first-of-type a,
+.page.archive .entry-item > p:first-of-type a:visited {
+    color: #2376b7;
+}
+
+[data-theme='dark'] .page.archive .entry-item > p:first-of-type a,
+[data-theme='dark'] .page.archive .entry-item > p:first-of-type a:visited {
+    color: #66b2ff;
+}
+
+.page.archive .entry-item > p:first-of-type a:hover,
+.page.archive .entry-item > p:first-of-type a:active {
+    color: #ea517f;
+}
+
+[data-theme='dark'] .page.archive .entry-item > p:first-of-type a:hover,
+[data-theme='dark'] .page.archive .entry-item > p:first-of-type a:active {
+    color: #cc5595;
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -966,6 +1012,7 @@ hr.section-divider {
 
 .entry-item .download-link:hover,
 .entry-item .download-link:focus-visible {
+    color: var(--color-primary);
     text-decoration: none;
     transform: none;
     border-color: #ea517f;
@@ -982,9 +1029,55 @@ hr.section-divider {
 
 [data-theme='dark'] .entry-item .download-link:hover,
 [data-theme='dark'] .entry-item .download-link:focus-visible {
+    color: #66b2ff;
     border-color: #cc5595;
     background: rgba(255, 255, 255, 0.06);
     box-shadow: none;
+}
+
+/* Keep archive/tag-page PDF button hover behavior aligned with section lists */
+.page.archive .entry-item .download-link,
+.page.archive .entry-item .download-link:visited {
+    color: var(--color-primary) !important;
+}
+
+.page.archive .entry-item .download-link:hover,
+.page.archive .entry-item .download-link:focus-visible,
+.page.archive .entry-item .download-link:active {
+    color: var(--color-primary) !important;
+    text-decoration: none !important;
+    border-color: #ea517f;
+    background: rgba(0, 0, 0, 0.02);
+    box-shadow: none;
+    transform: none;
+}
+
+[data-theme='dark'] .page.archive .entry-item .download-link,
+[data-theme='dark'] .page.archive .entry-item .download-link:visited {
+    color: #66b2ff !important;
+}
+
+[data-theme='dark'] .page.archive .entry-item .download-link:hover,
+[data-theme='dark'] .page.archive .entry-item .download-link:focus-visible,
+[data-theme='dark'] .page.archive .entry-item .download-link:active {
+    color: #66b2ff !important;
+    border-color: #cc5595;
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: none;
+    transform: none;
+}
+
+/* Force section-list buttons to keep text color fixed on hover (pill changes only) */
+.page.single.special .entry-item .download-link:hover,
+.page.single.special .entry-item .download-link:focus-visible,
+.page.single.special .entry-item .download-link:active {
+    color: var(--color-primary) !important;
+}
+
+[data-theme='dark'] .page.single.special .entry-item .download-link:hover,
+[data-theme='dark'] .page.single.special .entry-item .download-link:focus-visible,
+[data-theme='dark'] .page.single.special .entry-item .download-link:active {
+    color: #66b2ff !important;
 }
 
 @media (min-width: 720px) {

@@ -305,18 +305,21 @@ h1, h2, h3, h4, .header-title, .menu-item {
 /* Default (Light Mode) - Translucent White */
 #header-desktop, 
 #header-mobile {
-    background-color: rgba(255, 255, 255, 0.7) !important; /* See-through White */
-    backdrop-filter: blur(15px) !important;
-    -webkit-backdrop-filter: blur(15px) !important;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03) !important;
+    background-color: rgba(255, 255, 255, 0.52) !important;
+    backdrop-filter: saturate(175%) blur(22px) !important;
+    -webkit-backdrop-filter: saturate(175%) blur(22px) !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06) !important;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.06) !important;
 }
 
 /* Dark Mode Override - Translucent Dark Grey */
 [data-theme='dark'] #header-desktop, 
 [data-theme='dark'] #header-mobile {
-    background-color: rgba(30, 32, 40, 0.8) !important; /* See-through Dark */
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+    background-color: rgba(18, 20, 26, 0.56) !important;
+    backdrop-filter: saturate(165%) blur(24px) !important;
+    -webkit-backdrop-filter: saturate(165%) blur(24px) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.09) !important;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.22) !important;
 }
 
 /* Ensure container is clear */
@@ -1004,8 +1007,8 @@ hr.section-divider {
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
-    padding: 0.28rem 0.7rem;
-    border-radius: 999px;
+    padding: 0.32rem 0.78rem;
+    border-radius: 10px;
     border: 1px solid rgba(0, 0, 0, 0.12);
     background: rgba(0, 0, 0, 0.02);
     color: var(--color-primary);

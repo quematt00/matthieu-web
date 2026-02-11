@@ -13,9 +13,11 @@
         radial-gradient(120% 95% at 18% 14%, #fbfdff 0%, #eef4fc 42%, #e2eaf6 74%, #dbe4f2 100%),
         linear-gradient(160deg, #f7fbff 0%, #e9f0fb 52%, #dde7f4 100%);
     --page-bg-dark:
-        radial-gradient(140% 110% at 14% 10%, #141821 0%, #11151d 20%, #0e1118 40%, #0b0e14 60%, #080b11 78%, #06080d 90%, #030509 100%),
-        radial-gradient(120% 90% at 82% 92%, rgba(52, 66, 102, 0.1) 0%, rgba(52, 66, 102, 0) 64%),
-        linear-gradient(165deg, #0b0e14 0%, #080a10 58%, #040509 100%);
+        radial-gradient(238% 178% at 14% 8%, #141821 0%, #131720 10%, #12161f 20%, #11151d 30%, #10141c 40%, #0f131a 50%, #0e1219 60%, #0c1016 70%, #0a0e14 80%, #080b10 89%, #06080d 96%, #04060a 100%),
+        radial-gradient(220% 178% at 88% 96%, rgba(50, 66, 104, 0.115) 0%, rgba(50, 66, 104, 0.102) 12%, rgba(50, 66, 104, 0.089) 24%, rgba(50, 66, 104, 0.075) 36%, rgba(50, 66, 104, 0.061) 48%, rgba(50, 66, 104, 0.047) 60%, rgba(50, 66, 104, 0.033) 72%, rgba(50, 66, 104, 0.02) 82%, rgba(50, 66, 104, 0.01) 90%, rgba(50, 66, 104, 0.004) 96%, rgba(50, 66, 104, 0) 100%),
+        radial-gradient(210% 170% at 56% 42%, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0.017) 12%, rgba(255, 255, 255, 0.014) 24%, rgba(255, 255, 255, 0.011) 36%, rgba(255, 255, 255, 0.008) 48%, rgba(255, 255, 255, 0.006) 60%, rgba(255, 255, 255, 0.004) 72%, rgba(255, 255, 255, 0.0025) 84%, rgba(255, 255, 255, 0.001) 92%, rgba(255, 255, 255, 0) 100%),
+        linear-gradient(180deg, #10141b 0%, #090d13 58%, #05070b 100%),
+        #04060a;
     --surface-divider: rgba(0, 0, 0, 0.08);
     --surface-divider-dark: rgba(255, 255, 255, 0.1);
 }
@@ -28,7 +30,52 @@ body {
 
 [data-theme='dark'] body {
     background: var(--page-bg-dark);
+    background-color: #04060a;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+    background-attachment: scroll, scroll, scroll, scroll, scroll;
     color: #e6e8ef;
+}
+
+/* Safari/WebKit: render a blurred gradient surface to suppress radial banding */
+@supports (-webkit-touch-callout: none) and (font: -apple-system-body) {
+    [data-theme='dark'] body {
+        background: #04060a;
+        background-color: #04060a;
+        background-image: none;
+        position: relative;
+        z-index: 0;
+        isolation: isolate;
+    }
+
+    [data-theme='dark'] body::before {
+        content: '';
+        position: fixed;
+        inset: -22vmax;
+        z-index: -1;
+        pointer-events: none;
+        background:
+            radial-gradient(250% 186% at 14% 8%, #141821 0%, #12161f 22%, #10141c 44%, #0d1118 66%, #090d12 84%, #04060a 100%),
+            radial-gradient(232% 188% at 88% 96%, rgba(50, 66, 104, 0.115) 0%, rgba(50, 66, 104, 0.088) 28%, rgba(50, 66, 104, 0.061) 52%, rgba(50, 66, 104, 0.036) 70%, rgba(50, 66, 104, 0.016) 84%, rgba(50, 66, 104, 0) 100%),
+            radial-gradient(218% 170% at 56% 42%, rgba(255, 255, 255, 0.016) 0%, rgba(255, 255, 255, 0.011) 34%, rgba(255, 255, 255, 0.006) 60%, rgba(255, 255, 255, 0.002) 80%, rgba(255, 255, 255, 0) 100%),
+            linear-gradient(180deg, #10141b 0%, #090d13 58%, #05070b 100%);
+        background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+        -webkit-filter: blur(52px);
+        filter: blur(52px);
+    }
+
+    [data-theme='dark'] body::after {
+        content: '';
+        position: fixed;
+        inset: 0;
+        z-index: -1;
+        pointer-events: none;
+        background-image:
+            url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220' viewBox='0 0 220 220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.36' numOctaves='1' seed='11' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='220' height='220' filter='url(%23n)'/%3E%3C/svg%3E");
+        background-size: 220px 220px;
+        background-repeat: repeat;
+        mix-blend-mode: soft-light;
+        opacity: 0.018;
+    }
 }
 
 .section-list-heading {

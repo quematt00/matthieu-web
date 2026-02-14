@@ -44,7 +44,7 @@ SPAN_REPLACEMENTS: dict[str, list[str]] = {
         "ideology-critique",
         "conceptual-ethics",
     ],
-    "needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation.md": [
+    "needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation.md": [
         "conceptual-adaptation",
         "needs",
         "aptic-normativity",

@@ -1,5 +1,5 @@
 ---
-title: "Needs of the Mind: How the Aptic Normativity of Needs Can Guide Conceptual Adaptation"
+title: "Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation"
 year: "forthcoming"
 tags:
   - "aptic-normativity"
@@ -25,6 +25,6 @@ The article offers an account of “needs of the mind” in terms of a distincti
 
 <span><i class="fa-solid fa-tags"></i> <a href="/tags/conceptual-adaptation/">conceptual adaptation</a>, <a href="/tags/needs/">needs</a>, <a href="/tags/aptic-normativity/">aptic normativity</a>, <a href="/tags/privacy/">privacy</a>, <a href="/tags/philosophy-of-language/">philosophy of language</a>, <a href="/tags/functions/">functions</a></span>
 
-<a class="download-link" href="https://philpapers.org/archive/QUENOT.pdf" aria-label="Download PDF of Needs of the Mind: How the Aptic Normativity of Needs Can Guide Conceptual Adaptation" target="_blank" rel="noopener noreferrer">
+<a class="download-link" href="https://philpapers.org/archive/QUENOT.pdf" aria-label="Download PDF of Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Download PDF
 </a>

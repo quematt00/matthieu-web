@@ -987,12 +987,13 @@ hr.section-divider {
 /* Reveal tags + PDF link on hover (desktop only) */
 .entry-item .entry-tags,
 .entry-item .download-link {
-    transition: opacity 0.35s ease, transform 0.35s ease, visibility 0.35s ease;
+    transition: opacity 0.35s ease, transform 0.35s ease;
 }
 
 .entry-item > p:first-of-type a {
+    display: inline-block;
     font-size: 1.05rem;
-    transition: opacity 0.35s ease, transform 0.35s ease, visibility 0.35s ease;
+    transition: opacity 0.35s ease, transform 0.35s ease;
 }
 
 .page.archive .entry-item > p:first-of-type a,
@@ -1019,18 +1020,12 @@ hr.section-divider {
     .entry-item .entry-tags,
     .entry-item .download-link {
         opacity: 0;
-        visibility: hidden;
-        transform: translateY(2px);
+        transform: translateY(1px);
         pointer-events: none;
-    }
-
-    .entry-item .download-link {
-        transform: none;
     }
 
     .entry-item > p:first-of-type a {
         opacity: 0;
-        visibility: hidden;
         transform: translateY(1px);
         pointer-events: none;
     }
@@ -1040,7 +1035,6 @@ hr.section-divider {
     .entry-item:focus-within .entry-tags,
     .entry-item:focus-within .download-link {
         opacity: 1;
-        visibility: visible;
         transform: translateY(0);
         pointer-events: auto;
     }
@@ -1048,7 +1042,6 @@ hr.section-divider {
     .entry-item:hover > p:first-of-type a,
     .entry-item:focus-within > p:first-of-type a {
         opacity: 1;
-        visibility: visible;
         transform: translateY(0);
         pointer-events: auto;
     }
@@ -1067,7 +1060,7 @@ hr.section-divider {
     font-weight: 600;
     text-decoration: none;
     margin: 0.3rem 0 0.65rem;
-    transition: opacity 0.35s ease, visibility 0.35s ease, transform 0.35s ease, box-shadow 0.35s ease, background-color 0.35s ease, border-color 0.35s ease;
+    transition: opacity 0.35s ease, transform 0.35s ease, box-shadow 0.35s ease, background-color 0.35s ease, border-color 0.35s ease;
 }
 
 .entry-item .download-link:hover,

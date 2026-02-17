@@ -115,7 +115,11 @@ J’ai également soutenu qu’un libéralisme de la peur (liberalism of fear) d
 
 </div>
 
+<section class="selected-publications-box selected-publications-box--practical">
+
 <h2 class="section-list-heading section-list-heading-practical">Articles sélectionnés en philosophie pratique</h2>
+
+<div class="selected-publications-list">
 
 [The Dworkin–Williams Debate: Liberty, Conceptual Integrity, and Tragic Conflict in Politics](#the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics.fr), *Philosophy & Phenomenological Research*
 
@@ -132,6 +136,9 @@ J’ai également soutenu qu’un libéralisme de la peur (liberalism of fear) d
 [Law as a Test of Conceptual Strength](#law-as-a-test-of-conceptual-strength.fr), *Bernard Williams on Law and Jurisprudence*
 
 [The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea.fr), *The Journal of Political Philosophy*
+
+</div>
+</section>
 
 <h2 class="section-list-heading section-list-heading-practical">Liste détaillée</h2>
 

@@ -14,7 +14,7 @@ readingProgress:
   padding-top: 5rem;
   padding-bottom: 3rem;
 }
-h2, h3, li + li {
+h2, h3 {
   margin-top: 1.1rem;
 }
 hr.section-divider {
@@ -27,33 +27,126 @@ hr.section-divider {
   background: rgba(255, 255, 255, 0.12);
 }
 
+.page.single #content {
+  --showcase-link: #2376b7;
+  --showcase-link-hover: #ea517f;
+  --showcase-meta: #000;
+  --showcase-bullet: #4f82b9;
+  --showcase-bullet-glow: rgba(79, 130, 185, 0.16);
+}
+[data-theme='dark'] .page.single #content {
+  --showcase-link: #66b2ff;
+  --showcase-link-hover: #cc5595;
+  --showcase-meta: #b8d1ee;
+  --showcase-bullet: #79b5ef;
+  --showcase-bullet-glow: rgba(121, 181, 239, 0.2);
+}
 .page.single #content > ul {
   list-style: none;
   padding-left: 0;
-  margin: 1.2rem 0 2rem;
+  margin: 1.2rem 0 3rem;
 }
 .page.single #content > ul > li {
+  --media-li-pad-y: 0.18rem;
+  --media-li-line-height: 1.56;
   position: relative;
-  padding-left: 1.4rem;
-}
-.page.single #content > ul > li + li {
-  margin-top: 0.65rem;
+  margin: 0;
+  padding: var(--media-li-pad-y) 0 var(--media-li-pad-y) 1.06rem;
+  font-size: 1.08rem;
+  line-height: var(--media-li-line-height);
+  transition: transform 0.24s cubic-bezier(0.2, 0.75, 0.3, 1);
 }
 .page.single #content > ul > li::before {
   content: '';
   position: absolute;
   left: 0;
-  top: 0.75em;
-  transform: translateY(-50%);
-  width: 0.45rem;
-  height: 0.45rem;
+  top: calc(var(--media-li-pad-y) + (0.5em * var(--media-li-line-height)));
+  width: 0.38rem;
+  height: 0.38rem;
   border-radius: 999px;
-  background: rgba(0, 68, 136, 0.28);
-  box-shadow: 0 0 0 1px rgba(0, 68, 136, 0.12);
+  background: var(--showcase-bullet);
+  opacity: 0.8;
+  transform: translateY(-50%) scale(1);
+  transition: transform 0.24s cubic-bezier(0.2, 0.75, 0.3, 1), opacity 0.24s ease, box-shadow 0.24s ease, filter 0.24s ease;
 }
-[data-theme='dark'] .page.single #content > ul > li::before {
-  background: rgba(102, 178, 255, 0.55);
-  box-shadow: 0 0 0 1px rgba(102, 178, 255, 0.22);
+.page.single #content > ul > li::after {
+  content: '';
+  position: absolute;
+  left: 0.19rem;
+  top: calc(var(--media-li-pad-y) + (0.5em * var(--media-li-line-height)));
+  width: 1.04rem;
+  height: 1.04rem;
+  border-radius: 999px;
+  background: radial-gradient(circle, rgba(79, 130, 185, 0.34) 0%, rgba(79, 130, 185, 0.14) 46%, rgba(79, 130, 185, 0) 78%);
+  opacity: 0;
+  transform: translate(-50%, -50%) scale(0.58);
+  transition: transform 0.32s cubic-bezier(0.18, 0.8, 0.22, 1), opacity 0.32s ease;
+  pointer-events: none;
+}
+.page.single #content > ul > li:hover,
+.page.single #content > ul > li:focus-within {
+  transform: translateX(3px);
+}
+.page.single #content > ul > li:hover::before,
+.page.single #content > ul > li:focus-within::before {
+  opacity: 1;
+  transform: translateY(-50%) scale(1.16);
+  box-shadow: 0 0 0 0.14rem var(--showcase-bullet-glow);
+  filter: saturate(112%);
+}
+.page.single #content > ul > li:hover::after,
+.page.single #content > ul > li:focus-within::after {
+  opacity: 0.96;
+  transform: translate(-50%, -50%) scale(1.06);
+}
+.page.single #content > ul > li a {
+  display: inline;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
+  color: var(--showcase-link);
+  letter-spacing: 0.002em;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+}
+.page.single #content > ul > li a:hover,
+.page.single #content > ul > li a:focus-visible {
+  color: var(--showcase-link-hover);
+  text-decoration: none !important;
+}
+.page.single #content > ul > li em {
+  display: inline;
+  margin: 0;
+  font-size: 1em;
+  line-height: inherit;
+  letter-spacing: 0;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--showcase-meta);
+}
+.page.single #content > ul > li strong {
+  font-weight: 700;
+}
+[data-theme='dark'] .page.single #content > ul > li::after {
+  background: radial-gradient(circle, rgba(121, 181, 239, 0.36) 0%, rgba(121, 181, 239, 0.15) 46%, rgba(121, 181, 239, 0) 78%);
+}
+@media (max-width: 640px) {
+  .page.single #content > ul > li {
+    --media-li-pad-y: 0.12rem;
+    --media-li-line-height: 1.48;
+    padding: var(--media-li-pad-y) 0 var(--media-li-pad-y) 0.94rem;
+    font-size: 1.01rem;
+    line-height: var(--media-li-line-height);
+  }
+  .page.single #content > ul > li::before {
+    width: 0.34rem;
+    height: 0.34rem;
+  }
+  .page.single #content > ul > li::after {
+    left: 0.17rem;
+    width: 0.9rem;
+    height: 0.9rem;
+  }
 }
 </style>
 

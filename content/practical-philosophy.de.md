@@ -115,7 +115,11 @@ Ich habe zudem argumentiert, dass ein Shklarscher „Liberalismus der Furcht“ 
 
 </div>
 
+<section class="selected-publications-box selected-publications-box--practical">
+
 <h2 class="section-list-heading section-list-heading-practical">Ausgewählte Artikel in der praktischen Philosophie</h2>
+
+<div class="selected-publications-list">
 
 [The Dworkin–Williams Debate: Liberty, Conceptual Integrity, and Tragic Conflict in Politics](#the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics.de), *Philosophy & Phenomenological Research*
 
@@ -132,6 +136,9 @@ Ich habe zudem argumentiert, dass ein Shklarscher „Liberalismus der Furcht“ 
 [Law as a Test of Conceptual Strength](#law-as-a-test-of-conceptual-strength.de), *Bernard Williams on Law and Jurisprudence*
 
 [The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea.de), *The Journal of Political Philosophy*
+
+</div>
+</section>
 
 <h2 class="section-list-heading section-list-heading-practical">Detaillierte Liste</h2>
 

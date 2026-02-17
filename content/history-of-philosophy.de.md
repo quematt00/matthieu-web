@@ -100,7 +100,11 @@ Meine Arbeit zur Geschichte der Philosophie reicht von den frühneuzeitlichen Th
 
 </div>
 
+<section class="selected-publications-box selected-publications-box--history">
+
 <h2 class="section-list-heading section-list-heading-history">Ausgewählte Artikel zur Philosophiegeschichte</h2>
+
+<div class="selected-publications-list">
 
 [Nietzsche’s Pragmatic Genealogy of Justice](#nietzsche-s-pragmatic-genealogy-of-justice.de), *British Journal for the History of Philosophy*
 
@@ -125,6 +129,9 @@ Meine Arbeit zur Geschichte der Philosophie reicht von den frühneuzeitlichen Th
 [Two Orders of Things: Wittgenstein on Reasons and Causes](#two-orders-of-things-wittgenstein-on-reasons-and-causes.de), *Philosophy*
 
 [Making Past Thinkers Speak to Us Through Pragmatic Genealogies](#making-past-thinkers-speak-to-us-through-pragmatic-genealogies.de), in *Historiography and the Formation of Philosophical Canons*
+
+</div>
+</section>
 
 <h2 class="section-list-heading section-list-heading-history">Detaillierte Liste</h2>
 

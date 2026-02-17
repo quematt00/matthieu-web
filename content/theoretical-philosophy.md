@@ -119,7 +119,11 @@ With the five-year SNSF Starting Grant I was recently awarded, I am reconnecting
 
 </div>
 
+<section class="selected-publications-box selected-publications-box--theoretical">
+
 <h2 class="section-list-heading">Selected Articles in Theoretical Philosophy</h2>
+
+<div class="selected-publications-list">
 
 [Function-Based Conceptual Engineering and the Authority Problem](#function-based-conceptual-engineering-and-the-authority-problem), *Mind*
 
@@ -138,12 +142,14 @@ With the five-year SNSF Starting Grant I was recently awarded, I am reconnecting
 [Explainability through Systematicity: The Hard Systematicity Challenge for Artificial Intelligence
 ](#explainability-through-systematicity-the-hard-systematicity-challenge-for-artificial-intelligence), *Minds & Machines*
 
-[Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression)
+[Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression), *Under review*
 
 [Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation](#needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation), *Philosophical Studies*
 
 [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models), *R&R at Philosophical Studies*
 
+</div>
+</section>
 
 
 <h2 class="section-list-heading">Detailed List</h2>

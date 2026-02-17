@@ -100,7 +100,11 @@ Mes travaux sur l’histoire de la philosophie s’étendent des théoriciens mo
 
 </div>
 
+<section class="selected-publications-box selected-publications-box--history">
+
 <h2 class="section-list-heading section-list-heading-history">Articles sélectionnés sur l’histoire de la philosophie</h2>
+
+<div class="selected-publications-list">
 
 [Nietzsche’s Pragmatic Genealogy of Justice](#nietzsche-s-pragmatic-genealogy-of-justice.fr), *British Journal for the History of Philosophy*
 
@@ -125,6 +129,9 @@ Mes travaux sur l’histoire de la philosophie s’étendent des théoriciens mo
 [Two Orders of Things: Wittgenstein on Reasons and Causes](#two-orders-of-things-wittgenstein-on-reasons-and-causes.fr), *Philosophy*
 
 [Making Past Thinkers Speak to Us Through Pragmatic Genealogies](#making-past-thinkers-speak-to-us-through-pragmatic-genealogies.fr), dans *Historiography and the Formation of Philosophical Canons*
+
+</div>
+</section>
 
 <h2 class="section-list-heading section-list-heading-history">Liste détaillée</h2>
 

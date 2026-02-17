@@ -101,7 +101,11 @@ My work on the history of philosphy ranges from Early Modern theorists of the st
 </div>
 
 
+<section class="selected-publications-box selected-publications-box--history">
+
 <h2 class="section-list-heading section-list-heading-history">Selected Articles on the History of Philosophy</h2>
+
+<div class="selected-publications-list">
 
 [Nietzsche’s Pragmatic Genealogy of Justice](#nietzsche-s-pragmatic-genealogy-of-justice), *British Journal for the History of Philosophy*
 
@@ -126,6 +130,9 @@ My work on the history of philosphy ranges from Early Modern theorists of the st
 [Two Orders of Things: Wittgenstein on Reasons and Causes](#two-orders-of-things-wittgenstein-on-reasons-and-causes), *Philosophy*
 
 [Making Past Thinkers Speak to Us Through Pragmatic Genealogies](#making-past-thinkers-speak-to-us-through-pragmatic-genealogies), in *Historiography and the Formation of Philosophical Canons*
+
+</div>
+</section>
 
 <h2 class="section-list-heading section-list-heading-history">Detailed List</h2>
 

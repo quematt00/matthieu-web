@@ -119,7 +119,11 @@ Mit dem fünfjährigen SNF Starting Grant, der mir kürzlich zugesprochen wurde,
 
 </div>
 
+<section class="selected-publications-box selected-publications-box--theoretical">
+
 <h2 class="section-list-heading">Ausgewählte Artikel in der theoretischen Philosophie</h2>
+
+<div class="selected-publications-list">
 
 [Function-Based Conceptual Engineering and the Authority Problem](#function-based-conceptual-engineering-and-the-authority-problem.de), *Mind*
 
@@ -137,11 +141,14 @@ Mit dem fünfjährigen SNF Starting Grant, der mir kürzlich zugesprochen wurde,
 
 [Explainability through Systematicity: The Hard Systematicity Challenge for Artificial Intelligence](#explainability-through-systematicity-the-hard-systematicity-challenge-for-artificial-intelligence.de), *Minds & Machines*
 
-[Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression.de)
+[Why We Care About Understanding: Competence through Predictive Compression](#why-we-care-about-understanding-competence-through-predictive-compression.de), *Under review*
 
 [Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation](#needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation.de), *Philosophical Studies*
 
 [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models.de), *R&R at Philosophical Studies*
+
+</div>
+</section>
 
 <h2 class="section-list-heading">Detaillierte Liste</h2>
 

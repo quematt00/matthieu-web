@@ -117,7 +117,11 @@ I have also been arguing that a Shklarian liberalism of fear provides an especia
 
 </div>
 
+<section class="selected-publications-box selected-publications-box--practical">
+
 <h2 class="section-list-heading section-list-heading-practical">Selected Articles in Practical Philosophy</h2>
+
+<div class="selected-publications-list">
 
 [The Dworkin–Williams Debate: Liberty, Conceptual Integrity, and Tragic Conflict in Politics](#the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics), *Philosophy & Phenomenological Research*
 
@@ -134,6 +138,9 @@ I have also been arguing that a Shklarian liberalism of fear provides an especia
 [Law as a Test of Conceptual Strength](#law-as-a-test-of-conceptual-strength), *Bernard Williams on Law and Jurisprudence*
 
 [The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea), *The Journal of Political Philosophy*
+
+</div>
+</section>
 
 <h2 class="section-list-heading section-list-heading-practical">Detailed List</h2>
 

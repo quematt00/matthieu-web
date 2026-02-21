@@ -1,5 +1,5 @@
 ---
-title: "L’inventeur inventé : Adapter le droit des brevets à l’IA générative"
+title: "The Invented Inventor: Reimagining Intellectual Property for the Age of AI"
 year: "manuscrit"
 tags:
   - "droits-de-propriete-intellectuelle"
@@ -23,6 +23,6 @@ L’IA peut-elle avoir la qualité d’inventeur ? Les récentes décisions de j
 
 <span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/droits-de-propriete-intellectuelle/">droits de propriété intellectuelle</a>, <a href="/fr/tags/brevets/">brevets</a>, <a href="/fr/tags/inventeur/">inventeur</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/ia/">IA</a>, <a href="/fr/tags/adaptation-conceptuelle/">adaptation conceptuelle</a></span>
 
-<a class="download-link" href="#" aria-label="PDF à venir: L’inventeur inventé : Adapter le droit des brevets à l’IA générative">
+<a class="download-link" href="/Inventor.pdf" aria-label="PDF à venir: The Invented Inventor: Reimagining Intellectual Property for the Age of AI">
   <i class="fa-solid fa-download"></i> PDF à venir
 </a>

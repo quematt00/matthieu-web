@@ -1,5 +1,5 @@
 ---
-title: "Der erfundene Erfinder: Anpassung des Patentrechts an generative KI"
+title: "The Invented Inventor: Reimagining Intellectual Property for the Age of AI"
 year: "manuskript"
 tags:
   - "geistige-eigentumsrechte"
@@ -23,6 +23,6 @@ Kann eine KI Erfinder sein? Jüngste gerichtliche Entscheidungen, die künstlich
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/geistige-eigentumsrechte/">Geistige Eigentumsrechte</a>, <a href="/de/tags/patente/">Patente</a>, <a href="/de/tags/erfinder/">Erfinder</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/ki/">KI</a>, <a href="/de/tags/begriffliche-anpassung/">begriffliche Anpassung</a></span>
 
-<a class="download-link" href="#" aria-label="PDF folgt: Der erfundene Erfinder: Anpassung des Patentrechts an generative KI">
+<a class="download-link" href="/Inventor.pdf" aria-label="PDF folgt: The Invented Inventor: Reimagining Intellectual Property for the Age of AI">
   <i class="fa-solid fa-download"></i> PDF folgt
 </a>

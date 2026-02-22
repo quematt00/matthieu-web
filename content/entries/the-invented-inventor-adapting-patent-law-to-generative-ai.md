@@ -1,5 +1,5 @@
 ---
-title: "The Invented Inventor: Reimagining Intellectual Property for the Age of AI"
+title: "The Invented Inventor: Adapting Patent Law to Generative AI"
 year: "manuscript"
 tags:
   - "intellectual-property-rights"
@@ -19,10 +19,10 @@ categories:
 *Under review*
 <!--more-->
 
-Can AI be an inventor? Recent judicial rulings rejecting artificial intelligence as an inventor, exemplified by the Swiss Federal Administrative Court’s 2025 DABUS decision, reveal a conceptual tension where the requirement for intellectual creation by a natural person is formally maintained even as AI-assisted practice renders human contribution increasingly nominal. Applying the method of pragmatic genealogy, I reconstruct the historical “need matrices” that shaped the concept of inventor - from Venetian guild economics through Romantic genius ideology to corporate R&D - to evaluate its cognitive presuppositions and identify the practical needs it serves. On this basis, I argue that instead of extending inventorship to AI or preserving a hollowed-out requirement for human intellectual labour, we ought to alleviate the mismatch between the inherited concept of inventor and modern technological capacities by disaggregating the multiple functional roles we need the concept to discharge.
+As artificial intelligence increasingly drives processes of discovery, the concept of inventor – a keystone of the modern patent system – faces severe strain. Recent judicial decisions, such as the Swiss Federal Administrative Court’s 2025 DABUS ruling, expose a deepening conceptual tension: courts formally demand intellectual creation by a natural person, even as human contributions to AI-assisted discovery become increasingly nominal. By applying the method of pragmatic genealogy, this paper reconstructs the historical “need matrices” that forged the concept of inventorship, tracing its evolution from Venetian guild economics through Romantic genius ideology to corporate R&D. This genealogy reveals that the concept of inventor is an overburdened bundle of four inferential roles – attributing ownership, desert, patent entitlement, and the responsibility to disclose – which in turn serve four distinct social functions: incentivising innovation, legitimating monopolies, disseminating knowledge, and resolving priority disputes. Ultimately, the genealogy exposes a fundamental mismatch between our inherited concept of inventor and the emerging realities of AI-driven discovery. To resolve this, I argue that we must disaggregate the concept of inventorship and develop specialised conceptual resources for each of these functions. If we invented the notion of inventor to perform certain functions, we can reinvent it to perform them better.
 
 <span><i class="fa-solid fa-tags"></i> <a href="/tags/intellectual-property-rights/">intellectual property rights</a>, <a href="/tags/patents/">patents</a>, <a href="/tags/inventor/">inventor</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/ai/">AI</a>, <a href="/tags/conceptual-adaptation/">conceptual adaptation</a></span>
 
-<a class="download-link" href="/Inventor.pdf" aria-label="PDF coming soon: The Invented Inventor: Reimagining Intellectual Property for the Age of AI">
+<a class="download-link" href="/Inventor.pdf" aria-label="PDF coming soon: The Invented Inventor: Adapting Patent Law to Generative AI">
   <i class="fa-solid fa-download"></i> PDF coming soon
 </a>

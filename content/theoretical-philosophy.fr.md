@@ -145,7 +145,7 @@ Grâce au *Starting Grant* du FNS qui m’a été récemment accordé pour cinq 
 
 [Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation](#needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation.fr), *Philosophical Studies*
 
-[Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models.fr), *R&R at Philosophical Studies*
+[Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models.fr), *Philosophical Studies*
 
 </div>
 </section>

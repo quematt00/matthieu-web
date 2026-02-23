@@ -146,7 +146,7 @@ With the five-year SNSF Starting Grant I was recently awarded, I am reconnecting
 
 [Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation](#needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation), *Philosophical Studies*
 
-[Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models), *R&R at Philosophical Studies*
+[Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models), *Philosophical Studies*
 
 </div>
 </section>

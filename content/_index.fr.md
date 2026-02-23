@@ -48,7 +48,7 @@ readingProgress:
         <p class="subtitle">Tailoring Thought and Language to Need</p>
                   <p class="book-meta">Oxford University Press, 2025 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
         <p class="book-abstract">
-          Pourquoi accepter une définition plutôt qu’une autre ? Le livre propose un cadre d’évaluation des concepts à partir des besoins conceptuels que nous mettons au jour par la distanciation réflexive. Il soutient que des concepts parfois vagues, voire conflictuels, sont précisément ce dont nous avons besoin, et montre comment distinguer une clarification utile d’un découpage conceptuel arbitraire.
+          Pourquoi accepter une définition plutôt qu’une autre ? Je propose un cadre d’évaluation des concepts à partir des besoins conceptuels que nous mettons au jour par la distanciation réflexive. Je soutiens que des concepts parfois vagues, voire conflictuels, sont précisément ce dont nous avons besoin, et montre comment distinguer une clarification utile d’un découpage conceptuel arbitraire.
 	        </p>
 	        <div class="book-reviews">
 	          <p class="review-quote">A fait l’objet de la Bielefeld Masterclass in Philosophy 2024.</p>
@@ -74,7 +74,7 @@ readingProgress:
         <p class="subtitle">Genealogy as Conceptual Reverse-Engineering</p>
                 <p class="book-meta">Oxford University Press, 2021 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
         <p class="book-abstract">
-          Une étude des récits de l’état de nature et des généalogies qui éclairent l’émergence des idées abstraites. Le livre retrace cette pratique, de Hume, Rousseau et Nietzsche jusqu’à E. J. Craig, Bernard Williams et Miranda Fricker, en montrant comment la généalogie permet de reconstituer les pressions qui justifient la conservation de certains concepts.
+          Une étude des récits de l’état de nature et des généalogies qui éclairent l’émergence des idées abstraites. Je retrace cette pratique, de Hume, Rousseau et Nietzsche jusqu’à E. J. Craig, Bernard Williams et Miranda Fricker, en montrant comment la généalogie permet de reconstituer les pressions qui justifient la conservation de certains concepts.
         </p>
         <div class="book-reviews">
           <p class="review-quote">« Superbe ... un livre splendide » <span class="review-author">— Cheryl Misak, <em>Analysis</em></span></p>

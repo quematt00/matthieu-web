@@ -13,7 +13,6 @@ tags:
   - "propriete"
 categories:
   - "philosophie pratique"
-  - "histoire de la philosophie"
 ---
 
 *En cours d’évaluation*

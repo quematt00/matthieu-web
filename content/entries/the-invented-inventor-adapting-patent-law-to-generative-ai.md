@@ -13,7 +13,6 @@ tags:
   - "property"
 categories:
   - "practical philosophy"
-  - "history of philosophy"
 ---
 
 *Under review*

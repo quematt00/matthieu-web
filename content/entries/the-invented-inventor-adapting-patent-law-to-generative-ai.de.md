@@ -13,7 +13,6 @@ tags:
   - "eigentum"
 categories:
   - "Praktische Philosophie"
-  - "Geschichte der Philosophie"
 ---
 
 *In Begutachtung*

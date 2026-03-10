@@ -23,7 +23,6 @@ tags:
   - "williams"
   - "changement-conceptuel"
 categories:
-  - "histoire de la philosophie"
   - "philosophie pratique"
 ---
 

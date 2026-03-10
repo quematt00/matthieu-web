@@ -23,7 +23,6 @@ tags:
   - "williams"
   - "begriffswandel"
 categories:
-  - "Geschichte der Philosophie"
   - "Praktische Philosophie"
 ---
 

@@ -24,7 +24,6 @@ tags:
   - "williams"
   - "conceptual-change"
 categories:
-  - "history of philosophy"
   - "practical philosophy"
 ---
 

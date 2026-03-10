@@ -14,7 +14,6 @@ tags:
   - "analyse-conceptuelle"
 categories:
   - "philosophie théorique"
-  - "histoire de la philosophie"
 ---
 
 *The Monist*. Numéro spécial sur Explication and Conceptual Engineering.

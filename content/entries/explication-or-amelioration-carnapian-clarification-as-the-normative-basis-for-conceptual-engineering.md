@@ -15,7 +15,6 @@ tags:
 categories:
   - "theoretical philosophy"
   - "practical philosophy"
-  - "history of philosophy"
 ---
 
 *The Monist*. Special issue on Explication and Conceptual Engineering.

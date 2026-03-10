@@ -15,7 +15,6 @@ tags:
 categories:
   - "Theoretische Philosophie"
   - "Praktische Philosophie"
-  - "Geschichte der Philosophie"
 ---
 
 *The Monist*. Sonderheft zu Explication and Conceptual Engineering.

@@ -21,7 +21,7 @@ Moving beyond the standard historical explanation, which assumes systems were bu
 
 - *The Pedagogical Rationale:* Systematization made knowledge transmissible.
 - *The Epistemological Rationale:* Systematization made thought self-certifying and self-correcting.
-- *The Political Rationale:* Systematization made public authority accountable, administrable, and fair .
+- *The Political Rationale:* Systematization made public authority accountable, administrable, and fair.
 
 While these rationales vindicate the systematic impulse as a practical necessity rather than an arbitrary quirk, the genealogy also traces a counter-tradition, from Margaret Cavendish's vitalism through Diderot's polyphony to Hegelian ethical critiques, that exposes the costs of emulating the virtues of machines. Pushed too far, the demand for systematicity flattens experience, strips away context-sensitive "thick" concepts, and risks becoming nothing but dogmatic machinery. The book thus provides a delimiting framework for understanding both the indispensable value of systematizing thought and the importance of recognizing its limits.
 

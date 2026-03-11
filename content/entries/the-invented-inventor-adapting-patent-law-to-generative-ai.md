@@ -1,5 +1,5 @@
 ---
-title: "The Invented Inventor: Adapting Patent Law to Generative AI"
+title: "The Invented Inventor: Adapting Intellectual Property to Generative AI"
 year: "manuscript"
 tags:
   - "intellectual-property-rights"
@@ -22,6 +22,6 @@ As AI increasingly drives discovery, the concept of inventor faces severe strain
 
 <span><i class="fa-solid fa-tags"></i> <a href="/tags/intellectual-property-rights/">intellectual property rights</a>, <a href="/tags/patents/">patents</a>, <a href="/tags/inventor/">inventor</a>, <a href="/tags/genealogy/">genealogy</a>, <a href="/tags/ai/">AI</a>, <a href="/tags/conceptual-adaptation/">conceptual adaptation</a></span>
 
-<a class="download-link" href="https://philpapers.org/archive/QUETII.pdf" aria-label="PDF coming soon: The Invented Inventor: Adapting Patent Law to Generative AI">
+<a class="download-link" href="https://philpapers.org/archive/QUETII.pdf" aria-label="PDF coming soon: The Invented Inventor: Adapting Intellectual Property to Generative AI">
   <i class="fa-solid fa-download"></i> PDF coming soon
 </a>

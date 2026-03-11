@@ -1,5 +1,5 @@
 ---
-title: "The Invented Inventor: Adapting Patent Law to Generative AI"
+title: "The Invented Inventor: Adapting Intellectual Property to Generative AI"
 year: "manuskript"
 tags:
   - "geistige-eigentumsrechte"
@@ -22,6 +22,6 @@ Da Künstliche Intelligenz (KI) zunehmend als Treiber von Entdeckungen fungiert,
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/geistige-eigentumsrechte/">Geistige Eigentumsrechte</a>, <a href="/de/tags/patente/">Patente</a>, <a href="/de/tags/erfinder/">Erfinder</a>, <a href="/de/tags/genealogie/">Genealogie</a>, <a href="/de/tags/ki/">KI</a>, <a href="/de/tags/begriffliche-anpassung/">begriffliche Anpassung</a></span>
 
-<a class="download-link" href="https://philpapers.org/archive/QUETII.pdf" aria-label="PDF folgt: The Invented Inventor: Adapting Patent Law to Generative AI">
+<a class="download-link" href="https://philpapers.org/archive/QUETII.pdf" aria-label="PDF folgt: The Invented Inventor: Adapting Intellectual Property to Generative AI">
   <i class="fa-solid fa-download"></i> PDF folgt
 </a>

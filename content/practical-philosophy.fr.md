@@ -135,6 +135,8 @@ J’ai également soutenu qu’un libéralisme de la peur (liberalism of fear) d
 
 [Law as a Test of Conceptual Strength](#law-as-a-test-of-conceptual-strength.fr), *Bernard Williams on Law and Jurisprudence*
 
+[The Invented Inventor: Adapting Intellectual Property to Generative AI](#the-invented-inventor-adapting-patent-law-to-generative-ai.fr), *En cours d’évaluation*
+
 [The Double Nature of DNA: Reevaluating the Common Heritage Idea](#the-double-nature-of-dna-reevaluating-the-common-heritage-idea.fr), *The Journal of Political Philosophy*
 
 </div>

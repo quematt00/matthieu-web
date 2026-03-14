@@ -18,7 +18,7 @@ categories:
   - "history of philosophy"
 ---
 
-*Philosophical Studies*. 2026.
+*Philosophical Studies*. 2026. [doi:10.1007/s11098-026-02511-3](https://doi.org/10.1007/s11098-026-02511-3)
 <!--more-->
 
 The article offers an account of “needs of the mind” in terms of a distinctively aptic normativity--a normativity of fittingness. After reconstructing the history of different conceptions of needs and their gradual subjectivization, the article focuses on conceptual needs and argues that they register a cognitive privation that goes beyond a shortage of words, marking a mismatch between our conceptual repertoire and our situation that reorients conceptual engineering from detached amelioration to situated adaptation. This makes a needs-first approach uniquely suited to guiding conceptual adaptation in times of technological disruption.

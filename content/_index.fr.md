@@ -48,7 +48,7 @@ readingProgress:
         <p class="subtitle">Tailoring Thought and Language to Need</p>
                   <p class="book-meta">Oxford University Press, 2025 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
         <p class="book-abstract">
-          Pourquoi accepter une définition plutôt qu’une autre ? Je propose un cadre d’évaluation des concepts à partir des besoins conceptuels que nous mettons au jour par la distanciation réflexive. Je soutiens que des concepts parfois vagues, voire conflictuels, sont précisément ce dont nous avons besoin, et montre comment distinguer une clarification utile d’un découpage conceptuel arbitraire.
+          Pourquoi accepter une définition plutôt qu’une autre ? Je propose un cadre d’évaluation des concepts à partir des besoins conceptuels que nous mettons au jour par la distanciation réflexive. Je soutiens que des concepts vagues, voire conflictuels, sont parfois précisément ce dont nous avons besoin, et montre comment distinguer une clarification utile d’un découpage conceptuel arbitraire.
 	        </p>
 	        <div class="book-reviews">
 	          <p class="review-quote">A fait l’objet de la Bielefeld Masterclass in Philosophy 2024.</p>

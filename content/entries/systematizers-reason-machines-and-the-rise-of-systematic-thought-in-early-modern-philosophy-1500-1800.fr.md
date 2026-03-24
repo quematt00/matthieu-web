@@ -19,9 +19,9 @@ Les philosophes ont souvent tendance à traiter l’aspiration à la pensée sys
 
 À rebours de l’explication historique la plus courante, selon laquelle les systèmes auraient été élaborés pour refléter le plan métaphysique d’un univers rationnellement ordonné, le livre soutient que les penseurs de la première modernité ont introduit l’exigence de systématisation cognitive pour imiter les vertus de machines bien conçues. En modelant les vertus cognitives sur les vertus mécaniques, ces penseurs ont déplacé l’autorité du savoir depuis les dispositions internes et personnelles — le *habitus* — des individus vers des architectures objectivées, détachées de leurs porteurs. À travers des études de cas qui vont de Ramus et Keckermann à Descartes, Hobbes, Spinoza et Cavendish, puis à Leibniz, Newton et Du Châtelet, et enfin à Diderot, d’Alembert, Rousseau et Kant, le livre met en lumière trois ressorts pratiques distincts de cette mécanisation de la pensée :
 
-- *Le ressort pédagogique* : la systématisation a rendu le savoir transmissible.
-- *Le ressort épistémologique* : la systématisation a rendu la pensée autocertifiante et autocorrectrice.
-- *Le ressort politique* : la systématisation a rendu l’autorité publique plus contrôlable, plus facile à administrer et plus équitable.
+- *Le ressort pédagogique* : la systématisation rend le savoir transmissible.
+- *Le ressort épistémologique* : la systématisation rend la pensée autocertifiante et autocorrectrice.
+- *Le ressort politique* : la systématisation rend l’autorité publique plus contrôlable, plus facile à administrer et plus équitable.
 
 Si ces ressorts montrent que l’élan systématique répond à une nécessité pratique plutôt qu’à une marotte arbitraire, la généalogie suit aussi une contre-tradition — du vitalisme de Margaret Cavendish à la polyphonie de Diderot, puis aux critiques éthiques d’inspiration hégélienne — qui met au jour le coût d’une imitation trop poussée des vertus de la machine. Poussée à l’extrême, l’exigence de systématicité aplanit l’expérience, érode les concepts « épais » sensibles au contexte et risque de se réduire à une pure mécanique dogmatique. Le livre propose ainsi un cadre permettant de penser à la fois la valeur indispensable de la systématisation de la pensée et la nécessité d’en reconnaître les limites.
 

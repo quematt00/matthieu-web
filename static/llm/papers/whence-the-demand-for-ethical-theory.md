@@ -1,0 +1,217 @@
+# Whence the Demand for Ethical Theory?
+
+Author: Damian Cueni and Matthieu Queloz
+Published in: American Philosophical Quarterly 58 (2): 135-146. 2021.
+DOI: [10.2307/48614001](https://doi.org/10.2307/48614001)
+Canonical entry: https://www.matthieuqueloz.com/entries/whence-the-demand-for-ethical-theory/
+Published PDF: https://philpapers.org/archive/CUEWTD.pdf
+
+Machine-readable text companion generated from the PDF. Page markers follow the journal pagination.
+
+[p. 135]
+
+## Abstract
+
+Where does the impetus towards ethical theory come from? What drives humans to make values explicit, consistent, and discursively justifiable? This paper situates the demand for ethical theory in human life by identifying the practical needs that give rise to it. Such a practical derivation puts the demand in its place: while finding a home for it in the public decision-making of modern societies, our account also imposes limitations on the demand by presenting it as scalable and context-sensitive. This differentiates strong forms of the demand calling for theory from weaker forms calling for less, and contexts where it has a place from contexts where it is out of place. In light of this, subjecting personal deliberation to the demand turns out to involve a trade-off.
+
+We find ourselves with a plurality of values which, even within one person, can conflict in ways that are not resolvable without loss.1 The need to resolve these conflicts can seem to pull ethical thought in the direction of ethical theory and systematization, notably by demanding that values be made explicit in terms of stateable principles, that they be made consistent by using some of them to overturn others in systematic ways, and that they be rendered as far as possible discursively justifiable. It is this bundle of demands—which we shall call “the Demand” for short—that will be our central concern in this paper.2 Bernard Williams has argued that insofar as we yield to the Demand, there will be a question as to where the resulting regimentation of ethical thought derives its authority from. That authority cannot simply derive from the need to resolve conflicts of values, since we are perfectly capable of rationally resolving conflicts of values without such systematization by exercising our judgment in a particular case; nor, according to Williams, does that authority derive from the idea that reason itself demands this kind of systematization. To think that systematization is required either by reason itself or by the need for rational conflict resolution, Williams maintains, betrays an overly rationalistic conception of rationality.3 But even if we agree with Williams that neither the need to resolve conflicts as such nor reason itself pull us in the direction of ethical theory, it does not necessarily follow that there is no such pull. In “Why Practice Needs Ethical Theory,” Martha Nussbaum has argued that there is a practical demand for ethical theory. Williams, she wryly remarks, conveys the impression of thinking that “when we do away with theory we will be left with people like Bernard Williams”: energetically critical and self-critical people, not captive to any other theory, and sensitive to distortions in their experience (2000, p.
+
+[p. 136]
+
+70). But ordinary life, Nussbaum notes, is not like a Henry James novel with liberal politics thrown in. It is teeming with crude and ill-considered theories regimenting people’s lives. In practice, therefore, we need good ethical theories to drive out the bad. Whatever our conception of rationality, there is a practical demand for ethical theory. In this paper, we show that Williams can agree with Nussbaum that the Demand has a place, notably in public life, and that it is indeed a practical demand; but precisely because it is a practical demand, it must be situated in the practical contexts from which it derives its point, and this means that it arises only in certain contexts, and that even then, it remains a demand for far less than a full-blown ethical theory.
+
+We thus propose to take what might be called a humanistic approach to ethical theory: an approach that seeks to situate philosophically vexing subject matters in human life by taking an agent-centered view of them and inquiring into the practical point in human affairs of thinking along these lines in the first place.4 Applied to ethical theory, such a humanistic approach invites us to try and make sense, in light of facts about us and our situation, of why we come to feel the impetus towards ethical theory in the first place. It encourages to ask such questions as: Who needs to subject ethical thought to the Demand? Do we all need to do it all of the time, or only some of us under certain circumstances? And do we really always need a full-blown systematic and coherent ethical theory, or does the pull towards ethical theory come in degrees?
+
+Answering these questions by situating the Demand in human life will reveal that it is not just a fetish, but is rooted in human needs, so that there is a vindicatory explanation for why the Demand arises. Yet it will also vindicate the Demand only up to a point, presenting it as overreaching itself if it is taken either to apply across the board or necessarily to pull us all the way to ethical theory. This is because understanding the Demand as arising out of situated practical needs suggests that it is scalable and context-sensitive: it is scalable insofar as we can distinguish between a demand for a full-blown ethical theory and a weaker demand only for some degree of explication, systematization, and discursive justification; and it is context-sensitive insofar as we can separate contexts in which the Demand has a point from contexts in which it is otiose or even harmful. Understanding these aspects of the Demand will help us put it in its proper place and think about how much ground—particularly in personal deliberation—we should cede to it.
+
+## 1. Situating the Demand
+
+To situate the Demand in human life, we must understand what facts about human beings and their situation it grows out of and derives its point from. Williams goes some way towards doing this in a paper entitled “Conflicts of Values” (1981a), which complements Ethics and the Limits of Philosophy. In this paper, Williams has surprisingly positive things to say about the impetus towards ethical theory. Contrary to the impression he gives in Ethics and the Limits of Philosophy, he is not a sceptic about ethical theory across the board. While he denies that the Demand is a constitutive requirement of logic or rationality, he argues that it does have a practical basis in individual and social needs. In particular, he suggests that it is rooted in a requirement on agencies in a “public, large and impersonal forum” to be “governed by an explicable order which allows these agencies to be answerable” (1981a, p. 81). Taking our cue from Williams, we can try to place the Demand in human affairs by sketching, in barest outline, a prototypical situation in which the Demand arises in its most primitive form in response to human needs, thereby offering what might be called a practical derivation of the Demand. This
+
+[p. 137]
+
+way of proceeding is modeled on Williams’s vindicatory genealogy of the virtues of truth (2002), which is in turn modeled on E. J. Craig’s (1990) genealogy of the concept of knowledge. While Williams and Craig aim to derive the need for the virtues of truth and the concept of knowledge from very basic needs that human beings have anyway, however, we aim to show that the need for ethical theory derives from needs that are far more local—needs indexed to particular, restricted circumstances. But though the needs are more local, the method is the same: to determine what a conceptual practice does for us by identifying its natural home and the needs it answers to.5 We can start on this task with the uncontroversial idea that human beings with a plurality of values will get in each other’s way. Given a commitment to social coexistence, they will need some means of resolving conflicts in non-violent ways, of attributing priority to certain values and determining how far they are to be realized at the expense of the realization of other values. This in itself could be achieved in many different ways—one could just about imagine it being achieved through some process that randomized over different outcomes. But if the decisions reached by any such conflict-resolver are to be effective in preventing conflict, they also need to be enforced, and this will require some form of public power.
+
+If the exercise of this power is to be more than mere coercion—which, by breeding resentment and violence, threatens to be part of the problem rather than the solution—the decision-making needs to be authoritative. There needs to be some distinction between might and right, between brute power and power that is legitimated by some kind of legitimation story. In the course of history, such legitimation stories have taken very different forms, many of them transcendental. But in order to bring something like the need for ethical theory into view, we need to factor in two crucial facts about us and our situation that are far more local.
+
+The first thing that we need to factor in is that we moderns in liberal democracies have particularly demanding standards for what counts as a legitimation of power. As Williams argues (2005a, p. 95), this is connected with the fact that many other legitimation stories, including notably transcendental ones, no longer carry enough conviction under conditions of modernity—we have less material available in terms of which to present decisions as authoritative. But one notable way in which, for us, decision-making can differ from purely arbitrary assertions of will by a Caligulan ruler is by being an impartial exercise of reasonable judgement (Williams 2005a, p. 94).6 The second thing to factor in is that we live in large societies. In sufficiently small and close-knit societies, it might be possible for a person to possess authority in the eyes of those concerned already in virtue of the relations of personal trust established through close acquaintance. The decisions may then be seen as authoritative because they are made by this person, a person that one trusts, on the basis of personal acquaintance, to make decisions on grounds that could be recognized as legitimate by those concerned. But in larger communities, it will no longer possible for decision-makers to cultivate acquaintances breeding the required level of trust with all those affected by their decisions. Consequently, acquaintance-derived trust that the decision-making is going to be based on the right kinds of grounds is no longer enough.
+
+For the decision-making to be authoritative in larger societies, therefore, it needs to be verifiably based on the right kinds of grounds, and in modern societies, this notably means that it needs to be verifiably reasonable and impartial. It must be possible even for people lacking personal acquaintance with the decision-maker to assure themselves that
+
+[p. 138]
+
+the decision-making is an impartial exercise of reasonable judgement and not some form of preferential treatment or arbitrariness. It is here that the first intimations of the Demand come into view: it is the pressure on public decision-making in large and modern societies to be authoritative which gives rise to the most basic form of the Demand that decision-making be based on explicitly stateable principles that resolve conflict in systematic, consistent, and discursively justifiable ways. This is not yet a Demand for a full-blown ethical theory. But by subjecting public decision-making to the Demand in some weaker form, those affected by the decision-making give themselves the means to verify that it is an impartial exercise of reasonable judgement.
+
+This practical derivation suggests that a weak form of the Demand—though not yet a Demand for ethical theory—has a place in human life: it answers to the modern need to hold public decision-making accountable.7 Demanding that such decision-making be guided by systematic, stateable principles that are consistently discursively justifiable to those it affects provides a way of replacing trust bred through personal acquaintance with a more impersonal form of assurance that the decision-making is authoritative rather than coercive.
+
+## 2. The Demand as a Function of Three Parameters
+
+By situating practical demands in contingent real-world contexts and relating them to the more primitive needs that give rise to them, we understand what these demands need—and do not need—to be. Accordingly, the practical exigencies out of which the Demand arises can inform our understanding of it, helping us determine who is subject to the Demand, how strong it needs to be, and what standard one must meet in trying to satisfy it. To develop a sense of what the Demand needs to amount to, it helps to get a more analytic grip on it by thinking of it as a function of the following three parameters: The Three Parameters of the Demand: [Who] needs to decide and justify [what] in terms that make sense to [whom]?
+
+Depending on how we set these three parameters, the Demand will look different. The first parameter governs who is subject to the Demand. Is it essentially everyone capable of practical reason, for instance? Our practical derivation offers a prima facie reason to think that a rather narrower set of agents should be subject to the Demand, namely only people in positions of public authority. The second parameter governs what class of cases those subject to the Demand must be able to decide. If they must be able to decide any conceivable case in a manner consistent with any other conceivable case, they will be required to develop something much like an ethical theory, because they will need an extremely general rationalistic decision procedure that can be discursively laid out and that does not rely on factual agreement, for any substantial consensus there may actually be is rendered invisible by the requirement consistently to resolve merely notional conflicts as well; if, by contrast, they only need to decide the cases that actually arise in a manner consistent with past cases that actually arose, far less systematization will be required.
+
+The third parameter governs to whom the discursive justifications are to make sense, where “making sense” requires not just that the justifications make sense of power in the minimal sense of rendering it humanly intelligible, but that they make sense of it as an example of authoritative order.8 If the discursive justifications are required to make sense to anyone, this will tend to give ethical thought the shape of an ethical theory, because if we can only draw on what is recognizable to anyone as a justification, we will be barred from drawing on considerations
+
+[p. 139]
+
+that are accessible only to some communities because they are articulated in terms of thick concepts specific to those communities. We will be driven towards abstract considerations articulated in terms of thin concepts—at the limit, considerations available to the rational agent as such. But if the set of addressees is more narrowly concrete, the set of shared conceptual resources that discursive justification can draw on can be thicker. Our practical derivation suggests that the addressees of the discursive justifications might be only the actual members of the community in which a public authority is subject to the Demand. What this analysis brings out is that the Demand is context-sensitive and scalable: just because it arises under some circumstances in some form does not mean that it arises for everyone, in as strong a form as that which calls for ethical theory. In its strongest form, the Demand becomes the following: The Strongest Form of the Demand: Everyone needs to decide and justify any conceivable case in a manner consistent with any other conceivable case in terms that make sense to anyone.
+
+While extreme, this is still recognizably akin to the standard which philosophers trying to offer ethical theories like utilitarianism and Kantianism try to meet. Consider, by contrast, the much weaker form of the Demand suggested by our practical derivation: The Form of the Demand Suggested by the Practical Derivation: People in positions of public authority need to decide the cases that actually arise in a manner consistent with past cases that actually arose in terms that make sense to the members of their community.
+
+Williams thinks that in this weaker form, the Demand has a place in certain contexts of public life. But he rejects the application even of this weaker form to the realm of private life.9 He thinks it would be a mistake—a misguided generalization of public standards to private standards—to follow advocates of ethical theory who, “too unknowingly caught up” in the modern world and “unreflectively appealing to administrative ideas of rationality” (2011, p. 220), impose it also on personal deliberation.10
+
+## 3. Who Needs Ethical Theory?
+
+Once we see the impetus towards ethical theory as a particularly strong form of a scalable Demand, we can ask under what conditions, if any, the Demand would become one for ethical theory—who, if anyone, needs ethical theory? This turns out to be a question Williams raises in Ethics and the Limits of Philosophy, and remarkably enough, this arch- critic of ethical theory envisages a situation in which he considers it perfectly reasonable to aim for an ethical theory: Let us assume that there are some people who, first, are resolved to reach agreement on important ethical questions, and indeed are more strongly resolved to reach agreement than they are to express different ethical conceptions of the world. They are irreversibly committed to living closely together in one society. Moreover, it is agreement that they are resolved to reach, and they would not be content to end up with the mere domination of one set of beliefs. Next, they see this as a task that requires them to arrive at publicly stateable principles. Last, they want this process to govern the discussion of problems that will arise later from the principles they agree upon, such as conflicts between them. In these circumstances, it is reasonable for them to aim at an ethical theory [. . .]. (2011, p. 110) Williams makes two points about these assumptions: first, they are specifically modern and liberal; and second, they are extremely strong assumptions which, while they may fit the way liberal societies describe themselves, do not fit the way liberal societies actually function. They are assumptions describing the situation that the “founding fathers” would have been in if, “having just
+
+[p. 140]
+
+got off the boat” (2005c, p. 58), they sought not only to build a society from the ground up, but also to reach a rational consensus on each and every decision involved in doing so. But no actual modern democracy fulfils these conditions, for all actual modern democracies to some extent content themselves with what Williams calls “the mere domination of one set of beliefs”—they settle for less than a full rational consensus, agreeing on procedures by which to reach decisions even if they do not necessarily agree with the decisions in every respect. Procedures such as majority rule produce decisions, but they do not necessarily produce the kind of rational consensus demanded under the conditions that call for ethical theory. Even where people are identified with these decision procedures, they may still experience the decision reached as involving a cost in liberty, and hence as a form of domination (2005a, pp. 84–87). So, while we can envisage conditions under which the Demand would pull us all the way to ethical theory, these involve extremely strong assumptions.
+
+Just how strong these assumptions are becomes apparent if we consider that not even the real-world institutions which might come closest to approximating them, such as the Supreme Court, are subject to the Demand in this strong form.11 While our practical derivation only took us as far as the generic need for some centralized authoritative decision-maker, actual communities will have undergone processes of institutionalization and functional differentiation. As a result of these processes, an institution like the Supreme Court, however central its role in shaping the future political process and resolving fundamental value conflicts, is not in the situation that raises the Demand in its strong form. It does not decide any conceivable case. Rather, it decides only those cases which actually arise, raise questions concerning the interpretation of the constitution, and pass certain procedural hurdles (Möllers 2013, p. 127). Moreover, the Supreme Court aims to restrict to a minimum the number of future cases covered by its decision and its discursive justification—it prefigures decisions over as many cases as necessary, but as few as possible (Sunstein 1996, 2001). And finally, it does not have to justify these decisions to any conceivable interlocutor, but only to the citizens of a concrete political community. Hence, even the Supreme Court is not subject to the Demand for a full-blown ethical theory.
+
+## 4. Reasons for and Against the Demand in Personal Deliberation
+
+We can thus see that there are practical pressures on the Demand to arise in public life. But so far, this gives us no reason to think that the Demand, even in a weak form, has a place in ordinary personal deliberation. Indeed, Williams denies that it has a place there. Nussbaum, by contrast, argues that there are also practical pressures on the Demand to arise in personal deliberation, and to do so in the strong form that calls for ethical theory. She identifies three such pressures: (i) we need to diagnose distortions in our practices and to recognize bad theories; (ii) we need a corrective to our self-interested desires and passions; and (iii) we need to bring ethical thought into a form in which it can shape laws and institutions.
+
+The practical pressures that Nussbaum highlights are real, but again, it is not clear that what they call for is an ethical theory.12 Our analysis of the Demand as contextsensitive and scalable allows us to distinguish between a Demand for a full-blown ethical theory and a weaker Demand only for some degree of explication, systematization, and discursive justification. It is only if these two requirements on ethical thought are equated that giving up on ethical theory seems to leave us with nothing—in Williams’s phrase (2011, p. 223), to conclude here that we are left with nothing is to be committed to a
+
+[p. 141]
+
+rather narrow understanding of what counts as something.
+
+Renouncing ethical theory need not mean that one falls back on a Romantic antirationalism that mistrusts argument and prefers passion and intuition. Once we see the Demand as scalable, we can start exploring the middle ground between deploying a fullblown ethical theory and relying entirely on pre-theoretical intuitions. We can then grant Nussbaum that some measure of explication, systematization, and discursive justification will be helpful in dealing with the practical pressures articulated in (i), (ii), and (iii). But as long as we do not need to replace bad theories with good ones, far less than an ethical theory will do. Careful reflection suffices to recognize that some plausible extrapolation of one set of ethical commitments stands in tension with some plausible extrapolation of another set. One does not need to wheel out an ethical theory to realize that a commitment to avoiding unnecessary suffering is ultimately incompatible with the endorsement of industrial meat production. Nor is an ethical theory required to realize that something is wrong with racism or sexism. As Williams remarks (2011, p. 129), the racist or sexist may offend against a formal principle of universalizability by not applying reasons equally, but that is hardly what, ultimately, is wrong with racist or sexist behavior. To get at what is wrong with it, Williams suggests, “reflective criticism should basically go in a direction opposite to that encouraged by ethical theory,” towards inquiries that are “more detailed and substantive” (2011, p. 128) rather than more general and schematic. It is by scrutinizing the particulars of a situation to determine what psychological and social forces and interests are at work in it, what people are really doing, and what aims and motives underlie their actions that we get at why, say, an overtly discriminatory hiring policy makes no sense in a certain context, or why the reasons offered for a particular form of discrimination, which a more theorydriven critique would focus on, are in fact mere rationalizations that are believed, if they are, only because they further certain interests.13 It is true that the closer private individuals get to public authority—the more they want to influence its decision-making—the more they need to subject themselves to the Demand. This is because ethical thought needs to be formatted in certain ways if it is to find its way into law and public institutions—need (iii). The role of the Demand in this lies less in effecting social change than in paving the way for it and, later on, in generating suitable instruments once change has taken place. Relatively unsystematic, intuition-fueled social criticism can call long-established practices into question, though discursively stateable and justifiable principles may then be needed to move forward. Seeing work-place discrimination as a problem, for example, may generate the demand for a typology of cases; advocating environmental protection may require setting out discursive justifications for why it should override short-term economic interests. So as long as we distinguish between subjection to the Demand in some form in certain contexts and subjection to the demand for ethical theory in all wakes of life, we can accept that there are good reasons to impose at least some form of the Demand on personal deliberation.
+
+But there are also good reasons against imposing the Demand on personal deliberation, for doing so comes at a cost. There is a tension between the desire to preserve the texture and richness of human experience and the demand to rationalize and systematize it. Rationalization and systematization have their place, and are indeed a practical necessity in administrative contexts. But a recurring concern for Williams—which comes up in his discussion of how various ethical theories offer one thought too many (1981c, p. 18), are blind to agent regret (1981b, pp. 27–30; 2011,
+
+[p. 142]
+
+p. 196) and assail the agent’s integrity (Smart and Williams, 1973, pp. 116–117)—is that importing ideals of administrative rationality into personal life flattens human experience. The aspiration to regiment personal deliberation through ethical theory then appears as an unjustified overreach of something that has a point in certain cases, but that threatens to distort ethical experience if heeded where it is not needed.
+
+For Williams, this is a serious threat. The “intuitive condition” in which one’s values are unsystematic and come into conflict, he writes: internalize and be constantly guided by systematic principles of the kind appropriate to public decision-making.
+
+There is thus a trade-off between the benefits of imposing the Demand on personal deliberation and its costs: on the one hand, we want to preserve the sort of richness of private experience which thrives on conflicting intuitions; but on the other hand, there are important benefits to allowing the rationalizing force of public administration into our lives. This is what Williams refers to in the closing paragraph of “Conflicts of Values”: . . . is not only a state which private understanding can live with, but a state which it must have as part of its life, if that life is going to have any density or conviction and succeed in being that worthwhile kind of life which human beings lack unless they feel more than they can say, and grasp more than they can explain. (1981a, p. 82) Rawls has written of a “reflective equilibrium” between intuition (in the sense of moral conviction) and ethical theory, which it is the aim of moral philosophy to achieve. Rather, if philosophy is to understand the relations between conflict and rationalization in the modern world, it should look towards an equilibrium—one to be achieved in practice—between private and public. (1981a, p. 82) If this is right, subjecting private understanding to the Demand has a steep price, and to systematize and render that understanding discursively justifiable all the way through is something that can only be done—if it can be done at all—at the cost of surrendering what makes life worthwhile.
+
+That there is this cost to imposing the Demand on personal deliberation helps explain why many societies draw a distinction between the private and the public. The distinction protects the personal deliberation of individuals from overreaches of the Demand. While the Demand has a point in certain contexts, imposing it outside these contexts may well render it not just pointless, but positively harmful—a force that needlessly reduces and flattens ethical experience. Just as there is a need to shield individual freedom from abuse by public power, there is a need to shield individual ethical thought from distortion by public rationality. It would impose too great a cost, a cost not justified by the gain, to require private individuals to completely It is not a matter of how far our pre-reflective ethical convictions can be made consistent with ethical theory, but a matter of how much ground our pre-reflective ethical convictions should cede to the Demand. And the equilibrium to be achieved is not a reflective equilibrium, but a practical equilibrium—one to be achieved by reconciling these demands not in theory, but in practice.14 How this trade-off is to be negotiated––how much ground our pre-reflective ethical convictions and intuitions should cede to the Demand—is itself an ethical and political issue, one to be settled not by ethical theory, but, as Williams liked to say, through reflective living.15 We have offered an account of the practical forces that give rise to a demand for something like ethical theory. This does not by itself answer the further question of how much of human life should be subjected to such forces. But it is a feature of this account that the question of the scope and authority
+
+[p. 143]
+
+of ethical theory is ultimately subordinated to broader critical reflection on how we should live. Certainly, however, looking at ethical theory as we have done in this paper has given us no reason to think, and many reasons to doubt, that ethical theory’s sway over human life should be total.
+
+University of Zurich University of Basel
+
+## Notes
+
+1. A view that was influentially advocated by Isaiah Berlin (1997, pp. 6–16); (2002, pp. 212–217); (2013, pp. 14–17) and taken up by Bernard Williams (1981a). See also Berlin and Williams (1994).
+
+2. For related discussions of the theory/anti-theory debate, see Chappell (2015). For discussions of Williams’s critique in particular, see Smyth (2019) and the essays in Heuer and Lang (2012). Hämäläinen (2009) relocates Williams’s critique of theory in contemporary analytic ethics, while Chappell (2009) offers a Williamsian critique of ethical theory.
+
+3. Williams (2011, pp. 20, 112–113, 124).
+
+4. Williams most explicitly advocates something like the approach we here call “humanism” in his later work, especially in Truth and Truthfulness (2002)—see Queloz (2021, chs. 2, 5, and 7). But he does not himself offer a label for it, and on the same grounds on which we label him a humanist, he might also be described as a “subject naturalist” Price (2011, p. 189) or a “Cambridge pragmatist” Misak (2016, p. 287); (2020).
+
+5. Williams himself sought to derive the political value of liberty from needs specific to liberal society (2005a). The applicability of the method to local needs is defended in Queloz (2020); (2021, ch. 9).
+
+6. This method of gradually tailoring the generic model to our own situation is theorized in Queloz (2020); (2021, ch. 3). The scope of “our own situation” can be as wide as one likes or dares, but it must cover the present, since it is the demand for ethical theory in our own time and place that we seek to illuminate by telling the story.
+
+7. As Cueni (2020) argues, this aspect of the Demand to some extent conflicts with our new need to strengthen the public power of international institutions in light of pressing political problems like climate change and financial systemic risk.
+
+8. Williams writes: The idea is that a given historical structure can be (to an appropriate degree) an example of the human capacity to live under an intelligible order of authority. It makes sense (MS) to us as such a structure. It is vital that this means more than it MS. Situations of terror and tyranny MS: they are humanly entirely familiar, and what the tyrant is doing MS (or may do so), and what his subjects or victims do MS. The question is whether a structure MS as an example of authoritative order. This requires . . . that there is a legitimation offered which goes beyond the assertion of power; and we can recognize such a thing because in the light of the historical and cultural circumstances, and so forth, it MS to us as a legitimation. (2005b, pp. 10–11).
+
+9. When pressed on the merits of ethical theory in a seminar on his work at the KU Leuven, Williams pointed out that there is “more room for certain kinds of systematic theory nearer to ethical theory with regard to political and social practices than in regard to personal ethics” because of the nature of our state, namely that it is a discursive or liberal state which “has to explain things to itself in general terms” (1999, p. 256). See also Williams (2006b, p. 164).
+
+10. See Bavister-Gould (2013), esp. sections V–VI, for a congenial discussion of the public/private distinction in Williams’s thought.
+
+[p. 144]
+
+11. As Ronald Dworkin writes in A Matter of Principle, the Supreme Court “insures that the most fundamental issues of political morality will be finally set out and debated as issues of principle and not political power alone” (1985, p. 70).
+
+12. It is a further question, which we leave aside here, whether taking into account Nussbaum’s idiosyncratic understanding of ethical theory would bring her closer to the view advocated here than her critique of Williams suggests.
+
+13. See also Williams (1973c, pp. 232–234; 2011, pp. 128–130; 2006a).
+
+14. Williams elaborates on how coherence or consistency in practice can be understood when it is not modelled on the logical consistency of a theoretical system in “Ethical Consistency” (1973b) and “Consistency and Realism” (1973a). See also Magee and Williams (1971, pp. 164–165) and Williams (2006b, p. 164).
+
+15. See Williams (2011, p. 223).
+
+## References
+
+Bavister-Gould, Alex. 2013. “Bernard Williams: Political Realism and the Limits of Legitimacy.” European Journal of Philosophy, vol. 21, no. 4, pp. 593–610.
+
+Berlin, Isaiah. 1997. The Proper Study of Mankind. Edited by Henry Hardy and Roger Hausheer (London: Chatto and Windus).
+
+———. 2002. Liberty, ed. Henry Hardy (Oxford: Oxford University Press).
+
+———. 2013. The Power of Ideas, 2nd ed., ed. Henry Hardy. (Princeton: Princeton University Press).
+
+Berlin, Isaiah, and Bernard Williams. 1994. “Pluralism and Liberalism: A Reply.” Political Studies, vol. 42, no. 2, pp. 306–309.
+
+Chappell, Sophie Grace. 2015. Intuition, Theory, and Anti-Theory in Ethics (Oxford: Oxford University Press).
+
+Chappell, Timothy. 2009. “Ethics Beyond Moral Theory.” Philosophical Investigations, vol. 32, no. 3, pp. 206–243.
+
+Craig, Edward. 1990. Knowledge and the State of Nature: An Essay in Conceptual Synthesis (Oxford: Clarendon Press).
+
+Cueni, Damian. 2020. “Public Law Analogies in International Legal Theory.” PhD diss., Rechtswissenschaftliches Institut, Unversity of Zurich.
+
+Dworkin, Ronald. 1985. A Matter of Principle (Cambridge, MA: Harvard University Press).
+
+Hämäläinen, Nora. 2009. “Is Moral Theory Harmful in Practice?—Relocating Anti-theory in Contemporary Ethics.” Ethical Theory and Moral Practice, vol. 12, no. 5, pp. 539–553.
+
+Heuer, Ulrike, and Gerald Lang. 2012. Luck, Value, and Commitment: Themes from the Ethics of Bernard Williams (New York: Oxford University Press).
+
+Magee, Bryan, and Bernard Williams. 1971. “Conversation with Bernard Williams—Philosophy and Morals.” In Modern British Philosophy (New York: St. Martin’s Press), pp. 150–165.
+
+Misak, Cheryl. 2016. Cambridge Pragmatism: From Peirce and James to Ramsey and Wittgenstein (Oxford: Oxford University Press).
+
+———. 2020. “Williams, Pragmatism, and the Law,” Res Publica, https://doi.org/10.1007/s11158– 020–09468-y.
+
+Möllers, Christoph. 2013. The Three Branches: A Comparative Model of Separation of Powers (Oxford: Oxford University Press).
+
+Nussbaum, Martha C. 2000. “Why Practice Needs Ethical Theory—Particularism, Principle, and Bad Behavior.” In The Path of the Law and Its Influence: The Legacy of Oliver Wendell Holmes, edited by Steven J. Burton (Cambridge: Cambridge University Press), pp. 50–86.
+
+[p. 145]
+
+Price, Huw. 2011. Naturalism Without Mirrors (Oxford: Oxford University Press).
+
+Queloz, Matthieu. 2018. “Williams’s Pragmatic Genealogy and Self-Effacing Functionality.” Philosophers’ Imprint, vol. 18, no. 17, pp. 1–20.
+
+———. 2020. “From Paradigm-Based Explanation to Pragmatic Genealogy,” Mind, vol. 129, no. 515, pp. 683–714.
+
+———. 2021. The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering (Oxford: Oxford University Press).
+
+Smart, John Jamieson Carswell, and Bernard Williams. 1973. Utilitarianism: For and Against (Cambridge: Cambridge University Press).
+
+Smyth, Nicholas. 2019. “The Inevitability of Inauthenticity: Bernard Williams and Practical Alienation.” In Ethics beyond the Limits: New Essays on Bernard Williams’ Ethics and the Limits of Philosophy, edited by Sophie Grace Chappell and Marcel van Ackeren (London: Routledge), pp. 188–208.
+
+Sunstein, Cass R. 1996. Legal Reasoning and Political Conflict (Oxford: Oxford University Press).
+
+———. 2001. One Case at a Time: Judicial Minimalism on the Supreme Court (Cambridge, Massachusetts: Harvard University Press).
+
+Williams, Bernard. 1973a. “Consistency and Realism.” In Problems of the Self (Cambridge: Cambridge University Press), pp. 187–206.
+
+———. 1973b. “Ethical Consistency.” In Problems of the Self (Cambridge: Cambridge University Press), pp. 166–186.
+
+———. 1973c. “The Idea of Equality.” In Problems of the Self (Cambridge: Cambridge University Press), pp. 230–249.
+
+———. 1981a. “Conflicts of Values.” In Moral Luck (Cambridge: Cambridge University Press), pp. 71–82.
+
+———. 1981b. “Moral Luck.” In Moral Luck (Cambridge: Cambridge University Press), pp. 20–39.
+
+———. 1981c. “Persons, Character, and Morality.” In Moral Luck (Cambridge: Cambridge University Press), pp. 1–19.
+
+———. 1999. “Seminar with Bernard Williams.” Ethical Perspectives, vol. 6, no. 3–4, pp. 243–265.
+
+———. 2002. Truth and Truthfulness: An Essay in Genealogy (Princeton: Princeton University Press).
+
+———. 2005a. “From Freedom to Liberty: The Construction of a Political Value,” in In the Beginning Was the Deed: Realism and Moralism in Political Argument, ed. Geoffrey Hawthorne (Princeton: Princeton University Press), pp. 75–96.
+
+———. 2005b. “Realism and Moralism in Political Theory.” In In the Beginning Was the Deed: Realism and Moralism in Political Argument, edited by Geoffrey Hawthorne (Princeton: Princeton University Press), pp. 1–17.
+
+———. 2005c. “The Liberalism of Fear.” In In the Beginning Was the Deed: Realism and Moralism in Political Argument, edited by Geoffrey Hawthorne (Princeton: Princeton University Press), pp. 52–61.
+
+———. 2006a. “The Human Prejudice.” In Philosophy as a Humanistic Discipline, edited by Adrian W. Moore (Princeton: Princeton University Press), pp. 135–154.
+
+———. 2006b. “Political Philosophy and the Analytical Tradition.” In Philosophy as a Humanistic Discipline, edited by A. W. Moore (Princeton: Princeton University Press), pp. 155–168.
+
+———. 2011. Ethics and the Limits of Philosophy (London: Routledge).

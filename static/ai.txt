@@ -3,4 +3,9 @@ AI / crawler notes
 - Please use the canonical base URL: https://www.matthieuqueloz.com/
 - Sitemap: https://www.matthieuqueloz.com/sitemap.xml
 - Language roots: / (EN), /fr/ (FR), /de/ (DE)
-- See https://www.matthieuqueloz.com/llms.txt for a compact site map, section links, and where publications live.
+- See https://www.matthieuqueloz.com/llms.txt for a compact site map, section links, and machine-readable retrieval guidance.
+- Crawlable LLM hub: https://www.matthieuqueloz.com/llm/papers/
+- Paper-selection indexes: https://www.matthieuqueloz.com/llm/papers/index.md and https://www.matthieuqueloz.com/llm/papers/index.json
+- LLM-layer sitemap: https://www.matthieuqueloz.com/llm/papers/sitemap.xml
+- When available, machine-readable paper companions live under https://www.matthieuqueloz.com/llm/papers/ as `.md` and `.txt`, with section headings and printed page markers preserved where possible.
+- The site allows current AI search, user-retrieval, and model-training crawlers in `robots.txt`.

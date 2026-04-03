@@ -1,0 +1,126 @@
+{{- $entries := slice -}}
+{{- $entryPages := where .Site.RegularPages "Section" "entries" -}}
+{{- $bookPages := where .Site.RegularPages "Section" "books" -}}
+{{- $pages := $entryPages | append $bookPages -}}
+{{- range sort $pages "Title" -}}
+  {{- $raw := .RawContent -}}
+  {{- $summary := replaceRE `\s+` " " (.Summary | plainify | htmlUnescape) | strings.TrimSpace -}}
+  {{- $slug := "" -}}
+  {{- with .File -}}
+    {{- $slug = .TranslationBaseName -}}
+  {{- end -}}
+
+  {{- $abstract := "" -}}
+  {{- $parts := split $raw "<!--more-->" -}}
+  {{- if gt (len $parts) 1 -}}
+    {{- $afterMore := replaceRE "\r\n" "\n" (index $parts 1) -}}
+    {{- range split $afterMore "\n\n" -}}
+      {{- $block := replaceRE `\s+` " " (. | plainify | htmlUnescape | strings.TrimSpace) -}}
+      {{- if and (not $abstract) $block (not (findRE "^(Download PDF|Télécharger le PDF|PDF herunterladen|PDF coming soon|PDF à venir|PDF folgt)$" $block)) (not (findRE "^[[:lower:][:space:],-]+$" $block)) -}}
+        {{- $abstract = $block -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $abstract -}}
+    {{- $plain := replaceRE "\r\n" "\n" (.Plain | htmlUnescape) -}}
+    {{- range split $plain "\n" -}}
+      {{- $line := replaceRE `\s+` " " (strings.TrimSpace .) -}}
+      {{- if and (not $abstract) $line (ne $line $summary) (not (findRE "^(Download PDF|Télécharger le PDF|PDF herunterladen|PDF coming soon|PDF à venir|PDF folgt)$" $line)) -}}
+        {{- $abstract = $line -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $doi := "" -}}
+  {{- $doiMatches := findRESubmatch `doi\.org/([^\s\)"<\]]+)` $raw 1 -}}
+  {{- if gt (len $doiMatches) 0 -}}
+    {{- $doi = index (index $doiMatches 0) 1 -}}
+  {{- else -}}
+    {{- $doiMatches2 := findRESubmatch `doi:\s*([^\s\)"<\]]+)` $raw 1 -}}
+    {{- if gt (len $doiMatches2) 0 -}}
+      {{- $doi = index (index $doiMatches2 0) 1 -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $pdfURL := "" -}}
+  {{- $pdfMatches := findRESubmatch `<a\s+class=\"download-link\"[^>]*href=\"([^\"]+)\"` .Content 1 -}}
+  {{- if gt (len $pdfMatches) 0 -}}
+    {{- $href := index (index $pdfMatches 0) 1 -}}
+    {{- if and $href (ne $href "#") -}}
+      {{- if strings.HasPrefix $href "http" -}}
+        {{- $pdfURL = $href -}}
+      {{- else -}}
+        {{- $pdfURL = absURL $href -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $llmMarkdownURL := "" -}}
+  {{- with .Params.llm_text_markdown -}}
+    {{- if strings.HasPrefix . "http" -}}
+      {{- $llmMarkdownURL = . -}}
+    {{- else -}}
+      {{- $llmMarkdownURL = absURL . -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $llmPlainURL := "" -}}
+  {{- with .Params.llm_text_plain -}}
+    {{- if strings.HasPrefix . "http" -}}
+      {{- $llmPlainURL = . -}}
+    {{- else -}}
+      {{- $llmPlainURL = absURL . -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $year := printf "%v" (.Params.year | default "") -}}
+  {{- if not $year -}}
+    {{- if not .PublishDate.IsZero -}}
+      {{- $year = .PublishDate.Format "2006" -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $tags := .Params.tags | default (slice) -}}
+  {{- $categories := .Params.categories | default (slice) -}}
+  {{- $topics := uniq ($tags | append $categories) -}}
+
+  {{- $companionFormats := slice -}}
+  {{- if $llmMarkdownURL -}}
+    {{- $companionFormats = $companionFormats | append "markdown" -}}
+  {{- end -}}
+  {{- if $llmPlainURL -}}
+    {{- $companionFormats = $companionFormats | append "plain_text" -}}
+  {{- end -}}
+
+  {{- $selectionText := printf "%s. %s" .Title $abstract -}}
+  {{- with $topics -}}
+    {{- $selectionText = printf "%s Topics: %s." $selectionText (delimit . ", ") -}}
+  {{- end -}}
+
+  {{- $entry := dict
+    "slug" $slug
+    "language" .Lang
+    "title" .Title
+    "work_type" (cond (eq .Section "books") "book" "paper")
+    "section" .Section
+    "year" $year
+    "abstract" $abstract
+    "citation" $summary
+    "doi" $doi
+    "entry_url" .Permalink
+    "pdf_url" $pdfURL
+    "llm_markdown_url" $llmMarkdownURL
+    "llm_plain_url" $llmPlainURL
+    "companion_formats" $companionFormats
+    "full_text_available" (or (ne $llmMarkdownURL "") (ne $llmPlainURL ""))
+    "page_markers_preserved" (or (ne $llmMarkdownURL "") (ne $llmPlainURL ""))
+    "published_pdf_available" (ne $pdfURL "")
+    "tags" $tags
+    "categories" $categories
+    "topics" $topics
+    "selection_text" $selectionText
+    "last_updated" (.Lastmod.Format "2006-01-02")
+  -}}
+  {{- $entries = $entries | append $entry -}}
+{{- end -}}
+{{- return $entries -}}

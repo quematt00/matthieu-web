@@ -1,6 +1,8 @@
 ---
 title: "How Genealogies Can Affect the Space of Reasons"
 year: "2020"
+llm_text_markdown: "/llm/papers/how-genealogies-can-affect-the-space-of-reasons.md"
+llm_text_plain: "/llm/papers/how-genealogies-can-affect-the-space-of-reasons.txt"
 tags:
   - "continuity"
   - "genealogy"

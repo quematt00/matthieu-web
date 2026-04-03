@@ -1,6 +1,8 @@
 ---
 title: "Williams’s Pragmatic Genealogy and Self-Effacing Functionality"
 year: "2018"
+llm_text_markdown: "/llm/papers/williams-s-pragmatic-genealogy-and-self-effacing-functionality.md"
+llm_text_plain: "/llm/papers/williams-s-pragmatic-genealogy-and-self-effacing-functionality.txt"
 tags:
   - "bernard-williams"
   - "ethics"

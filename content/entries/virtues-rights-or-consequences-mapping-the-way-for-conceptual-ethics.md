@@ -1,6 +1,8 @@
 ---
 title: "Virtues, Rights, or Consequences? Mapping the Way for Conceptual Ethics"
 year: "2024"
+llm_text_markdown: "/llm/papers/virtues-rights-or-consequences-mapping-the-way-for-conceptual-ethics.md"
+llm_text_plain: "/llm/papers/virtues-rights-or-consequences-mapping-the-way-for-conceptual-ethics.txt"
 tags:
   - "conceptual-ethics"
   - "conceptual-engineering"

@@ -1,6 +1,8 @@
 ---
 title: "Doing History Philosophically and Philosophy Historically"
 year: "2025"
+llm_text_markdown: "/llm/papers/doing-history-philosophically-and-philosophy-historically.md"
+llm_text_plain: "/llm/papers/doing-history-philosophically-and-philosophy-historically.txt"
 tags:
   - "history-of-philosophy"
   - "methodology"
@@ -17,7 +19,7 @@ categories:
   - "theoretical philosophy"
 ---
 
-With Marcel van Ackeren. In *Bernard Williams on Philosophy and History*. Marcel van Ackeren and Matthieu Queloz (eds.), 14–30. Oxford: Oxford University Press. 2025. [doi:10.1093/9780191966361.003.0003](http://doi.org/10.1093/9780191966361.003.0003)
+With Marcel van Ackeren. In [*Bernard Williams on Philosophy and History*](https://academic.oup.com/book/61415). Marcel van Ackeren and Matthieu Queloz (eds.), 14–30. Oxford: Oxford University Press. 2025. [doi:10.1093/9780191966361.003.0003](http://doi.org/10.1093/9780191966361.003.0003)
 <!--more-->
 
 Distinguishes four different connections between philosophy and history. (1) Philosophy cannot ignore its own history in the way that science can. (2) When engaging with philosophy’s history primarily to produce history, one still has to draw on philosophy. (3) Even doing history of philosophy philosophically—that is, primarily to produce philosophy—requires a keen sense of how historically distant from us past philosophers were, because the point of reading them is to confront something different from the present. (4) Systematic philosophy itself needs to be done historically, engaging not necessarily with its own history, but with that of the concepts it seeks to understand.

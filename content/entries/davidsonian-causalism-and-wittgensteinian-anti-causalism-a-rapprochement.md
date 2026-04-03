@@ -1,6 +1,8 @@
 ---
 title: "Davidsonian Causalism and Wittgensteinian Anti-Causalism: A Rapprochement"
 year: "2018"
+llm_text_markdown: "/llm/papers/davidsonian-causalism-and-wittgensteinian-anti-causalism-a-rapprochement.md"
+llm_text_plain: "/llm/papers/davidsonian-causalism-and-wittgensteinian-anti-causalism-a-rapprochement.txt"
 tags:
   - "causalism"
   - "causal-theory-of-action"

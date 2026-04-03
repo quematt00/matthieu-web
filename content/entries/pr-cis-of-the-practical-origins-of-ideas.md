@@ -1,6 +1,8 @@
 ---
 title: "Précis of The Practical Origins of Ideas"
 year: "2024"
+llm_text_markdown: "/llm/papers/pr-cis-of-the-practical-origins-of-ideas.md"
+llm_text_plain: "/llm/papers/pr-cis-of-the-practical-origins-of-ideas.txt"
 tags:
   - "analysis"
   - "conceptual-engineering"

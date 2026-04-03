@@ -1,0 +1,31 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- $entries := partial "llm-papers-data.html" . -}}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ "llm/papers/" | absURL }}</loc>
+  </url>
+  <url>
+    <loc>{{ "llm/papers/index.md" | absURL }}</loc>
+  </url>
+  <url>
+    <loc>{{ "llm/papers/index.json" | absURL }}</loc>
+  </url>
+  {{- range $entries }}
+    <url>
+      <loc>{{ .entry_url }}</loc>
+      {{- with .last_updated }}
+      <lastmod>{{ . }}T00:00:00+00:00</lastmod>
+      {{- end }}
+    </url>
+    {{- with .llm_markdown_url }}
+    <url>
+      <loc>{{ . }}</loc>
+    </url>
+    {{- end }}
+    {{- with .llm_plain_url }}
+    <url>
+      <loc>{{ . }}</loc>
+    </url>
+    {{- end }}
+  {{- end }}
+</urlset>

@@ -1,6 +1,8 @@
 ---
 title: "Nietzsches affirmative Genealogien"
 year: "2019"
+llm_text_markdown: "/llm/papers/nietzsches-affirmative-genealogien.md"
+llm_text_plain: "/llm/papers/nietzsches-affirmative-genealogien.txt"
 tags:
   - "affirmative"
   - "affirmative-genealogy"

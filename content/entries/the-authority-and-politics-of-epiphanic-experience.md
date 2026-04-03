@@ -1,6 +1,8 @@
 ---
 title: "The Authority and Politics of Epiphanic Experience"
 year: "forthcoming"
+llm_text_markdown: "/llm/papers/the-authority-and-politics-of-epiphanic-experience.md"
+llm_text_plain: "/llm/papers/the-authority-and-politics-of-epiphanic-experience.txt"
 tags:
   - "authority"
   - "epiphanies"

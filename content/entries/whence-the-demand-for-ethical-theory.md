@@ -1,6 +1,8 @@
 ---
 title: "Whence the Demand for Ethical Theory?"
 year: "2021"
+llm_text_markdown: "/llm/papers/whence-the-demand-for-ethical-theory.md"
+llm_text_plain: "/llm/papers/whence-the-demand-for-ethical-theory.txt"
 tags:
   - "scalability"
   - "context-sensitivity"

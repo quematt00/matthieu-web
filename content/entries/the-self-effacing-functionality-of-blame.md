@@ -1,6 +1,8 @@
 ---
 title: "The Self-Effacing Functionality of Blame"
 year: "2021"
+llm_text_markdown: "/llm/papers/the-self-effacing-functionality-of-blame.md"
+llm_text_plain: "/llm/papers/the-self-effacing-functionality-of-blame.txt"
 tags:
   - "blame"
   - "accountability"

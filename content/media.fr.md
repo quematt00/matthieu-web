@@ -153,6 +153,7 @@ hr.section-divider {
 <h2>Presse et médiation scientifique</h2>
 
 - **[Mechanistic Indicators of Understanding in Large Language Models](/fr/entries/mechanistic-indicators-of-understanding-in-large-language-models/)** a fait l’objet d’une présentation détaillée sur la chaîne *AI Explained* le 14 janvier 2026 : [https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764](https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764)
+- **[*Bernard Williams on Philosophy and History*](/fr/books/bernard-williams-on-philosophy-and-history/)** a fait l’objet d’un article dans *Prospect Magazine* : [https://www.prospectmagazine.co.uk/culture/72871/bernard-williamss-reckoning-with-history](https://www.prospectmagazine.co.uk/culture/72871/bernard-williamss-reckoning-with-history)
 - **Mechanistic Interpretability and How LLMs Understand**. *RSAM Podcast for Philosophy and Cognitive Science*. 10 janvier 2026. [https://open.spotify.com/episode/61XaYy42EGa8BjF5CnPjl3?si=a41c403438df4f8a](https://open.spotify.com/episode/61XaYy42EGa8BjF5CnPjl3?si=a41c403438df4f8a)
 - **[Mechanistic Indicators of Understanding in Large Language Models](/fr/entries/mechanistic-indicators-of-understanding-in-large-language-models/)** a été analysé dans la série japonaise *Compass of the AI Era* le 18 juillet 2025 : [https://youtu.be/P06GXup5CcQ](https://youtu.be/P06GXup5CcQ)
 - **Pragmatic Genealogy**. Podcast du *Moral Sciences Club*, University of Cambridge. [https://sms.cam.ac.uk/media/4728376](https://sms.cam.ac.uk/media/4728376)

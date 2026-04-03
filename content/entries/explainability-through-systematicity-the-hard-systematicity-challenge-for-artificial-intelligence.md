@@ -1,6 +1,8 @@
 ---
 title: "Explainability through Systematicity: The Hard Systematicity Challenge for Artificial Intelligence"
 year: "2025"
+llm_text_markdown: "/llm/papers/explainability-through-systematicity-the-hard-systematicity-challenge-for-artificial-intelligence.md"
+llm_text_plain: "/llm/papers/explainability-through-systematicity-the-hard-systematicity-challenge-for-artificial-intelligence.txt"
 tags:
   - "ai"
   - "coherence"

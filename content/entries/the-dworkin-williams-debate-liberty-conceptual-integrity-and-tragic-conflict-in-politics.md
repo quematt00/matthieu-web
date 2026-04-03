@@ -1,6 +1,8 @@
 ---
 title: "The Dworkin–Williams Debate: Liberty, Conceptual Integrity, and Tragic Conflict in Politics"
 year: "2024"
+llm_text_markdown: "/llm/papers/the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics.md"
+llm_text_plain: "/llm/papers/the-dworkin-williams-debate-liberty-conceptual-integrity-and-tragic-conflict-in-politics.txt"
 tags:
   - "conceptual-integrity"
   - "conceptual-engineering"

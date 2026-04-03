@@ -1,5 +1,5 @@
 ---
-title: "Systematizers: Reason, Machines, and the Rise of Systematic Thought in Early Modern Philosophy, 1500–1800"
+title: "Systematizers: Reason, Machines, and the Rise of Systematic Thought in Early Modern Philosophy, 1517–1790"
 year: "manuscript"
 tags:
   - "systematicity"

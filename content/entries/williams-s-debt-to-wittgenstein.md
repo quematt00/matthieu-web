@@ -1,6 +1,8 @@
 ---
 title: "Williams’s Debt to Wittgenstein"
 year: "2025"
+llm_text_markdown: "/llm/papers/williams-s-debt-to-wittgenstein.md"
+llm_text_plain: "/llm/papers/williams-s-debt-to-wittgenstein.txt"
 tags:
   - "history"
   - "history-of-philosophy"
@@ -20,7 +22,7 @@ categories:
   - "theoretical philosophy"
 ---
 
-In *Bernard Williams on Philosophy and History*. Marcel van Ackeren and Matthieu Queloz (eds.), 283–316. Oxford: Oxford University Press. 2025. With Nikhil Krishnan.
+In [*Bernard Williams on Philosophy and History*](https://academic.oup.com/book/61415). Marcel van Ackeren and Matthieu Queloz (eds.), 283–316. Oxford: Oxford University Press. 2025. With Nikhil Krishnan.
 <!--more-->
 
 Argues that several aspects of Bernard Williams's style, methodology, and metaphilosophy can be interpreted as evolving dialectically from those of Wittgenstein.

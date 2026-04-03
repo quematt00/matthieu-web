@@ -1,6 +1,8 @@
 ---
 title: "Nietzsche’s English Genealogy of Truthfulness"
 year: "2021"
+llm_text_markdown: "/llm/papers/nietzsche-s-english-genealogy-of-truthfulness.md"
+llm_text_plain: "/llm/papers/nietzsche-s-english-genealogy-of-truthfulness.txt"
 tags:
   - "basel-period"
   - "genealogy"

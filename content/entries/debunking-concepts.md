@@ -1,6 +1,8 @@
 ---
 title: "Debunking Concepts"
 year: "2023"
+llm_text_markdown: "/llm/papers/debunking-concepts.md"
+llm_text_plain: "/llm/papers/debunking-concepts.txt"
 tags:
   - "concepts"
   - "conceptual-ethics"

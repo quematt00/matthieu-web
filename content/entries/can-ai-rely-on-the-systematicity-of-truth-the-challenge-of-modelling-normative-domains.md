@@ -1,6 +1,8 @@
 ---
 title: "Can AI Rely on the Systematicity of Truth? The Challenge of Modelling Normative Domains"
 year: "2025"
+llm_text_markdown: "/llm/papers/can-ai-rely-on-the-systematicity-of-truth-the-challenge-of-modelling-normative-domains.md"
+llm_text_plain: "/llm/papers/can-ai-rely-on-the-systematicity-of-truth-the-challenge-of-modelling-normative-domains.txt"
 tags:
   - "ai"
   - "asystematicity"

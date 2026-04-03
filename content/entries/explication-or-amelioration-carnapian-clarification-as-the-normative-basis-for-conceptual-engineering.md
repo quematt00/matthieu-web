@@ -1,6 +1,8 @@
 ---
 title: "Explication or Amelioration? Carnapian Clarification as the Normative Basis for Conceptual Engineering"
 year: "forthcoming"
+llm_text_markdown: "/llm/papers/explication-or-amelioration-carnapian-clarification-as-the-normative-basis-for-conceptual-engineering.md"
+llm_text_plain: "/llm/papers/explication-or-amelioration-carnapian-clarification-as-the-normative-basis-for-conceptual-engineering.txt"
 tags:
   - "carnap"
   - "clarification"

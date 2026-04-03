@@ -25,6 +25,30 @@ ignoreFiles = ["^assets/jsconfig\\.json$"]
 [outputs]
   home = ["HTML", "RSS", "search"]
 
+[outputFormats.llmjson]
+  baseName = "index"
+  mediaType = "application/json"
+  isPlainText = true
+  isHTML = false
+  permalinkable = true
+  notAlternative = true
+
+[outputFormats.llmmarkdown]
+  baseName = "index"
+  mediaType = "text/markdown"
+  isPlainText = true
+  isHTML = false
+  permalinkable = true
+  notAlternative = true
+
+[outputFormats.llmsitemap]
+  baseName = "sitemap"
+  mediaType = "application/xml"
+  isPlainText = true
+  isHTML = false
+  permalinkable = true
+  notAlternative = true
+
 [frontmatter]
   lastmod = [":git", ":fileModTime", ":default"]
 

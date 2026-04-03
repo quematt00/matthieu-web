@@ -1,6 +1,8 @@
 ---
 title: "From Paradigm-Based Explanation to Pragmatic Genealogy"
 year: "2020"
+llm_text_markdown: "/llm/papers/from-paradigm-based-explanation-to-pragmatic-genealogy.md"
+llm_text_plain: "/llm/papers/from-paradigm-based-explanation-to-pragmatic-genealogy.txt"
 tags:
   - "explanation"
   - "functions"

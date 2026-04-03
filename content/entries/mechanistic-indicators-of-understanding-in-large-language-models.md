@@ -20,6 +20,8 @@ tags:
   - "conceptual-change"
 categories:
   - "theoretical philosophy"
+llm_text_markdown: "/llm/papers/mechanistic-indicators-of-understanding-in-large-language-models.md"
+llm_text_plain: "/llm/papers/mechanistic-indicators-of-understanding-in-large-language-models.txt"
 ---
 
 *Philosophical Studies*. With Pierre Beckmann. [doi:10.48550/arXiv.2507.08017](https://doi.org/10.48550/arXiv.2507.08017)

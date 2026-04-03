@@ -1,6 +1,8 @@
 ---
 title: "Virtue Ethics and the Morality System"
 year: "2024"
+llm_text_markdown: "/llm/papers/virtue-ethics-and-the-morality-system.md"
+llm_text_plain: "/llm/papers/virtue-ethics-and-the-morality-system.txt"
 tags:
   - "history-of-philosophy"
   - "ethics"

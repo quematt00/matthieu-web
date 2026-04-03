@@ -1,7 +1,46 @@
 User-agent: *
 Allow: /
 
+# Allow AI search and user-directed retrieval bots needed for inference-time discovery.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Allow model-training crawlers as well.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
 Sitemap: https://www.matthieuqueloz.com/sitemap.xml
 Sitemap: https://www.matthieuqueloz.com/en/sitemap.xml
 Sitemap: https://www.matthieuqueloz.com/fr/sitemap.xml
 Sitemap: https://www.matthieuqueloz.com/de/sitemap.xml
+Sitemap: https://www.matthieuqueloz.com/llm/papers/sitemap.xml

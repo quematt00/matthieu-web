@@ -1,6 +1,8 @@
 ---
 title: "Genealogy and Knowledge-First Epistemology: A Mismatch?"
 year: "2019"
+llm_text_markdown: "/llm/papers/genealogy-and-knowledge-first-epistemology-a-mismatch.md"
+llm_text_plain: "/llm/papers/genealogy-and-knowledge-first-epistemology-a-mismatch.txt"
 tags:
   - "craig"
   - "epistemology"

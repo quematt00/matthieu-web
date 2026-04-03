@@ -1,0 +1,513 @@
+Left Wittgensteinianism
+
+Author: Matthieu Queloz
+Published in: *European Journal of Philosophy* 29 (4): 758–77. 2021. With Damian Cueni. [doi:10.1111/ejop.12603](http://doi.org/10.1111/ejop.12603)
+DOI: 10.1111/ejop.12603
+Canonical entry: https://www.matthieuqueloz.com/entries/left-wittgensteinianism/
+Published PDF: https://philpapers.org/archive/QUELW.pdf
+
+Machine-readable text companion generated from the PDF. Page markers follow the journal pagination.
+
+[p. 758]
+
+ABSTRACT
+
+Social and political concepts are indispensable yet historically and culturally variable in a way that poses a challenge: how can we reconcile confident commitment to them with awareness of their contingency? In this article, we argue that available responses to this problem, Foundationalism, Ironism, and Right Wittgensteinianism, are unsatisfactory. Instead, we draw on the work of Bernard Williams to tease out and develop a Left Wittgensteinian response. In present-day pluralistic and historically self-conscious societies, mere confidence in our concepts is not enough. For modern individuals who are ineluctably aware of conceptual change, engaged concept-use requires reasonable confidence, and in the absence of rational foundations, the possibility of reasonable confidence is tied to the possibility of critically discriminating between conceptual practices worth endorsing and those worth rejecting. We show that Left Wittgensteinianism offers such a basis for critical discrimination through point-based explanations of conceptual practices which relate them to the needs of concept-users. We end by considering how Left Wittgensteinianism guides our understanding of how conceptual practices can be revised in the face of new needs.
+
+1. Introduction
+
+The concepts that structure our social and political lives pose the challenge of reconciling engaged concept-use with awareness of conceptual change. On the one hand, we are subject to the practical imperative to deploy at least some of our social and political concepts in an engaged way, where that means letting our thoughts and actions be guided
+
+[p. 759]
+
+by the reasons provided by the application of those concepts—reasons which appear, from this engaged perspective, to be simply there.1 On the other hand, we are subject to the reflective imperative to acknowledge that concepts change from one culture and epoch to the next, and that this implies that these reasons are only simply there for us, while different reasons have been simply there for different people. This sense of alternatives is already on show in Herodotus's Histories, but it is inescapable under conditions of modernity.2 We are regularly confronted with alternatives to our ways of going on—not only in history, but also on our doorstep—which shows that people can live differently because they have lived and do live differently.
+
+The combination of these two imperatives engenders a familiar anxiety expressed in the thought that our conceptual practices could be otherwise—not just in the sense that we might have had different ones, but in the sense that there is no conclusive argument for preferring the ones we happen to have over alternatives. How can we be confident in our practices in light of the fact that they are so pervasively contingent—that, as Mill notes in On Liberty (Mill, 2003, p. 101), what made a Churchman in London would have made a Confucian in Beijing?3 The challenge is to understand the changeability of concepts across cultures and epochs in terms that permit full-blooded commitment to at least some concepts—to establish a harmony between engaged concept-use and awareness of conceptual change.
+
+Although the tension between engaged concept-use and awareness of conceptual change is particularly pronounced in the case of social and political concepts, social and political philosophy has for the most part shown little interest in addressing the resulting anxiety. This is no doubt because for most of its history, it has pursued some form of Foundationalism: the project of grounding our conceptual practices in rational foundations it sought in human nature, divine commands, natural law, or universal reason. But given the growing lack of consensus over whether such foundations are available, it is increasingly doubtful that these ideas can deliver what is expected of them. And without foundations, conceptual change once again threatens to destabilise engaged concept-use.
+
+Once we give up Foundationalism, the main alternative are broadly Wittgensteinian responses to the challenge that the contingency of our concepts poses to social and political philosophy.4 But since Wittgensteinian approaches basically defer to existing communal practices, they are standardly taken to reconcile engaged concept-use with awareness of conceptual change at the price of encouraging excessive conservatism. Philosophy, Wittgenstein said, leaves everything as it is.5 This yields a Right Wittgensteinianism that denies a substantial critical role to social and political philosophy.
+
+In this article, we argue that we cannot rest content with Right Wittgensteinianism's deference to existing communal practices, and that our ability to reconcile engaged concept-use with awareness of conceptual change is tied to the very possibility of finding a substantial critical role for social and political philosophy. Given reflective awareness of conceptual change, mere confidence is not enough to sustain engaged concept-use. For us, engaged concept-use requires reasonable confidence, and this in turn requires the possibility of critically engaging with and reflectively discriminating between practices that merit confidence and practices that do not. Taking our cue from Bernard Williams,6 we argue for a Left Wittgensteinian view of our practices that offers the possibility of reflective discrimination and reasonable confidence even in the absence of foundations.
+
+We proceed as follows: in Section 2, we argue that settling for mere confidence is unsatisfactory. Pace Right Wittgensteinianism, reconciling engaged concept-use with awareness of conceptual change requires reasonable confidence in our conceptual practices, and hence a basis for reflective discrimination between them. In the absence of foundations that provide such a basis, however, this seems to imply undiscriminating disengagement from our concepts—the attitude of the Ironist. In Section 3, we then show a way out of this bind by arguing that Ironism still remains wedded to the Foundationalist expectation that we are looking for the concepts that are absolutely best. Since it is not just concepts that change, but also the needs of concept-users, what we should seek are the concepts that are best for us—a more absolute grounding is not necessarily required. Recognising this brings the possibility of Left Wittgensteinianism into view. In Section 4, we show how Left Wittgensteinianism offers a basis for reflective discrimination through point-based explanations which aim to relate our conceptual practices to our—often
+
+[p. 760]
+
+historically inflected and highly local—needs.7 We end by considering how Left Wittgensteinianism guides our understanding of how conceptual practices can be revised in the face of new needs.
+
+2. The Need for Reasonable Confidence
+
+Foundationalists resolve the tension between engaged concept-use and awareness of conceptual change by adding a tertium quid: unchanging rational foundations which mark out one set of conceptual practices as absolutely best. While different people have of course held different outlooks, most of them were simply wrong. The Foundationalist is not interested in conceptual change except as an approximation to the concepts prescribed by unchanging foundations; nor is she committed to the engaged use of the concepts we now have. The Foundationalist's concern is with the concepts we should have.
+
+If we let go of the aspiration to find timeless foundations for our concepts, the main methodological alternative consists of broadly Wittgensteinian approaches. These maintain that the temptation to ground our conceptual practices in something more basic must be resisted.8 When the chain of reasons comes to an end, we must defer to practice9: “Once I have exhausted the justifications, I have reached bedrock, and my spade is turned. Then I am inclined to say: ‘This is simply what I do’” (Wittgenstein, 2009a, §217). Beyond this point, it is a mistake to seek reasons for or against going on as we do. The bedrock of practice is unhintergehbar. We are not argued, but trained into it through a process of acculturation that exploits and shapes how we find it natural to go on. There is nothing more basic—in human nature, natural law, or universal reason—in terms of which our conceptual practices could be justified. This is true in any area of human thought: whether we are dealing with empirical or grammatical propositions, with mathematics or morality, there is bound to be an end to justifications. Following up the chain of reasons in any particular language game, we invariably run into the fact that this is just how we go on. Reasons peter out.10 A reason that forms a terminus in one language game may be supportable by further reasons in another language game in which the question of why the terminal consideration is as it is can meaningfully be raised. But in this language game in turn “reasons will soon give out” (Wittgenstein, 2009a, §211). Insofar as our ways of thinking can be said to have a foundation at all, that foundation lies not in some indubitable or self-evident propositions, but in our shared communal practices. In virtue of their matter-of-factual status, the language games embedded in our practices are able to play their foundational role as “last court of appeal” (Wittgenstein, 2009a, §230) when it comes to giving reasons. We have no choice but to “accept the familiar language game” (Wittgenstein, 1980b, §453).
+
+How do Wittgensteinian approaches deal with the challenge of reconciling engaged concept-use with awareness of conceptual change? The dominant approach in this group is arguably what Bernard Williams calls Right Wittgensteinianism,11 which generalises Wittgenstein's picture of philosophy as a purely descriptive enterprise that must defer to practice (Wittgenstein, 2009a, §§98, 124, 217) to the sphere of the social and political. Right Wittgensteinians insist that even if we know that other people have different conceptual practices, it is nevertheless the case that for us, certain considerations just are reasons, and if we can only steer clear of various confusions, our engaged use should be immune to awareness of conceptual change. Right Wittgensteinianism effectively denies that there is a tension between engaged concept-use and awareness of conceptual change.
+
+This reveals the deeply conservative streak in this type of approach which renders it difficult to distinguish the confidence it advocates from mere bigotry.12 We can trace this conservatism to four tendencies inherent in Right Wittgensteinianism. The first is the tendency to view our form of life holistically, as a finely calibrated functional whole. This is encouraged by looking at practices from an anthropological perspective and understanding them in terms of their function in our lives.13 It invites the Panglossian presumption that every aspect of our form of life has a point for us (as Dr. Panglosse thought that the bridge of the nose was there to rest glasses on).14 And if this is so, we have reason to protect our conceptual practices from being tampered or interfered with, since displacing even only one element in them is likely to bring diminishment. A second, related source of conservatism is the tendency to assume that our form of life is tensionless. If our ideas are so coherent that they can harmoniously be pursued all
+
+[p. 761]
+
+the way together, there is nothing to encourage critique of one part of our form of life in the light of other parts. This assumption of tensionlessness supports the idea that engaged concept-use can be maintained despite awareness of conceptual change. When combined, these two tendencies generate a third. On a picture of our conceptual practices as a tensionless and finely calibrated functional whole, there is nothing to engender departures from the status quo, and hence nothing that could allow us to see changes in our practices as endogenous and reason-driven. Insofar as there is change, it is bound to appear as an imposition from outside the space of reasons, an exogenous and merely causal matter of brute facticity. This invites thinking of our form of life in static and ahistorical terms. Finally, the Wittgensteinian idea that it is agreement in practice which bestows meaning on speech and behaviour tends to render departures from current practice not just unmotivated, but rationally unintelligible, because any radical departure from established practice will appear incomprehensible unless it carries with it a considerable body of agreement— which is to say that radical change will appear unintelligible unless and until it has already happened. Taken together, these four tendencies of Right Wittgensteinianism favour the indiscriminate acceptance of the practices we happen to find—in line with Wittgenstein's dictum that philosophy leaves everything as it is.15
+
+But there is a real question to what extent this conservative picture of philosophy reflects Wittgenstein's subject matter rather than essential features of his method. In Wittgenstein's day, the principal subject matter of philosophy was what P. F. Strawson called the “massive central core of human thinking which has no history—or none recorded in histories of thought” (Strawson, 1959, p. 10).16 This focus is reflected in Wittgenstein's concern with mathematics, logic, meaning, understanding, and mind. Most explicitly in the Tractatus, but in different ways also in later works, Wittgenstein engages with the more unchanging and ineluctable aspects of thought—the concepts that are bound to play a basic role in anything recognisable as human life. These change, if at all, comparatively slowly, and alternatives to them are hard to conceive. Even where Wittgenstein is concerned with differences between cultures, it is to highlight the necessity of interpreting what is foreign to us by reference to familiar needs (Wittgenstein, 2009a, §206). It is therefore not surprising that Wittgenstein's emphasis should lie on the need to protect and rehabilitate these core ways of sense-making in the face of local misunderstandings.17 Given this subject matter, a certain degree of conservatism is arguably a foregone conclusion.
+
+It is by no means clear, however, that a Wittgensteinian approach could not yield a different, more critical picture of philosophy if applied to social and political subject matters. For Right Wittgensteinianism, everything— whether in logic, mathematics, ethics or politics—is equally a matter of how we find it natural to go on. But is such levelling really true to the thought of one who set out to teach us differences?18 After all, Wittgenstein himself came to emphasise that while some parts of our form of life are built on hard rock and practically exempt from change, others, built on sand, can shift and wash away (Wittgenstein, 1969, §§99, 65, 165, 256, 336).19
+
+Even if we hold on to the idea that how we find it natural to go on must play a fundamental role in any domain of human thought, there is nevertheless a glaring asymmetry between the practices that structure anything recognisable as human life and the practices that shape our social and political lives. It comes into view as soon as we ask: Who is we? What is the extension of a given “form of life?” Wittgenstein was not himself driven to ask that question, since for his concerns, the relevant “we” was what Williams calls the inclusive “we,” a boundless “we” encompassing anybody one could in principle have a conversation with. The inclusive “we” is one alternatives to which are, if at all, only dimly conceivable, and in discussing practices like arithmetic, for example, Wittgenstein indeed makes a point of showing that we do not really grasp what alternatives to them would involve.
+
+In the social and political sphere, this inclusive “we” is not an option. Our ethical and political conceptual practices are precisely not those of an inclusive “we.” They are ours in contrast to those of others. Here the alternatives to our way of going on are all too vivid, and the “we” in question is therefore what Williams calls a contrastive “we”: a “we” which implies some contrasting other, the bounded “we” of us as opposed to them. Where the practices of a contrastive “we” are concerned, we have precisely what Wittgenstein argued we are bound to lack with the scaffolding of thought, namely a clear sense of what alternatives to our own practices involve. The fact that our form of life betrays its boundedness in the face of alternatives does not by itself change the fact that our chain of reasons comes to an end, that is, that the reasons lying at the bottom of our form of life act as bedrock: how we find it natural to go
+
+[p. 762]
+
+on is as much the last court of appeal in our ethical and political practices as it is in practices lacking clearly conceivable alternatives.
+
+Such a confrontation with alternative ways of going on can affect our confidence in our own ways of going on. It fosters a sense that our own form of life is an outgrowth of history, and in the absence of a theory to the effect that history must result in a tensionless system in which nothing is idle, this should in turn render us less inclined to take a Panglossian view of our own form of life. Why should so much history have produced—of all things—a perfectly coherent and pared-down functional whole? What one comes to expect, rather, is a variegated deposit of ideas, each of which might have earned its keep in its own time and place (a notion we shall return to in Section 4), but where there is no expectation that they now all work together, or even for us at all.20
+
+An alternative model of our conceptual practices then emerges, on which our practices are not homogenous and coherent, but heterogenous and full of intra- and inter-conceptual tensions. And once one is mindful of these tensions, it looks more questionable that Wittgenstein's conservative conclusions about the scaffolding of thought are bound to generalise to the social and political sphere. Confident absorption in such tension-laden practices begins to look guilty of involving one thought too few.
+
+The root mistake of Right Wittgensteinianism is thus that it neglects the difference between conceptual practices which can be contrasted with concrete alternatives and those which cannot. It equates the contrastive and the inclusive “we”—an equation which, once we think in concrete social terms about who falls under the relevant “we” and about the political nature of that question itself, is exposed as untenable in the social and political sphere. Under reflective scrutiny, the Right Wittgensteinian cannot in the end keep the lid on the problem of how to reconcile engaged concept-use with awareness of conceptual change.
+
+This stacks the cards in favour of a different approach within the Wittgensteinian family, namely Ironism. The Ironist also rejects Foundationalism, but while the Right Wittgensteinian denies that we need to ground our conceptual practices in anything more basic in order to be confident in them, the Ironist holds that mere confidence is not enough for reflective, pluralistic, and historically self-conscious modern societies. For such societies, engaged concept-use requires reasonable confidence.21 And since, in the absence of foundations, the Ironist sees no conclusive argument for preferring the concepts we happen to have over possible alternatives, the Ironist concludes that engaged concept-use is no longer a rational option.22 Instead of the Right Wittgensteinian's undiscriminating acceptance, the Ironist opts for undiscriminating disengagement from her concepts, continuing to live by them in practice, but ceasing fully to identify with them at a more reflective level.
+
+Arguably, therefore, engaged concept-use is indeed destabilised by awareness of conceptual change, for since engaged use requires reasonable confidence, a lack of foundations leaves us with Ironism. To avoid this conclusion, we need to show how reasonable confidence in at least some of our practices can be achieved without foundations. The way forward is provided by a third form of Wittgensteinianism, which takes the lessons of the Ironist on board but tries to offer a non-foundationalist basis for reasonable confidence in the face of conceptual change. This is the position of Left Wittgensteinianism.
+
+3. Beyond Irony: The Possibility of Left Wittgensteinianism
+
+In 1992, Bernard Williams introduced a distinction between Left and Right Wittgensteinianism which markedly differs from the better-known and superficially similar distinction that David Bloor proposed in the same year. While Bloor contrasted a “more historical, social, and materialist-scientific” (Bloor, 1992, p. 281) interpretation of Wittgenstein with interpretations that are critical of sociological approaches,23 Williams sought to show that as far as critique was concerned, there was “no reason why non-foundationalist political thought, characterised in the way that Wittgenstein's philosophy suggests, should not take a radical turn.” “There could be,” Williams insisted, “a Left Wittgensteinianism” (Williams, 2005c, p. 37).24
+
+[p. 763]
+
+When Williams first introduced his conception of Left Wittgensteinianism, Ironism was not among his concerns. But he confronted the Ironist in a later essay:
+
+[O]nce one goes far enough in recognising contingency, the problem to which irony is supposed to provide the answer does not arise at all. … Precisely because we are not unencumbered intelligences selecting in principle among all possible outlooks, we can accept that this outlook is ours just because of the history that has made it ours; or, more precisely, has both made us, and made the outlook as something that is ours. We are no less contingently formed than the outlook is, and the formation is significantly the same. We and our outlook are not simply in the same place at the same time. If we really understand this, deeply understand it, we can be free of what is indeed another scientistic illusion, that it is our job as rational agents to search for, or at least move as best we can toward, a system of political and ethical ideas which would be the best from an absolute point of view, a point of view that was free of contingent historical perspective. (Williams, 2006b, pp. 193–194) On one reading of this response, it is an expression of Right Wittgensteinianism. We and our conceptual practices are not just in the same place at the same time—they are ours, and if only we are identified with them, we shall be impervious to awareness of contingency. But on this reading, the Ironist rightly feels short-changed. As John Cottingham articulates the worry: “there is no real harmony here, just a concatenation of contingencies … [t]his is something we can perhaps learn to put up with … ; but confidence seems sadly out of place” (Cottingham, 2009, p. 37).
+
+By contrast, we propose that Williams's response is best understood as giving voice to Left Wittgensteinianism— a dynamic view of our conceptual practices as subject to endogenous, reason-driven change in response to changes in our needs and purposes.25 The Left Wittgensteinian turns her back on attempts to show that our conceptual practices are absolutely best, and paves the way for the question whether they are best for us. To hear these as different questions is to recognise that it is not only our practices that change, but also the needs they are meant to satisfy. Even if practices could be shown to be best for an inclusive “us,” it is unclear that they would be best for a contrastive “us.” What the Left Wittgensteinian seeks is not an absolutely desirable set of concepts, but the concepts that are best given needs we can identify with, even if these needs are local.26
+
+Such a perspective must appear unsatisfactory to the Ironist and the Foundationalist, because they hold a different conception of what would count as a resource sufficient to sustain engaged concept-use. But this is where they do not go far enough in recognising contingency. They still see our concepts as answering to timeless problems that anyone faces. The question raised for them by conceptual change is whether anyone has reason to prefer the concepts we have over alternatives. And absent such reasons for an inclusive “we,” confidence in one's conceptual practices is bound to waver.
+
+But to go far enough in recognising contingency is to accept contingency also at the level of the problems to which our concepts must answer—what we need our concepts for, the problems they must help us address, are local and contingent problems. It is not just the concepts that are ours, but also the standards they must meet. And if we do not aim for the absolutely best concepts, the question that conceptual change presses on us is no longer whether anyone has reason to deploy our concepts, but whether we do, given our needs and the problems we face.
+
+Pace Cottingham, there can be harmony here, namely between concepts and the needs to which they answer. Williams's remark that “[w]e and our outlook are not simply in the same place at the same time” and that “the formation is significantly the same” highlights that the formation of our concepts is connected to the formation of our needs. Conceptual change is tied to change in needs, and the needs of a contrastive “we” provide reasons for that “we” to think in certain terms rather than others and thus yield one kind of basis for reflective discrimination between our practices.
+
+Recognising this brand of reasons sets Left Wittgensteinianism apart from the other three positions we considered. The Foundationalist sees the only possible basis of discrimination as residing in some Archimedean standpoint
+
+[p. 764]
+
+outside our practices; the Right Wittgensteinian and the Ironist deny that there is such a basis, but they agree with the Foundationalist in thinking that if a discriminating assessment of our practices were possible, it would have to take a Foundationalist form: it would have to be given in terms of something external to and more basic than that practice itself. In indiscriminately accepting or rejecting the practices they find, the Right Wittgensteinian and the Ironist thus betray a counterfactual Foundationalism. They remain committed to the idea that if we cannot base a discriminating view of our practices on grounds for “us” in an inclusive sense, then we cannot discriminate at all. Against this, the Left Wittgensteinian maintains that reasons such as the reasons yielded by needs that are contingent upon membership of a contrastive “we”—reasons that are reasons for us, though they are not reasons for anyone—constitute perfectly good normative resources and allow for discrimination between practices we can and practices we cannot reasonably be confident in.
+
+The Left Wittgensteinian shift from viewing our practices as answers to timeless problems to viewing them as answers to local ones is illustrated by the trajectory of John Rawls's oeuvre. In his early work, Rawls ostensibly offered a solution to a timeless problem. To see our place in society from the perspective of the Original Position “is to see it sub specie aeternitatis: it is to regard the human situation not only from all social but also from all temporal points of view” (Rawls, 1971, p. 587). Political Liberalism, by contrast, addresses a problem for modern political liberalism, of sustaining “a stable and just society of free and equal citizens profoundly divided by reasonable though incompatible religious, philosophical, and moral doctrines” (Rawls, 1993, p. xviii). The main difference between the earlier and the later Rawls is therefore what he sees his theory of justice as being a theory for.27 While the earlier Rawls sees his doctrine of justice as fairness as a solution to a timeless problem, justifiable to anyone, the later Rawls sees it as a solution to the local problem of how to arrive at a conception of justice that is justifiable to us now. Any answer to this problem must reckon with modern societies' unprecedented amount of moral diversity and difficulty in reaching substantive agreement. Instead of uncovering timeless rational foundations, the Original Position emerges as a model for negotiating the basic structures of society under these constraints.28 Whether Rawls is right, either about the problem or about its solution, is debatable.29 But the point is that the late Rawls conceives the task of political philosophy as being to solve a highly local problem: to develop a theory of justice for a contrastive “us,” where the relevant “us” is the citizens of a modern constitutional democracy.
+
+The anxiety triggered by awareness of conceptual change over whether things could be otherwise is thus missing a crucial parameter: for whom could they be otherwise? Could they really be otherwise for us, given our needs and the problems that, however contingently and locally, we actually face? In many cases, the answer might well be no—our concepts might turn out to be necessary for us, and thus to merit full-blooded engagement. Moreover, the contingency of the problems need not detract from the necessity of the solutions. But this still leaves the question of how we are to tell whether our conceptual practices are right or even necessary for us.
+
+4. Achieving Reasonable Confidence: A Left Wittgensteinian Account
+
+As we propose to understand it, Left Wittgensteinianism is principally characterised by two features: it works under the assumption that our conceptual practices are a tension-laden assemblage of makeshift measures rather than a harmoniously functional whole; and it uses what we shall call point-based explanations of our conceptual practices to reveal their point given our needs. We shall look at each in turn before addressing objections and adding refinements.
+
+We saw in Section 2 how Right Wittgensteinianism is characterised by a fourfold tendency (a) to view our form of life as a finely calibrated functional whole; (b) to assume that it is tensionless; (c) to think of it in static and ahistorical terms; and (d) to view departures from current practice not just as unmotivated, but as rationally unintelligible unless and until they have already happened. The Left Wittgensteinian view of our conceptual practices reverses all four tendencies. It invites us to approach our practices not as a satisfactorily functioning whole, but as a motley
+
+[p. 765]
+
+structure which forms the historical outgrowth of a multitude of competing needs, and is accordingly full of tensions. This in turn invites us to view our conceptual practices as a dynamic structure that changes over time, and to make sense of that change as endogenous and at least partly reason-driven rather than as a brute causal fact.
+
+These Right and the Left Wittgensteinian pictures of our conceptual practices should be thought of not so much as competing findings that might issue from thorough investigations of what our practices are actually like—though reflection on the tumultuous history from which our practices emerged might be expected to encourage the Left Wittgensteinian picture—but rather as working models of the phenomena that one consciously or unconsciously adopts even before starting the investigation of one's practices; for better or worse, such working models can guide one's investigations, prime one's expectations, and shape one's sense of saliency.
+
+Exchanging the Right for the Left Wittgensteinian model prompts one to approach one's conceptual practices as a tension-laden bricolage of concepts that earned their keep, if at all, individually, and to look for the tensions between these concepts. Such tensions can take various forms. There can be a tension when we hold commitments to different values that pull in different directions in the sense that they cannot be maximally co-instantiated, for example.30 Or there may be an inherent tension between two concepts from the start: liberalism, understood as the idea that there are some inalienable rights that people have, stands in a deep tension with democracy, understood as the idea that all laws are made by the people. If there are some things that public power may not do to people, but all public power rests with the people, what do we do when the people want to do things that public power may not do to people? (Despite theoretical attempts at a solution, public institutions do not actually dissolve this tension, but merely try to accommodate it in practice.)31
+
+Our model of our conceptual practices becomes more dynamic once these practices are seen as a tension-laden bricolage of concepts. It may still be the case that each concept has earned its keep under particular circumstances, but there is no longer any expectation that our concepts now all harmoniously function together. And in virtue of the tensions between our concepts, extrapolations of some parts of our conceptual practices can stand condemned in light of extrapolations of other parts. These tensions begin to render intelligible how there can be rationally motivated movement in our conceptual practices by showing how our practices include practices of critique.
+
+However, the possibility of turning mere confidence into reasonable confidence depends on there being more than just the possibility of criticising one set of concepts in the light of another. It depends on there being some basis for reflective discrimination between conceptual practices worth endorsing and conceptual practices worth rejecting. It is here that the second principal feature of Left Wittgensteinianism comes in. Left Wittgensteinianism offers us a basis for reflective discrimination through point-based explanations of our practices which reveal their point given our needs. In the face of conceptual change, the Left Wittgensteinian can put her confidence in her conceptual practices to the test by asking: Whence the bedrock that turns back the spade of reflection? Can we explain why our conceptual practices are as they are by relating them to something explanatorily prior, such as the needs of concept-users and the problems they face? Can we achieve a better grip on our practices by coming to an explicit understanding of their point given these facts about concept-users?
+
+The importance of grasping the point of conceptual practices is something that Wittgenstein places great emphasis on in his later work:
+
+A use of language has normally what we might call a point. This is immensely important. Although it's true this is a matter of degree, and we can't say just where it ends. (Wittgenstein, 1989, p. 205). One of the methodological lessons to be drawn from Wittgenstein's later work is that facts about our conceptual practices must be understood in the light of facts which, while conceptually articulated, are not facts about our conceptual practices, because how we go on and what concepts have a point for us is contingent upon certain root facts about us and our needs in the kind of world we live in.32 Conversely, certain conceptual practices are rendered pointless by the fact that we or the world in which we could deploy them lack any feature that would give them an
+
+[p. 766]
+
+application. “It is not every sentence-like formulation that we know how to do something with, not every technique has an application in our life” (Wittgenstein, 2009a, §520).
+
+Although the practical needs arising from facts about us and our situation may directly yield reasons to think or do something in certain cases, this is the exception; for the most part, needs do not function as criteria—they do not enter into our deliberations as premises in practical syllogisms. We should therefore resist the voluntaristic picture on which we can choose, on the basis of what we need, which concepts and justifications make sense to us.33 The relation between our needs and the pull of particular action-guiding considerations is typically not a direct one.
+
+Nevertheless, we can identify a less direct path by which reflection on why we go in for a conceptual practice can feed into deliberation. This path comes into view once we see the relations between four strata within our conceptual practices: • needs; • reasons for concept-use; • reasons for concept application; • reasons to draw certain consequences in thought and action. Let us say that reasons for concept application are the reasons that guide and flow from the application of concepts, while reasons for concept-use are the rationales that underlie the formation and adoption of concepts—the facts about the kinds of creatures we are and the kinds of environments we live in that render certain concepts worth having.34 Needs connect to deliberation via reasons for concept-use: needs yield reasons for concept-use, concept-use yields reasons for concept application, and concept application yields reasons to draw certain consequences in deliberation.
+
+This stratified view of our conceptual practices allows us to offer point-based explanations indicating whether we have reason to use a concept in a confident and engaged way. Exploiting the connections between needs and reasons to draw certain consequences in thought and action, we can try to determine what the point of a given conceptual practice is, whether it has a point for us, and whether it derives this point from needs we endorse. We can do this by trying to identify the root conditions which together generate a problem to which the practice constitutes a solution. We thereby show the practice to be contingent upon these roots facts; but we also show it to be practically necessary given these facts if the challenge they give rise to exerts a strong pragmatic pressure on the remedying practice to arise. We will have reason to use a given concept, and hence to make certain features of the world salient and to be guided by the reasons for action associated therewith, if making these features salient and having these reasons for action is instrumentally related to the satisfaction of needs we identify with. “Sometimes,” as Wittgenstein notes, one thinks in certain terms “because it has proved its worth” (Wittgenstein, 2005, p. 179; see also Wittgenstein, 2009a, §470).35 But as Wittgenstein's emphasis intimates, a practice may also turn out to be pointless or even dysfunctional for us.36 There is a real question about whether and how a given way of thinking proves its worth, and whether it does so for us. The conditions under which the concepts have a point may no longer obtain, or, as critics of ideology remind us, our concepts may benefit a group that we are not part of.37 Either way, the Left Wittgensteinian can add to the Right Wittgensteinian's “This is just how we go on”—either by showing that we rightly go on as we do because it serves a point given needs we want to see satisfied; or that we wrongly go on as we do because it is pointless or it serves needs we either do not share or do not want to see satisfied.
+
+Take our practice of blame, which may serve as an illustrative example of how point-based explanations can provide us with reasonable confidence.38 Many have seen their confidence in our practice of blame waver upon reflection.39 This, to be sure, is in part the result of metaphysical worries about freedom of the will, concerns that Wittgensteinians are apt to dismiss as artefacts of discussions in the seminar room. Yet blame is an interesting case in part because it offers a good example of metaphysical worries that are widely shared beyond the seminar room. The rise of neuroscience may have exacerbated these worries, but they have long held sway both in popular culture and in legal thought about punishment. Quite apart from worries of a metaphysical sort, however, our confidence in
+
+[p. 767]
+
+blame may waver under the pressure we started out with, of confrontation with other cultures—such as the shame societies of the ancient world—in which blame appears to have played a smaller role.40 And our confidence in blame may fade for various other familiar and quite ordinary reasons: people often think blame too redolent of moralism, or feel it to be inappropriate in light of what they know about the causal determinants of an action, or perceive it as a lowly expression of resentment that ought to be outgrown, or consider it a form of violence because it “entails a wounding judgement, hard feelings, a punitive reaction, or some combination of these” (Owens, 2012, p. 25). Should we remain confident in our practice of blame in the face of these worries? Can the mere confidence of the unreflective person be turned into reasonable confidence through reflections of a Left Wittgensteinian stripe?
+
+The basic strategy of a point-based explanation of blame is to eschew attempts to anchor our practice of blame in a metaphysical account of blameworthiness and to seek instead to explain why we treat people as blameworthy in terms of the point of blaming given our needs: what does blaming do for us? Why would creatures like us go in for it? A rich illustration of what an answer to these questions might look like has recently been provided by Miranda Fricker (2016, forthcoming). Using a paradigmatic instance of the practice of blame as our model (much as Wittgenstein uses simplified language games as objects of comparison by which to elucidate features of our complex linguistic practices), we can hypothesise what the explanatorily basic point or function of blame is, and which needs it serves.41 Following Fricker, we might take what she calls Communicative Blame as our basic model: A wrongs B and B reciprocates with the emotionally charged judgement that A is at fault. In blaming A, B aims to make A sorry for what A has done—B tries to elicit remorse. By blaming A, however, B is likely to bring about increased alignment between A's and B's moral commitments.42 On this account, the point of blame is to induce the admixture of moral feeling and judgement that is remorse with a view to achieving an increased alignment of moral commitments. This yields both an explanation and a rationalisation of blame—an account of why there came to be the practice of blaming and a reason why we might want to continue the practice. Blame, on this view, is a tool of social control that performs a valuable service in helping us inhabit a shared moral world.
+
+For our purposes, the key upshot of such a point-based explanation of blame is that it gives us a basis for reflective discrimination: it puts us in a position not only to evaluate whether the practice of blame deserves confident engagement at all, but also to evaluate which forms of blame do so. Through a point-based explanation of blame, we come to see which forms of the practice are pointful and which are pointless. We might also find that the point itself is problematic because the needs served are needs we do not want to see fulfilled. Not all point-based explanations will support our confidence in our conceptual practices. But in the case of blame, the point-based explanation is in the first instance vindicatory: it shows us that there are circumstances under which blame serves certain needs, and that these are needs we can endorse upon critical examination.
+
+A point-based explanation of blame can thus strengthen our confidence even in the face of confrontations with cultures that are less prone to engage in blame, because it gives us some reason to think that we, in the contrastive sense, especially need blame. If blame is a tool for moral alignment, it follows that the more morally diverse societies are, the more there is a need for blame.43 In societies that are relatively morally homogenous or that do not shy away from using force to secure alignment in behaviour, there is less of a role for blame to play. In morally heterogenous societies that largely try to eschew alignment through force, however, there is a greater need for the technique of moral alignment that is blame. And since our society is of the latter sort, it follows that we have a particularly pronounced need for something along the lines of blame.
+
+By delineating the proper remit of blame, the point-based explanation also indicates when blame overreaches itself. Most obviously, blame becomes pointless or worse once moral alignment has been secured. But it also becomes pointless in situations where no moral alignment is to be had anyway, either because the addressee is unreceptive to blame, or because the action was out of character—a mere slip that was not expressive of the person's moral commitments in the first place.44 This provides further grounding for reasonable confidence in our practice of blame: by becoming aware of the relation of blame to our needs, we gain a critical awareness of when blaming is called for and when it is out of place, and this in turn means that we can blame more confidently where we have reflectively assured ourselves that it serves a point. As a result of this point-based explanation, then, mere
+
+[p. 768]
+
+confidence in our practice of blaming is transformed into reasonable confidence, grounded both in the knowledge that in many cases, blame has a point for us and serves needs we want to see satisfied, and in a critical sense of the conditions under which blame oversteps its proper remit. The lesson of this example is that point-based explanations can give us a basis for reflective discrimination between (forms of) conceptual practices which merit our confidence and (forms of) conceptual practices which do not.
+
+Another example of a point-based explanation that is meant to ground reasonable confidence is Bernard Williams's (2002) explanation of truthfulness, which derives the need to value truthfulness intrinsically from more primitive generic and local needs. In the course of his explanation, Williams highlights increasingly local needs. He begins with the reasons that any community of creatures with a need to pool information has to cultivate good—that is, truthful—contributors to the pool, and ends with reasons for a more local “us” to cultivate truthfulness—that liberal societies specially need to cultivate truthfulness about history, because what animates liberalism is largely the awareness of past atrocities (Williams, 2002, pp. 265–266). By revealing the point of truthfulness for us, the explanation yields reasons for us to continue to cultivate it and vindicates our confidence in it.45 Crucially, this is not to justify individual considerations acting as reasons for individual acts or beliefs. It is to justify the disposition to accept certain considerations as reasons, even if it cannot justify the considerations themselves. Moreover, showing how a concept is connected to one's needs cannot blast one into internalising the concept and recognising the reasons it provides. Any consideration advanced as a reason still has to make sense from the inside, deliberative perspective, and whether it does will depend on what other conceptual practices it is embedded in, and whether it engages our emotional capacities.46 But the explanatory perspective shows that it makes sense that it should make sense to us from the inside in this way. It shows us why we have reason to treat given considerations as reasons.
+
+A point-based explanation can also reveal that a conceptual practice fails to merit our confidence. A point-based explanation of the concept chastity, for example, might reveal it to serve needs, but ones we do not share. As Michael Smith argues, it is primarily those who feel the need to restrain women's sexual behaviour (Smith, 2013, pp. 103–104) who have reason to use the concept chastity. To the extent that this is indeed what the concept does, and that we no longer share the need to restrain women in this way, we will have no reason to use the concept of chastity and will be vindicated in moving away from thinking in these terms.47
+
+But as this example also indicates, it is not just a matter of sharing or failing to share the needs in question; sometimes, the needs themselves are problematic, even when or just because they are shared. By bringing the needs served by conceptual practices into reflective awareness, point-based explanation allows them to be subjected to critical scrutiny. The victims of pernicious ideologies who reflect on the point of such conceptual practices will come to recognise that if these serve any real needs, it is at their own expense: the needs in question are someone else's, they are being satisfied at the expense of the victims, and the victims' confidence in these conceptual practices will consequently be undermined. But even when the needs in question are ones which the addressees of a point-based explanation share, needs can be assessed in the light of the rest of our commitments. We do not just assess the aptness of our conceptual practices in the light of our needs (Is this a good tool given our needs?), but also the legitimacy of our needs in the light of our concepts (Are these really needs? And if so, are they needs we should be trying to satisfy?). A need may seem pressing when considered in isolation, but not that pressing all things considered; or it may turn out not to be a real need at all. How we ascribe and assess individual needs and concepts will depend on our outlook, but from within such an outlook, whether or not we have certain needs will largely be an objective matter. Insofar as the ancient Greeks thought of slavery as something necessary, they were probably simply wrong— something which, as Bernard Williams has argued (Williams, 1993, pp. 106–118), most Greeks (apart from Aristotle) in fact recognised. They may have had a need for cheap labour, but they were wrong to think that slavery was either the only or the best way of satisfying this need. Calling something a need does not make it one. Nor can we simply decide to need something. If the upshot of a point-based explanation is that we find ourselves arguing over whether something really is a need or not, or whether a need really renders certain practices inevitable and could not be satisfied by other means, this is a welcome result, because this is the discussion we need to have.
+
+[p. 769]
+
+Once a point-based explanation has brought the needs to which a conceptual practice answers out into the open, we can question the necessity of the conceptual practice by problematizing the needs to which it answers: are these real needs, and are they needs we should reflectively endorse? One familiar and radical example of someone who problematizes needs is Karl Marx. In The German Ideology (Marx, 2000), Marx contends that it is pointless to argue within the framework of liberal rights about how to resolve problems of justice, because all those concepts respond to what he deems the “false” needs of bourgeois society. This is to problematize the problems to which bourgeois conceptual practices answer—on the supposition that there is a possible alternative for us, that the Marxist utopia need not remain utopian. Needs being what they are, however, there are also limits to how far we can go in problematizing needs. Against the anarchist, for example, Williams maintains that we have an ineliminable need for the state. He highlights that our needs inevitably include the needs to secure “order, protection, safety, trust, and the conditions of cooperation” (Williams 2005d, p. 3). These needs constrain what is possible for us now, and on Williams's reckoning, they exclude the possibility of political anarchism.48
+
+Finally, let us refine our account of Left Wittgensteinianism in response to natural objections. One such objection is the following: According to Left Wittgensteinianism, facts about our conceptual practices must be understood in the light of facts that are not facts about our conceptual practices, because how we go on and what concepts have a point for us is contingent upon certain root facts about us and our needs in the kind of world we live in. But needs have to be conceptually articulated in order to enter into reflection, and therefore they are not really external to our conceptual practices. This objection is easily answered. The Left Wittgensteinian does not propose to understand all of our conceptual practices at once in the light of facts that are completely independent of these conceptual practices. Rather, the idea is to operate piece-meal, explaining one concept while relying on the rest of our conceptual resources. Moreover, the fact that some needs only come into view given that one has certain conceptual capacities is no bar to seeing needs as external to our conceptual practices—just as the fact that one only recognises Australian shepherds as such given that one has the concept thereof does not turn dogs into concepts. We are not asking— incoherently—for reasons that are external to all our conceptual practices in the sense that they do not draw on our conceptual resources. We are asking why we treat certain considerations—of human rights, for instance—as being simply there, neither capable nor in need of further justification, and this question may be answered in terms of anthropology, history, and psychology. When concepts change and new considerations come to be treated as reasons, one explanation is that the new concepts and reasons better suit the needs of the people involved. For this to be true, the needs need not figure in the thought processes of these people. Needs can shape the space of reasons the way eyes shape the field of vision. But we understand our concepts better if we have a perspicuous representation of their relation to our needs.
+
+A second natural objection is that Left Wittgensteinianism merely exchanges foundations in human nature, natural law, or universal reason for foundations in unchanging needs. But this is a misunderstanding. To begin with, even where needs are primary in the order of explanation, this does not imply that they are also primary in the order of justification. Needs can give rise to concepts whose application yields reasons that carry more authority than the practical demands that brought them into being. The need to be able to rely on others can help us understand the emergence of the concept of loyalty, for example, as a means of stabilising cooperation in the face of temptations to defect. But it is part of the point of the concept of loyalty that once one comes to use it in an engaged way, loyalty no longer appears as a mere means to an end, but raises demands of its own: the consideration that loyalty is a means of stabilising cooperative behaviour may well carry less weight than the consideration that this is the kind of action it is. Viewing concepts as tools need not imply a reductive form of instrumentalism which collapses the content of concepts into a functional understanding of those concepts. It can be an explanatory instrumentalism, explaining why we use concepts with certain boundaries by identifying the point of having a concept with these boundaries and the needs that are satisfied thereby.
+
+More generally, however, the objection misses the mark because the layer of needs must not be thought of as unchanging. To treat needs as unalterable and fixed by nature is to see our conceptual practices as serving only to satisfy antecedently specifiable needs. This ahistorical view focuses on the needs we have anyway to the exclusion
+
+[p. 770]
+
+of needs we acquired or lost in the course of history. But of course, one thing that conceptual practices enable us to do is to create new needs. As Rorty puts it:
+
+The Wittgensteinian analogy between vocabularies and tools has one obvious drawback. The craftsman typically knows what job he needs to do before picking or inventing tools with which to do it. By contrast, someone like Galileo, Yeats, or Hegel … is typically unable to make clear exactly what he wants to do before developing the language in which he succeeds in doing it. His new vocabulary makes possible, for the first time, a formulation of its own purpose. (Rorty 1989, pp. 12–13)49 Needs can be local needs, specific to a certain cultural group thinking in terms of certain concepts because these concepts are constitutive of these needs. In this sense, what we now need our concepts to be is a function of our history. There is no reason why conceptually constituted local needs should not also contribute to understanding why our conceptual practices are as they are. To view all our conceptual practices as tools helping us cope with needs we have anyway is to fall into the kind of reductive naturalism which assumes, as Robert Brandom puts it, that we could safely dismiss Romantic poetry by asking what contribution it has ever made to the biological fitness of human beings (Brandom, 2011, p. 140). Some concepts are tools responding to needs we would not have without them.
+
+To urge that needs are subject to change is to concede that they are themselves not immune to the thought that they could be otherwise. This gives rise to a third objection that ought to be addressed. So far, our argument has focused on holding in check the idea that our conceptual practices could be otherwise by grounding them in our needs. But now it appears that contingency seeps through to our needs. Is not our entire attempt to reconcile engaged concept-use with conceptual change put into jeopardy by the realisation that needs change as well?
+
+Far from putting Left Wittgensteinianism into jeopardy, the fact that needs change yields a strong argument in its support. Changing needs create a problem for views such as the Right Wittgensteinian's, on which our conceptual practices are a tension-free and satisfactorily functioning but rigid whole. If we had tensionless concepts, trimmed and tailored to extant needs, we would be at a loss to explain how we ever manage to adjust our conceptual practices in the face of new needs. A change in our needs would trigger crises of confidence we would be hard-pressed to deal with. If our concepts are repositories of diverse historically accumulated material full of intra- and interconceptual tensions, by contrast, we are better equipped to deal with changes in needs: it is precisely these tensions which enable us to adjust to change. The Left Wittgensteinian model of our practices can make sense of the fact that we are able to cope with new needs. Tension-laden practices are more resilient than tension-free ones. They have all the advantages of flexible plywood over rigid but breakable hardwood.
+
+To make sense of the dynamic development of our conceptual practices, however, it is not enough to make sense of it solely from a perspective that looks at needs and reasons to use certain concepts. We also need to make sense of the fact that it makes sense to those who participate in the change. Realising that we face a new need and require new conceptual resources to deal with it can only get us as far as the conclusion that we have reason to use certain concepts and to treat certain considerations as reasons. But it is a further step to be able actually to make sense of these considerations as genuine reasons for us. To do this, we inevitably depend on the conceptual resources we already have. The relevant question then is one that John Dunn raises in Western Political Theory in the Face of the Future—whether our traditions of political thought “possess any real residual capacity to direct us in the face of the world that now confronts us” (Dunn, 1993, p. ix). And now we see that conceptual practices that include a variegated array of historically accumulated and partly idle material are better equipped than more streamlined ones to provide the resources for an endogenous, reason-driven shift into a view of things from which the new needs can be addressed.
+
+Consider the problems of legitimation we face in dealing with new forms of international rule.50 We are subject to two conflicting needs. On the one hand, we need strengthened international institutions to tackle the pressing political problems of the day—climate change, financial systemic risk or the global migration crisis. On the other hand, we also need any new form of rule to be distinguishable from mere coercion in order to be legitimate. But the
+
+[p. 771]
+
+legitimating concepts we have inherited are tailored to forms of rule within the nation-state and fail to get enough of a grip on institutions beyond the nation-state. As a result, we struggle to make sense even of how these new international forms of rule could be legitimate. Given that public power beyond the state looks very different from the form it took within the state, what would it even mean for concepts like democracy, the rule of law, and the separation of powers to apply in this context? This leads to the problem, which is particularly pressing for the people of liberal democratic states, of how to reconcile the need for strengthened international institutions with the demand for legitimacy.
+
+In order to escape the resulting dilemma, we need to find some kind of creative extension of our old legitimating concepts to new forms of international rule. And here a Left Wittgensteinian approach provides both normative guidance and reason for optimism. Point-based explanations of why we have the legitimating concepts we have within the state in the first place can show us what their point is under typical domestic circumstances. This can then guide us in identifying similarly pointful concepts in thinking about new forms of rule beyond the state—which will not necessarily be the same concepts as those we have within the domestic context. The Left Wittgensteinian model of our conceptual practices provides reason for optimism here, because on that model, we can draw on a far richer set of conceptual resources with which to tackle such new needs than the Right Wittgensteinian model would have led us to expect. For example, a much more nuanced understanding of liberal democratic constitutionalism than the one that figures in our dominant legitimation stories may lead us to question the excessive emphasis on national self-determination in the face of challenges that we clearly cannot address on our own.
+
+Another example of how conceptual practices that include historically accumulated and partly idle material are better equipped to address new needs comes into view if we consider our relatively new need to solve the global environmental problems generated by climate change. Faced with this need and what it demands of us, we might come to the conclusion that part of what we need are new conceptual practices that enable us to cope with environmental problems. And here a set of concepts that has largely remained idle in recent history, that of the virtues, might help; Dale Jamieson, for example, has argued that we need to cultivate what he calls “green virtues” (Jamieson, 2007):
+
+when faced with global environmental problems such as climate change, our general policy should be to try to reduce our contribution regardless of the behaviour of others, and we are more likely to succeed in doing this and living worthwhile lives by developing and inculcating the right virtues than by improving our calculative abilities. (Jamieson, 2014, p. 186) It will of course not be enough simply to revive the virtue concepts of the ancient world, since these answered to problems other than those we now face. But the richer and more heterogenous our conceptual practices are, the easier we will find it to combine aspects of one set of ideas with aspects of another in order to create novel solutions. Jamieson, for example, advocates a new virtue of mindfulness as the disposition to appreciate the consequences of one's actions even when they are remote in time and space (Jamieson, 2007, p. 182). Whatever one thinks of these proposed solutions, they do bring out that the Left Wittgensteinian model of our conceptual practices is no mere second-best for which we must settle when tensionless harmony proves hard to achieve. The motley of our concepts cannot be too rich.
+
+5. Conclusion
+
+In this article, we have been arguing that for us, who are ineluctably aware of conceptual change, the possibility of engaged concept-use is tied to the possibility of reasonable confidence, and that in the absence of foundations, the possibility of reasonable confidence is in turn tied to the possibility of a Left Wittgensteinian view of our conceptual practices which allows for reflective discrimination between practices that merit confidence and practices that do
+
+[p. 772]
+
+not. We have further argued that there can in fact be a Left Wittgensteinianism. If this is right, it implies that we can sustain engaged concept-use in the face of conceptual change, and that there is a substantial role for social and political philosophy to play even on a Wittgensteinian view of things. These two implications are linked in more ways than one. Social and political philosophy can, on the one hand, help us sustain engaged concept-use by scrutinising and critically assessing the concepts we already have. But precisely because needs change, and continue to do so, we cannot rest content with engaged use of the concepts we already have. New needs will arise, and this gives social and political philosophy a further substantial part to play, not just in criticising the concepts we already have, but in devising new conceptual resources in the face of new problems. Reasonable confidence continuously needs to be achieved anew.
+
+ACKNOWLEDGEMENTS
+
+We would like to thank Deborah Mühlebach, Jan Müller, Dimitrios Kyritsis, Adam Swift, Markus Wild, Hans-Johann Glock, Joachim Schulte, Olivier Massin, Constantine Sandis, John Hyman, Martin Kusch, Michel Meliopoulos, Fionn O'Donovan, Friedemann Bieber, Ben Waltmann, Alexander Prescott-Couch, Agata Łukomska, Adrian Moore, Gideon Rosen, and the participants at the Lund conference on themes from Bernard Williams for valuable discussions of these issues.
+
+NOTES
+
+1. See A. W. Moore (2006) and Goldie (2009) for the distinction between engaged and disengaged concept-use. As Williams points out (Williams, 2006b, p. 195), even if we are aware that something which is “simply there” for us was not simply there for other people, we do not have the thought: “for us, it is simply there”—we have the thought: “it is simply there.” That is what it is for it to be, for us, simply there.
+
+2. “If it were proposed to all nations to choose which seemed best of all customs,” Herodotus observes in his Histories, “each, after examination made, would place its own first; so well is each persuaded that its own are by far the best.” To prove his point, he recounts how Darius, king of Persia, summoned the Greeks, who burn their fathers at death, and asked them for what price they would eat their father's dead bodies. They retorted that there was no price for which they would do it. Then Darius summoned the Callatiae, who eat their parents, and inquired of them for what price they would burn their parents. They “cried aloud, that he should not speak of so horrid an act.” Herodotus concludes: “it is, I think, rightly said in Pindar's poem that use and wont is lord of all” (Herodotus, 1920, III 38).
+
+3. This tension between the reflective and the participant's view of conceptual practices is by no means restricted to social and political practices. See Kusch (2016) for a discussion of an analogous tension in epistemic practices. In the epistemic case, however, the extent to which there is room for a genuinely contrastive “we” is controversial (Seidel, 2014).
+
+4. For further discussion of this methodological divide between Foundationalism and Wittgensteinianism in social and political philosophy, see B. Williams (2005c) and Plant (1991, p. 330).
+
+5. The conservative influence of Wittgensteinianism in the social and political sphere is noted by Bloor (1983, 1997, 2000); Norris (2009); Nyíri (1976, 1982); Plotica (2015); Rorty (1983, 1989, pp. 58–60); Temelini (2015); Hammer (1992); and Kekes (1997). See Pleasants (1999, 2002), Celikates (2015) and Jaeggi (2016) for less conservative readings of Wittgenstein.
+
+6. See Williams (2005b, 2005c, 2010, 2014a).
+
+7. While there is plenty in Wittgenstein to justify calling a focus on the point of practices “Wittgensteinian” (see Ertz, 2008), a more strictly exegetical treatment of Wittgenstein's own views than we undertake here would require a nuanced discussion of the many passages in which Wittgenstein proves mindful of the fact that it “is not clear in all that we do, what the point is,” and that there might not be a “point in everything we do” (Wittgenstein, 1989, pp. 203–204; term the “Panglossian” view that there is a point to everything we do. Moreover, these passages voicing suspicions about appeals to points ostensibly serve to alert us to the possibility that particular practices might not have a point at all, such
+
+[p. 773]
+
+as “brushing our hair the way we do” (Wittgenstein, 1989, p. 204); they do not question the general sensibleness of assessing practices according to whether they serve a point: provided a queer way of calculating the price of wood or of distributing nine sticks among three people is still sufficiently similar to ours to count as an attempt to perform the same activity, Wittgenstein remains happy to say that we are “struck by the pointlessness” of some ways of doing it, because “the whole point of what they are doing seems to be lost” (Wittgenstein, 1989, pp. 203–204). How the possibility of pointlessness can be accommodated by point-based explanation is explored in more detail in Cueni and Queloz (forthcoming) and Queloz (2020, 2021). See also the discussion in Section 4 below of Wittgenstein's claim that we sometimes think in certain terms because it has been found to pay (Wittgenstein, 2005, p. 179; Wittgenstein, 2009a, §470).
+
+8. See Glock (2009) for an overview of Wittgenstein's account of concepts.
+
+9. This has been variously called Wittgenstein's “anti-foundationalism” (M. Williams, 2005) or “defactoism” (Fogelin, 2009, p. 27).
+
+10. In the 1930s, Wittgenstein gives all kinds of examples for this, including the use of colour words, the matching of colour samples with objects, and inferences from past to future; see Wittgenstein (1974, pp. 96–97, 110–111; 2005, p. 292). See also Queloz (2016, 2017) for exegetical discussions of this theme in Wittgenstein's middle period (1929–1936).
+
+11. An allusion to the distinction between Left and Right Hegelianism. While Left Hegelians wanted a society that combined solidarity and tradition with freedom, variety, and the possibility of radical critique, Right Hegelians were “happier to settle for a more traditional style of consciousness for most citizens, reserving the critical sense of the contingency of these arrangements to an elite” (B. Williams, 2005c, p. 33).
+
+12. See Bloor (1983, 1997, 2000); Norris (2009); Nyíri (1976, 1982); Plotica (2015); Rorty (1983, 1989, pp. 58–60); and Temelini (2015).
+
+13. See Hacker (2013) and Brusotti (2014) for concise overviews of Wittgenstein's anthropological method.
+
+14. A presumption voiced by Kripke when, urging us to look for the role of utterances in our lives, he confidently adds that such “a role must exist if this aspect of the language game is not to be idle” (Kripke, 1982, pp. 73–75).
+
+15. This picture of Right Wittgensteinianism is meant to correspond to that presented by Williams (2005c, pp. 34–35; 2006a, pp. 357–358), though he does not distinguish clearly between what we analyse into four distinct tendencies.
+
+16. See Sluga (1998).
+
+17. Which is not to say that a more revisionary Wittgensteinian approach would be unintelligible in these areas. See Moore (2012, pp. 275–278) for an illuminating discussion of Wittgenstein's conservatism in theoretical philosophy.
+
+18. Wittgenstein considered King Lear's “I'll teach you differences!” as a motto for the Philosophical Investigations.
+
+19. For further discussion of Wittgenstein's emphasis on changes in forms of life, see Christensen (2011, 2016); Scheman (2011); and Schulte (n.d.) (manuscript).
+
+20. The notion that an idea might earn its keep or have a point for us is ambiguous between several different senses. For a disambiguation, see Queloz (2019).
+
+21. See Williams (2010) and Fricker (2000).
+
+22. See Rorty (1989, chap. 3 and 4).
+
+23. Bloor's distinction is at cross-purposes with Williams's. Peter Winch's The Idea of a Social Science (Winch, 1958), for example, is both a prime example of the Wittgenstein-inspired historical, social, and materialist-scientific approach that Bloor calls “Left Wittgensteinian” and a prime example of the functional holism and hands-off conservatism that Williams calls “Right Wittgensteinian.”
+
+24. Page numbers refer to the reprinted and retitled essay in In the Beginning was the Deed. For the essay originally published in Common Knowledge as “Left-Wing Wittgenstein, Right-Wing Marx,” see Williams (1992). It was recently reissued in the same journal under the title “Left-Wing Wittgenstein” (Williams, 2019).
+
+25. In the 1990 preface that Williams wrote for the French translation of Ethics and the Limits of Philosophy, he explicitly connects that book to Left Wittgensteinianism; see Williams (1990).
+
+26. See Wittgenstein (1980a, §643; 2009b, §366).
+
+27. See Rawls (1985). See also Williams (2014b, pp. 326–327).
+
+28. See Testini (2020).
+
+29. For one thing, the fact that a radical reinterpretation of the aims of Rawls's theory leaves the substantive theory largely unchanged should give us pause; see Williams (2011, pp. 113–116).
+
+30. See Geuss (2001, p. 156) and Williams (1981).
+
+[p. 774]
+
+31. For an attempt at a theoretical solution, see Habermas (1996). For the claim that institutions only accommodate this tension, see Möllers (2013).
+
+32. See Ertz (2008).
+
+33. See Wittgenstein (1969, §317).
+
+34. These reasons for concept-use need not be anything very rationalistic, but may on the contrary reside in what Wittgenstein often calls the “primitive” or “animal” basis of our language.
+
+35. See Glock (1996, p. 47) for an overview of passages expressing Wittgenstein's misgivings about justifying the rules of grammar in terms of their point. Schulte (n.d.) (manuscript) offers a balanced assessment of these countervailing tendencies in Wittgenstein's work that ultimately leaves ample room for Left Wittgensteinianism.
+
+36. There is a further distinction, which need not concern us here, between two senses of pointless: a practice can be pointless in the sense that it fails, in the particular way in which it is executed, to serve a clearly articulable point which, given the kind of practice it is, it ought to be serving (an eccentric way of calculating the price of wood for sale may fail to serve the point it ought to be serving granted that it is in that business at all; see Wittgenstein, 1989, 203–204). But a practice can also lack a clearly articulable point altogether, without being a poor example of its kind.
+
+37. See Hartsock (1998).
+
+38. The example is adapted from Fricker (2016).
+
+39. See Fricker (2016, §1) and Tognazzini and Coates (2018) for overviews of such worries.
+
+40. See Williams (1993).
+
+41. “Our clear and simple language-games are not preliminary studies for a future regimentation of language—as it were, first approximations, ignoring friction and air resistance. Rather, the language-games stand there as objects of comparison which, through similarities and dissimilarities, are meant to throw light on features of our language” (Wittgenstein, 2009a, A similar idea is advanced by Friedrich Waismann under the heading of a “grammatical model” (Waismann, 1977, p. 50).
+
+42. Fricker's paradigm case of Communicative Blame will sound fairly intellectualist to Wittgensteinian ears. But a paradigm case is an instance of our actual practice that is useful for expository purposes because it renders its point particularly salient. It differs from what Wittgenstein calls the “primitive” or “animal” basis of a practice, which, presumably, we would not seek in Communicative Blame, but (to take an example suggested by a reviewer) in something like the way the dog will growl or nip at a puppy that bites too hard. The primitive basis and the paradigm case of a practice may both be of help in revealing the practice's overarching point, but they will serve us in slightly different ways. See Queloz (2020, 2021, ch. 3) for a discussion of when each is called for.
+
+43. Here we go beyond Fricker's account. See also Queloz (forthcoming) for a development of this line of thought.
+
+44. Fricker (2016, §1) offers further examples of these “pathologies of blame,” as she calls them.
+
+45. Other examples include Williams's own explanation of the point of the value of liberty (Williams, 2005a) and Miranda Fricker's explanation of the point of testimonial justice (Fricker, 2007) and of forgiveness (Fricker, forthcoming).
+
+46. See Williams (2002, pp. 91–92).
+
+47. Although with a concept whose history is as long and complex as that of the concept of chastity, to leave it at that is no doubt an oversimplification, as there may be more subtle functions discharged by the concept; but it will do as an illustration of the general point.
+
+48. What it does not exclude is philosophical anarchism, the position that the state is bound to be illegitimate, but that there is no real alternative to it in practice.
+
+49. See also Brandom (2000, p. 363; 2011).
+
+50. For a more detailed discussion, see Cueni (2020).
+
+REFERENCES
+
+Bloor, D. (1983). Wittgenstein: A social theory of knowledge. New York, NY: Columbia University Press.
+
+Bloor, D. (1992). Left and right Wittgensteinians. In A. Pickering (Ed.), Science as practice and culture (pp. 266–282). Chicago: University of Chicago Press.
+
+Bloor, D. (1997). Wittgenstein, rules and institutions. London, England: Routledge.
+
+Bloor, D. (2000). Wittgenstein as a conservative thinker. In M. Kusch (Ed.), The sociology of philosophical knowledge (pp. 1–14). Dordrecht, the Netherlands: Springer Netherlands.
+
+Brandom, R. (2000). Facts, norms, and normative facts: A reply to Habermas. European Journal of Philosophy, 8(3), 356–374.
+
+[p. 775]
+
+Brandom, R. (2011). Vocabularies of pragmatism: Synthesizing naturalism and historicism. In Perspectives on pragmatism: Classical, recent, and contemporary (pp. 116–157). Cambridge, MA: Harvard University Press.
+
+Brusotti, M. (2014). Wittgenstein, Frazer und die ethnologische Betrachtungsweise. Berlin, Germany and Boston, MA: De Gruyter.
+
+Celikates, R. (2015). Against Manichaeism: The politics of forms of life and the possibilities of critique. Raisons Politiques, 57
+
+Christensen, A.-M. S. (2011). ‘What matters to us?’ Wittgenstein's Weltbild, rock and sand, men and women. Humana Mente: Journal of Philosophical Studies, 18, 141–162.
+
+Christensen, A.-M. S. (2016). It's a kind of magic: Wittgenstein on understanding and Weltanschauung in the remarks on Frazer. In L. Albinus, J. G. F. Rothhaupt, & A. Seery (Eds.), Wittgenstein's remarks on Frazer: The text and the matter (pp. 207–232). Berlin, Germany: De Gruyter.
+
+Cottingham, J. (2009). The good life and the ‘radical contingency of the ethical. In D. Callcut (Ed.), Reading Bernard Williams (pp. 24–42). London, England: Routledge.
+
+Cueni, D. (2020). Public law analogies in international legal theory. (doctoral thesis). Unversity of Zurich, Zurich.
+
+Cueni, D., & Queloz, M. (forthcoming). Whence the Demand for Ethical Theory? American Philosophical Quarterly.
+
+Dunn, J. (1993). Western political theory in the face of the future (2nd ed.). Cambridge, England: Cambridge University Press.
+
+Ertz, T.-P. (2008). Regel und witz: Wittgensteinsche perspektiven auf mathematik, sprache und moral. Berlin, Germany: De Gruyter.
+
+Fogelin, R. J. (2009). Taking Wittgenstein at his word: A textual study. Princeton, NJ: Princeton University Press.
+
+Fricker, M. (2000). Confidence and irony. In E. Harcourt (Ed.), Morality, reflection, and ideology (pp. 87–112). Oxford, England: Oxford University Press.
+
+Fricker, M. (2007). Epistemic injustice: Power and the ethics of knowing. Oxford, England: Oxford University Press.
+
+Fricker, M. (2016). What's the point of blame? A paradigm based explanation. Noûs, 50(1), 165–183.
+
+Fricker, M. (forthcoming). Forgiveness: An ordered pluralism. Australasian Philosophical Review, 3(1).
+
+Geuss, R. (2001). History and illusion in politics. Cambridge, England: Cambridge University Press.
+
+Glock, H.-J. (1996). A Wittgenstein dictionary. Oxford, England: Blackwell.
+
+Glock, H.-J. (2009). Concepts, conceptual schemes and grammar. Philosophia, 37(4), 653–668. https://doi.org/10.1007/
+
+Goldie, P. (2009). Thick concepts and emotion. In D. Callcut (Ed.), Reading Bernard Williams (pp. 94–109). London, England: Routledge.
+
+Habermas, J. (1996). In W. Rehg (Ed.), Between facts and norms: Contributions to a discourse theory of law and democracy. Cambridge, England: Polity.
+
+Hacker, P. M. S. (2013). Wittgenstein's anthropological and ethnological approach. In Wittgenstein: Comparisons and context (pp. 111–127). Oxford, England: Oxford University Press.
+
+Hammer, D. C. (1992). Meaning and tradition. Polity, 24(4), 551–567.
+
+Hartsock, N. (1998). The feminist standpoint revisited and other essays. Boulder, CO: Westview Press.
+
+Herodotus (1920). In A. D. Godley (Ed.), Histories. Cambridge, MA: Harvard University Press.
+
+Jaeggi, R. (2016). Critique of forms of life. Cambridge, MA: Harvard University Press.
+
+Jamieson, D. (2007). When utilitarians should be virtue theorists. Utilitas, 19(2), 160–183.
+
+Jamieson, D. (2014). Reason in a dark time: Why the struggle against climate change failed—And what it means for our future. New York, NY: Oxford University Press.
+
+Kekes, J. (1997). What is conservatism? Philosophy, 72(281), 351–374.
+
+Kripke, S. A. (1982). Wittgenstein on rules and private language. Cambridge, MA: Harvard University Press.
+
+Kusch, M. (2016). Epistemic relativism, scepticism, pluralism. Synthese, 194, 4687–4703. https://doi.org/10.1007/s11229-
+
+Marx, K. (2000). The German ideology. In D. McLellan (Ed.), Karl Marx: Selected writings (pp. 175–208). Oxford, England: Oxford University Press.
+
+Mill, J. S. (2003). Utilitarianism and on liberty (2nd ed.). Oxford, England: Wiley-Blackwell.
+
+Möllers, C. (2013). The three branches: A comparative model of separation of powers. Oxford, England: Oxford University Press.
+
+Moore, A. W. (2006). Maxims and thick ethical concepts. Ratio, 19, 129–147.
+
+Moore, A. W. (2012). The evolution of modern metaphysics: Making sense of things. Cambridge, England: Cambridge University Press.
+
+Norris, A. (2009). ‘La chaîne des raisons a une fin.’ Wittgenstein et Oakeshott sur le rationalisme et la pratique. Cités: Philosophie, Politique, Histoire, 38, 95–108.
+
+Nyíri, J. C. (1976). Wittgenstein's new traditionalism. Acta Philosophica Fennica, 28, 501–512.
+
+[p. 776]
+
+Nyíri, J. C. (1982). Wittgenstein's later work in relation to conservatism. In B. McGuinness (Ed.), Wittgenstein and his times (pp. 44–68). Chicago, IL: University of Chicago Press.
+
+Owens, D. (2012). Shaping the normative landscape. Oxford, England: Oxford University Press.
+
+Plant, R. (1991). Modern political thought. Oxford: Blackwell.
+
+Pleasants, N. (1999). Wittgenstein and the idea of a critical social theory: A critique of Giddens, Habermas and Bhaskar. London, England: Routledge.
+
+Pleasants, N. (2002). Towards a critical use of Marx and Wittgenstein. In G. Kitching & N. Pleasants (Eds.), Marx and Wittgenstein: Knowledge, morality and politics (pp. 160–181). London, England: Routledge.
+
+Plotica, L. P. (2015). Michael Oakeshott and the conversation of modern political thought. Albany, NY: State University of New York Press.
+
+Queloz, M. (2016). Wittgenstein on the chain of reasons. Wittgenstein-Studien, 7(1), 105–130.
+
+Queloz, M. (2017). Two orders of things: Wittgenstein on reasons and causes. Philosophy, 92(3), 369–397.
+
+Queloz, M. (2019). The points of concepts: Their types, tensions, and connections. Canadian Journal of Philosophy, 49(8),
+
+Queloz, M. (2020). From paradigm-based explanation to pragmatic genealogy. Mind, 129(515), 683–714. https://doi.org/10.
+
+mind/fzy083
+
+Queloz, M. (2021). The practical origins of ideas: Genealogy as conceptual reverse-engineering. Oxford, England: Oxford University Press.
+
+Queloz, M. (forthcoming). The self-effacing functionality of blame. Philosophical Studies. https://doi.org/10.1007/s11098-
+
+y
+
+Rawls, J. (1971). A theory of justice. Cambridge, MA: Harvard University Press.
+
+Rawls, J. (1985). Justice as fairness: Political not metaphysical. Philosophy and Public Affairs, 14(3), 223–251.
+
+Rawls, J. (1993). Political liberalism. New York: Columbia University Press.
+
+Rorty, R. (1983). Postmodernist bourgeois liberalism. Journal of Philosophy, 80(10), 583–589.
+
+Rorty, R. (1989). Contingency, irony, and solidarity. Cambridge, England: Cambridge University Press.
+
+Scheman, N. (2011). Shifting ground: Knowledge and reality, transgression and trustworthiness. Oxford, England: Oxford University Press.
+
+Schulte, J. (n.d.) (manuscript) . Wittgenstein on certainty and doubt.
+
+Seidel, M. (2014). Epistemic relativism: A constructive critique. Houndsmill, England: Palgrave Macmillan.
+
+Sluga, H. (1998). What has history to do with me? Wittgenstein and analytic philosophy. Inquiry, 41(1), 99–121.
+
+Smith, M. (2013). On the nature and significance of the distinction between thick and thin ethical concepts. In S. Kirchin (Ed.), Thick concepts (pp. 97–120). Oxford, England: Oxford University Press.
+
+Strawson, P. F. (1959). Individuals. London, England: Routledge.
+
+Temelini, M. (2015). Wittgenstein and the study of politics. Toronto: University of Toronto Press.
+
+Testini, F. (2020). Testing pragmatic genealogy in political theory: The curious case of John Rawls. European Journal of Political Theory. https://doi.org/10.1177/1474885120909777.
+
+Tognazzini, N., & Coates, D. J. (2018). Blame. In E. N. Zalta (Ed.), The stanford encyclopedia of philosophy Fall 2010 ed.
+
+Waismann, F. (1977). Philosophical papers. Dordrecht, the Netherlands and Boston, MA: D. Reidel.
+
+Williams, B. (1981). Conflicts of values. In Moral luck (pp. 71–82). Cambridge, England: Cambridge University Press.
+
+Williams, B. (1990). L'éthique, question de style? In L'éthique et les limites de la philosophie (pp. 5–19). Paris, France: Gallimard.
+
+Williams, B. (1992). Left-Wing Wittgenstein, Right-Wing Marx. Common Knowledge, 1(1), 33–42.
+
+Williams, B. (1993). Shame and necessity. Berkeley, CA: University of California Press.
+
+Williams, B. (2002). Truth and truthfulness: An essay in genealogy. Princeton, NJ: Princeton University Press.
+
+Williams, B. (2005a). From freedom to liberty: The construction of a political value. In G. Hawthorne (Ed.), In the beginning was the deed: Realism and moralism in political argument (pp. 75–96). Princeton, NJ: Princeton University Press.
+
+Williams, B. (2005b). In the beginning was the deed. In G. Hawthorne (Ed.), In the beginning was the deed: Realism and moralism in political argument (pp. 18–28). Princeton, NJ: Princeton University Press.
+
+Williams, B. (2005c). Pluralism, community and left Wittgensteinianism. In G. Hawthorne (Ed.), In the beginning was the deed: Realism and moralism in political argument (pp. 29–39). Princeton, NJ: Princeton University Press.
+
+Williams, B. (2005d). Realism and moralism in political theory. In G. Hawthorne (Ed.), In the beginning was the deed: Realism and moralism in political argument (pp. 1–17). Princeton, NJ: Princeton University Press.
+
+Williams, B. (2006a). An essay on Collingwood. In M. Burnyeat (Ed.), The sense of the past: Essays in the history of philosophy (pp. 341–360). Princeton, NJ: Princeton University Press.
+
+Williams, B. (2006b). In A. W. Moore (Ed.), Philosophy as a humanistic discipline (pp. 180–199). Princeton, NJ: Princeton University Press.
+
+Williams, B. (2010). Who needs ethical knowledge? Royal Institute of Philosophy Supplement, 35, 213–222.
+
+[p. 777]
+
+Williams, B. (2011). Ethics and the limits of philosophy. London, England: Routledge.
+
+Williams, B. (2014a). The need to be sceptical. In B. Williams (Ed.), Essays and reviews 1959–2002 (pp. 311–318). Princeton, NJ: Princeton University Press.
+
+Williams, B. (2014b). Political liberalism, by John Rawls. In M. Woods (Ed.), Essays and reviews 1959–2002 (pp. 326–332). Princeton, NJ: Princeton University Press.
+
+Williams, B. (2019). Left-Wing Wittgenstein. Common Knowledge, 25(1–3), 321–331. https://doi.org/10.1215/0961754X- 7299402
+
+Williams, M. (2005). Why Wittgenstein isn't a foundationalist. In D. Moyal-Sharrock & W. H. Brenner (Eds.), Readings of Wittgenstein's on certainty (pp. 47–58). London, England: Palgrave Macmillan.
+
+Winch, P. (1958). The idea of a social science and its relation to philosophy. London, England: Routledge.
+
+Wittgenstein, L. (1969). On certainty. Oxford, England: Blackwell.
+
+Wittgenstein, L. (1974). Philosophical grammar. Oxford, England: Blackwell.
+
+Wittgenstein, L. (1980a). In G. E. M. Anscombe & G. H. von Wright (Eds.), Remarks on the philosophy of psychology (Vol. I). Oxford, England: Blackwell.
+
+Wittgenstein, L. (1980b). In G. H. von Wright & H. Nyman (Eds.), Remarks on the philosophy of psychology (Vol. II). Oxford, England: Blackwell.
+
+Wittgenstein, L. (1989). In C. Diamond (Ed.), Lectures on the foundations of mathematics, Cambridge, 1939. Chicago, IL and London, England: University of Chicago Press.
+
+Wittgenstein, L. (2005). In C. G. Luckhardt & M. A. E. Aue (Eds.), The big typescript. Oxford, England: Blackwell.
+
+Wittgenstein, L. (2009a). In P. M. S. Hacker & J. Schulte (Eds.), Philosophische untersuchungen = philosophical investigations (4th ed.). Chichester, England: Wiley-Blackwell.
+
+Wittgenstein, L. (2009b). In P. M. S. Hacker & J. Schulte (Eds.), Philosophy of psychology – A fragment published in philosophical investigations (4th ed.). Chichester, England: Wiley-Blackwell.

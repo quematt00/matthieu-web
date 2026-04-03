@@ -1,6 +1,8 @@
 ---
 title: "On the Fundamental Limitations of AI Moral Advisors"
 year: "2025"
+llm_text_markdown: "/llm/papers/on-the-fundamental-limitations-of-ai-moral-advisors.md"
+llm_text_plain: "/llm/papers/on-the-fundamental-limitations-of-ai-moral-advisors.txt"
 tags:
   - "ai"
   - "ai-ethics"

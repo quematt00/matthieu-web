@@ -1,6 +1,8 @@
 ---
 title: "Why We Care about Understanding: Competence through Predictive Compression"
 year: "manuscript"
+llm_text_markdown: "/llm/papers/why-we-care-about-understanding-competence-through-predictive-compression.md"
+llm_text_plain: "/llm/papers/why-we-care-about-understanding-competence-through-predictive-compression.txt"
 tags:
   - "competence"
   - "cognitive-science"

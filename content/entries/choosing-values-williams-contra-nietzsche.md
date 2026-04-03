@@ -1,6 +1,8 @@
 ---
 title: "Choosing Values? Williams contra Nietzsche"
 year: "2021"
+llm_text_markdown: "/llm/papers/choosing-values-williams-contra-nietzsche.md"
+llm_text_plain: "/llm/papers/choosing-values-williams-contra-nietzsche.txt"
 tags:
   - "conceptual-ethics"
   - "conceptual-engineering"

@@ -87,7 +87,7 @@ readingProgress:
     </article>
     <article class="book-card">
       <div class="book-media">
-        <a href="https://philpapers.org/archive/VANMSO-5.pdf" target="_blank" rel="noopener">
+        <a href="https://academic.oup.com/book/61415" target="_blank" rel="noopener">
           <img src="/images/williams.jpg" alt="Cover von Bernard Williams on Philosophy and History">
         </a>
         <div class="book-actions">
@@ -97,7 +97,7 @@ readingProgress:
         </div>
       </div>
       <div class="book-body">
-        <h3>Bernard Williams on Philosophy and History</h3>
+        <h3><a href="https://academic.oup.com/book/61415" target="_blank" rel="noopener">Bernard Williams on Philosophy and History</a></h3>
         <p class="subtitle">Edited by Marcel van Ackeren &amp; Matthieu Queloz</p>
         <p class="book-meta">Oxford University Press, 2025</p>
         <p class="book-abstract">

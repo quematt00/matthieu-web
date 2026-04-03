@@ -1,6 +1,8 @@
 ---
 title: "Nietzsche as a Critic of Genealogical Debunking: Making Room for Naturalism without Subversion"
 year: "2019"
+llm_text_markdown: "/llm/papers/nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion.md"
+llm_text_plain: "/llm/papers/nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion.txt"
 tags:
   - "genealogical-debunking"
   - "genealogical-method"

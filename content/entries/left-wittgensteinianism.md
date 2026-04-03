@@ -1,6 +1,8 @@
 ---
 title: "Left Wittgensteinianism"
 year: "2021"
+llm_text_markdown: "/llm/papers/left-wittgensteinianism.md"
+llm_text_plain: "/llm/papers/left-wittgensteinianism.txt"
 tags:
   - "conceptual-change"
   - "conceptual-engineering"

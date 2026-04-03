@@ -1,6 +1,8 @@
 ---
 title: "Theorizing the Normative Significance of Critical Histories for International Law"
 year: "2022"
+llm_text_markdown: "/llm/papers/theorizing-the-normative-significance-of-critical-histories-for-international-law.md"
+llm_text_plain: "/llm/papers/theorizing-the-normative-significance-of-critical-histories-for-international-law.txt"
 tags:
   - "critical-history"
   - "critical-legal-studies"

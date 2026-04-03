@@ -1,6 +1,8 @@
 ---
 title: "Nietzsche’s Pragmatic Genealogy of Justice"
 year: "2016"
+llm_text_markdown: "/llm/papers/nietzsche-s-pragmatic-genealogy-of-justice.md"
+llm_text_plain: "/llm/papers/nietzsche-s-pragmatic-genealogy-of-justice.txt"
 tags:
   - "genealogy"
   - "genealogical-method"

@@ -1,6 +1,8 @@
 ---
 title: "Genealogy, Evaluation, and Engineering"
 year: "2022"
+llm_text_markdown: "/llm/papers/genealogy-evaluation-and-engineering.md"
+llm_text_plain: "/llm/papers/genealogy-evaluation-and-engineering.txt"
 tags:
   - "conceptual-engineering"
   - "enlightenment"

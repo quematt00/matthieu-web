@@ -1,6 +1,8 @@
 ---
 title: "A Shelter from Luck: The Morality System Reconstructed"
 year: "2022"
+llm_text_markdown: "/llm/papers/a-shelter-from-luck-the-morality-system-reconstructed.md"
+llm_text_plain: "/llm/papers/a-shelter-from-luck-the-morality-system-reconstructed.txt"
 tags:
   - "agency"
   - "ethics"

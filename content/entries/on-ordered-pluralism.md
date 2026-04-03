@@ -1,6 +1,8 @@
 ---
 title: "On Ordered Pluralism"
 year: "2020"
+llm_text_markdown: "/llm/papers/on-ordered-pluralism.md"
+llm_text_plain: "/llm/papers/on-ordered-pluralism.txt"
 tags:
   - "forgiveness"
   - "fricker"

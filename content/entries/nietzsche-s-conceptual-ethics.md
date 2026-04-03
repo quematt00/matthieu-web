@@ -1,6 +1,8 @@
 ---
 title: "Nietzsche’s Conceptual Ethics"
 year: "2022"
+llm_text_markdown: "/llm/papers/nietzsche-s-conceptual-ethics.md"
+llm_text_plain: "/llm/papers/nietzsche-s-conceptual-ethics.txt"
 tags:
   - "conceptual-ethics"
   - "conceptual-engineering"

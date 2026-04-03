@@ -1,6 +1,8 @@
 ---
 title: "Bernard Williams on Philosophy and History"
 year: "2025"
+llm_text_markdown: "/llm/papers/bernard-williams-on-philosophy-and-history.md"
+llm_text_plain: "/llm/papers/bernard-williams-on-philosophy-and-history.txt"
 tags:
   - "bernard-williams"
   - "history"
@@ -18,6 +20,6 @@ For Bernard Williams, philosophy and history are importantly connected. His work
 
 {{< entry-tags >}}
 
-<a class="download-link" href="https://philpapers.org/archive/VANMSO-5.pdf" aria-label="Download PDF of Bernard Williams on Philosophy and History" target="_blank" rel="noopener noreferrer">
-  <i class="fa-solid fa-download"></i> Download PDF
+<a class="download-link" href="https://academic.oup.com/book/61415" aria-label="View Bernard Williams on Philosophy and History on Oxford Academic" target="_blank" rel="noopener noreferrer">
+  <i class="fa-solid fa-arrow-up-right-from-square"></i> View Book
 </a>

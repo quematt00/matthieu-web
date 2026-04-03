@@ -1,6 +1,8 @@
 ---
 title: "Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear"
 year: "2025"
+llm_text_markdown: "/llm/papers/dropping-anchor-in-rough-seas-co-reasoning-with-personalized-ai-advisors-and-the-liberalism-of-fear.md"
+llm_text_plain: "/llm/papers/dropping-anchor-in-rough-seas-co-reasoning-with-personalized-ai-advisors-and-the-liberalism-of-fear.txt"
 tags:
   - "ai"
   - "ai-ethics"

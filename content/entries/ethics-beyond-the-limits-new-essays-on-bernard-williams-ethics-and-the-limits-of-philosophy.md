@@ -1,6 +1,8 @@
 ---
 title: "Ethics Beyond the Limits: New Essays on Bernard Williams’ Ethics and the Limits of Philosophy"
 year: "2023"
+llm_text_markdown: "/llm/papers/ethics-beyond-the-limits-new-essays-on-bernard-williams-ethics-and-the-limits-of-philosophy.md"
+llm_text_plain: "/llm/papers/ethics-beyond-the-limits-new-essays-on-bernard-williams-ethics-and-the-limits-of-philosophy.txt"
 tags:
   - "bernard-williams"
   - "williams"

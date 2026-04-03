@@ -1,6 +1,8 @@
 ---
 title: "Defending Genealogy as Conceptual Reverse-Engineering"
 year: "2024"
+llm_text_markdown: "/llm/papers/defending-genealogy-as-conceptual-reverse-engineering.md"
+llm_text_plain: "/llm/papers/defending-genealogy-as-conceptual-reverse-engineering.txt"
 tags:
   - "analysis"
   - "concepts"

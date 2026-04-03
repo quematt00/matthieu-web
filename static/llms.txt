@@ -45,3 +45,15 @@ Where to find publications:
 
 Metadata:
 - Entry pages include machine-readable citation meta tags and schema.org JSON-LD (ScholarlyArticle).
+- Crawlable LLM hub (HTML): https://www.matthieuqueloz.com/llm/papers/
+- Paper-selection index (Markdown): https://www.matthieuqueloz.com/llm/papers/index.md
+- Paper-selection index (JSON): https://www.matthieuqueloz.com/llm/papers/index.json
+- LLM-layer sitemap: https://www.matthieuqueloz.com/llm/papers/sitemap.xml
+- Some works also include machine-readable text companions under https://www.matthieuqueloz.com/llm/papers/
+
+How to use the LLM layer:
+- Use the HTML or JSON/Markdown indexes to identify relevant works by title, abstract, tags, categories, and year.
+- Use the canonical entry URL for citation metadata and the published PDF.
+- When a companion full text exists, prefer `.../llm/papers/<slug>.md` for structured reading and `.../llm/papers/<slug>.txt` when plain text is preferable.
+- Companion full texts preserve section headings and printed page markers such as `[p. 12]` where available.
+- `robots.txt` is configured to allow current AI search, user-retrieval, and model-training crawlers.

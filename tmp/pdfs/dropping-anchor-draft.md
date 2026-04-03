@@ -1,0 +1,105 @@
+# Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear
+
+Author: Matthieu Queloz
+Published in: Philosophy & Technology 38 (170): 1–7. 2025. Invited commentary. [doi:10.1007/s13347-025-01006-z](https://doi.org/10.1007/s13347-025-01006-z)
+DOI: [10.1007/s13347-025-01006-z](https://doi.org/10.1007/s13347-025-01006-z)
+Canonical entry: https://www.matthieuqueloz.com/entries/dropping-anchor-in-rough-seas-co-reasoning-with-personalized-ai-advisors-and-the-liberalism-of-fear/
+Published PDF: https://philpapers.org/archive/QUEDAI.pdf
+
+Machine-readable text companion generated from the PDF. Page markers follow the printed pagination.
+
+[p. 1]
+
+Philosophy & Technology (2025) 38:170
+
+COMMENTARY Dropping Anchor in Rough Seas: Co-Reasoning with Personalized AI Advisors and the Liberalism of Fear Matthieu Queloz1
+
+## Abstract
+
+In response to Benjamin Lang’s defence of “co-reasoning” with personalized AI advisors, this article formulates a political critique of the co-reasoning model through the lens of the liberalism of fear. This reframes the ethical aspiration to self-realization with the assistance of AI by embedding it within a realistic political setting. It suggests that before we seek to maximize the odds of self-realization, we should strive to minimize the odds of domination by others. After highlighting three power asymmetries involved in the co-reasoning model, the article argues that personalization risks stabilizing domination by translating structural injustices into individualized aspirational challenges. Three political constraints on personalized AI are then proposed: the priority of non-domination, the public contestability of operative norms, and the recognition of non-personalizable civic burdens. Keywords Personalized AI advisors · Political philosophy · Liberalism of fear · Non-Domination · Judith shklar · Depoliticization
+
+## 1. Introduction
+
+In Benjamin Lang’s (2025) terminology, a personalized AI advisor faces a choice between “dropping anchor” and “chasing the horizon.” To drop anchor is for the system to calibrate its normative guidance to some relatively stable set of the user’s earlier values and commitments, resisting later self-reports that look like weakness of will or failures of self-knowledge. To chase the horizon is to continually recalibrate to whatever aspirational values the user currently avows, even when these break with entrenched evaluative commitments.
+
+matthieu.queloz@unibe.ch 1
+
+Institute of Philosophy, University of Bern, Laenggassstrasse 49a, Bern 3012, Switzerland 13
+
+[p. 2]
+
+Lang’s response is to propose a co-reasoning model for personalized AI advisors (PAAs), designed to steer a middle course between these extremes. A PAA can continuously engage the user in a dialectic exchange about their decisions and aspirations, attempting to distinguish genuine value change from akratic backsliding and momentary distortions in one’s moral consciousness. What is required to do this successfully, Lang suggests, is a “philosophy-complete” PAA, which can engage in such a dialogue across all domains of philosophy. I take this to be a way of acknowledging that a PAA should not preach a pre-loaded ethical theory, but should accommodate value pluralism, intelligently interpret a user’s values, and arbitrate between competing self-descriptions over time, which requires it to do all the work of moral philosophy, meta-ethics, and other philosophical domains that bear on questions of value, agency, and identity. The proposal is sophisticated and, at the level of individual moral psychology, attractive. My main concern, however, is that once we ourselves strive to be “philosophy-complete” and embed this proposal for the ethics of aspiration within the broader perspective of political philosophy, Lang’s co-reasoning model begins to look more ambivalent. Even if it is taken to solve the problem of when and where to “drop anchor” in a user’s value history, the political setting in which co-reasoning PAAs would operate is likely to introduce a set of structural dangers that his account largely sidelines, and that co-reasoning would exacerbate rather than resolve. In what follows, I take Lang’s co-reasoning model largely at face value and ask a different question: even if it works as advertised in principle, is this the sort of deliberative and decisional structure we should want? Lang’s broadly Callardian framing is recognizably perfectionist: it regards the central risk as being that AI advisors might fail to aid our self-betterment. But if we flip the framing from striving for perfection to avoiding the worst that could happen, as Judith Shklar’s liberalism of fear encourages us to do, a different risk becomes salient: how do we prevent PAAs from becoming tools by which powerful actors can re-anchor citizens to identities, aspirations, and “better judgments” that serve someone else’s ends? The answer to the question of whether we should want such a co-reasoning arrangement then becomes: at best “only under stringent political constraints,” and at worst “no”—not because the model is too paternalistic or too accommodating of the user’s whims, which are the dangers that Lang is concerned with, but becauses it risks being too easily marshalled in the service of domination by third parties while retaining the reassuring self-description of “co-reasoning.”
+
+## 2. A Different Starting Point: Fear Before Aspiration
+
+Shklar (1989) suggested that liberalism ought not to begin from a perfectionist ideal of autonomy or self-realization, but from the historically informed fear – which she takes to be “amply justified on every page of political history” (1989, 28) – that the more powerful will eventually end up exploiting their control over the less powerful unless they are prevented from doing so. The first question should therefore not be: “How do we achieve the best possible human life and society?,” but: “How do we prevent the worst things that humans predictably end up doing to one another when 13
+
+[p. 3]
+
+armed with power?” The aspiration to achieve the summum bonum (the highest good) should take a backseat to fear of the summum malum (the worst evil).1 Before we maximize the odds of self-realization, we should minimize the odds of domination by others.
+
+Lang’s paper proceeds from a different starting point. It takes as given that we are interested in technologies of self-improvement: tools to help us live better by our own lights, to close the gap between our digital duplicate and aspirational self, to manage akrasia and cultivate aspirational projects. Against that background, Lang’s “Anchoring Problem” appears as a design challenge internal to an otherwise attractive project: how to ensure that a PAA does not either rigidly “drop anchor” in an obsolete selfconception or naively “chase the horizon” of whatever values the user now professes.
+
+But from a liberalism-of-fear perspective, this framing itself is too optimistic. It neglects a set of structural dangers that the “co-reasoning” solution to the Anchoring Problem would only exacerbate. To see these dangers, we need to ask: Who controls the PAAs, and to whom are they answerable? What forms of dependency, vulnerability, and domination do PAAs entrench or newly enable? How might PAAs be used to manipulate their users under conditions of unequal power?
+
+Once these questions are foregrounded, the fact that a PAA “co-reasons” with its user and tries to keep faith with the user’s past and present commitments does not look like a sufficient safeguard. Co-reasoning, Lang emphasizes, is a mode of interaction governed by benign dialectical norms. But the liberalism of fear directs our attention to the background structure that might surreptitously shape and constrain that interaction, and it urges us to consider what would happen if control over that structure fell into the wrong hands.
+
+## 3. Asymmetries of Power Beneath the Dialectic
+
+Lang’s model casts PAA–user interaction in dialogical terms: there are burdens of proof, norms of consistency, and justificatory exchanges. The PAA may challenge the user’s claims to have changed their mind; the user may contest the PAA’s inferences from past behavior. The hope is that this mutual accountability allows the system to drop or lift anchor in a principled way. But as political philosophers have long stressed in debates about deliberation and public reason, symmetry in the formal norms of a conversation does not guarantee symmetry in power. First, Lang envisions PAAs as relying on extensive quantitative and analytic capacities, such as synthesizing high-dimensional datasets and comparing patterns of behavior across time. This invites us to imagine PAAs as having access to an exhaustive, structured, and queryable memory of the user’s past: all prompts, hesitations, confessions, and subtle patterns of behavior, and perhaps even biometric correlates of ambivalence and stress. The user, by contrast, only has their fallible autobiographical memory to rely on. In a dispute about what one really values, the PAA can always say, with apparent authority: you felt differently on these 132 prior occasions; your 1
+
+See also Shklar (1984). 13
+
+[p. 4]
+
+behavior shows a stable pattern; your present disavowal is an outlier. That does not mean that the PAA is right. But it does mean that its side of the co-reasoning exchange carries the added epistemic authority of superhuman recall and analytics, which the user may find hard to resist. Second, the PAA will be designed, deployed, and updated by powerful organizations – be they private firms or public agencies – whose incentives extend beyond any one user’s flourishing. Even if the local interaction looks like a dialogical partnership in reasoning, the overall architecture is not that of a conversation between equals. It is more akin to a citizen talking to a civil servant whose scripts, evaluation metrics, and promotion prospects are set by powerful superiors. Even with benevolent actors, this inevitably introduces higher-level objectives into the equation, such as user retention, reputational risk management, or compliance with regulation. These incentives will not reduce to the norms of our local dialectic. And such a divergence will of course only be exacerbated under less sunny conditions. What looks, from my perspective, like a neutral process of being helped to manage my akrasia may, from the perspective of the PAA provider, be a way of nudging me towards politically expedient patterns of self-discipline or quietism. Third, Lang rightly notes that PAAs will track diachronic trajectories of aspiration and value change; but that diachronic sensitivity cuts both ways. It creates the possibility that long-term pressure can be exerted gradually, in small justificatory nudges, whose political direction is invisible at any single time-slice. What looks like co-reasoning at t can be part of a long arc of “soft steering,” though the pattern may be so subtle that it is discernible only over many years and across many users – in other words, discernible only for the machine or those who control it, and not for the individual user. A series of individually innocuous “co-reasoned” adjustments can amount, over time, to a substantial redirection of what a person takes to be the horizon of possibility, which in turn affects what they aspire to and what they regard as a legitimate grievance. It takes no great political imagination to envisage how such a structure might be abused to engineer consent.2 Once these asymmetries are acknowledged, the co-reasoning picture no longer looks like two interlocutors huddled over a shared problem, deciding together where to drop anchor. It looks more like a credulous citizen engaged in an informationasymmetric and structurally constrained consultation with a system whose ultimate loyalties lie elsewhere.
+
+## 4. Personalization and the Quieting of Politics
+
+Given these difficulties, why insist on personalization at all? Lang’s main rationale for preferring PAAs over GAAs (generic AI advisors) is that personalization respects the particularity of ethical life. End-of-life decisions, career choices, and “hard choices” in Ruth Chang’s (2017) sense are deeply entwined with one’s personal history and projects. A generic bot that preached a “one size fits all” outlook, such as 2 For a germane discussion of the subtler and more surreptitious ways in which consent can be engineered, in Edward Bernays’s phrase, see Queloz and Bieber (2022). 13
+
+[p. 5]
+
+Benthamism or Calvinism, would be alienating. A PAA that models my sensibilities, my particular plurality of values, will do better at speaking to the person I am now and the person I hope to become. I have voiced reservations about such personalization from an ethical point of view elsewhere (Queloz, 2025a, 2025b). From a political point of view, however, personalization will seem like a misguided aspiration in one type of situation in particular, namely when it depoliticizes the political. A co-reasoning PAA designed along the Callardian lines that Lang suggests seems poised to be an engine for translating structural injustices and collective problems into individualized “aspirational challenges,” thereby presenting as a private problem what really demands to be understood as a public problem. Shklar warned against turning politics into a project of moral self-perfection, and the personalization of essentially political problems is a case in point.3 When citizens come to experience domination and cruelty primarily as burdens on their personal integrity—problems to be handled by self-improvement, therapy, or private prudence—they may lose sight of the fact that these are also, and primarily, public wrongs. Highly effective co-reasoning PAAs risk perpetuating domination and stabilizing unjust arrangements by encouraging their assimilation to individual aspirational challenges. Some burdens are essentially civic burdens, and therefore, by definition, non-personalizable.
+
+## 5. Political Constraints on Personalized AI Advisors
+
+Before rolling out PAAs of this sort at all, we accordingly need to ask what political constraints must be in place if they are not to become technologies of soft governance. At minimum, three requirements suggest themselves. (i) Priority of non-domination over aspirational optimization: The first design desid-
+
+eratum should not be maximal help with self-realization, but minimal exposure to domination, such as arbitrary interference or surveillance without recourse. That shifts attention to questions Lang leaves largely aside: limits on data aggregation; strict separation between PAA logs and other domains (employment, insurance, law enforcement); rights to audit, contest, and delete. A co-reasoning PAA that is also, in practice, a rich dossier available to one’s employer or insurer is a paradigmatic object of liberal fear. (ii) Public contestability of operative norms: Lang emphasizes meta-ethical and
+
+evaluative neutrality at the level of theory: PAAs need not be utilitarian, Kantian, religious, and so on. But their operational norms—how they treat tradeoffs between, say, conformity and dissent, self-sacrifice and self-care, prudence and solidarity—are not neutral. They encode implicit answers to political questions about what counts as a reasonable aspiration in a given social order. Those 3 See Shklar (1989), but also Shklar (1990), which warns against misdescribing political wrongs as mere “fate” or “bad luck.”
+
+13
+
+[p. 6]
+
+answers should not be settled unilaterally by engineers, market pressures, or state actors. They ought to be subject to public contestation and democratic control. (iii) Recognition of non-personalizable civic burdens: Lang quite rightly resists the
+
+idea that PAAs should “decide for us.” Co-reasoning preserves the user’s role in making hard choices. From a political standpoint, though, some burdens are not merely non-delegable in principle; they should not be personalized or privatized at all. The burden of resisting cruel institutions, for instance, is a burden on citizens collectively. A liberalism of fear will therefore be sceptical of any technology whose primary contribution is to help individuals adjust to life in unjust conditions, however authentically and conscientiously.
+
+## 6. Conclusion
+
+Lang is surely right that the dynamics of aspiration and akrasia complicate any simple mapping from past behavior to future guidance, and that some form of co-reasoning seems best suited to handling these complexities. My suggestion has been that, even if his co-reasoning model handles these internal complexities well, it remains deeply under-determined from the standpoint of political philosophy. A Shklarian liberalism of fear forces us to ask not only whether the anchor is dropped at the right point in the user’s value history, but also who holds the chain, and what would happen in rough seas. If we cannot give reassuring answers to those questions, then the problem with PAAs is not that they will fail to help us become who we aspire to be. It is that they risk succeeding too well at reconciling us to life under conditions we ought, collectively, to fear. Authors’ Contributions Not applicable. Funding Open access funding provided by University of Bern. Funded by the Swiss National Science Foundation. Data Availability Not applicable. Declarations Ethics Approval and Consent To Participate Not applicable. Consent for Publication Not applicable. Competing interests The author declares that he has no competing interests Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use 13
+
+[p. 7]
+
+is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​v​e​c​o​m​m​o​n​s​.​o​r​g​/​l​i​c​e​n​ s​e​s​/​b​y​/​4​.​0​/​​​​.​​
+
+## References
+
+Chang, R. (2017). Hard choices. Journal of the American Philosophical Association, 3(1), 1–21.
+
+Lang, B. H. (2025). Dropping anchor or chasing the horizon? Theoretical and practical challenges for personalized AI advisors. Philosophy & Technology, 38(4), 150.
+
+Queloz, M., and Friedemann Bieber (2022). Conceptual engineering and the politics of implementation. Pacific Philosophical Quarterly, 103(3), 670–691.
+
+Queloz, Matthieu. (2025a). Can AI rely on the systematicity of truth? The challenge of modelling normative domains. Philosophy & Technology, 38(34), 1–27.
+
+Queloz, Matthieu. (2025b). On the fundamental limitations of AI moral advisors. Philosophy & Technology, 38, Article 71.
+
+Shklar, J. N. (1984). Ordinary Vices. Cambridge, MA: Belknap Press.
+
+Shklar, J. N. (1989). ‘The Liberalism of Fear’. In Liberalism and the Moral Life. Edited by Nancy Rosenblum, 21–38. Cambridge, MA: Harvard University Press.
+
+Shklar, J. N. (1990). The faces of injustice. New Haven: Yale University Press.

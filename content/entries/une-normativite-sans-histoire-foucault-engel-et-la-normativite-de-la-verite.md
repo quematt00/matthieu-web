@@ -1,6 +1,8 @@
 ---
 title: "Une normativité sans histoire ? Foucault, Engel et la normativité de la vérité"
 year: "forthcoming"
+llm_text_markdown: "/llm/papers/une-normativite-sans-histoire-foucault-engel-et-la-normativite-de-la-verite.md"
+llm_text_plain: "/llm/papers/une-normativite-sans-histoire-foucault-engel-et-la-normativite-de-la-verite.txt"
 tags:
   - "truth"
   - "normativity"

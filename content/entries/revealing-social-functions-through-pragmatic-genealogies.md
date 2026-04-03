@@ -1,6 +1,8 @@
 ---
 title: "Revealing Social Functions through Pragmatic Genealogies"
 year: "2020"
+llm_text_markdown: "/llm/papers/revealing-social-functions-through-pragmatic-genealogies.md"
+llm_text_plain: "/llm/papers/revealing-social-functions-through-pragmatic-genealogies.txt"
 tags:
   - "coordination"
   - "genealogy"

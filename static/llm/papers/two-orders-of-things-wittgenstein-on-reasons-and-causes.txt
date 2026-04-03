@@ -1,0 +1,441 @@
+Two Orders of Things: Wittgenstein on Reasons and Causes
+
+Author: Matthieu Queloz
+Published in: *Philosophy* 92 (3): 369–97. 2017. [doi:10.1017/S0031819117000055](https://doi.org/10.1017/S0031819117000055)
+DOI: 10.1017/S0031819117000055
+Canonical entry: https://www.matthieuqueloz.com/entries/two-orders-of-things-wittgenstein-on-reasons-and-causes/
+Published PDF: https://philpapers.org/archive/MATTOO-11.pdf
+
+Machine-readable text companion generated from the PDF. Page markers follow the journal pagination.
+
+[p. 369]
+
+ABSTRACT
+
+This paper situates Wittgenstein in what is known as the causalism/anti-causalism debate in the philosophy of mind and action and reconstructs his arguments to the effect that reasons are not a species of causes. On the one hand, the paper aims to reinvigorate the question of what these arguments are by offering a historical sketch of the debate showing that Wittgenstein’s arguments were overshadowed by those of the people he influenced, and that he came to be seen as an anti-causalist for reasons that are in large part extraneous to his thought. On the other hand, the paper aims to recover the arguments scattered in Wittgenstein’s own writings by detailing and defending three lines of argument distinguishing reasons from causes. The paper concludes that Wittgenstein’s arguments differ from those of his immediate successors; that he anticipates current anti-psychologistic trends; and that he is perhaps closer to Davidson than historical dialectics suggest.
+
+1. INTRODUCTION
+
+When we act, we seem to simultaneously inhabit two orders of things. Much of what we do is guided, justified and explained by what we believe and what we desire. We do what we do because we have reasons to do it, reasons which orchestrate the movements of our minds as much as the movements of our bodies. And yet our bodies know nothing of those reasons. The cascades of events in our limbs and brains obey not the inferential force of reasons, but the physical force of causes. Therefore, the standard story goes, reasons and causes must be intimately connected if reasons are not to pull us in one direction while causes push us in the other; the reasons for doing what we do must concurrently cause the corresponding bodily movements if we are to act on them at all. The two orders must really be one.
+
+Against this, Wittgenstein maintained that reasons and causes were ‘two different orders of things’,1 and it has been taken to be one of his guiding insights from the 1930s onwards that ‘reasons must be Ludwig Wittgenstein, Wittgenstein’s Lectures: Cambridge 1932–35 (Oxford: Blackwell, 1979), 4. doi:10.1017/S0031819117000055 First published online 8 February 2017 Philosophy 92 2017 .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 370]
+
+distinguished from causes’.2 This pits Wittgenstein firmly against a number of views rallied around the doctrine of causalism, which, inspired by the Davidsonian dictum that ‘reasons are causes’,3 currently forms the orthodoxy in the philosophy of action. At the heart of this causalist orthodoxy are the following two theses: (CR) Causalism about reasons: the reason for which someone performs an action is the cause of the action, where reasons are standardly conceived of as mental states or events. (CE) Causalism about intentional explanation: explanations of actions by reference to reasons are causal explanations, just like explanations of physical events.
+
+According to this ‘standard story’,4 reasons are mental states (or events, such as the onset of mental states) which play a dual role: they both rationalise and cause the bodily movements we call actions. On this view, the distinction between reasons and causes seems a mere red herring. Consequently, Wittgenstein’s discussion of reasons and causes hast lost currency in a climate of opinion dominated by causalism. In recent years, however, anti-causalist reactions to the standard story have given rise to ‘a new debate about the nature of our reasons for acting’.5,6 The new anti-causalists are said to be P.M.S. Hacker, Wittgenstein: Mind and Will: Volume 4 of an Analytical Commentary on the Philosophical Investigations (Oxford: Oxford University Press, 1996), 160; Hans-Johann Glock, A Wittgenstein Dictionary (Oxford: Blackwell Publishing, 1996), ‘causation’; Severin Schroeder, ‘Wittgenstein’, A Companion to the Philosophy of Action, Timothy O’Connor and Constantine Sandis (eds), (Oxford: Oxford University Press, 2010), 556.
+
+Donald Davidson, ‘Actions, Reasons, and Causes’, Essays on Actions and Events (Oxford: Clarendon Press, Oxford University Press, 2001), 17. Michael Smith, ‘The Structure of Orthonomy’, Agency and Action, John Hyman and Helen Steward (eds), (Cambridge: Cambridge University Press, 2004), 165; Frederick Stoutland, ‘Reasons and Causes’, Wittgenstein: Mind, Meaning and Metaphilosophy, Pasquale Frascolla, Diego Marconi, and Alberto Voltolini (eds), (New York: Palgrave Macmillan, 2010), 57.
+
+Maria Alvarez, Kinds of Reasons: An Essay in the Philosophy of Action (Oxford: Oxford University Press, 2010), 2.
+
+The following collection gives an overview of the debate: Guiseppina D’Oro and Constantine Sandis (eds), Reasons and Causes: Causalism and Anti-Causalism in the Philosophy of Action (New York: Palgrave Macmillan, 2013). .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 371]
+
+Two Orders of Things ‘somewhat sympathetic with the writings of Wittgenstein and those he inspired’.7,8 Yet the refractions undergone by Wittgenstein’s own arguments or by those he inspired in the course of this debate have rendered it difficult to evaluate his contribution to it. Arguments inspired by Wittgenstein are, after all, not the same as arguments taken over from Wittgenstein, and since arguments inspired by Wittgenstein may not always be inspired arguments, one might well ask whether the tributes are beneficiary to the assessment of his views. Anti-causalists since G.E.M. Anscombe often appeal to Wittgenstein, yet equally often fail to engage with the details of Wittgenstein’s own position, while their views still differ in important respects from his. As a result, the relevance of his writings to current anti-causalist work in the philosophy of action is hard to assess.
+
+This paper aims to fill this lacuna. It situates Wittgenstein in the causalism/anti-causalism debate and reconstructs his arguments showing that reasons are not causes. The paper aims (i) to reinvigorate the question of what these arguments are by showing that historically, Wittgenstein’s arguments were overshadowed by those of his successors, and that he is classified as an anti-causalist for reasons extraneous to these arguments; and (ii) to recover three of Wittgenstein’s own arguments distinguishing reasons from causes. The paper concludes Julia Tanney, ‘Reasons as Non-Causal, Context-Placing Explanations’, New Essays on the Explanation of Action, Constantine Sandis (ed.), (New York: Palgrave Macmillan, 2009), 94. Recent anti-causalist accounts include: Maria Alvarez, Kinds of Reasons: An Essay in the Philosophy of Action (Oxford: Oxford University Press, 2010); Rüdiger Bittner, Doing Things for Reasons (Oxford: Oxford University Press, 2001); Jonathan Dancy, Practical Reality (Oxford and New York: Oxford University Press, 2000); P.M.S. Hacker, ‘Agential Reasons and the Explanation of Human Behaviour’, New Essays on the Explanation of Action, Constantine Sandis (ed.), (New York: Palgrave Macmillan, 2009); George Frederick Schueler, Reasons and Purposes: Human Rationality and the Teleological Explanation of Action (Oxford: Oxford University Press, 2003); Severin Schroeder, ‘Are Reasons Causes? A Wittgensteinian Response to Davidson’, Wittgenstein and Contemporary Philosophy of Mind, Severin Schroeder (ed.), (New York: Palgrave, 2001); Frederick Stoutland, ‘Reasons and Causes’, Wittgenstein: Mind, Meaning and Metaphilosophy, Pasquale Frascolla, Diego Marconi, and Alberto Voltolini (eds), (New York: Palgrave Macmillan, 2010); Julia Tanney, ‘Reasons as Non-Causal, Context-Placing Explanations’, New Essays on the Explanation of Action, Constantine Sandis (ed.), (New York: Palgrave Macmillan, 2009). .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 372]
+
+that these arguments differ from those of Wittgenstein’s immediate successors; that he anticipates anti-psychologistic trends; and that he is closer to Davidson than historical dialectics suggest.
+
+2. WITTGENSTEIN’S PLACE IN THE DEBATE
+
+A look at the history of the causalism debate serves to motivate and contextualise the present investigation: to what extent does Wittgenstein deserve the contemporary label of anti-causalist, and to what extent has he been driven into the anti-causalist corner by circumstances extraneous to his thought? I shall argue in this section that his refutation of the causal conceptions of the will prevalent before he wrote served to establish him as an anti-causalist in one sense, while the rise of teleological approaches to intentional explanation, epitomised by those of his followers which became the targets of Davidsonian causalism, retroactively drove him into the anti-causalist camp in another sense. A rough historical sketch of the debate between variants of causalism and anti-causalism therefore goes some way towards explaining Wittgenstein’s classification as an anti-causalist, thereby reinvigorating the question of how and to what extent this classification can be grounded in his own writings. Part of the intellectual background to Wittgenstein’s writings on action are three successive currents of thought which try to elucidate the concept of an agent: an entity not merely passively caught up in a network of causes and effects, but which actively contributes to what happens. The three currents share a common strategy. They all seek to identify some mental accompaniment in virtue of which a ‘mere happening’ turns into a voluntary action.
+
+The first and perhaps the most important current to have shaped the tradition that Wittgenstein was reacting against is constituted by empiricist theories of the will. On empiricist accounts, bodily movements are identifiable as actions in virtue of their connection to another part of experience, namely ‘volitions’, or acts of the will. Actions are bodily movements caused by volitions. An emblematic formulation of such a theory is found in the writings of John Locke, but this type of account goes back at least to Thomas Hobbes and René Descartes, and was developed in much the same vein by David Hume, Jeremy Bentham and John Stuart Mill. As Locke’s influential formulation has it, willing is ‘an act of the Mind’, accessible through introspection, ‘directing its thought to the production of any action, and thereby exerting its power to .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 373]
+
+Two Orders of Things produce it’.9 On this account, the will is a ‘Thought of my Mind’, an element of experience which causes the action.
+
+Second came transcendental theories of the will, inspired by Arthur Schopenhauer, which denied that the will is an experience and ‘located the real agent beyond experience’.10 According to Schopenhauer, the act of will and the act willed are ‘one and the same thing perceived and apprehended in a twofold manner’, namely in ‘inner apprehension’ or ‘self-consciousness’ as the ‘real act of will’, and in ‘outer perception, in which the body stands out objectively, as the action of the body’.11 The third and last current to shape the climate of opinion in which Wittgenstein was writing was marked by a return to empiricist accounts of volition. It attempted to explain voluntary action by appealing to kinaesthetic sensations and images thereof. The chief exponent of this type of view was William James. In his ‘ideo-motor theory’, it is the ideas of kinaesthetic sensations left by involuntary movements which then enable one to bring about voluntary action.12 All that needs to precede the action to make it voluntary is the bare idea of the kinaesthetic sensations corresponding to the movement. Whether the action then ensues is not a psychological matter anymore, but a physiological one: ‘The willing terminates with the prevalence of the [motive] idea’.13 Bertrand Russell seems to have subscribed without qualification to James’s view,14 arguing in The Analysis of Mind that sensations and images ‘with their causal laws’ yield ‘all that seems to be wanted for the analysis of will, together with the fact that kinaesthetic images tend to cause the movements with which they are connected’.15 Wittgenstein turns against all three currents of thought. He denies that there is a need either to think of the will as a cause that is part of John Locke, An Essay Concerning Human Understanding (Oxford: Oxford University Press, 2009), II.xxi.28.
+
+Hans-Johann Glock, A Wittgenstein Dictionary (Oxford: Blackwell, 1996), ‘will’.
+
+Arthur Schopenhauer, The World as Will and Representation (New York: Dover, 1966), 36.
+
+William James, The Principles of Psychology (New York: Dover, 1950), 492f.
+
+Ibid., 560.
+
+P.M.S. Hacker, Wittgenstein: Mind and Will: Volume 4 of an Analytical Commentary on the Philosophical Investigations (Oxford: Blackwell, 1996), 548.
+
+Bertrand Russell, The Analysis of Mind (London: George Allen and Unwin, 1921), 285. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 374]
+
+experience or to postulate other causes such as invisible acts of will or kinaesthetic sensations.16 According to him, ‘there is not one common difference between so-called voluntary acts and involuntary ones’, such as the ‘presence or absence of one element’.17 Instead, what marks out an action as voluntary is, on the one hand, its context, its ‘character and its surroundings’,18 and, on the other hand, the abilities manifested by the agent, such as moving or refraining from moving on demand,19 saying whether one moved voluntarily,20 not being surprised by how one has moved,21 and predicting one’s behaviour without observation.22 Voluntary actions are ‘movements with their normal surroundings of intention, learning, trying, acting’.23 As far as the subject of voluntary action is concerned, therefore, it is fair to say that Wittgenstein did much to entrain the demise of causalism – though not single-handedly. He was joined in the enterprise by his contemporary Gilbert Ryle. It was Ryle, for instance, who influentially pointed out that if acts of volition were themselves supposed to be voluntary, a volition was required to set in motion a volition, and an infinite regress ensued.24 But Wittgenstein and Ryle are unanimous in dismissing the account of volition dominant in their day as ‘a causal hypothesis, adopted because it was wrongly supposed that the question, ‘What makes a bodily movement voluntary?’ John Hyman, ‘Action and the Will’, The Oxford Handbook of Wittgenstein, Oskari Kuusela and Marie McGinn (eds), (Oxford and New York: Oxford University Press, 2011), 459.
+
+Ludwig Wittgenstein, The Blue and Brown Books: Preliminary Studies for the Philosophical Investigations (Oxford: Blackwell, 1958), 151–52.
+
+Ludwig Wittgenstein, Zettel (Oxford: Blackwell, 1981), §587. Ibid., §595.
+
+Ibid., §597.
+
+Ludwig Wittgenstein, Philosophical Investigations (Chichester, U.K.: Wiley-Blackwell, 2009), §628.
+
+Ibid., §631. See also P.M.S. Hacker, Wittgenstein: Mind and Will: Volume 4 of an Analytical Commentary on the Philosophical Investigations (Oxford: Oxford University Press, 1996), 586; Hans-Johann Glock, ‘Wittgenstein’s Letzter Wille. “Philosophische Untersuchungen” 611–628’, Ludwig Wittgenstein: Philosophische Untersuchungen, (Berlin: Akademie Verlag, 2011), 181.
+
+Ludwig Wittgenstein, Remarks on the Philosophy of Psychology (Oxford: Blackwell, 1980), I, §776.
+
+Gilbert Ryle, The Concept of Mind (London: Routledge, 2009), 54. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 375]
+
+Two Orders of Things was a causal question’.25 Through their joint refutation of causalist theories of volition, they ushered in an anti-causalist era.26 Yet Wittgenstein earned his anti-causalist reputation through his involvement in quite another debate as well, which concerned not the genesis of action, but its explanation. Throughout the history of the philosophy of science, the pendulum had swung back and forth between what, following Georg Henrik von Wright, one may call the Aristotelian and the Galilean traditions:27,28 in the Galilean tradition, explanations are causal or mechanical, while in the Aristotelian tradition, they are teleological or finalistic. The Galilean, causal explanations have their roots in Plato’s thinking and became dominant in the Renaissance and Baroque sciences, while the Aristotelian tradition was dominant in the Middle Ages and was renewed in G.W.F. Hegel’s thought. Hegel rehabilitated the teleological idea of a law by arguing that a law should be conceived as an intrinsic connection which makes phenomena teleologically intelligible (as opposed to predictable from knowledge of their efficient causes) and is grasped through reflective understanding (rather than through inductive generalisation). Against Hegel, the positivists associated with Auguste Comte and John Stuart Mill argued that teleological explanations were either unscientific or reducible to causal explanations, an attitude which dominated Enlightenment methodology. But towards the end of the nineteenth century, anti-positivist and hermeneutic philosophy of science became prominent again. Thinkers such as Johann Gustav Droysen and Wilhelm Dilthey introduced an influential distinction between two kinds of explanation: what Droysen termed Erklären on the one hand, which corresponds to causal explanation, and Verstehen on the other hand, which is a mode of explanation sui generis, consisting in purpose-oriented, empathic understanding.29 A related distinction was drawn by members of the Southwest School of Neo-Kantianism, such as Wilhelm Ibid.
+
+Stewart Candlish and Nic Damnjanovic, ‘Reasons, Actions, and the Will: The Fall and Rise of Causalism’, The Oxford Handbook of the History of Analytic Philosophy, Michael Beaney (ed.), (Oxford: Oxford University Press, 2013).
+
+Georg Henrik von Wright, Explanation and Understanding (Ithaca and London: Cornell University Press, 1971), ch. 1. The historical narrative of this and the next paragraph closely follows von Wright’s account in Explanation and Understanding (1971). Johann Gustav Droysen, Historik: Vorlesungen Über Enzyklopädie Und Methodologie Der Geschichte (Stuttgart: Fromann-Holzboog, 1977), 22, 150f. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 376]
+
+Windelband and Heinrich Rickert: they described the natural sciences as being nomothetic, i.e. concerned with general laws, and the social and historical sciences as being ideographic, i.e. concerned with individual cases.30 Yet in the decade between the two World Wars, positivism returned, drawing support from new developments in logic to challenge the hermeneutic consensus and reinstate the unity of method in the sciences.
+
+It is at this stage that Wittgenstein would have found the debate. To say that he adopted an entirely anti-causalist position with regard to these issues in the philosophy of science would, however, be simplistic. His association with the logical positivists of the Vienna Circle as well as his ‘verificationist phase’31 certainly complicate the assessment. Abstracting for now from what Wittgenstein had to say on these topics to look at the historical context in which he thought and wrote, we can rest content with noting that positivism and causalism about intentional explanation were the dominant trends in the philosophy of science of the 1930s, while after Wittgenstein’s death, the tide had turned. In fact, it is clear that Wittgenstein inspired a number of thinkers to question the positivist methodology in the late 1950s. One such thinker was William Dray, for example, who contended that understanding history requires rational explanations which show that the action was appropriate or rational on a particular historical occasion.32 Another such thinker indebted to Wittgenstein was G.E.M. Anscombe, who emphasised the role of intentionality in understanding actions and argued that the explanation of intentional action resisted assimilation to explanation by efficient causes and natural laws, thus constituting an explanation model in its own right for history and the social sciences.33 Finally, Peter Winch applied Wittgensteinian insights to the social sciences, insisting that behavioural data had to be interpreted in terms of the concepts and rules determining the social reality of agents, which meant that one had to come to share those agents’ conceptual framework by participating in their form of Hans-Johann Glock, ‘Reasons for Action: Wittgensteinian and Davidsonian Perspectives in Historical, Meta-Philosophical and Philosophical Context’, Nordic Wittgenstein Review 3 (2014), 7–46. Ray Monk, Ludwig Wittgenstein: The Duty of Genius (London: Random House, 1991), 288.
+
+William Dray, Laws and Explanation in History (Oxford: Oxford University Press, 1957).
+
+G.E.M. Anscombe, Intention (Oxford: Blackwell, 1957). .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 377]
+
+Two Orders of Things life.34 Thus, leaving open at present the question of what Wittgenstein did to bring about this state of affairs, we can conclude that he was preceded by causalist trends in the philosophy of science as well as in the theory of action, and that, at least in the theory of action and in the philosophy of social science, anti-causalist movements trailed in his wake. But in the 1960s, the tide turned once more. Carl Gustav Hempel argued in his 1961 presidential address to the American Philosophical Association that intentional explanation did not, after all, differ logically from causal explanation; and in 1963, Donald Davidson published his extraordinarily influential ‘Actions, Reasons and Causes’.35 With this paper, Davidson joined Hempel in ‘swimming against a very strong neo-Wittgensteinian current of small red books’,36 the red-bound titles in the series Studies in Philosophical Psychology which included works by Peter Geach,37 Abraham Melden,38 and Anthony Kenny,39 and which championed teleological approaches to action. The Wittgensteinian consensus had been that reasons could not be a species of causes. One of the arguments underlying this conviction was advanced, amongst others, by Melden, who argued that reasons were logically connected to the action they were a reason for. On Melden’s account, this barred them from being causes, since, as the received view had it, causes were essentially logically independent from their effects.40 As Davidson summarised the prevalent rationale: ‘Since a reason makes an action intelligible by redescribing it, we do not have two events, but only one under different descriptions, while causal relations (in the Humean sense) demand two distinct events’.41 But by Peter Winch, The Idea of a Social Science and Its Relation to Philosophy (London: Routledge, 1958).
+
+Donald Davidson, ‘Actions, Reasons, and Causes’, Essays on Actions and Events (Oxford: Clarendon Press, Oxford University Press, 2001). Donald Davidson, ‘Hempel on Explaining Action’, Essays on Actions and Events (Oxford: Clarendon Press, Oxford University Press, 2001), 261. Peter Geach, Mental Acts. Their Content and Their Objects (London: Routledge, 1957).
+
+Abraham Irving Melden, Free Action (London: Routledge, 1961). Anthony Kenny, Action, Emotion and Will (London: Routledge, 1963).
+
+Abraham Irving Melden, Free Action (London: Routledge, 1961), 52–53.
+
+Donald Davidson, ‘Actions, Reasons, and Causes’, Essays on Actions and Events (Oxford: Clarendon Press, Oxford University Press, 2001), 13–14. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 378]
+
+distinguishing events from how we describe them, Davidson was able to overturn this Wittgensteinian consensus. He proposed two influential theses which set the terms for the ensuing debate: (i) actions are bodily movements that are caused by a primary reason, which is a combination of a belief and a pro-attitude;42 (ii) intentional explanations of actions, which rationalise an action by citing the reason for which it was done, are a species of causal explanation.43 One of the key features of Davidson’s account is the claim that causation is an extensional relation between events conceived of as concrete particulars, which means that it holds independently of how these events are described. In virtue of its extensionality, therefore, the causal relation can hold between two events even if those events are referred to under logically connected intentional descriptions. On this view, one event can both cause and rationalise another event. But the first event will cause the second only if they have physical descriptions that instantiate a strict physical law, and the first event will rationalise the second only if they have appropriately conceptually connected intentional descriptions. This Davidsonian account soon rose to become the new orthodoxy. The historical dialectics that emerge from this sketch of the debate’s history indicate that Wittgenstein’s role in it has, deservedly or not, been that of an agent of anti-causalism. His refutation of causal conceptions of the will established him as an anti-causalist in one sense, while the rise of hermeneutic approaches to intentional explanation fuelled by those who claimed him as a source of inspiration retroactively associated him with anti-causalism in quite another sense. If a look at the debate’s history reveals that Wittgenstein either subscribed to or inspired anti-causalist positions in the various historically relevant senses of the term, it does not tell us whether that label is legitimately applied to him in the sense pertinent to the current debate. Doubts have been voiced recently about whether the distance between Wittgenstein and Davidson is as great as the historical dialectics suggest.44 A re-evaluation of the Ibid., 12.
+
+Ibid., 3.
+
+Frederick Stoutland, ‘Reasons and Causes’, Wittgenstein: Mind, Meaning and Metaphilosophy, Pasquale Frascolla, Diego Marconi, and Alberto Voltolini (eds), (New York: Palgrave Macmillan, 2010); Nathan Hauthaler, ‘Wittgenstein on Actions, Reasons, and Causes’, Knowledge, Language and Mind: Wittgenstein’s Thought in Progress, Antonio Marques and Nuno Venturinha (eds), (Berlin and Boston: De Gruyter, 2012); Hans-Johann Glock, ‘Reasons for Action: Wittgensteinian and .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 379]
+
+Two Orders of Things arguments that really are to be found in Wittgenstein’s work is called for, and it is to this that I now turn.
+
+3. CERTAINTY AND FIRST-PERSON AUTHORITY
+
+Why are reasons not a species of causes? One argumentative strand discernible in Wittgenstein’s writings concerns the different epistemic statuses of causal statements and reason-statements. It is driven by the realisation that ‘strangely enough, [one] cannot be mistaken about [one’s] reason’:45 while knowledge of the causes of one’s actions is inductive and hypothetical, knowledge of the reasons is neither. When, in a law court, someone is asked why she acted as did, she is supposed to know it. But if reasons were a species of causes, this supposition would seem puzzling – ‘You are not supposed to know the laws by which your body and mind are governed’.46 So why is the agent nevertheless supposed to know her reasons? Wittgenstein contemplates the answer a causalist about reasons might give: Because you’ve had such a lot of experience with yourself? People sometimes say: ‘No-one can see inside you, but you can see inside yourself’, as though being so near yourself, being yourself, you know your own mechanism. But is it like that? ‘Surely he must know why he did it or why he said such and such’.47 Unconvinced, Wittgenstein goes on to point out that reasons often come with an air of certainty: ‘in an enormous number of cases people give an answer – apodictic – and are unshakable about it’.48 Where causes are concerned, however, such certainty is normally out of the question: The proposition that your action has such and such a cause, is a hypothesis. The hypothesis is well-founded if one has had a Davidsonian Perspectives in Historical, Meta-Philosophical and Philosophical Context’, Nordic Wittgenstein Review 3 (2014) 7–46. Ludwig Wittgenstein and Friedrich Waismann, The Voices of Wittgenstein: The Vienna Circle (London and New York: Routledge, 2003), 111.
+
+Ludwig Wittgenstein, Lectures and Conversations on Aesthetics, Psychology and Religious Beliefs: Compiled from Notes Taken by Yorick Smythies, Rush Rhees and James Taylor (Oxford: Blackwell, 1966), 21. Ibid.
+
+Ibid., 22. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 380]
+
+number of experiences which, roughly speaking, agree in showing that your action is the regular sequel of certain conditions which we then call causes of the action. In order to know the reason which you had for making a certain statement, for acting in a particular way, etc., no number of agreeing experiences is necessary, and the statement of your reason is not a hypothesis. … The double use of the word ‘why’, asking for the cause and asking for the motive, together with the idea that we can know, and not only conjecture, our motives, gives rise to the confusion that a motive is a cause of which we are immediately aware, a cause ‘seen from the inside’, or a cause experienced.49 Here as elsewhere, ‘motive’ is used interchangeably with ‘reason’.50 A similar argument appears in Waismann’s shorthand notes of conversations with Wittgenstein: giving a reason is ‘the description of a singular process, not the specification of a cause which always involves a whole host of observations. For this reason we say too that we know the reason for our action with certainty … but not the cause of an act’.51 What is the argument here?
+
+Nathan Hauthaler sees the point as being that ‘agential knowledge regarding one’s reasons seemed to involve certainty, whereas knowledge about causes seemed to retain hypothetical or conjectural status’.52 The argument would then runs as follows: A can only conjecture the causes of her action.
+
+A knows her reasons for acting with certainty.
+
+Therefore, reasons are not causes.
+
+Hauthaler goes on to take issue with this argument by denying that certainty is the prerogative of reasons. As he points out, Wittgenstein himself avers that we sometimes know the cause of our actions with certainty – indeed, that this must be so, because the ‘basic form of the game must be one in which we act’, and since Ludwig Wittgenstein, The Blue and Brown Books: Preliminary Studies for the Philosophical Investigations (Oxford: Blackwell, 1958), 15. Ludwig Wittgenstein and Friedrich Waismann, The Voices of Wittgenstein: The Vienna Circle (London and New York: Routledge, 2003), 424.
+
+Ibid., 242.
+
+Nathan Hauthaler, ‘Wittgenstein on Actions, Reasons, and Causes’, Knowledge, Language and Mind: Wittgenstein’s Thought in Progress, Antonio Marques and Nuno Venturinha (eds), (Berlin and Boston: De Gruyter, 2012), 102. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 381]
+
+Two Orders of Things ‘uncertainty could never lead to action’, the ‘primitive form of the language game’ must be certainty.53 In the light of Wittgenstein’s considered opinion, Hauthaler concludes, ‘certainty and immediacy cannot be maintained as criteria for distinguishing reasons from causes of action’.54 As reconstructed by Hauthaler, Wittgenstein’s argument uncomfortably resembles a fallacy described by Stoic logicians, and which Descartes allegedly committed,55 namely the larvatus or ‘masked man’ fallacy: A can only conjecture the identity of this masked man. A knows the identity of her father with certainty. Therefore, this masked man is not A’s father.
+
+Some masked man could be A’s father, even though A knows who her father is, but does not know who this masked man is. The masked man argument constitutes a fallacy because ‘one cannot infer from one’s subjective state of certainty or uncertainty about two propositions, to the objective connection or lack of connection between them’.56 On Hauthaler’s reconstruction, it appears that Wittgenstein commits the masked man fallacy.
+
+However, this is only the case as long as Wittgenstein’s point is held to be that it is the peculiar ‘air of certainty’57 of reasons which precludes them from being causes. In fact, a juxtaposition of the passages from the Blue Book with some of Wittgenstein’s later writings reveals the underlying idea to be quite unlike what Hauthaler suggests. Certainty concerning one’s reasons for action is, like mathematical certainty, not certainty of a psychological kind.58 The statement that an agent knows her reasons with certainty functions rather as the Ludwig Wittgenstein, On Certainty (Oxford: Blackwell, 1969), §397. Nathan Hauthaler, ‘Wittgenstein on Actions, Reasons, and Causes’, Knowledge, Language and Mind: Wittgenstein’s Thought in Progress, Antonio Marques and Nuno Venturinha (eds), (Berlin and Boston: De Gruyter, 2012), 103.
+
+Peter Thomas Geach, God and the Soul (London: Routledge, 1969), 8. Bernard Williams, Descartes: The Project of Pure Enquiry (London: Routledge, 2005), 97.
+
+Nathan Hauthaler, ‘Wittgenstein on Actions, Reasons, and Causes’, Knowledge, Language and Mind: Wittgenstein’s Thought in Progress, Antonio Marques and Nuno Venturinha (eds), (Berlin and Boston: De Gruyter, 2012), 97.
+
+Ludwig Wittgenstein, Last Writings on the Philosophy of Psychology (Oxford: Blackwell, 1982), I, §891; see also Ludwig Wittgenstein, Wittgenstein’s Lectures: Cambridge 1932–35 (Oxford: Blackwell, 1979), 5. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 382]
+
+statement that one can only form hypotheses about the causes of a phenomenon: it is a normative statement describing the use of the concept, a grammatical statement: ‘One can only surmise the cause of a phenomenon’ (but not know it). – That is a statement that refers to grammar. It doesn’t say that even with the firmest of intentions we can’t know the cause. In this respect, the proposition is similar to this: ‘No matter how far we count, we can’t get to an end of the numerical progression’. And that means: There can be no talk of an ‘end to the numerical progression’.59 That one can only surmise the cause should be taken to mean that when it comes to causes, we ‘want to talk only of ‘surmising’ and not of ‘knowing’, in order to distinguish cases with different grammars from each other’.60 Analogously, that one sometimes knows one’s reasons with certainty is not an empirical statement about the confidence with which people discern their own reasons, but refers to the grammar of the language game of reason-giving: It is not important that I know events in my mind, this is not the reason I am asked about my motives. The reason rather is that here the evidence for and the consequences of the statement are different sorts of things.61 The point here is that when I am asked about my reasons, the evidence for and the consequences of the response do not function as they would if someone else were asked about my reasons. ‘In order to ‘guess another’s reason’, we ‘make use of [repeated] observation’62 in a way that resembles the identification of causes, and prolonged observation increases one’s confidence in the judgment because one learns which considerations tend to weigh with whom. Moreover, third-personal reason-attributions may come to be falsified by further evidence, and so resemble causal statements in terms of their consequences as well.
+
+402.
+
+Ludwig Wittgenstein, The Big Typescript (Oxford: Blackwell, 2005), Ibid., 403.
+
+Ludwig Wittgenstein, Last Writings on the Philosophy of Psychology (Oxford: Blackwell, 1982), I, §894.
+
+Ludwig Wittgenstein and Friedrich Waismann, The Voices of Wittgenstein: The Vienna Circle (London and New York: Routledge, 2003), 48–49. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 383]
+
+Two Orders of Things But when a reason-statement ‘is made by the person who is confessing his motive’,63 we ‘assume that a person knows the motive for his action’.64 Yet to spell this out merely in epistemological-cumpsychological terms by arguing that the agent has privileged epistemic access to her reasons – perhaps because they are ‘seen from the inside’65 – is to model first-personal reason-attributions on the third-personal case: the evidence for the attributions remains the same – behaviour – and the consequences of this move in the language game remain qualitatively the same as well – a description of the agent’s reasons is given, only one with a greater probability of being accurate and in which the agent herself is confident to the point of certainty. However, as Wittgenstein’s later writings make clear, the agent’s statement of her own reasons is not a description based on behavioural evidence, and the consequences of the statement are radically different from those of an equivalent statement by an onlooker: The criteria for the ‘truthful’ confession that I thought suchand-such are not the criteria for the description of a past process. And the importance of the truthful confession does not reside in its rendering some process correctly and certainly. … It resides rather in the special consequences which can be drawn from a confession whose truth is guaranteed by the special criteria of truthfulness.66 To give one’s reasons is not to describe a past process, and the criteria for successfully doing so are not that one’s description accurately renders some independently specifiable process. First-personal reason-attributions are, in Ryle’s helpful terminology, avowals, as indicated by Wittgenstein’s claim that the criteria are those of truthfulness. The ‘special consequences’ of first-personal reason-attributions lie in the fact that a sincere avowal of one’s reasons is decisive in determining what one’s reasons are – not because the agent has particularly good access to evidence which is only partially available to others, but because she is granted this authority over what her reasons are as a Ludwig Wittgenstein, Last Writings on the Philosophy of Psychology (Oxford: Blackwell, 1982), I, §907.
+
+Ludwig Wittgenstein, The Big Typescript (Oxford: Blackwell, 2005), 401v.
+
+Ludwig Wittgenstein, The Blue and Brown Books: Preliminary Studies for the Philosophical Investigations (Oxford: Blackwell, 1958), 15. Ludwig Wittgenstein, Last Writings on the Philosophy of Psychology (Oxford: Blackwell, 1982), I, §897. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 384]
+
+matter of grammar: this is how the language game of reason-giving is played. We ‘call the reason that which [the agent] gives as his reason’.67 It is in this sense that the thrust of the remark that ‘we assume that a person knows the motive’ should be taken to be grammatical instead of epistemological – it ‘shows us how we use the word’.68 What force the argument from certainty has, therefore, derives from and depends on the fact that the agent’s truthful avowal of his reasons is authoritative. The passages contrasting the fallibility of our knowledge of causes with the infallibility of our knowledge of reasons should not be read as constituting an independent argument if they are to have any force. They build on the phenomenon of firstperson authority, and it is therefore under that heading that Wittgenstein’s attempt to prise reasons apart from causes must be further examined.
+
+If the agent ‘cannot be mistaken in specifying his reason’,69 then, this ‘certainty indicates that specifying a reason is the criterion for having this reason’.70 The ‘reason is what [the agent] specifies’.71 This is subject to the caveat of truthfulness, but the general point is that what agents claim to be their reasons for action is what we call their reasons. There is an asymmetry between psychological statements in the first person present tense and other psychological statements, and when it comes to the question of their reasons for action, agents have particular authority over what these reasons are. If giving one’s reason does not involve finding the cause of one’s actions by frequent observations, this is because it does not involve finding anything. None of the above prevents first-personal reason-statement from being defeated in certain cases: when the agent is insincere, disingenuous, or self-deceived, for instance. But these are derivative cases in which it is only in virtue of the wider context that a reasonstatement can be said to be a case of insincerity or self-deception. The argument from first-person authority thus boils down to the following: Ludwig Wittgenstein and Friedrich Waismann, The Voices of Wittgenstein: The Vienna Circle (London and New York: Routledge, 2003), 111.
+
+Ludwig Wittgenstein, The Big Typescript (Oxford: Blackwell, 2005), 401v.
+
+Ludwig Wittgenstein and Friedrich Waismann, The Voices of Wittgenstein: The Vienna Circle (London and New York: Routledge, 2003), 110.
+
+Ibid., 31.
+
+Ibid., 110–11. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 385]
+
+Two Orders of Things A can only conjecture the causes of her action.
+
+A knows her reasons authoritatively.
+
+Therefore, reasons are not causes.
+
+Does this argument fare better against the charge of committing the larvatus fallacy? It seems one can construe an argument that exactly parallels the above and yet is clearly fallacious: A can only conjecture the identity of this masked man. A knows the identity of her father authoritatively. Therefore, this masked man is not A’s father.
+
+The masked man might well be A’s father, even though her statement regarding the masked man’s identity is not authoritative. The problems that afflicted the argument from certainty seem to carry over to the formulation in terms of first-person authority. But to say this is once again to commit the mistake of assuming that first-person authority about reasons should be explained in epistemological terms. The authority of first-personal reason-statements does not derive from privileged epistemic access to reasons observed in foro interno. Rather, it is to be explained in semantic terms: what an agent gives as her reason is what we call her reason, so that firstpersonal reason-statements are defeasible logical criteria for the third-personal reason-attributions. Part of what it means to understand self-ascriptions of reasons is to be disposed to defer to the self-ascriber – to recognise her authority in the matter. Among the consequences of first-personal reason statements is the fact that they are decisive in determining what one’s reasons are. This decisiveness should be understood not as a causal consequence, but as a normative one: first-personal reason statements ought to be taken as being decisive, they count as being decisive and commit the agent to this being her reasons. No such consequences could follow from the description of inner causal processes that accompanied the action. What are the consequences of first-person authority for attempts to identify reasons with causes? It would appear that any such attempt will need an account of causation that can accommodate first-person authority about causes. More specifically, it has been argued – notably by Severin Schroeder – that it requires one to conceive of causality in a way that allows for the possibility of immediate awareness of the causes of one’s action.72 In ‘Cause and Effect: Intuitive Awareness’, Severin Schroeder, ‘Are Reasons Causes? A Wittgensteinian Response to Davidson’, Wittgenstein and Contemporary Philosophy of Mind (New York: Palgrave, 2001), 158. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 386]
+
+Wittgenstein himself distinguishes several types of causal connection, and he gives examples of causes of which we are immediately aware: ‘We do use the word in cases where ‘ascertaining the cause’ does not mean making experiments or working with statistics or anything like that’.73 Examples are reactions such as starting at the sight of something: ‘I start. Someones asks “Why do you start?” – “Because I saw a light there”’.74 Schroeder claims that if such non-observational knowledge of causation is possible, first-person authority about the reasons for which one acted does not appear incompatible with the view that reasons are causes. The argument from first-person authority can be avoided by resorting to more flexible notions of causality. This seems contestable, however. For first-person authority about the reasons for which one acted to be compatible with the view that reasons are causes, it is not sufficient that immediate awareness be merely possible with regard to both reasons and causes; in addition, the cases in which the agent is immediately aware of reasons and the cases in which she is immediately aware of causes must match up. For each case in which an agent acts for a reason and knows the reason for the action immediately, the same must hold, mutatis mutandis, for the cause of her action. And while Wittgenstein mentions some cases in which one knows the cause of one’s action in this way, those remain the exception rather than the rule. Where reasons are concerned, Wittgenstein’s point is precisely that the case in which the agent possesses first-person authority is the fundamental one. Cases of mental causality are not widespread enough to enable the equation of reasons with causes across the board. Schroeder’s assessment therefore both overstates and underestimates the force of the argument from first-person authority. It overstates it in claiming that it succeeds against nomological accounts of causation; and it underestimates it in failing to appreciate that its force derives both from the idea that first-personal reason-statements are immune from challenge in a way that causal statements are not, and from the requirement on cases of immediate awareness to match up.
+
+It may be thought that the asymmetries in authority that set apart reasons from causes are due to our as yet insufficient understanding of the neurophysiological processes at issue. Reasons, one might object, are indeed a species of causes, but we treat the agent’s reason-statement Ludwig Wittgenstein, ‘Cause and Effect: Intuitive Awareness’, Ludwig Wittgenstein: Philosophical Occasions 1912–1951 (Indianapolis and Cambridge: Hackett, 1993), 408; see also ibid., 373. Ibid., 408. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 387]
+
+Two Orders of Things as authoritative for lack of some better indicator of what her reasons in fact are. If only we had a richer understanding of the biological basis of action and better measuring instruments, we might outdo the agent when it comes to specifying reasons. But Wittgenstein has a response to this. It consists in asking what would, for someone who wanted to outdo the agent in specifying her reasons, count as getting it right: Let us assume there was a man who always guessed right what I was saying to myself in my thoughts. (It does not matter how he does it.) – But what is the criterion for his guessing right? Well, I am a truthful person and I confess that he has guessed right.— But might I not be mistaken, could my memory not deceive me? And may it not always do so anyway when—without lying—I express what I have thought within myself?—But now it does appear that my knowing ‘what went on within me’ could not be the point at all.75 As this passage makes clear, a person’s ‘confession’ or avowal is not merely a good indicator of what her reasons are, an indicator which might in principle be bettered by some other measurement technique. In giving one’s reasons, one does not report hidden occurrences or describe independent inner events and processes against which one’s reason-statements could be verified. If this were the case, others might in principle develop the means to access that underlying reality and ‘guess one’s thoughts’, in which case the configurations of that underlying reality would determine whether a description of it ‘got it right’. But, as Wittgenstein’s example shows, this is not how the language game of reason-giving functions. Even if there were an observer who guessed one’s thoughts, and thereby one’s reasons, perfectly, the decisive criterion in the basic case for the correctness of guesses concerning the agent’s thoughts and reasons would be what the agent said they were. And with the exception of certain situations that build on this basic case (e.g. self-deception), there is no room for the possibility of the agent’s being mistaken. In giving one’s reason for a past action, one does not ‘read it off from some other process which took place then’76 and which one remembers. If one did, reason-statements would constitute bona fide descriptions and entail the possibility of error, of misremembering or misdescribing. But Ludwig Wittgenstein, Last Writings on the Philosophy of Psychology (Oxford: Blackwell, 1982), I, §896.
+
+Ludwig Wittgenstein, Philosophical Investigations (Chichester, U.K.: Wiley-Blackwell, 2009), §637. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 388]
+
+Wittgenstein wants us to relinquish the idea that the point of giving of one’s reasons is to accurately render some hidden causal processes, past or present. What one does in giving someone one’s reasons is to reveal something of oneself, only not ‘on grounds of self-observation’, but ‘because I want to tell him something about myself, which goes beyond what happened at that time’.77 One does not report a connection between reasons and the action they are reason for, but rather makes a connection.78 The agent’s statement of her reasons serves expressive rather than descriptive purposes. When one gives one’s reasons, one does not describe one’s mind, but voices it.79
+
+4. ANTI-PSYCHOLOGISM
+
+In the contemporary debate, a prominent strategy against CR is known as anti-psychologism. It attacks the idea that reasons typically are mental states. Although anti-psychologism is not normally associated with Wittgenstein by contemporary anti-causalists, this section argues that it is in fact anticipated in his oeuvre. On causalist accounts, reasons are standardly conceived of as mental states or events (such as the onset of mental states), in part because they seem well-suited to play the dual role of rationalising and causing action. But for Wittgenstein, this notion of reasons as both rationalising and causally efficient inner states or events is on a par with other misguidedly hypostasised psychological phenomena. We do not ask for a description of ‘a hidden machine, say, a machine in [the] brain’80 when we ask for reasons. Wittgenstein’s argument to the effect that reasons are not causally efficient mental states turns on the idea that even when propositional attitudes are mentioned in reason-statements, the reason is not the attitude (of believing or desiring) itself, but the object of the attitude, namely what is believed or desired.
+
+This anti-psychologistic current in Wittgenstein’s writings lends itself to being read in the light of recent objectivist work in the theory of action. Objectivism, in this context, is the idea that while the agent’s reasons may not be states of affairs the agent did not Ibid., §659.
+
+Ibid., §486; §§682–83.
+
+Ludwig Wittgenstein, Remarks on the Philosophy of Psychology (Oxford: Blackwell, 1980), I, §572.
+
+Friedrich Waismann, The Principles of Linguistic Philosophy (London: Macmillan, 1965), 122. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 389]
+
+Two Orders of Things believe or knew not to obtain, these reasons themselves nevertheless do not consist in the agent’s believing that p, but rather in what the agent believes, namely, that p. The tenor of objectivism is that when we act for reasons, we are not typically engaged in self-reflection, taking a fact about ourselves as our concern. The reasons that weigh in one’s reasoning are objective features of the world rather subjective mental states. For an objectivist, dissociating reasons from causes then serves the function of freeing reasons from the constraint on causes of action to be at least partly internal to the agent (and in that sense subjective) if they are not to involve some puzzling form of causality at a distance.
+
+Perhaps the strongest textual basis for labelling Wittgenstein an objectivist is the following passage: If I believe [a] theory after taking clear soup, this is a cause of my belief, not a reason. When I am asked for a reason for the belief, what is expected, as part of the answer, is what I believe.81 Another passage that lends support to an objectivist reading is found in Waismann’s account of Wittgenstein’s philosophy of the early 1930s. Waismann discusses the position of one who would resist the distinction between reasons and causes by attributing a dual role to mental states. This recognisably causalist opponent points out that mental states may well be about something external to the agent, such as a rule (Waismann’s paradigmatic example of a reason), while the mental state, such as the agent’s attending to the rule, remains internal to the agent and thus well-placed to act as a cause of her actions: ‘The knowledge of the rules of arithmetic’, says the causalist, ‘may be the cause of one’s following these rules in doing a sum’.82 In response, Waismann argues that this trades on an ambiguity between attending to the rule and what is attended to, namely the rule. The ‘attending to the rule can indeed be the cause for the rule being followed’,83 but it is what is attended to, namely the rule itself, which constitutes the reason for the action. The ambiguity alluded to by Waismann between an act or state on the one hand and its object or content on the other might justly be said to condense a ‘whole cloud of philosophy’ into a ‘drop of Ludwig Wittgenstein, Wittgenstein’s Lectures: Cambridge 1932–35 (Oxford: Blackwell, 1979), 28.
+
+Friedrich Waismann, The Principles of Linguistic Philosophy (London: Macmillan, 1965), 123.
+
+Ibid. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 390]
+
+grammar’.84 The term ‘belief’, for example, is systematically ambiguous between the believing and the content believed, that is, between the propositional attitude and the proposition p that forms the object of that attitude. This is sometimes termed an act-object or a state-content ambiguity.85 The ambiguity is best illustrated using a striking instance of its exploitation in ordinary language that has given rise to philosophical puzzlement, namely the situations where, as William James put it, ‘faith in a fact can help create the fact’.86 Such self-verifying beliefs present us with the paradoxical phenomenon of propositions that are made true merely by being believed, and hence seem to come into conflict with our ordinary assumptions about objectivity – what makes a belief a belief about states of affairs is ordinarily thought to be precisely the fact that what it is about holds independently of the belief. Resolving the act-object ambiguity proves key to dissolving this paradox, as H.H. Price shows in his Gifford Lectures:87 when Virgil writes of a crew competing in a boat-race: possunt quia posse videntur, ‘they can because they think they can’,88 it is the attitude of believing that they can win the race which makes true the proposition believed, namely that they can win the race. The state of affairs which the belief is about can be seen to be independent of the proposition believed after all, and the appearance of conflict with the objectivity condition evaporates.
+
+In view of this ambiguity, it can be granted that we sometimes speak of reasons as beliefs and desires, because the ambiguity of the latter will carry over to the former. ‘Reason’ becomes likewise ambiguous between the attitude of having a reason (which makes it somebody’s reason) and the object of the attitude (which makes it a reason). Indeed, this ambiguity is one of the sources of the temptation to conflate reasons with causes: if ‘reason’ can be used to refer either to the attitude of believing that p or to the content believed, both the cause of an action (the agent’s believing that p) and the reason for the action ( p) can fall under the term, which suggests that ‘reason’ refers to an entity Ludwig Wittgenstein, Philosophy of Psychology – a Fragment Published in Philosophical Investigations (Oxford: Wiley-Blackwell, 2009), §315.
+
+Maria Alvarez, Kinds of Reasons: An Essay in the Philosophy of Action (Oxford: Oxford University Press, 2010), 125.
+
+William James, ‘The Will to Believe’, The Will to Believe and Other Essays in Popular Philosophy (New York: Dover, 1956), 29. Henry Habberley Price, ‘Self-Verifying Beliefs’, Belief (London: George Allen and Unwin, 1969), 362.
+
+Virgil, Aeneid (Oxford: Oxford University Press, 2007), V.231. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 391]
+
+Two Orders of Things which both causes and rationalises the action as long as the ambiguity remains unresolved. Thus, calling beliefs and desires themselves ‘reasons’ might be said to be harmless as long as it is not taken to mean that the agent’s reason for doing something was that she believed that p or that she desired that q. It is the proposition or content believed or desired that is the agent’s reason, but in order to have that reason, the agent has to have a propositional attitude towards that proposition or content.
+
+This ambiguity also makes it anything but clear whether Davidson is as far removed from Wittgenstein in this respect as the tradition he influenced. While Davidson calls beliefs and desires themselves ‘reasons’, it has been suggested89 that he uses the term in the sense in which beliefs and desires are reasons had or possessed by the agent. On such a reading, the item that causes and the item that rationalises would fall apart after all. Some passages in Davidson’s later writings support this reading, for instance when he speaks of the ‘difficulty of transmuting a cause into a reason’90 and of the fact that ‘even if our reasons for our beliefs are always other beliefs, the causes sometimes lie elsewhere’.91 When the ambiguity between state and content is resolved, the item that rationalises and the item that causes usually fall apart. This is not to deny that in some cases, the item that rationalises an action is nothing other than the agent’s believing that p. But this gerundial construction does not provide a counterexample to the statecontent dichotomy. Rather, it can be understood as a nominalisation referring to a fact about the agent, namely that she believes that p. To borrow an example from John Hyman:92 my believing that I am being followed by the Security Services is a reason for me to see a doctor. If I go on to see a doctor, what justifies my action is a fact about me, namely that I believe I am being followed. On this view, facts about the psychology of agents are not to be identified with Kathrin Glüer, Donald Davidson (Oxford and New York: Oxford University Press, 2011), 161; Geert Keil, ‘Beyond Assimilationism and Differentialism: Comment on Glock’, Welt Der Gründe, J. Nida-Rümelin and E. Özmen (eds), (Meiner, 2012), 920.
+
+Donald Davidson, ‘A Coherence Theory of Truth and Knowledge’, Subjective, Intersubjective, Objective (Oxford: Clarendon Press, Oxford University Press, 2001), 143.
+
+Donald Davidson, ‘Empirical Content’, Subjective, Intersubjective, Objective (Oxford: Clarendon Press, Oxford University Press, 2001), 169. John Hyman, ‘How Knowledge Works’, The Philosophical Quarterly 49 (1999), 433–451, 444. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 392]
+
+reasons across the board, but are rather a special subset of all the objective features of the world that can weigh in on one’s reasoning. In deliberating about what to do, the reasons that inform and guide our choices are typically not mental states or events, but aspects of situations. These can include mental states or events, but they are not restricted to them. Any putative fact, be it ever so distal, can act as a reason, while it is the agent’s attending to or acknowledging the fact, and thus some process internal to the agent, the neurophysiological realisation of which need not be known to him or her, which acts as the proximal cause of the action.
+
+Another streak of anti-psychologism is discernible in Wittgenstein’s insistence on the distinction between the object and the cause of a mental state: On being asked for the reasons for a supposition, one calls them to mind. Does the same thing happen here as when one considers what may have been the causes of an event?
+
+A distinction should be made between the object of fear and the cause of fear. So a face which inspires fear or delight (the object of fear or delight) is not on that account its cause, but – one might say – its target.93 One should distinguish what one is afraid of, namely some object which, if suitably described, yields reasons for fear, from the cause of one’s fear.94 This distinction closely parallels that between cause and reason: If I fear something it doesn’t mean ‘I feel jittery, is it his face? Take it away and see if I still feel jittery’. Similarly with delight. The expression of fear or delight contains an object. … Giving the motive of an action is like stating the object of fear or delight.95 Comparing the statement of the object of fear with the statement of a reason or motive makes sense, given the parallels between the reasoncause dichotomy and the object-cause dichotomy: both the object and the cause of fear can be mentioned in answer to the question Ludwig Wittgenstein, Philosophical Investigations (Chichester, U.K.: Wiley-Blackwell, 2009), §§475–76.
+
+Ludwig Wittgenstein, The Big Typescript (Oxford: Blackwell, 2005), 403; Ludwig Wittgenstein, Zettel (Oxford: Blackwell, 1981), §§507–09. Ludwig Wittgenstein, Wittgenstein’s Lectures on Philosophical Psychology 1946–47 (Hemel Hempstead: Harvester Wheatsheaf, 1988), 82–83. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 393]
+
+Two Orders of Things ‘Why is A afraid?’, and the object can be adduced to justify the fear, though it will do so only under certain descriptions. The distinction aimed at in these passages is that between, on the one hand, the objective features of the world that come to have significance for us as the bearers of value and meaning and guide the course of our actions by providing reasons for or against them, and, on other hand, the causal basis by which we come to experience those objective features in the way that we do. The confusion between the two is tempting because there is a sense in which this causal basis is the ultimate support of those values and meanings. It is this confusion which is expressed in the bumper sticker claim that ‘Technically, there are only two things we enjoy: serotonin and dopamine’, or when it is inferred from the claim that ‘All ethical value rests in people’s dispositions’ that ‘The only things of value are people’s dispositions’. In both cases, one mistakes the causal basis of our enjoyment or of our ethical values with their objects. While illuminating in itself, Wittgenstein’s distinction between the causes and the objects of mental states further ramifies his antipsychologism about reasons. Reasons are typically neither mental states of believing or desiring, nor what causes them, but what is believed or what is desired. Reasons, on this view, can rationalise at a distance.
+
+5. FAILURE TO JUSTIFY
+
+Closely related to Wittgenstein’s anti-psychologism is another argumentative strand according to which the assimilation of reasons to the realm of causes fails in virtue of the requirement on reasons to justify the proposition and actions they are reasons for: The attending to the rule can indeed be the cause for the rule being followed. … [Yet] the cause of an action can never be referred to, to justify the action. I may justify a calculation by appealing to the laws of arithmetic, but not by appealing to my attending to these laws. The one is a justification, the other a causal explanation.96 The point here is not that reasons cannot be causes because causes explain while reasons justify. On Wittgenstein’s own externalist conception of causality, according to which causal relations obtain Friedrich Waismann, The Principles of Linguistic Philosophy (London: Macmillan, 1965), 123. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 394]
+
+between logically independent events,97 this would be a non sequitur; causes can be referred to in justifications, since a causal relation can hold between events even though the events are referred to under descriptions linking them in a justificatory relationship.98 When Waismann writes that ‘the cause of an action can never be referred to, to justify the action’, the point is that typically, the proximal cause of an action is not referred to in order to justify that very action. The requirement on reasons for action to serve as justifications for the action disqualifies mental states, such as the agent’s attending to a rule, from being at the same time the reasons for the action, although they may play a causal role in it. Moreover, ‘the cause might lie also in something quite different’, such as a ‘habit’ or a ‘reflex’.99 Waismann gives an example: Let us suppose a train driver sees a red signal flashing and brings the train to a stop. In response to the question: ‘Why did you stop?’, he answers perhaps: ‘Because the signal says to stop here’. One wrongly regards this statement as the specification of a cause whereas it is the specification of a reason. The cause may have been that he was long accustomed to reacting to the red signal in such-and-such a way or that in his nervous system permanent connections of pathways developed such that the action follows the stimulus in the manner of a reflex or yet something else. The cause need not be known to him. By contrast, the reason is what he specifies. He answers with a rule.100 The rule ‘If the signal is red, then stop’, together with the fact that its antecedent is fulfilled, justifies the action, while ‘giving the cause of his action would not justify it’.101 Any actually performed transition from one proposition to another, or from thought to action, has a causal basis, a physiological realisation. Yet what justifies the Ludwig Wittgenstein, Philosophical Investigations (Chichester, U.K.: Wiley-Blackwell, 2009), §220; Ludwig Wittgenstein, Zettel (Oxford: Blackwell, 1981), §296.
+
+For more on Wittgenstein’s view of the contrast between explanation and justification, see Matthieu Queloz, ‘Wittgenstein on the Chain of Reasons’, Wittgenstein-Studien 7 (2016) 105–130. Friedrich Waismann, The Principles of Linguistic Philosophy (London: Macmillan, 1965), 121.
+
+Ludwig Wittgenstein and Friedrich Waismann, The Voices of Wittgenstein: The Vienna Circle (London and New York: Routledge, 2003), 112–13; see also Friedrich Waismann, The Principles of Linguistic Philosophy (London: Macmillan, 1965), 121.
+
+Ibid., 122. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 395]
+
+Two Orders of Things transition is not that causal basis, but the normative and factual considerations that make the transition correct or incorrect. And while the agent needs to be aware of the rule in order to count as following it – an awareness which might figure in a causal account of the action – it is not the awareness of the rule, but only the rule itself which can justify the action. This is the act-object ambiguity in the expression ‘to follow a rule’ highlighted in Waismann’s notes: ‘Reason and cause correspond to the two meanings of the expression ‘to follow a rule’.102 To the extent that the agent attends to the rules, the rules could be said to impinge on the causal order. Rules (and reasons generally) impinge on the causal order by altering our attitudes as they should be altered according to the normative relations that these rules and reasons stand in. But while these attitudes are part of what causes actions, they are not typically what justifies them.
+
+6. CONCLUSION
+
+In this paper, I have argued that Wittgenstein is classified as an anticausalist about reasons in large part for reasons that have little to do with his arguments against CR. I have argued further that Wittgenstein offers distinctive arguments to the effect that reasons cannot simply be equated with, or subsumed as a species of, causes: reasons are subject to certainty and to first-person authority in a way which causes cannot match; reasons are typically neither physiological processes nor mental states, but what our mental states are about, which makes them unlikely candidates as causes of action; and reasons justify where causes could not. I have also indicated that Wittgenstein anticipates current anti-psychologistic trends in the theory of action. However, Wittgenstein’s arguments all bear primarily on causalism about reasons (CR), and not on causalism about intentional explanation (CE). Where he does speak about intentional explanation, he emphasises that a key characteristic of intentional explanations which is alien to the causal explanations of physics is that they refer to rule-governed practices and institutions, and thus to the agents’ local perspectives and idiosyncrasies. To regard bodily movements not under their mechanical aspect, but under their aspect as reason-guided actions – as the signing of a cheque, for example – involves viewing them in the Ludwig Wittgenstein and Friedrich Waismann, The Voices of Wittgenstein: The Vienna Circle (London and New York: Routledge, 2003), 107. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 396]
+
+context of rule-governed practices and institutions.103 Absent these customs and institutions, nothing would count as performing these actions, no matter what went on in the mind or brain of the agent.104 Yet even granted this difference, it does not follow that intentional explanations cannot be a sui generis form of causal explanation. Wittgenstein can be read as being in agreement here with his presumed nemesis Davidson, who acknowledges that ‘there is an irreducible difference between psychological explanations that involve the propositional attitudes and explanation in sciences like physics and physiology’,105 and who endorses R. G. Collingwood’s view that ‘the methodology of history (or, for that matter, of any of the social sciences that treat individual human behaviour) differs markedly from the methodology of the natural sciences’.106 Davidson also maintains that ‘[b]eliefs and intentions are not little entities lodged in the brain’,107 but attitudes we ascribe to a person as a whole, and ‘since beliefs and desires aren’t entities, it is a metaphor to speak of their changing, and hence an extension of that metaphor to speak of them as causes and effects’.108 What changes, according to Davidson, are ‘the descriptions of the agent … over time’.109 All this suggests that Davidson might well be closer to Wittgenstein than to the contemporary standard story he inspired.110 At the heart of this standard story, after all, is the claim that reasons are causes because reasons are inner states or events. If Davidson rejects this claim, he has much in common in the causalism debate with Friedrich Waismann, The Principles of Linguistic Philosophy (London: Macmillan, 1965), 124; Ludwig Wittgenstein, Philosophical Investigations (Chichester, U.K.: Wiley-Blackwell, 2009), §§197–99. P. M. S. Hacker, ‘Wittgenstein and the Autonomy of Humanistic Understanding’, Wittgenstein, Theory and the Arts, Richard Allen and Malcolm Turvey (eds), (London: Routledge, 2011), 61. Donald Davidson, Problems of Rationality (Oxford: Clarendon Press, 2004), 101.
+
+Donald Davidson, Truth, Language, and History (Oxford: Clarendon Press, 2005), 285.
+
+Donald Davidson, ‘Replies’, The Philosophy of Donald Davidson, L. E. Hahn (ed.), (La Salle: Open Court, 1999), 654. Ibid.
+
+Ibid., 655.
+
+See Frederick Stoutland, ‘Reasons and Causes’, Wittgenstein: Mind, Meaning and Metaphilosophy (New York: Palgrave Macmillan, 2010), 60; Hans-Johann Glock, ‘Reasons for Action: Wittgensteinian and Davidsonian Perspectives in Historical, Meta-Philosophical and Philosophical Context’, Nordic Wittgenstein Review 3 (2014), 7–46. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8
+
+[p. 397]
+
+Two Orders of Things Wittgenstein, since, as I hope to have shown in this paper, it is when Wittgenstein’s thought is directed against this hypostatisation of reasons as ‘little entities lodged in the brain’ that its contemporary relevance for anti-causalism comes most sharply into focus.111 MATTHIEU QUELOZ (matthieu.queloz@unibas.ch) is a PhD candidate in philosophy and a Doc.ch Stipendiary of the Swiss National Science Foundation at the University of Basel. He is currently working on the genealogical method of David Hume, Edward Craig and Bernard Williams. He is a recent contributor to the British Journal for the History of Philosophy and to the Journal of Political Philosophy.
+
+Thanks to Joachim Schulte and Hans-Johann Glock for many valuable discussions and comments on this paper. Thanks also to Deborah Mühlebach, Damian Cueni, Kai Büttner, Sebastian Wyss, Reto Gubelmann, Nicole Rathgeb, Marco Toscano, Mindaugas Gilaitis, Astrid Kottmann, Susanne Huber, David Dolby, Sarah Tietz, and David Wörner, who read and commented on early versions of the material. .
+
+3 7 8C
+
+: BD D7 3 3 34 7 3 : BD 53 4C 97 C9 5 C7 112 , 4 53 4C 97 C9 5 C7 7C D : BD :7 C9 / D 4 75 :7 3 4C 97 C7 7C D 8

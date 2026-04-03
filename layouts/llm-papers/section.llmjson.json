@@ -1,0 +1,31 @@
+{{- $entries := partial "llm-papers-data.html" . -}}
+{{- $fullTextEntries := where $entries "full_text_available" true -}}
+{{- $sortedByLastmod := sort $entries "last_updated" "desc" -}}
+{{- $catalogLastUpdated := "" -}}
+{{- if gt (len $sortedByLastmod) 0 -}}
+  {{- $catalogLastUpdated = (index $sortedByLastmod 0).last_updated -}}
+{{- end -}}
+{{- dict
+  "site" site.Title
+  "base_url" site.BaseURL
+  "section" "entries-and-books"
+  "language" .Site.Language.Lang
+  "description" "Machine-readable index for selecting papers and books before opening full text companions."
+  "catalog_url" ("llm/papers/" | absURL)
+  "html_hub_url" ("llm/papers/" | absURL)
+  "markdown_index_url" ("llm/papers/index.md" | absURL)
+  "json_index_url" ("llm/papers/index.json" | absURL)
+  "sitemap_url" ("llm/papers/sitemap.xml" | absURL)
+  "last_updated" $catalogLastUpdated
+  "work_count" (len $entries)
+  "full_text_count" (len $fullTextEntries)
+  "selection_guidance" (slice
+    "Use title, abstract, tags, and categories to shortlist relevant works."
+    "Use the canonical entry URL for citation metadata and the published PDF."
+    "Prefer the Markdown companion for structured reading and quoting; use the plain-text companion when Markdown is inconvenient."
+    "Companion files preserve printed page markers such as [p. 12] where available."
+  )
+  "works" $entries
+  "full_text_works" $fullTextEntries
+  "papers" $entries
+| jsonify -}}

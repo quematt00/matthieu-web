@@ -1,5 +1,7 @@
 ---
 title: "The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering"
+llm_text_markdown: "/llm/papers/the-practical-origins-of-ideas.md"
+llm_text_plain: "/llm/papers/the-practical-origins-of-ideas.txt"
 year: "2021"
 tags:
   - "conceptual-engineering"

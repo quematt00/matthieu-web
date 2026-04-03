@@ -4,7 +4,6 @@ Allow: /
 # Avoid indexing error/offline variants and raw source files (if ever published).
 Disallow: /*offline/
 Disallow: /*404.html$
-Disallow: /*.md$
 
 # Block aggressive scrapers/crawlers.
 User-agent: MJ12bot
@@ -64,17 +63,21 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-# OpenAI, ChatGPT
+# OpenAI search / user retrieval
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
 User-agent: GPTBot
-Disallow: /
+Allow: /
 
-# Google AI (Bard, etc)
+# Google AI / training
 User-agent: Google-Extended
-Disallow: /
+Allow: /
 
-# Block common crawl
+# Allow Common Crawl
 User-agent: CCBot
-Disallow: /
+Allow: /
 
 # Facebook
 User-agent: FacebookBot
@@ -82,21 +85,30 @@ Disallow: /
 
 # Cohere.ai
 User-agent: cohere-ai
-Disallow: /
+Allow: /
 
-# Perplexity
+# Perplexity search / user retrieval
 User-agent: PerplexityBot
-Disallow: /
+Allow: /
+User-agent: Perplexity-User
+Allow: /
 
-# Anthropic
-User-agent: anthropic-ai
-Disallow: /
-
-# Claudebot by Anthropic
+# Anthropic crawlers
 User-agent: ClaudeBot
-Disallow: /
+Allow: /
+
+# Anthropic search / user retrieval
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+
+# Older Anthropic crawler alias
+User-agent: anthropic-ai
+Allow: /
 
 Sitemap: {{ "/sitemap.xml" | absURL }}
 Sitemap: {{ "/en/sitemap.xml" | absURL }}
 Sitemap: {{ "/fr/sitemap.xml" | absURL }}
 Sitemap: {{ "/de/sitemap.xml" | absURL }}
+Sitemap: {{ "/llm/papers/sitemap.xml" | absURL }}

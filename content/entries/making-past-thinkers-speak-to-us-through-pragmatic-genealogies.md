@@ -1,6 +1,8 @@
 ---
 title: "Making Past Thinkers Speak to Us Through Pragmatic Genealogies"
 year: "2023"
+llm_text_markdown: "/llm/papers/making-past-thinkers-speak-to-us-through-pragmatic-genealogies.md"
+llm_text_plain: "/llm/papers/making-past-thinkers-speak-to-us-through-pragmatic-genealogies.txt"
 tags:
   - "canons"
   - "canon-formation"

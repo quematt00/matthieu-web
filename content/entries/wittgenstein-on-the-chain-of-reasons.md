@@ -1,6 +1,8 @@
 ---
 title: "Wittgenstein on the Chain of Reasons"
 year: "2016"
+llm_text_markdown: "/llm/papers/wittgenstein-on-the-chain-of-reasons.md"
+llm_text_plain: "/llm/papers/wittgenstein-on-the-chain-of-reasons.txt"
 tags:
   - "action-theory"
   - "chain-of-reasons"

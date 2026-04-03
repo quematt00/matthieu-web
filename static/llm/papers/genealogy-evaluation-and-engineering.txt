@@ -1,0 +1,311 @@
+Genealogy, Evaluation, and Engineering
+
+Author: Matthieu Queloz
+Published in: The Monist 105 (4): 435-451. 2022.
+DOI: 10.1093/monist/onac010
+Canonical entry: https://www.matthieuqueloz.com/entries/genealogy-evaluation-and-engineering/
+Published PDF: https://philpapers.org/archive/QUEGCE.pdf
+
+Machine-readable text companion generated from the PDF. Page markers follow the journal pagination.
+
+[p. 435]
+
+ABSTRACT
+
+Against those who identify genealogy with reductive genealogical debunking or deny it evaluative significance, I argue, first, that while genealogies tend to trace the higher to the lower, they need not reduce the higher to the lower, but can elucidate their relation and help us think more realistically about both relata; second, that if we conceive of genealogy in terms of a triadic model including the addressee, it becomes intelligible how tracing the higher to the lower can facilitate an evaluation of the higher, and how, where the lower is some important practical need rather than some sinister motive, the genealogy can even be vindicatory; and third, that vindicatory genealogies can offer positive guidance on how to engineer better concepts.
+
+1. HIGHER AND LOWER, REASON AND POWER
+
+What is genealogy? A genealogy is a developmental narrative describing how a cultural phenomenon—such as a concept, value, practice, or institution—could have come about. The phrase “could have come about” is helpfully equivocal between three senses here, covering not only actual, but also conjectural and even counterfactual developments: if the emergence of the phenomenon falls within the scope of recorded history, a genealogy can elucidate the phenomenon in terms of its documented historical development. But given philosophers’ interest in phenomena that are so fundamental to human life that they have often long emerged already even in the oldest documented societies, genealogists seeking to start further back may have to make do with speculations about the distant past; they will then contribute to the second genre of genealogy that the Scottish philosopher Dugald Stewart called “conjectural history” (1858, 34).1 Practitioners of the third genre of genealogy, finally, seek to elucidate a phenomenon by imagining how and why it could or could not have developed. They typically start out from some hypothetical “state of nature”—or some equivalent of it, such as Philip Pettit’s (2018) ‘Erewhon’, a Butlerian anagram of “nowhere”—and seek to explain why things in fact are as they are by considering explicitly counterfactual stages of genealogical development.2 It may seem strange to lump together avowedly imaginary genealogies with genealogies that profess to be historically accurate. But it is not that the genealogists describing counterfactual developments—who include Hume (2000), Rousseau
+
+[p. 436]
+
+(1977), Craig (1990, 1993), Williams (1997, 2002), Fricker (2007), and Pettit (2018, forthcoming)—do not care about real history. It is rather that, for their purposes, they find it best not to start out from overspecific and undersupported speculations about a particular point in prehistory, such as the Fertile Crescent in the late Pleistocene. They prefer to start from more generic and less contentious idealizations of human communities. Abstracting away from the peculiarities of particular stretches of human history, these idealizations aim to embody highly general and typically structural dynamics that are plausibly at work in any human community. Much as scientists find it expedient to investigate the behaviour of real gases by starting from an ideal gas model whose point particles move without being subject to various forces that real particles would be subject to, these state-of-nature genealogists use a fictional model to identify the explanatorily basic dynamics at the root of certain cultural phenomena. The fictional model can then still be lowered into the stream of history to consider how the generic dynamics it embodies were concretely realized, elaborated, transformed, extended, and differentiated in particular times and places.3
+
+Genealogies setting out from state-of-nature models are thus also “histories of the present,” in Foucault’s phrase, but they approach the present by moving from the sociohistorically generic to the sociohistorically specific and from the explanatorily basic to the explanatorily derivative. This can serve various functions: to show not just why a cultural phenomenon takes a certain form here rather than another, but also why it would have developed in some form across many different societies; or to show, in uncluttered and striking fashion, why a cultural phenomenon has some otherwise puzzling feature. One way to bring out why a value needs to develop into an intrinsic value, for example, is to imagine a situation in which it is understood merely as an instrumental value, and demonstrate why that would not be a stable resting point; or to show that certain explanatory resources are sufficient to account for a phenomenon’s emergence in principle, thereby suggesting that, while the phenomenon’s actual history was doubtless more complex and erratic, even a less simplified account of it need not invoke radically different explanatory resources—it can do without assuming extraordinary feats of foresight and planning, or ascribing special faculties of intuition, or wheeling in an entire new class of entities or facts just to explain why we think and speak in certain terms.4
+
+The heyday of genealogy in all three guises was the Enlightenment.5 D’Alembert, in his Discours préliminaire to the Encyclopédie, used the metaphor of “genealogy” to describe the method of “remounting to the origin and genesis of our ideas” (1751, i) and declared that all ideas and branches of knowledge ultimately trace back to human needs, though they were slower to appear the more remote or difficult to satisfy those needs were. Hume similarly proposed to explain ideas and virtues that appeared to be the product of human contrivance, such as property and justice, by exhibiting them as remedies to inconveniences resulting from the concurrence of certain needs and circumstances.6 As Stewart noted, genealogical explanations of “society in all its various aspects” had been “the peculiar glory of the latter half of the eighteenth century” (1854, 70). He notably associated this “particular sort of enquiry,” which he considered to be “entirely of modern origin” (1858, 33), with Hume’s The Natural History of Religion (2008[1757]) and Smith’s Dissertation on the
+
+[p. 437]
+
+Origin of Languages (1853[1761]). But the same period also saw the publication of many other works that might be described as genealogies of cultural phenomena, such as Rousseau’s Discours sur l’origine et les fondements de l’inégalité parmi les hommes (1977[1755]), Isaak Iselin’s Über die Geschichte der Menschheit (1764) or Kant’s Mutmaßlicher Anfang der Menschengeschichte (1900[1786]–, VIII, 109–23).
+
+One important respect in which the spirit of the Enlightenment informs genealogy as a method is that genealogical inquiry typically serves “to translate humanity back into nature,” in Nietzsche’s phrase (2002, §230). Genealogy reflects Enlightenment naturalism by presenting even the loftiest cultural phenomena, which seem to call for explanation in terms of transcendent origins in a Platonic Heaven of Forms or in the Mind of God, as being part of nature and fully explainable in terms of the rest of nature. Enlightenment genealogy is not just history, but natural history:7 it seeks to explain even the most exalted things as arising naturally, without mysterious saltations or divine interventions.
+
+As a result of this Enlightenment naturalism, genealogies characteristically trace the higher to the lower: they take our loftiest abstractions, such as the concepts of reason, truth, knowledge, justice, virtue, or intrinsic value, and reveal their lowly origins in the will to power, prudence, self-interest, or instrumental value. They do not explain the higher in terms of equally high origins, as would befit it; instead, they bring it down to earth, revealing its roots in mundane human concerns.
+
+This higher/lower distinction is of course not meant to suggest that we can independently classify the items figuring in genealogies according their place in the Scala Naturae or some other inherent hierarchy. The distinction is offered, rather, as a rough tool with which the theorist of genealogy can usefully generalize over the otherwise haphazard collection of items—needs, interests, wills, drives, affects, concepts, beliefs, values, virtues, practices, institutions, etc.—that figure as explanantia and explananda in genealogies. A recurrent pattern then emerges: the explanandum is typically something highly respected, valued, refined, and exalted, perhaps even something seemingly transcendent or god-like, but at the very least something that looks like a prerogative of human beings—these are the things most likely to call for genealogical explanation, after all. The explanans, by contrast, is typically something less mysterious, but also less respected and valued: something ordinary, mundane, and firmly immanent—something all too human, perhaps, or else something we share with other animals. On a common view of genealogy, it is just the fact that the explananda and explanantia of genealogies fall into this pattern of higher and lower that gives genealogies their destabilizing or debunking character. Foucault seems to suggest as much in an oft-quoted passage: “historical beginnings are lowly . . . capable of undoing every infatuation” (1971, 149).
+
+But there are two distinct ways in which genealogy can be destabilizing. The first and most basic is through the very act of genealogizing, in particular when something is historicized that resists historicization: even raising the question of a phenomenon’s historical origins can have an unsettling effect if that phenomenon denies the question applicability by presenting itself as eternal or ahistorical. This is one reason why, at the time of the publication of Nietzsche’s On the Genealogy of Morality (1998[1887]), the very pairing of “genealogy” with “morality” was provocative in much the same
+
+[p. 438]
+
+way that Darwin’s pairing of “origin” with “species” had been nearly three decades earlier. On the traditional Christian worldview, neither morality nor species were supposed to have origins at all, at least not in this distinctly worldly sense—as the Foucauldian distinction marks the difference, they were supposed to have an Ursprung, a High Origin in the hands of the creator, but not an Entstehung, a historical emergence.8 Christian morality set itself up for a fall by resting its authority on a claim to being a timeless revelation while simultaneously enjoining its adherents to be reflective and truthful, since this was bound eventually to issue in their becoming reflective and truthful about the history of their own values.
+
+The second way in which genealogy can be destabilizing is in tracing the higher to the lower, thereby adding insult to historicization: it treats exalted phenomena not only as having a history, but as having a history tracing back to lower things, such as the base drives that humans share with other animals. A genealogy tracing the higher to lowly practical needs is therefore doubly irreverent. It dispels the higher’s pretensions to purity from mundane motives.
+
+A further distinction we should then draw, however, is that between reductive and nonreductive genealogies. It is one thing to reveal the higher to have an explanatory connection to the lower; quite another to reveal the higher to be just another version of the lower masquerading as the higher. A reductive genealogy reduces the higher to the lower, pulling the mask from the higher and thereby revealing it to be another instantiation of the lower masquerading as the higher: the will to truth is unmasked as the will to power, justice as prudence, selflessness as selfishness, intrinsic as instrumental value.
+
+A familiar way to deploy genealogy in this reductive fashion is to debunk the lofty ideals of the Enlightenment. Enlightenment genealogizing can be turned back on itself, revealing a tension between the fuel and the findings of genealogical inquiry. This in-house tension makes itself felt, for example, when Kant defends metaphysics’ claim to being the Queen of the sciences against Locke’s attempt to undermine that claim by imputing an unflattering “genealogy” to the purported Queen, tracing her “birth” to “the rabble of common experience” (1998, A ix). Locke was mistaken in his genealogizing, Kant assures us, but he concedes that if Locke’s genealogy had been accurate, the Queen’s pretensions would “rightly have been rendered suspicious” (1998, A ix). This tension between rationalist and empiricist or naturalistic currents of thought is what leads Robert Brandom to describe genealogy as the “revenge of Enlightenment naturalism on Enlightenment rationalism” (2015, 3): if Enlightenment rationalism precipitated the disenchantment of the world through reason, genealogy provoked the disillusionment with reason.
+
+A nonreductive genealogy, by contrast, presents the higher as genuinely distinct from the lower, but reveals a connection between the two which helps explain why the lower gave rise to, or favoured the retention of, the higher. Williams’s genealogy offers a clear illustration. It takes a higher element—truth as an intrinsic value, which is to say the attitude of valuing the truth for its own sake, so that one has a pro tanto reason to seek and tell the truth because it is the truth—and traces it to various lower elements: most basically, the fundamental human concern to obtain information about one’s immediate environment and the risks and opportunities it affords. But if
+
+[p. 439]
+
+people were truthful only insofar as it served their concerns for things other than the truth, communication would be a great deal less cooperative, since we have all kinds of reasons not to tell the truth all the time. This is the basis of Voltaire’s cynical quip that “people employ language only to conceal their thoughts” (1869, 82). If it is to stake a claim against self-interest, therefore, the truth must be understood as valuable for its own sake—as being its own reward. Someone who thinks of truth as an intrinsic value will behave differently from someone who does not: she will be more disposed to invest effort in finding out the truth even when it is otherwise of no use to her, or tell the truth to others even when she would be better served by keeping it to herself.
+
+The upshot is that the attitude of valuing the truth intrinsically stands in an instrumental relation to simpler and more basic concerns: by having many people in a society value the truth for its own sake, other, less lofty concerns are indirectly being served, such as the concern to have access to a rich and reliable pool of information. But the fact that the attitude of valuing the truth intrinsically stands in this instrumental relation to these concerns does not debunk that attitude as a delusion; on the contrary, it helps explain why it makes good sense for a society really to cultivate this attitude: it is only insofar as truthfulness is understood as an end in itself that it can serve as a means to other ends. And if, like Williams, we explain the existence of values in terms of the existence of human valuations, then the fact that a society has good reason to treat the truth as an intrinsic value and possesses the hermeneutic and affective resources to make sense of it as an intrinsic value just is for it to be an intrinsic value in that society, and not just a mere illusion or pretence.9
+
+Hence, a nonreductive genealogy, which traces the higher to the lower in the sense of explaining the higher in terms of the lower, does precisely not collapse the higher element into the lower. The fact that the higher element is instrumental to the lower element need not mean that the higher, when correctly understood, must be seen as nothing but a dressed-up version of the lower. The search for the truth may be motivated in good part by the desire for fame, as James Watson candidly admits in his account of the discovery of the structure of DNA.10 But the presence of an ulterior motive need not undermine the immediate motive. Even if the search for truth is driven by a desire for fame, this does not reduce one to the other, as long as what one desires to be famous for is having found out the truth.11
+
+The mere observation of a link between high-minded concerns and more worldly ones in fact cannot rationally undermine the high-minded concerns unless it receives succour from a further assumption: the assumption that high-minded concerns, to be the genuine article, should not have any such ties to lowly concerns. As Judith Shklar observes, “it is because origins can glorify that they can also defame” (1972, 129– 30). The defamatory power of genealogy depends on an antecedent pride in noble origins. It is on the back of the conviction that the higher should remain entirely pure of the lower that revealing the higher’s roots in the lower casts doubt on its standing. Genealogical debunking is enabled by the purist assumption that the higher must have higher origins.
+
+But instead of facilely leveraging this purist assumption, genealogists from Nietzsche through Foucault to Williams reject it as betraying a kind of weakness, a
+
+[p. 440]
+
+failure to face up to reality. Nietzsche castigates the conviction that “[t]hings of the highest value must have another, separate origin of their own,” that “they cannot be derived from this ephemeral, seductive, deceptive, lowly world, from this mad chaos of confusion and desire” (2002, §2). While he seeks to criticize Christian values in light of their genealogy, he does not take them to be undermined simply by their lowly origins: “One could have proven ever so unflattering things about the origins of moral valuations: now that these forces are here, they can be used and have their value as forces” (2009, 1886, 7[6]).12 Similarly, Foucault remarks that a “real science is able to accept even the shameful, dirty stories of its beginning” (1988, 15). And Williams criticizes the supposition that our values “are simply revealed to us or given to us by our nature” as being “not only a philosophical superstition, but a kind of weakness” (1995, 148). By rejecting both the reduction of the higher to the lower and the purist assumption that any explanatory connection with the lower impugns the higher, these genealogists clear a path for genealogies that explain the higher without explaining it away.
+
+Even when a genealogy is ostensibly reductive, moreover, the more charitable and interesting reading is often one on which it is ultimately nonreductive. Postmodernist genealogists like Foucault, in particular, are routinely understood as arguing from the observation that the boundary between reason and power is not always clear-cut to the conclusion that there is no real distinction between reason and power, and that reason must reduce to power. But as Allen (2017, 187) and Lorenzini (2022) have emphasized, Foucault is not best understood as reducing reason to power. He explores the relation between the two, but it remains a relation between two nonidentical relata. As he emphasizes in an interview with Gerard Raulet: “studying their relation is precisely my problem. If they were identical, I would not have to study them and I would be spared a lot of fatigue as a result. The very fact that I pose the question of their relation proves clearly that I do not identify them” (1998, 455).13
+
+Admittedly, however, a genealogical investigation of the relations between reason and power may leave one unable to accept the opposition between them in its original form. In particular, if the original opposition conceived of the force of reason as completely unconditioned by and exclusive of merely causal power, then a Foucauldian picture will force us to conclude that, on the terms of that opposition, everything is power.
+
+What this shows, however, is not that Foucault’s genealogical account is reductive after all, but that the model on which we divide genealogies into reductive and nonreductive ones just as we divide sonnets into Petrarchan and Shakespearean ones is too simple. One and the same genealogy can be reductive in one sense and nonreductive in another: it can collapse the higher into the lower in one sense but not in another.
+
+To capture this complexity, we can redeploy the distinction between reductive and nonreductive as a distinction between two phases in genealogical reflection. In the first, reductive phase, genealogical reflection shows us that as we conceived the opposition between the higher and lower elements, the higher reduces to the lower, so that the lower is all there is. But recognizing that everything we thought was higher is really a form of the lower is but a first step. In the second, nonreductive phase, we
+
+[p. 441]
+
+can resituate the original opposition within the lower, and thereby come to see that, on the more realistic understanding of the opposition that the genealogy suggests, the higher and the lower are, though more similar to each other than we originally thought, still far from identical. What a genealogical exploration of the relation between reason and power encourages us to do, then, is to resituate the opposition between the force of reason and the force of power within the de-idealized world that the genealogy has laid bare—or, more accurately, it encourages us to realize that this less pure-minded distinction was being drawn in practice all along. If relations of power pervade even the clearest manifestations of the force of reason, we need not reject all attempts to contrast reason with power; we might instead resituate the original opposition in a new space, so that the real differences can emerge between the force which is argument and the force which is not—differences such as that between listening and being hit, a contrast that may vanish in the seminar but which reappears sharply when you are hit. (Williams 2002, 9) In contrasting and interrogating the relation between the operation of reasons and the operation of causes, we need not think of the operation of reasons as floating free of the operation of causes. We do not have to start from Platonic or Kantian conceptions of pure reason as something essentially unadulterated by causal forces that needs to be isolated from distortion by power. We can start instead from a picture on which power is everywhere, constitutively involved even in the most rational forms of thinking and communicating, and understand appeals to reason and rational argument as encouraging some expressions of power over other expressions of power. On this picture, we grant that even the clearest instances of rational belief-formation still take place within relations of power, and can never be entirely free of the influence of such extrarational forces as affect, desire, emotion, charisma, or social status. But we draw the distinction between being moved by reasons and being moved by other forces within those expressions of power. To use a term that helpfully covers the middle ground between the extremes of being moved by reason alone and being merely coerced by irrational forces, we draw a distinction between acceptable and unacceptable forms of persuasion.
+
+Crucially, however, which forms of persuasion to accept and encourage and which to reject and discourage is not something that can be determined simply on the basis of a metaphysical account of the nature of reason or rational argument. It is not just a matter of finding out what pure reason objectively amounts to before proceeding to keep it free of distorting interferences from nonrational forces. Rational forces are inextricably bound up with—indeed, enabled and supported by—nonrational ones, and the social task of determining which combinations to accept and foster and which ones to reject and sanction is not one that can be completed once and for all, without drawing on other values, but a continual and context-sensitive task that essentially draws on the rest of a society’s values. Certainly, a concept or a belief should not be discredited just because its formation or acquisition is in part the effect of
+
+[p. 442]
+
+someone’s power. That would invalidate far too much. For the same reason, we cannot simply reject any concept- or belief-formation involving coercion or emotional manipulation. A better picture is one which “everything is, if you like, persuasion, and the aim is to encourage some forms of it rather than others” (Williams 1995, 148). This, as Williams notes, “is not a technical task, like clearing a radio channel of static. It is a practical and ethical task, like deciding who can speak, how and when” (1995, 148). The difference that leads us to accept the power of education and political debate but not the power of brainwashing and gaslighting is not just a technical difference to be discovered through sufficiently close scrutiny of the processes involved. It is also, and essentially, an ethical and political difference that we are continually renegotiating in the light of our evolving social situation and our other values and convictions.
+
+In thus altering our understanding not just of the relation between the higher and the lower, but of the very relata, genealogy counteracts the ever-present temptation to inflate mere distinctions into dichotomies.14 A distinction may have a range of useful applications, but it need not carry with it the expectation that it must always and everywhere be clear-cut, or even applicable at all. Once paired with this expectation, however, the distinction becomes a dichotomy, suggesting a fundamental and ubiquitous gulf in the fabric of things—a metaphysical dualism, of which the Cartesian dualism of mind and body is the paradigm example. And as Brandom notes, the mark of a metaphysical dualism is that the relation between the distinguished items has become mysterious or unintelligible.15
+
+A genealogy making intelligible how the higher relates to the lower, and why the two would come to be distinguished in the first place, can help dispel this air of mystery and deflate the dichotomy along with its concomitant dualism. It puts us in a position to understand the distinction as a distinction rather than as a dichotomy—a distinction that is not necessarily always clear-cut, and not necessarily always applicable, but that we may nevertheless come to draw in certain situations for good reasons that the genealogy can bring to light.
+
+Genealogical reflection will then begin by reductively debunking an inflated conception of the distinction as a sharp dichotomy. But in adverting to the forces explaining why we ever came to draw any kind of distinction between the lower and the higher in the first place, genealogical reflection also gives us the means to redraw the distinction in more realistic terms that are stable under reflection. The resulting distinction may not always be clear-cut. But just because a distinction is not clear-cut does not mean that it is no real distinction. As Wittgenstein once remarked, rejecting a distinction merely because it is not clear-cut would be “like saying that the light of my reading lamp is no real light at all because it has no sharp boundary” (1958, 27).
+
+2. FROM ORIGINS TO EVALUATION
+
+Thus far, I have argued that while genealogy traces the higher to the lower, it need not be understood as reducing the higher to the lower. Genealogy may not be reductive at all, and even where it is, the reduction may itself usher in a nonreductive understanding of the opposition between higher and lower.
+
+[p. 443]
+
+But once genealogy is thought of in nonreductive terms, the question arises of how the genealogically revealed connection between higher and lower affects one’s view of the higher. Two related ideas about this have gained currency: that genealogy must be thought of as merely preparatory, but not constitutive of the normative evaluation of the higher;16 and that insofar as a genealogy, however indirectly, feeds into normative evaluation, its contribution takes a primarily negative form: it destabilizes or unsettles received ideas, but it does not positively offer guidance for how to devise or fashion better ideas.17 On this account, genealogy reveals the contingency of our arrangements and thereby conveys “a sense for the non-necessary” (Saar 2002, 217). This “frees us for social transformation,” but it “does not tell us precisely what to do or where to go” (Hoy 2008, 283). Genealogy liberates, but it does not guide.
+
+Both of these ways of reining in the normative ambitions of genealogy can be motivated by a concern to steer clear of the ‘genetic fallacy’: the alleged mistake of inferring something about the normative status (i.e., the validity or justification) of something from propositions about its genesis (i.e., its origins or causal history). The distinctions animating the charge—between genesis and validity, explanation and justification, causes and reasons—trace back to Kant, who, perhaps reacting to the aforementioned pressure exerted by Enlightenment naturalism on Enlightenment rationalism, insisted on separating the quaestio facti—the question of fact, which is a matter of the factual origin of something—from the quaestio iuris—the question of right, which is a matter of the evidence for it.18 These distinctions were eagerly taken up during the ‘psychologism’ debates raging from the 1880s to the 1920s, when philosophers were keen to demarcate their work from the nascent discipline of psychology.19 The distinctions were further entrenched in the 1930s and 40s with the spread of logical positivism, and in 1934, the ‘genetic fallacy’ charge was explicitly introduced under that heading by Morris Cohen and Ernest Nagel.20 In that period, the distinctions powering the charge derived their point not least from the need to counter the widespread and blatantly fallacious use of genetic reasoning to discredit ideas on the grounds of their alleged “Jewish origins”—the ideas of Einstein, notably, but also those of the logical positivists themselves.21
+
+Yet for all their utility at different junctures in their history, the distinctions animating the ‘genetic fallacy’ charge should not be inflated into dichotomies. Just because some reasoning from origins to justification is fallacious does not mean that every form of reasoning along these lines is. And just because some things are usefully classified as falling either on one side of these distinctions or the other does not mean that nothing defies such neat partitioning.
+
+Once it is recognized that genealogy, though it traces the higher to the lower, need neither reduce the higher to the lower nor commit the genetic fallacy, this opens up two possibilities: (i) the genealogical connection to the lower can be used to inform an evaluation of the higher; and (ii) this evaluation of the higher can be used to guide us in moving forward. Where that higher element is a concept, genealogy can be a form of conceptual ethics—a critical evaluative reflection on which concepts we have most reason to use—and the resulting evaluation can in turn guide attempts to extend, revise, or improve our conceptual repertoire through conceptual engineering.
+
+[p. 444]
+
+Take evaluation first. A genealogy tracing some respected higher element to “the will to power” or some other dark desire can be experienced as subversive of the higher. But when the lower element is an important practical need rather than some sinister motive, a genealogy tracing the higher to the lower can be experienced as vindicatory, which is to say strengthen confidence in the higher, especially if that higher element was previously suspected of being an otherworldly idea that no longer had a place in a modern, disenchanted understanding of the world. A genealogy can vindicate the continued cultivation of the higher element by showing that it is not just an archaic holdover or an irredeemable fetish, but an indispensable instrument to the satisfaction of an important concern. To see how a genealogy can properly have this kind of evaluative force, it helps to think of genealogizing as a performative: in telling a genealogy, the genealogist performs a kind of speech act. When viewed in those terms, it becomes evident that a genealogy is not intrinsically vindicatory or subversive, but vindicatory or subversive for someone. This suggests that our model of how a genealogy facilitates evaluation should be not just dyadic, but triadic. In telling a genealogy, the genealogist connects: the higher element whose origins the genealogy proposes to uncover; the lower element to which the genealogy traces the higher element; the genealogy’s addressee, who has certain values and normative expectations, including about what kinds of origins the higher element ought to have if it is to merit confidence and respect. On this triadic model, a genealogy alerts the addressee to a certain connection between the higher and the lower element, and in virtue of the addressee’s values and normative expectations, that connection can be normatively significant in the eyes of the addressee and alter the addressee’s evaluation of the genealogized object.
+
+The genealogies of Craig (1990), Williams (2002), and Fricker (2007), for example, aim to be vindicatory, and they ultimately all draw their vindicatory force from the idea that human beings have a basic need to acquire more information about their environment than they can acquire on their own. Given this need, it follows that human beings need to pool information, and accordingly need to develop and cultivate the concepts and dispositions that will enable them to pool information effectively. According to Craig, the concept of knowledge equips inquirers to tap into the pool of information, in particular by enabling them to identify good informants on a given issue. According to Williams, the dispositions involved in valuing the truth intrinsically then equip members of the community to be accurate contributors to and sincere dispensers from the pool. And according to Fricker, the virtue of testimonial justice enables recipients of information to neutralize the confounding influence of prejudice in drawing from the pool.
+
+These are genealogies of different aspects of the institution of testimony, and what promises to make them vindicatory for us is that they derive, from a need so basic and generic that we can hardly avoid sharing and endorsing it even now, a need
+
+[p. 445]
+
+for things that we did not necessarily expect we needed in that way, such as the concept of knowledge, the intrinsic value of truth, and the virtue of testimonial justice.
+
+Yet the genealogies can only aim to be vindicatory; whether they in fact are depends on the third element in the triad: the addressee of the genealogy. Most basically, it depends on whether the addressee wants to see the need that is purportedly served by the higher element satisfied. The genealogy’s upshot takes a conditional form: if you care about the lower element, then you should care about the higher element. The point is thus not that the lower element should be universally accepted or incontestable, but that it should be recognized as valuable by the addressee. That is where the addressee’s own values—what they endorse or condemn, what they regard as a legitimate concern and what as a mere caprice—are determinative. There is a normative division labour between the genealogy and the addressee: the addressee offers up an evaluative outlook, and the genealogy channels these values and revises the addressee’s understanding of how they are realized.
+
+This makes a genealogy’s effect into a function not just of the addressee’s prior understanding, but also of the addressee’s normative expectations about what kinds of origins something ought to have if it is to merit confidence. In contrast to descriptive expectations, which are expectations about what kinds of origins something is in fact likely to have, normative expectations can be represented as taking the form of a conditional and its contrapositive: if some higher element of such-and-such a kind merits confidence or respect, then it has such-and-such origins; if it lacks such-and-such origins, then it does not merit confidence or respect.
+
+These normative expectations contribute to determining whether a genealogy is experienced as vindicatory or subversive by its addressee, and when these expectations take a particularly demanding form, then even genealogies aiming to be vindicatory, like those of Craig, Williams, and Fricker, will be experienced as subversive: if the value of truth needs to be traceable to a Platonic Form to merit confidence, then a genealogy showing it to have merely grown out of a set of mundane practical needs—however pressing—will fall short of the addressee’s normative expectations and discredit the value of truth.
+
+This is where we encounter the ethical demand on a genealogy’s addressees to be realistic in their normative expectations. For if truthful genealogical inquiry takes place against the disenchanted, naturalistic Weltbild that forms its characteristic backdrop, Platonic normative expectations make a universal acid of genealogical reflection: all values, once truthfully and naturalistically genealogized, will fall short of those expectations, and nihilism—the dissolution of all values—beckons. If the consequence of having such high normative expectations is indiscriminate genealogical subversion, then the needle of our moral compass should jump from modus ponens to modus tollens: since we cannot reasonably want genealogical reflection to be indiscriminately subversive and issue in nihilism, we have reason to adjust our normative expectations so as to resituate the contrast between vindicatory and subversive origins within the range of origins that our values might realistically be expected to have. Much as genealogical reflection can lead us to resituate the contrast between reason and power within a world in which everything is persuasion, therefore, it can
+
+[p. 446]
+
+lead us to resituate the contrast between vindicatory and subversive origins within a naturalistic worldview.
+
+3. GENEALOGY AS A GUIDE TO ENGINEERING
+
+This brings us, finally, to the second claim, that genealogical evaluation can also guide us in moving forward as we extend, revise, or improve our conceptual practices. I shall illustrate the kind of guidance I have in mind using the example of the vindicatory pragmatic genealogies introduced in the previous section. These genealogies reveal their object to serve an important practical need, and that need can itself be indicatory of how to improve things further. It offers not simply negative guidance (what to move away from), but positive guidance, indicating what to move to. By presenting a cultural phenomenon—say, a concept—as performing some function that we want to see performed, a vindicatory pragmatic genealogy hands us a normative standard that can guide further elaborations of our conceptual apparatus. It tells us what work the concept can do for us, and this covers not just the work it already does for us insofar as it functions well, but also the work it could do for us if it functioned better, or more often, or more widely.
+
+Fricker’s vindicatory pragmatic genealogy of the virtue of testimonial justice offers an example. Rather than to begin with something that is already ubiquitous and to account for its ubiquity by showing that it answers to utterly basic human needs, Fricker does the reverse, arguing that the virtue of testimonial justice answers to utterly basic human needs and should therefore be ubiquitous, even though, at this point, it is clearly not; her genealogical derivation of testimonial justice presents it as something that we have only patchily achieved, and that “remains for the most part . . . something that we can and should aim for in practice” (2007, 98–99). This vindicatory pragmatic genealogy guides us going forward, because it suggests that the virtue of testimonial justice is worth promulgating more widely.
+
+Most basically, then, genealogy can guide the forward-looking project of improving our ways by helping us determine what we want from given concepts, values, or practices, and what it would mean for them to be better. Evidently, genealogy’s guidance in that regard is called for only when we do not yet know what we want from them; William Bateson did not need a genealogy of the concept of gene to know that he wanted the concept to help him explain and predict patterns of inheritance. But with many of our concepts, we are not necessarily clear about what work, if any, they do for us. A good illustration is the concept of knowledge. It is ubiquitous in every sense of the term, but we are typically not in a position to rattle off the manifold functions it no doubt fulfils. A project in normative epistemology that wanted to ameliorate our concept of knowledge might therefore benefit and take its guidance from a genealogy of the concept revealing what functions it performs.
+
+But genealogy can also guide conceptual innovation that goes beyond optimizing the concepts we have inherited for the kind of work they already perform. More innovative conceptual engineering may be called for in adapting our conceptual apparatus to changing circumstances or novel challenges, especially when these challenges are not best addressed using our existing concepts.
+
+[p. 447]
+
+One of the best examples of this is the demand for conceptual innovation created by the increasing emergence and power of international institutions. Within liberal democratic nation states, there are long traditions of thinking about how to reconcile rule by state power with individual and collective freedom. There are concepts such as democracy, the rule of law, or the separation of powers that allow citizens to differentiate between legitimate exercises of state power and mere coercion. But these conceptual resources do not always travel well beyond the context out of which they grew and to which they are tailored. Transpose the concepts of democracy, the rule of law, or the separation of powers from the domestic context in which they originated into the international realm of the United Nations Security Council, the World Trade Organization, and the European Court of Human Rights, and you soon find that these understandings of what renders exercises of power legitimate are, at best, only partially applicable and realizable in this novel context. The resulting predicament is not just that the forms of power exercised by these institutions risk being experienced as insufficiently legitimated, but that these forms of power are held to a standard of legitimacy that they have little prospect of meeting, since it is a standard tailored to the nation state.
+
+In response to this predicament, Damian Cueni (2020, ms.) has argued that instead of trying, with limited success, to get international institutions to live up to our domestic concepts of legitimacy, we should genealogically reverse-engineer what it is that these concepts achieve for us in the domestic context to begin with, and then aim to re-instantiate the achievements rather than the concepts in the international sphere. Genealogical reflection on why we care so much about democracy, the rule of law, or the separation of powers within the nation state can then guide us in recreating what we care about beyond the nation state, but not necessarily in the same terms or along the same lines. This is to use pragmatic genealogy as a guide to conceptual innovation. It is conceptual engineering guided by conceptual reverse-engineering. Moving back along the genealogy of our concepts not only indicates a direction in which to move forward, but also enables us to move forward more responsibly, with a deeper sense of what the concepts we aim to develop do, what they are connected to, and what depends on them.
+
+4. CONCLUSION
+
+In this article, I have argued for three main claims: that although genealogies, true to their Enlightenment origins, tend to trace the higher to the lower, they need not identify the higher with the lower, but can elucidate the relation between them and prompt us to think more realistically about both relata; that if we think of genealogy’s normative significance in terms of a triadic model that includes the genealogy’s addressee, we can see that in tracing the higher to the lower, a genealogy can facilitate an evaluation of the higher element, and where the lower element is some important practical need rather than some sinister motive, the genealogy can even be vindicatory; and finally, that vindicatory genealogies in a pragmatic key can offer positive guidance regarding where to move to from there. All three claims are ways of highlighting underappreciated aspects of the potential and power of genealogy against those who would either identify it with reductive genealogical debunking or
+
+[p. 448]
+
+deny it any evaluative and action-guiding significance. And yet none of these claims should be particularly controversial. It should be a platitude that the cultural devices organizing human affairs have a history, and that when genealogically reconstructed in a suitably nonreductive form, that history can help us evaluate how these devices relate to our concerns, and how they might be improved going forward.
+
+NOTES
+
+1. See Marušić 2017.
+
+2. Similarly capacious conceptions of genealogy are proposed by Williams (2002, 20; 2009, 210), Craig (2007), Owen (2010), Blackburn (2016, “genealogy”), and Lightbody (2021). For more Foucauldian typologies, see Bevir (2008) and Koopman (2009, 2011, 2013).
+
+3. I develop a systematic account of how fiction and history can be combined in Queloz (2021).
+
+4. See Williams 2000, 157.
+
+5. See Tuck 1979, 174; Lifschitz 2012; Hont 2015; Palmeri 2016; and Sagar 2018. On genealogy as an epistemological topos, see Weigel (2006).
+
+6. I offer a reconstruction of Hume’s genealogical method in Queloz (2021, ch. 4).
+
+7. See Hume 2008.
+
+8. See Foucault 1971. He attributes the distinction to Nietzsche, but it is truer to the spirit than the letter of Nietzsche’s works, since Nietzsche’s own use of the terms “Ursprung” and “Entstehung” or “Herkunft” does not appear to track any such distinction.
+
+9. See Williams 2002, 92; 2006, 137. I elaborate on this point in Queloz (2018; 2021, ch. 7).
+
+10. See Watson 1968.
+
+11. A point that Williams (2002, 142) presses against reductive interpretations of work in the sociology of knowledge.
+
+12. This reading of Nietzsche is developed in Queloz and Cueni (2019).
+
+13. Here, Foucault is talking more specifically about the relation between knowledge and power, but on his account, knowledge is one of the principal forms that reason takes.
+
+14. A helpful contrast that Hilary Putnam adapts from John Dewey; see Putnam (2002, 7–11).
+
+15. See Brandom 1994, 615; 2002, 263–65.
+
+16. See, e.g., Dutilh Novaes (2015, 100–101) and Koopman (2009; 2013, 20).
+
+17. See Lorenzini (2020, 2022) for critical discussions of this idea.
+
+18. See Kant 1998, A 84/B 116.
+
+19. See Kusch 1995.
+
+20. See Cohen and Nagel 1934, 388.
+
+21. See Giere 1999, 14; Edmonds 2020, 29, 114–28, 38.
+
+REFERENCES
+
+Allen, Amy 2017. “Power/Knowledge/Resistance: Foucault and Epistemic Injustice,” in The Routledge Handbook of Epistemic Injustice, ed. Ian James Kidd, José Medina, and Gaile Pohlhaus, Jr., New York: Routledge, 187–94.
+
+Bevir, Mark 2008. “What is Genealogy?” Journal of the Philosophy of History 2(3): 263–75.
+
+Blackburn, Simon 2016. The Oxford Dictionary of Philosophy, 3. ed., Oxford: Oxford University Press.
+
+Brandom, Robert 1994. Making It Explicit. Reasoning, Representing, and Discursive Commitment, Cambridge, MA: Harvard University Press.
+
+——. 2002. “Overcoming a Dualism of Concepts and Causes: The Basic Argument of ‘Empiricism and the Philosophy of Mind’,” in The Blackwell Guide to Metaphysics, ed. Richard M. Gale, Oxford: Blackwell, 263–81.
+
+——. 2015. “Den Abgrund reflektieren, Vernunft, Genealogie und die Hermeneutik des Edelmuts,” West End: Neue Zeitschrift für Sozialforschung 1: 3–26.
+
+Cohen, Morris R., and Ernest Nagel 1934. Introduction to Logic and Scientific Method, New York: Harcourt, Brace and Company.
+
+[p. 449]
+
+Craig, Edward 1990. Knowledge and the State of Nature: An Essay in Conceptual Synthesis, Oxford:
+
+Clarendon Press. ——. 1993. “Was wir wissen können: Pragmatische Untersuchungen zum Wissensbegriff,” in
+
+Wittgenstein-Vorlesungen der Universität Bayreuth, ed. Wilhelm Vossenkuhl, Frankfurt am Main: Suhrkamp. ——. 2007. “Genealogies and the State of Nature,” in Bernard Williams, ed. Alan Thomas,
+
+Cambridge: Cambridge University Press, 181–200. Cueni, Damian 2020. Public Law Analogies in International Legal Theory, doctoral thesis,
+
+Rechtswissenschaftliches Institut, University of Zurich. ——. Ms. Public Law Analogies: Reconstructing Legitimacy for a Global Age. D’Alembert, Jean le Rond 1751. “Discours Préliminaire des Éditeurs,” in Encyclopédie, ou
+
+Dictionnaire raisonne des sciences, des arts et des métiers, par une Société de Gens de lettres, ed. Denis Diderot and Jean le Rond D’Alembert, vol. 1, i–xlv, Chicago, IL: University of Chicago, ARTFL Encyclopédie Project (Autumn 2017 Edition), ed. Robert Morrissey and Glenn Roe. http:// encyclopedie.uchicago.edu/. Dutilh Novaes, Catarina 2015. “Conceptual Genealogy for Analytic Philosophy,” in Beyond the
+
+Analytic-Continental Divide, ed. Jeffrey A. Bell, Andrew Culrofello, and Paul M. Livingston, London: Routledge, 75–110. Edmonds, David 2020. The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle,
+
+Princeton, NJ: Princeton University Press. Foucault, Michel 1971. “Nietzsche, la genealogie, l’histoire,” in Hommage à Jean Hyppolite, ed. S.
+
+Bachelard, Paris: Presses Universitaires de France, 145–72. ——. 1988. Politics. Philosophy. Culture. Interviews and Other Writings 1977–1984, ed. L.D.
+
+Kritzman, London: Routledge. ——. 1998. “Structuralism and Post-structuralism,” in Aesthetics, Method, and Epistemology: Essential
+
+Works of Michel Foucault, ed. James D. Faubion. Vol. 2, 433–58. New York: The New Press. Fricker, Miranda 2007. Epistemic Injustice: Power and the Ethics of Knowing, Oxford: Oxford
+
+University Press. Giere, Ronald N. 1999. Science Without Laws, Chicago, IL: University of Chicago Press. Hont, István 2015. “Commercial Sociability: The Adam Smith Problem,” in Politics in Commercial
+
+Society: Jean-Jacques Rousseau and Adam Smith, ed. Béla Kapossy and Michael Sonenscher, Cambridge, MA: Harvard University Press, 25–48. Hoy, David Couzens 2008. “Genealogy, Phenomenology, Critical Theory,” Journal of the Philosophy
+
+of History 2(3): 276–94. Hume, David 2000. A Treatise of Human Nature, ed. David Fate Norton and Mary J. Norton,
+
+Oxford: Oxford University Press. ——. 2008. The Natural History of Religion, ed. J.C.A. Gaskin, Oxford: Oxford University Press.
+
+Über die Geschichte der Menschheit, Frankfurt and Leizpzig: Harscher. Iselin, Isaak 1764. Uber Kant, Immanuel 1900–. Kants gesammelte Schriften, ed. Preussische Akademie der Wissenschaften
+
+(vols. 1–22), Deutsche Akademie der Wissenschaften zu Berlin (vol. 23) and Akademie der Wissenschaften zu Göttingen (from vol. 24), Akademieausgabe, Berlin: De Gruyter. ——. 1998. Critique of Pure Reason, ed. Paul Guyer and Allen W. Wood, Cambridge: Cambridge
+
+University Press. Koopman, Colin 2009. “Two Uses of Genealogy: Michel Foucault and Bernard Williams,” in
+
+Foucault’s Legacy, ed. C.G. Prado, New York: Continuum, 90–108. ——. 2011. “Genealogical Pragmatism: How History Matters for Foucault and Dewey,” Journal of
+
+the Philosophy of History 5: 533–61. ——. 2013. Genealogy as Critique: Foucault and the Problems of Modernity, Bloomington, IN: Indiana
+
+University Press. Kusch, Martin 1995. Psychologism: A Case Study in the Sociology of Philosophical Knowledge, London:
+
+Routledge.
+
+[p. 450]
+
+Lifschitz, Avi 2012. Language and Enlightenment: The Berlin Debates of the Eighteenth Century,
+
+Oxford: Oxford University Press. Lightbody, Brian 2021. “The Passive Body and States of Nature: An Examination of the
+
+Methodological Role State of Nature Theory Plays in Williams and Nietzsche,” Genealogy 5(8): 1–15. Lorenzini, Daniele 2020. “On Possibilising Genealogy,” Inquiry: 1–22. ——. 2022. “Reason versus Power: Genealogy, Critique, and Epistemic Injustice,” The Monist
+
+105(4): 541–57. Marušić, Jennifer Smalligan 2017. “Dugald Stewart on Conjectural History and Human Nature,”
+
+Journal of Scottish Philosophy 15(3): 261–74. Nietzsche, Friedrich 1998. On the Genealogy of Morality, trans. Maudemarie Clark and Alan J.
+
+Swensen, Indianapolis: Hackett. ——. 2002. Beyond Good and Evil, trans. Judith Norman, ed. Rolf-Peter Horstmann and Judith
+
+Norman, Cambridge: Cambridge University Press. ——. 2009. Digital Critical Edition of the Complete Works and Letters, ed. Paolo D’Iorio, Berlin: De
+
+Gruyter (based on the critical text by G. Colli and M. Montinari, Berlin: De Gruyter). www. nietzschesource.org/eKGWB/. Owen, David 2010. “Genealogy,” in Encyclopedia of Political Theory, ed. Mark Bevir, Thousand
+
+Oaks, CA: Sage Publications, 549–51. Palmeri, Frank 2016. State of Nature, Stages of Society: Enlightenment Conjectural History and Modern
+
+Social Discourse, New York: Columbia University Press. Pettit, Philip 2018. The Birth of Ethics: Reconstructing the Role and Nature of Morality, ed. Kinch
+
+Hoekstra, Oxford: Oxford University Press. ——. Forthcoming. When Minds Speak: The Social Practice that Enables Humanity, Oxford: Oxford
+
+University Press. Putnam, Hilary 2002. The Collapse of the Fact-Value Distinction and Other Essays, Cambridge, MA:
+
+Harvard University Press. Queloz, Matthieu 2018. “Williams’s Pragmatic Genealogy and Self-Effacing Functionality,”
+
+Philosophers’ Imprint 18(17): 1–20. ——. 2021. The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering, Oxford:
+
+Oxford University Press. Queloz, Matthieu and Damian Cueni 2019. “Nietzsche as a Critic of Genealogical Debunking:
+
+Making Room for Naturalism without Subversion,” The Monist 102(3): 277–97. Rousseau, Jean-Jacques 1977. “Discourse on the Origin and Foundations of Inequality among
+
+Men,” in The Discourses and Other Early Political Writings, trans. Victor Gourevitch, Cambridge: Cambridge University Press, 111–222. Saar, Martin 2002. “Genealogy and Subjectivity,” European Journal of Philosophy 10(2): 231–41. Sagar, Paul 2018. The Opinion of Mankind: Sociability and the Theory of the State from Hobbes to
+
+Smith, Princeton, NJ: Princeton University Press. Shklar, Judith N. 1972. “Subversive Genealogies,” Daedalus 101(1): 129–54. Smith, Adam 1853. The Theory of Moral Sentiments; to which is added a Dissertation on the Origins of
+
+Languages, ed. Dugald Stewart, London: Henry G. Bohn. Stewart, Dugald 1854. “Dissertation Exhibiting the Progress of Metaphysical, Ethical, and Political
+
+Philosophy,” in The Collected Works of Dugald Stewart, ed. William Hamilton, v. 1, Edinburgh: Thomas Constable and Co. ——. 1858. “Account of the Life and Writings of Adam Smith,” in The Collected Works of Dugald
+
+Stewart, ed. William Hamilton. V. 10, Edinburgh: Thomas Constable and Co., 5–98. Tuck, Richard 1979. Natural Rights Theories: Their Origin and Development, Cambridge: Cambridge
+
+University Press. Voltaire 1869. “Dialogue du chapon et de la poularde,” in Oeuvres complètes, ed. Avenel Georges, v.
+
+6, Paris: Edition du journal Le Siècle, 81–82.
+
+[p. 451]
+
+Watson, James D. 1968. The Double Helix: A Personal Account of the Discovery of the Structure of DNA, New York: Scribner. Weigel, Sigrid 2006. “Genealogy: On the Iconography and Rhetorics of an Epistemological Topos,” in Enciclopédia e Hipertexto, ed. António Franco Alexandre, António Guerreiro, and Olga Pombo, Lisbon: Duarte Reis, 1–21. Williams, Bernard 1995. “Saint-Just’s Illusion,” in Making Sense of Humanity and Other Philosophical Papers, 1982–1993, Cambridge: Cambridge University Press, 135–50. ——. 1997. Der Wert der Wahrheit, Wien: Passagen. ——. 2000. “Naturalism and Genealogy,” in Morality, Reflection, and Ideology, ed. Edward Harcourt, Oxford: Oxford University Press, 148–61. ——. 2002. Truth and Truthfulness: An Essay in Genealogy, Princeton, NJ: Princeton University Press. ——. 2006. “Plato’s Construction of Intrinsic Goodness,” in The Sense of the Past: Essays in the History of Philosophy, ed. Myles Burnyeat, Princeton, NJ: Princeton University Press, 118–37. ——. 2009. “A Mistrustful Animal,” in Conversations on Ethics, ed. Alex Voorhoeve, Oxford: Oxford University Press, 195–214. Wittgenstein, Ludwig 1958. The Blue and Brown Books: Preliminary Studies for the Philosophical Investigations, Oxford: Blackwell.

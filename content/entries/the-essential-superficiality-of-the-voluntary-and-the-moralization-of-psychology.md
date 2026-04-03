@@ -1,6 +1,8 @@
 ---
 title: "The Essential Superficiality of the Voluntary and the Moralization of Psychology"
 year: "2022"
+llm_text_markdown: "/llm/papers/the-essential-superficiality-of-the-voluntary-and-the-moralization-of-psychology.md"
+llm_text_plain: "/llm/papers/the-essential-superficiality-of-the-voluntary-and-the-moralization-of-psychology.txt"
 tags:
   - "history"
   - "history-of-philosophy"

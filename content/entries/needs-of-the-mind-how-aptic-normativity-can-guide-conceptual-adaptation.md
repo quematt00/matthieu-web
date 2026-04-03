@@ -1,6 +1,8 @@
 ---
 title: "Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation"
 year: "forthcoming"
+llm_text_markdown: "/llm/papers/needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation.md"
+llm_text_plain: "/llm/papers/needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation.txt"
 tags:
   - "aptic-normativity"
   - "conceptual-adaptation"

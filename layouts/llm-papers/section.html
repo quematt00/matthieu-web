@@ -1,0 +1,98 @@
+{{ define "title" }}LLM Works Index · {{ .Site.Title }}{{ end }}
+
+{{ define "custom-head" }}
+  <link rel="alternate" type="text/markdown" href="{{ "llm/papers/index.md" | absURL }}" title="LLM works index (Markdown)">
+  <link rel="alternate" type="application/json" href="{{ "llm/papers/index.json" | absURL }}" title="LLM works index (JSON)">
+  <link rel="alternate" type="application/xml" href="{{ "llm/papers/sitemap.xml" | absURL }}" title="LLM works sitemap">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "DataCatalog",
+    "name": "Matthieu Queloz — LLM Works Index",
+    "url": {{ .Permalink | jsonify | safeJS }},
+    "inLanguage": {{ .Site.Language.Lang | jsonify | safeJS }},
+    "description": "Crawlable discovery hub and machine-readable index for selecting and retrieving Matthieu Queloz's papers and books.",
+    "creator": {
+      "@type": "Person",
+      "name": {{ site.Params.author.name | default site.Title | jsonify | safeJS }}
+    },
+    "dataset": [
+      {
+        "@type": "Dataset",
+        "name": "LLM works index (Markdown)",
+        "url": {{ ("llm/papers/index.md" | absURL) | jsonify | safeJS }},
+        "encodingFormat": "text/markdown"
+      },
+      {
+        "@type": "Dataset",
+        "name": "LLM works index (JSON)",
+        "url": {{ ("llm/papers/index.json" | absURL) | jsonify | safeJS }},
+        "encodingFormat": "application/json"
+      },
+      {
+        "@type": "Dataset",
+        "name": "LLM works sitemap",
+        "url": {{ ("llm/papers/sitemap.xml" | absURL) | jsonify | safeJS }},
+        "encodingFormat": "application/xml"
+      }
+    ]
+  }
+  </script>
+{{ end }}
+
+{{ define "content" }}
+  {{- $entries := partial "llm-papers-data.html" . -}}
+  {{- $fullTextEntries := where $entries "full_text_available" true -}}
+  {{- $metadataOnlyEntries := where $entries "full_text_available" false -}}
+  <article class="page single">
+    <h1 class="single-title">LLM Works Index</h1>
+    <div class="content" id="content">
+      <p>This page is a crawlable discovery hub for inference-time retrieval. It helps language models identify which works on this site are relevant, then fetch the best available representation.</p>
+
+      <p><strong>Quick links.</strong> <a href="{{ "llm/papers/index.md" | absURL }}">Markdown index</a> · <a href="{{ "llm/papers/index.json" | absURL }}">JSON index</a> · <a href="{{ "llm/papers/sitemap.xml" | absURL }}">LLM sitemap</a></p>
+
+      <p><strong>Scope.</strong> {{ len $entries }} English-language works in the <code>entries</code> and <code>books</code> sections. {{ len $fullTextEntries }} currently have companion full texts. Companion files preserve section headings and printed page markers such as <code>[p. 12]</code> where available.</p>
+
+      <h2>How to Use This Layer</h2>
+      <ol>
+        <li>Use the title, abstract, tags, and categories below to shortlist relevant works.</li>
+        <li>Use the canonical entry URL for citation metadata and the published PDF.</li>
+        <li>When a companion exists, prefer the Markdown version for structured reading and the plain-text version when Markdown is inconvenient.</li>
+      </ol>
+
+      <h2>Works With Companion Full Text</h2>
+      {{ range $fullTextEntries }}
+        <section>
+          <h3><a href="{{ .entry_url }}">{{ .title }}</a>{{ with .year }} ({{ . }}){{ end }}</h3>
+          <p>{{ .abstract }}</p>
+          <p><strong>Type:</strong> {{ .work_type }}{{ with .citation }} · <strong>Citation:</strong> {{ . }}{{ end }}</p>
+          <p>
+            <strong>Entry:</strong> <a href="{{ .entry_url }}">{{ .entry_url }}</a>
+            {{ with .pdf_url }} · <strong>PDF:</strong> <a href="{{ . }}">{{ . }}</a>{{ end }}
+            {{ with .llm_markdown_url }} · <strong>Markdown:</strong> <a href="{{ . }}">{{ . }}</a>{{ end }}
+            {{ with .llm_plain_url }} · <strong>Plain text:</strong> <a href="{{ . }}">{{ . }}</a>{{ end }}
+          </p>
+          {{ with .topics }}
+            <p><strong>Topics:</strong> {{ delimit . ", " }}</p>
+          {{ end }}
+        </section>
+      {{ end }}
+
+      <h2>Works Without Companion Full Text</h2>
+      {{ range $metadataOnlyEntries }}
+        <section>
+          <h3><a href="{{ .entry_url }}">{{ .title }}</a>{{ with .year }} ({{ . }}){{ end }}</h3>
+          <p>{{ .abstract }}</p>
+          <p><strong>Type:</strong> {{ .work_type }}{{ with .citation }} · <strong>Citation:</strong> {{ . }}{{ end }}</p>
+          <p>
+            <strong>Entry:</strong> <a href="{{ .entry_url }}">{{ .entry_url }}</a>
+            {{ with .pdf_url }} · <strong>PDF:</strong> <a href="{{ . }}">{{ . }}</a>{{ end }}
+          </p>
+          {{ with .topics }}
+            <p><strong>Topics:</strong> {{ delimit . ", " }}</p>
+          {{ end }}
+        </section>
+      {{ end }}
+    </div>
+  </article>
+{{ end }}

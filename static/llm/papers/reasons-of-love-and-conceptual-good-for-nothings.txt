@@ -1,0 +1,209 @@
+Reasons of Love and Conceptual Good-for-Nothings
+
+Author: Matthieu Queloz
+Published in: In Themes from Susan Wolf. Michael Frauchiger and Markus Stepanians (eds.). Berlin: De Gruyter. Forthcoming.
+Canonical entry: https://www.matthieuqueloz.com/entries/reasons-of-love-and-conceptual-good-for-nothings/
+Published PDF: https://philpapers.org/archive/QUEROL.pdf
+
+Machine-readable text companion generated from the PDF. Page markers follow the printed pagination.
+
+[p. 1]
+
+ABSTRACT
+
+What reasons do we have to use certain concepts and conceptions rather than others? Approaching that question in a methodologically humanistic rather than Platonic spirit, one might seek “reasons for concept use” in how well concepts serve the contingent human concerns of those who live by them. But appealing to the instrumentality of concepts in meeting our concerns invites the worry that this yields the wrong kind of reasons, especially if the relevant concerns are nonmoral ones. Drawing on Susan Wolf’s work on the moral/nonmoral distinction and the neglected role of reasons of love, I argue that this worry is misplaced, and in fact overlooks some of our most important reasons to prefer certain concepts over others. Still, a worry remains, namely that the value of concepts does not just lie in what they are good for. Drawing on another strand in Wolf’s work, I explore the question whether concepts can be valuable good-for-nothings, and show how this ultimately also underscores the importance of reasons of love as reasons for concept use.
+
+An overarching theme of Susan Wolf’s work is the concern to place morality, in the double sense of finding a place for it and of putting it in its place. Instead of rejecting morality altogether, she finds a place for it in human life by circumscribing the important work it performs.1 But she also puts morality in its place by showing that there are other kinds of value and importance besides the moral. The mere fact that a reason or motive is not clearly moral does not mean it should be relegated to the rank of the merely prudential or self-interested. Most of the reasons that make the world go round lie between the extremes
+
+See Wolf (2015d, p. 236).
+
+[p. 2]
+
+that this overly stark contrast presents as the only options. Most people find their reasons to live not in reasons of morality or reasons of self-interest, but in reasons of love, engendered by their love of persons they are attached to or pursuits they are passionate about.2
+
+If this is right, it suggests that philosophers, so far as they have been in thrall to this dualistic model of human reasons and motivations, have ignored much of what actually moves people—including, ironically, what moves them to do philosophy. It is a remarkable omission, which cries out for explanation in much the way an ideological blind spot does.
+
+That is not to say that the explanation is bound to be entirely disobliging. The sketch of such an explanation we get from Bernard Williams, for example—like Wolf, a critic of that starkly dualistic moral/nonmoral distinction—concedes that any society has reason to draw some version of that distinction and apply it to reasons for action. This is because, according to Williams, any society has reason to cultivate in its members dispositions to do things of the other-regarding sort, and the point of selecting certain motives for moral approbation is to reserve special praise for the steadier and more robust among those dispositions. The self-interested donor to charity does help others, which is better than buying up yet another house; but he only gives when he stands to profit, whereas the morally motivated donor has a charitable disposition that is more robust across variation in how donations affect his interests.3
+
+So far, this is a vindicatory explanation of the moral/nonmoral distinction, which not only accounts for its presence, but uncovers good reasons for us to use it in some form. What this neither explains nor vindicates, however, is the elaboration of that distinction into an exhaustive contrast between lofty moral and lowly prudential reasons. That, on
+
+See Wolf (2010, pp. 5–6). See Williams (2001b, pp. 66–68). This line of argument might be buttressed by Kitcher’s (2011) argument that a fundamental point of morality is to remedy what he calls “altruism failures.” See Queloz (2021) for an account of the normative significance of this type of vindicatory explanation.
+
+[p. 3]
+
+Williams’s account, is the story of how the moral/nonmoral distinction was harnessed by the “morality system,” that particular elaboration of ethical thought that bears the impress of Platonism and Christianity. On Williams’s view, the development of the morality system was driven in large part by wishful thinking—in particular, by the wish to offer “solace to the world’s unfairness” (1981a, p. 21) and “provide a shelter against luck” (1995a, p. 241)— although, in contrast to bleaker varieties of Marxism, Williams grants that the morality system “played a part in producing some actual justice in the world and in mobilizing power and social opportunity to compensate for bad luck in concrete terms” (2011, pp. 217-18), even if its promise of ultimate justice must in the end prove illusory.4
+
+This wish for solace to unfairness would help account for the dualistic model of reasons, since it must be a functional requirement on a morality promising solace to the world’s unfairness that it drown out any kind of value that might rival the moral value it presents as paramount—for how much solace can moral merit offer if it is merely a consolation prize one gets for losing out on myriad other forms of value?
+
+1. REASONS OF LOVE AS REASONS FOR CONCEPT USE
+
+Whatever the origins of this dualistic model of reasons, it is clear that once we are freed of its blinkering influence, many philosophical problems take a different shape. Let me illustrate this using a problem I have been working on, namely what kinds of reasons there are for us to cast our thoughts in certain terms rather than others. As comes out in Wolf’s own work, the question of how one should live is bound up with the task of determining which concepts and conceptions we have most reason to live by.5 Wolf argues, for example, that we should retain the concept of moral obligation, because it is “an exceptionally important and useful one,” but understand it in a certain way, namely so that it enables us
+
+I elaborate on this reading of Williams in Queloz (2022b). On the admixture of optimism and pessimism in Williams, see Russell (2019, 2022).
+
+See especially Wolf (2015d), but also the other essays gathered in Part IV of The Variety of Values under the heading of “the concept of duty.”
+
+[p. 4]
+
+to distinguish “what we are required to do from what it would be good, commendable, or best to do but which for all that is not required of us” (2015b, p. 4). On pain of undermining the very basis of their force with people, moral obligations must not be understood in a way that leads them to completely dominate people’s deliberations: they should not be taken to silence or override every other kind of reason, and they should not be so demanding as to put the concept of the supererogatory out of a job. The task of the moral philosopher is not just to carefully analyse a stock of concepts generally agreed to be authoritative. It involves showing why one has reason to accept certain concepts. Sometimes, the authority of a concept is in doubt—should we continue to think in terms of moral obligation or supererogation? Sometimes, rival conceptions of a concept compete, and we need to decide between them. And sometimes, philosophers put forward new conceptions, or even entirely new concepts, for us to adopt. In each case, the question arises: why should we grant that concept or conception the authority to shape our thought and conduct? What this question asks for is reasons for concept use. The concepts we use determine which aspects of things we are sensitive to and what implications we take them to carry— in short, our concepts determine what we regard as a reason for what. Reasons for concept use are second-order reasons determining which concepts and concomitant first-order reasons we should live by. Reflecting on our reasons for concept use can inform our appraisal of concepts, vindicate or subvert our confidence in them, and help us decide between rival conceptions. But where do reasons for concept use themselves come from? Historically, they have been sought in timeless rational foundations of one sort or another—Platonic Forms, the Mind of God, natural law, universal reason, or the structure of reality. Such Platonic—or, more broadly, foundationalist—approaches encourage us to seek reasons for concept use that are reasons for any concept-mongering creature. But there are also non-foundationalist approaches, which propose to evaluate concepts by some more contingent standard that expresses our humanity or even our more local
+
+[p. 5]
+
+situation. Henri Lauener aptly spoke in this connection of a “methodological humanism” (2001, p. 102), a more evocative label than the blankly negative “non-foundationalism.” “Methodological humanism” suggests that we should start not from disembodied intelligences or bloodless rational agents, but from actual human beings and their concerns. Especially when appraising thick concepts that give cultures and institutions their distinctive character, we should not ask whether our concepts correspond to some timeless standard that is completely independent of human affairs, but whether they help us to live by serving our concerns. I take the notion of serving a concern to be wider than the welfarist notion of contributing to well-being. A concern is whatever we care about, and we care about more than well-being.
+
+I find the kind of approach I favour inspiringly adumbrated in Ronald Dworkin’s debate with Bernard Williams over what political conception of liberty we have most reason to use.6 Their question is how we should respond to the notorious conflict between liberty and equality, and Dworkin maintains that we should seek reasons for concept use in theoretical virtues such as consistency or coherence. As he puts it, “integrity among our concepts is itself a value, so that we have that standing reason for seeking out, for preferring, conceptions of our values that do not conflict” (2001, p. 127). Accordingly, he advocates a conception of liberty which immunizes it against conflict with the concept of equality.
+
+Williams resists this, insisting that it is simply no good securing coherence between two concepts if it comes at the cost of severing the ties to the central human concerns that animate our use of these concepts in the first place. Our concepts should be answerable to the concerns we pursue with them, and these concerns cannot be redirected simply by redefining a concept (2001a, p. 94). If our concerns for liberty and equality conflict, we are not helped by being blinded to that fact by concepts that render such a conflict
+
+For detailed reconstructions of that debate, see Queloz (2023) and Cueni (2024).
+
+[p. 6]
+
+unintelligible. Our concepts should serve our concerns by helping us to express and meet those concerns; where our concerns irremediably conflict, so should our concepts.
+
+In my own work, I have sought to systematically develop this approach that evaluates concepts according to how well they serve our concerns. 7 But I have found that it consistently elicits a certain worry, namely that one ends up heeding the wrong kind of reasons, because the reasons for concept use it identifies are merely prudential. Sometimes, this wrong-kind-of-reasons worry is the product of an easily corrected misunderstanding. But sometimes, its roots go deeper, and this is where Wolf’s critique of the dualistic model of reasons proves crucial.
+
+The easily corrected misunderstanding that sometimes produces the wrong-kind-of-reasons worry is the conflation of a concept with its object. Confronted with the claim that we have reason to use the concept of X because it is instrumental to meeting some concern, people can be quick to retort that the value of X is not merely instrumental, and that to pursue X because it serves some ulterior concern is to act on the wrong kind of reason. But the value of X is one thing, the value of the concept of X quite another. Knowledge as a mental state, for example, can be valuable in various ways, both instrumentally and intrinsically. But the value of the concept of knowledge is a distinct issue. Its value is not the value of a state, but the value of a cognitive device that notably allows us to recognize knowledge as such and to think about knowledge. Were we not a social and language-using species that shares information, we might have no use for the concept of knowledge. We would still need knowledge itself, however, especially concerning our immediate environment and its threats and opportunities. We can grant that the wrong-kind-of-reasons worry should be taken seriously in thinking about the objects of our concepts. But this does not preclude our concepts from standing in instrumental relations to our concerns, even if the view we take of things when thinking
+
+See Queloz (2022a, 2024).
+
+[p. 7]
+
+in those terms is not an instrumental view. There can be instrumentality without instrumental mentality.
+
+Sometimes, however, the roots of the worry go deeper, and lie precisely in the dualistic model of reasons that Wolf invites us to question. Morality is geared towards the evaluation of individual actions and motives. It tends to focus blame on the voluntary breaking of moral obligations, and reserve praise for the willingness to fulfil one’s moral obligations simply because that is what they are. When it is not an action or a motive but a concept that is in the dock, however, morality’s evaluative machinery, keyed as it is to individual acts and motives, can make it hard to see how second-order reasons such as reasons for concept use could be moral reasons, especially if they do not take the form of moral obligations. Combine this with a dualistic model suggesting that whatever is not a moral reason must be a self-interested reason, and you reach the conclusion that all reasons for concept use must be merely prudential.
+
+But this combines three mistakes. First, morality’s evaluative machinery can be brought to bear on concepts, and plausibly yields at least some moral obligations to use certain concepts. If a basic demand of morality is that one fulfil one’s moral obligations because they are one’s moral obligations, this might be thought to entail a moral obligation to use the concept of moral obligation, or else some functional equivalent of it, such as the concept of the moral ought. Though if that characteristically Kantian demand is relaxed sufficiently to admit motivating reasons that register one’s moral obligations under more concrete descriptions, these would not have to employ either of these concepts: when under a moral obligation to keep a promise, for example, the all-purpose motivating thought “Because I am under a moral obligation to do so” need not figure in the agent’s deliberation at all; it might instead take the particularized form “Because I promised,” which makes no explicit use of the concept moral obligation.8
+
+Williams (1981b, p. 117) reads the Kantian demand that way, for instance.
+
+[p. 8]
+
+Second, some of the concerns that concepts serve will be moral concerns, and the reasons for concept use engendered thereby will be moral reasons, even if the relations between concepts and concerns are instrumental. The mere fact that the use of a concept is instrumental to realizing a concern does not make the concern itself instrumental. One’s concern for equality, say, might give one reason to adopt concepts whose use promotes equality and to abandon concepts that obstruct or frustrate that concern. This need not involve demoting concepts to the status of mere means, devoid of anything but instrumental value. In some cases, the use of a concept might itself instantiate the realization of the concern it serves.
+
+Third, the concerns that are not moral concerns need not therefore be self-interested or prudential. Like our reasons for action, reasons for concept use should not be thought of on a dualistic model that takes them to be exhausted by reasons of morality or selfinterest. People’s reasons for using concepts are as various as the concerns that propel them, and only a moralistic distortion could lead us to equate all non-moral concerns with self-interested ones. They need not even be self-centred concerns, in the sense in which an artist’s concern to create great art for the world might yet be said to be self-centred if it has to be him who creates it.9
+
+At the same time, it is not enough for a concept just to serve some concern or other. If a concern is to give me reason to use a concept, it must be a concern for me, which is to say that it must be a concern I am passionate about or identify with. In Wolf’s terminology, we might say that many of our most forceful reasons for concept use are reasons of love, generated by our subjective attachment to objectively worthy pursuits.10 The same reasons which, on Wolf’s account, give meaning to our lives also form of a large share of our reasons to live by certain concepts.
+
+See Williams (1981c, p. 13). Our concerns need not even be centered on any human beings— environmental concerns can center on the natural world, independently of its importance to human affairs. See Williams (1995b) and Krebs (1999).
+
+Wolf in turn adopts this terminology from Frankfurt (2004).
+
+[p. 9]
+
+Philosophers should know, since it is surely their love of philosophy as much as their sense of duty that leads them to so tirelessly analyse, refine, replace, reject, rehabilitate and create concepts. Their philosophical passions and projects give philosophers reasons to use the most abstruse concepts that no one else has reason to use, and that neither morality nor self-interest are well served by.
+
+2. CONCEPTUAL GOOD-FOR-NOTHINGS
+
+Locating the value of concepts in their aptness for serving our concerns might still seem reductive in one respect, however, namely insofar as it appears to reduce the goodness of concepts to what they are good for. Is it not equally a theme of Wolf’s work that cultural artefacts need not always be good in virtue of being good for something?11 Some artefacts seem to be valuable even though they are good-for-nothings. When learning about an art form, she observes, “one can feel a whole realm of value opening up before one;” one’s first acquaintance with “a poem or a novel or a painting” can have “the character of a discovery of something valuable in itself ” (2015a, p. 76).
+
+To make sense of valuable good-for-nothings, Wolf invites us to consider the view that realizing our intellectual and perceptual potentials is good-in-itself. … [A] part of human good involves being connected in appropriate ways to what the world has to offer. … [I]f we understand the world as containing objects and opportunities for experience that are of value in themselves, then we may think of our lives as better, as more fortunate, insofar as we are able to be in appreciative touch with some of the most valuable of these. (2015a, p. 76) Wolf primarily has works of art, philosophy, and science in mind; but concepts are cultural artefacts too, and sometimes form the backbones of innovative works of art,
+
+An observation echoed by Scanlon (1998, p. 143). Insofar as contributing to our well-being is a narrower idea than serving our concerns, because not all our concerns are directed to our well-being, I am broadening the contrast class here—a point which will become important below.
+
+[p. 10]
+
+philosophy, or science. Can concepts also be valuable good-for-nothings? Might this be the grain of truth that the wrong-kind-of-reasons worry points us towards? Wolf remarks that what makes philosophy good are things like “illuminating a problem” or offering novel ways of “interpreting our experience” and “understanding our relation to the world” (2015a, p. 85). Yet these are the same sorts of things that concepts achieve. And sometimes, acquiring a new concept does have “the character of a discovery of something valuable in itself ” (2015a, p. 76). The brilliant distinction, the delightful nuance, the buzz of grasping the world in a new and more orderly way—these will be recognizable to philosophers as experiences of value. Perhaps we can intelligibly value a concept simply for what it allows us to think, just as we can value a certain food for its taste rather than for its nutritional benefits. Whatever else it does, a new concept allows us to explore previously inaccessible aspects and dimensions of the world. When several new concepts band together, they can help us overcome the constraints of established ways of thinking, heighten our powers of perception, cast things in a new light, and open up new forms of knowledge. If, as Wolf proposes, “realizing our intellectual and perceptual potentials is good-in-itself,” this suggests that we should strive for a richer conceptual repertoire, even if the concepts are good-for-nothings. Something like this thought might underpin Iris Murdoch’s claim that “we need more concepts in terms of which to picture the substance of our being,” because “it is through an enriching and deepening of concepts that moral progress takes place” (1961, p. 20). In a similar vein, Williams presents “our major problem now” as being that we have “too few” ethical concepts, and “we need to cherish as many as we can” (2011, p. 130). And Wolf herself identifies a highly general motivation for enriching our conceptual repertoire: she calls it “love of the world … an attitude in which
+
+[p. 11]
+
+life seems endlessly fascinating, yielding countless objects of interest and admiration”
+
+But where does the conceptual proliferation encouraged by this attitude end? And does it have a sense of direction? Or should we see value in the indiscriminate multiplication of concepts and distinctions? Surely, the idea cannot simply be that more is always better. Williams himself warned against chasing what he called “the shudder of the exquisite distinction” merely for its own sake, on the grounds that it risked degenerating into frivolous hair-splitting of the sort epitomized by J. L. Austin’s Saturday morning meetings.13 And Murdoch’s case for moral progress through concept acquisition, which rests on acknowledging moral differences consisting simply in how one sees a situation,14 invites the more discriminating question of what makes certain concepts progressive, and what makes a particular way of seeing the situation important. We need some guiding sense of what kinds of conceptual diversity are worth having.
+
+What is needed here is what I think of as two-pronged Wolfian thought: it is only if a certain way of conceptualizing the world is objectively valuable that a concept counts as a valuable good-for-nothing; but if, like Wolf, we want “no commitment to a Platonic world of ideas and values that are independent of human existence” (2015a, p. 77), the recognition of that objective value must itself be understood, if only at the level of philosophical reflection, as taking place from within our conceptual apparatus. We are already well equipped to discriminate between pointless hair-splitting and worthwhile distinctions, but not because worthwhile distinctions are always identifiable antecedently of human beings and their concerns. It is on the basis of the concerns and concepts we
+
+Bertrand Russell struck a similar note when he wrote: “Philosophy is to be studied … above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest
+
+The tone of Austin’s Saturday morning meetings is vividly evoked in Warnock (1973) and Krishnan See Murdoch (1956).
+
+[p. 12]
+
+bring to the evaluation that we discern objective value in certain distinctions or ways of seeing a situation. And indeed, this foothold in our concerns also comes out in the way Wolf invites us to make philosophical sense of the goodness of good-for-nothings. She focuses on showing that they can have non-welfarist value, a form of goodness that is independent of their contribution to well-being. But in helping us make philosophical sense of that goodness, she still appeals to human concerns, such as the concern to realize one’s intellectual and perceptual potentials, or the concern to appreciate what the world has to offer. These are highly general epistemic and aesthetic concerns; they may be nothing like the hardheaded concern to deliver measurable benefits to longevity and health that the welfare theorist had in mind, but they are among the most characteristic of human concerns. I take this to be illustrative of what a methodologically humanistic rather than Platonic approach should aim for: to be attentive to forms of value that are not reducible to welfarist calculations, and yet to understand those forms of value in a way that retains, if only at the level of philosophical explanation, a foothold in human concerns. The fact that Wolf explains the value of good-for-nothings by tying them back to human concerns is not just an incidental feature of her examples, but reflects a general hermeneutic constraint on methodologically humanistic reflection: the value of concepts must be related to the human point of view at the level of reflective explanation. This does not entail that we can only value concepts narrowly in terms of their instrumentality to meeting human concerns. But it does entail that the value we see in concepts expresses a human attitude, and that we must be able to make reflective sense of that attitude in humanistic terms. That is to say, we must be able to see how the attitude of valuing concepts for their own sake meshes with the rest of human affairs, so that we can explain to ourselves the human significance of seeing inherent value in concepts. The hermeneutic constraint is therefore this: to be able to make reflective sense of how certain concepts can be valuable in their own right, we need to be able to see how the attitude of valuing them in this way relates to some recognizable human concern. As long
+
+[p. 13]
+
+as the attitude of valuing certain concepts for their own sake remains disconnected from any human concern, the claim that those concepts are inherently valuable will not be fully intelligible to us under reflection. It follows that the goodness of concepts cannot ultimately be completely independent of human concerns. If we entirely lacked certain concerns, the delightful nuance, the exciting concept, the important difference in how we see a situation—these would be stripped of their significance. A concept’s objective value is causally, though not necessarily logically, dependent on its enmeshment in a certain practice animated by certain concerns. Insisting that even conceptual good-for-nothings still have to tie in with some human concern at this reflective level puts the problem of indiscriminate conceptual proliferation back in its box, since the enrichment of our conceptual repertoire can draw the evaluative resources to be more discriminating from its roots in our concerns. At the same time, once we replace the dualistic model of human reasons and motivations with a broader picture of human concerns and reflect on how seemingly idle concepts might make contact with our concerns after all, this puts pressure on the idea that conceptual good-for-nothings really are good for nothing. If only at the reflective level of philosophical explanation, I have argued, the concepts we experience as inherently valuable are in fact good for something: realizing one’s intellectual and perceptual potentials, notably, and appreciating what the world has to offer. It is really only on a restricted understanding of being good for something, such as the welfarist conception of goodness, that concepts are intelligible as good-for-nothings at the reflective level. Even so, Wolf’s point about good-for-nothings retains its force. We still come to appreciate that we value some things, including concepts, for their own sake, without understanding their value exclusively in terms of their contribution to well-being or their instrumentality in meeting our concerns. What I have sought to add is that these other forms of goodness must retain some connection to recognizable human concerns at the level of philosophical reflection if they are to make sense to us in humanistic terms. This
+
+[p. 14]
+
+addition achieves two things: it indicates on what basis we might discriminate between more or less important additions to the conceptual repertoire; and it reinforces the point that we need a more nuanced picture of human motivations to appreciate the range of ways in which things, including concepts, can be valuable.
+
+Thinking through the value of conceptual good-for-nothings thus leads us back to the importance of reasons of love. If there is value in acquiring new concepts, appreciating fresh nuances, and becoming sensitive to finer distinctions, it is because we have more reasons for concept use than the dualistic model would have us believe. We are concerned not merely to increase our own well-being or that of others, but to realize our intellectual potentials, be attentive to the world around us, and appreciate what it has to offer. With her notion of love of the world, Wolf offers us a valuable conceptual lens that renders these invisible concerns visible. Philosophers have every reason to use it.15
+
+I am grateful to Susan Wolf, Dagfinn Føllesdal, Michael Frauchiger, Markus Stepanians, Claus Beisbart, Alex Burri, Paul Russell, Tim Scanlon, Douglas MacLean, David Velleman, Verena Wagner, Monika Betzler, Samuel Scheffler, Béatrice Lienemann, Hanno Birken-Bertsch, Jörg Löschke, and the other participants at the 2022 Lauener Symposium for their comments on this paper, and to Damian Cueni and Jelscha Schmid for helpful discussions of these issues. The text partially overlaps, especially in section 2, with the end of Chapter 8 of Queloz (2024), and I am grateful to Oxford University Press for permission to draw on this material here.
+
+[p. 15]
+
+
+REFERENCES
+
+Cueni, D. (2024). Constructing Liberty and Equality: Political, Not Juridical. Jurisprudence.
+
+Dworkin, R. (2001). Do Liberal Values Conflict? In M. Lilla, R. Dworkin, & R. Silvers (Eds.), The Legacy of Isaiah Berlin (pp. 73–90). New York: New York Review of Books.
+
+Frankfurt, H. G. (2004). The Reasons of Love. Princeton: Princeton University Press.
+
+Kitcher, P. (2011). The Ethical Project. Cambridge, MA: Harvard University Press.
+
+Krebs, A. (1999). Ethics of Nature: A Map. Berlin: De Gruyter.
+
+Krishnan, N. (2023). A Terribly Serious Adventure: Philosophy at Oxford 1900–60. London: Profile Books.
+
+Lauener, H. (2001). Ethik des methodologischen Humanismus: Kritische Bemerkungen zur Relativität von Normen und zum Pluralismus von Systemen der Moral. Erkenntnis, 54(1), 77– 103.
+
+Murdoch, I. (1956). Vision and Choice in Morality. Proceedings of the Aristotelian Society, Supplementary Volumes, 30, 32–58.
+
+Murdoch, I. (1961). Against Dryness: A Polemical Sketch. Encounter, 16(1), 16–20.
+
+Queloz, M. (2021). The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering. Oxford: Oxford University Press.
+
+Queloz, M. (2022a). Function-Based Conceptual Engineering and the Authority Problem. Mind,
+
+Queloz, M. (2022b). A Shelter from Luck: The Morality System Reconstructed. In A. Szigeti, & M. Talbert (Eds.), Morality and Agency: Themes from Bernard Williams (pp. 182–209). New York: Oxford University Press.
+
+Queloz, M. (2023). The Dworkin–Williams Debate: Liberty, Conceptual Integrity, and Tragic Conflict in Politics. Philosophy and Phenomenological Research, Early View, 1–27.
+
+Queloz, M. (2024). The Ethics of Conceptualization: A Needs-Based Approach. Oxford: Oxford University Press.
+
+Russell, B. (1912). The Problems of Philosophy. Oxford: Oxford University Press.
+
+Russell, P. (2019). Hume’s Optimism and Williams’s Pessimism: From ‘Science of Man’ to Genealogical Critique. In S.-G. Chappell, & M. van Ackeren (Eds.), Ethics Beyond the Limits:
+
+[p. 16]
+
+New Essays on Bernard Williams’ Ethics and the Limits of Philosophy (pp. 37–52). London: Routledge.
+
+Russell, P. (2022). Free Will and the Tragic Predicament: Making Sense of Williams. In A. Szigeti, & M. Talbert (Eds.), Morality and Agency: Themes from Bernard Williams (pp. 161–181). New York: Oxford University Press.
+
+Scanlon, T. M. (1998). What We Owe to Each Other. Cambridge, MA: Harvard University Press.
+
+Warnock, G. J. (1973). Saturday Mornings. In Essays on J. L. Austin (pp. 31–45). Oxford: Clarendon Press.
+
+Williams, B. (1981a). Moral Luck. In Moral Luck (pp. 20–39). Cambridge: Cambridge University Press.
+
+Williams, B. (1981b). Ought and Moral Obligation. In Moral Luck (pp. 114–23). Cambridge: Cambridge University Press.
+
+Williams, B. (1981c). Persons, Character and Morality. In Moral Luck (pp. 1–19). Cambridge: Cambridge University Press.
+
+Williams, B. (1995a). Moral Luck: A Postscript. In Making Sense of Humanity and Other Philosophical Papers, 1982–1993 (pp. 241–247). Cambridge: Cambridge University Press.
+
+Williams, B. (1995b). Must a Concern for the Environment Be Centred on Human Beings? In Making Sense of Humanity and Other Philosophical Papers, 1982–1993 (pp. 233–240). Cambridge: Cambridge University Press.
+
+Williams, B. (2001a). Liberalism and Loss. In M. Lilla, R. Dworkin, & R. Silvers (Eds.), The Legacy of Isaiah Berlin (pp. 91–103). New York: New York Review of Books.
+
+Williams, B. (2001b). Morality: An Introduction to Ethics. Cambridge: Cambridge University Press.
+
+Williams, B. (2011). Ethics and the Limits of Philosophy. London: Routledge.
+
+Wolf, S. (2010). Meaning in Life and Why It Matters. Princeton: Princeton University Press.
+
+Wolf, S. (2015a). Good-for-Nothings. In The Variety of Values: Essays on Morality, Meaning, and Love (pp. 67–85). New York: Oxford University Press.
+
+Wolf, S. (2015b). Introduction. In The Variety of Values: Essays on Morality, Meaning, and Love (pp. 1–9). New York: Oxford University Press.
+
+[p. 17]
+
+Wolf, S. (2015c). Loving Attention. In The Variety of Values: Essays on Morality, Meaning, and Love (pp. 163–80). New York: Oxford University Press.
+
+Wolf, S. (2015d). Moral Obligations and Social Commands. In The Variety of Values: Essays on Morality, Meaning, and Love (pp. 233–54). New York: Oxford University Press.

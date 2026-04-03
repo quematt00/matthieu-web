@@ -1,6 +1,8 @@
 ---
 title: "The Points of Concepts: Their Types, Tensions, and Connections"
 year: "2019"
+llm_text_markdown: "/llm/papers/the-points-of-concepts-their-types-tensions-and-connections.md"
+llm_text_plain: "/llm/papers/the-points-of-concepts-their-types-tensions-and-connections.txt"
 tags:
   - "concepts"
   - "conceptual-ethics"

@@ -1,6 +1,8 @@
 ---
 title: "Internalism from the Ethnographic Stance: From Self-Indulgence to Self-Expression and Corroborative Sense-Making"
 year: "2025"
+llm_text_markdown: "/llm/papers/internalism-from-the-ethnographic-stance-from-self-indulgence-to-self-expression-and-corroborative-sense-making.md"
+llm_text_plain: "/llm/papers/internalism-from-the-ethnographic-stance-from-self-indulgence-to-self-expression-and-corroborative-sense-making.txt"
 tags:
   - "deliberation"
   - "ethics"

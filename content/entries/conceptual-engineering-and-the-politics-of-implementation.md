@@ -1,6 +1,8 @@
 ---
 title: "Conceptual Engineering and the Politics of Implementation"
 year: "2022"
+llm_text_markdown: "/llm/papers/conceptual-engineering-and-the-politics-of-implementation.md"
+llm_text_plain: "/llm/papers/conceptual-engineering-and-the-politics-of-implementation.txt"
 tags:
   - "bieber"
   - "conceptual-engineering"

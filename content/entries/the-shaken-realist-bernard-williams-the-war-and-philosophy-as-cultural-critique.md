@@ -1,6 +1,8 @@
 ---
 title: "The Shaken Realist: Bernard Williams, the War, and Philosophy as Cultural Critique"
 year: "2023"
+llm_text_markdown: "/llm/papers/the-shaken-realist-bernard-williams-the-war-and-philosophy-as-cultural-critique.md"
+llm_text_plain: "/llm/papers/the-shaken-realist-bernard-williams-the-war-and-philosophy-as-cultural-critique.txt"
 tags:
   - "cultural-critique"
   - "ethics"

@@ -1,6 +1,8 @@
 ---
 title: "Two Orders of Things: Wittgenstein on Reasons and Causes"
 year: "2017"
+llm_text_markdown: "/llm/papers/two-orders-of-things-wittgenstein-on-reasons-and-causes.md"
+llm_text_plain: "/llm/papers/two-orders-of-things-wittgenstein-on-reasons-and-causes.txt"
 tags:
   - "causation"
   - "action-theory"

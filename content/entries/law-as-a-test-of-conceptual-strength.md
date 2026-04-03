@@ -1,6 +1,8 @@
 ---
 title: "Law as a Test of Conceptual Strength"
 year: "forthcoming"
+llm_text_markdown: "/llm/papers/law-as-a-test-of-conceptual-strength.md"
+llm_text_plain: "/llm/papers/law-as-a-test-of-conceptual-strength.txt"
 tags:
   - "conceptual-strength"
   - "conceptual-engineering"

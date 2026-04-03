@@ -1,6 +1,8 @@
 ---
 title: "The Invented Inventor: Adapting Intellectual Property to Generative AI"
 year: "manuscript"
+llm_text_markdown: "/llm/papers/the-invented-inventor-adapting-patent-law-to-generative-ai.md"
+llm_text_plain: "/llm/papers/the-invented-inventor-adapting-patent-law-to-generative-ai.txt"
 tags:
   - "intellectual-property-rights"
   - "patents"

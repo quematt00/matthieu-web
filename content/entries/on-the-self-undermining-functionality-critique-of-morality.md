@@ -1,6 +1,8 @@
 ---
 title: "On the Self-Undermining Functionality Critique of Morality"
 year: "2023"
+llm_text_markdown: "/llm/papers/on-the-self-undermining-functionality-critique-of-morality.md"
+llm_text_plain: "/llm/papers/on-the-self-undermining-functionality-critique-of-morality.txt"
 tags:
   - "functionality"
   - "function"

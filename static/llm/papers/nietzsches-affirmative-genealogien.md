@@ -1,0 +1,163 @@
+# Nietzsches affirmative Genealogien
+
+Author: Matthieu Queloz
+Published in: *Deutsche Zeitschrift für Philosophie* 67 (3): 429–439. By invitation. 2019. [doi:10.1515/dzph-2019-0034](https://doi.org/10.1515/dzph-2019-0034)
+DOI: [10.1515/dzph-2019-0034](https://doi.org/10.1515/dzph-2019-0034)
+Canonical entry: https://www.matthieuqueloz.com/entries/nietzsches-affirmative-genealogien/
+Published PDF: https://philpapers.org/archive/QUENAG-2.pdf
+
+Machine-readable text companion generated from the PDF. Page markers follow the journal pagination.
+
+[p. 430]
+
+Nietzsche die Genealogie also zumindest durch dokumentarische Geschichte informiert wissen.3 Wenden wir uns hingegen Nietzsches früheren Genealogien zu, präsentiert sich uns ein ganz anderes Bild. Ein besonders deutliches Beispiel ist Nietzsches Skizze einer Genealogie der Gerechtigkeit im Abschnitt „Zur Geschichte der moralischen Empfindungen“ in Menschliches, Allzumenschliches (1878).4 Sie beginnt wie folgt: Ursprung der Gerechtigkeit. – Die Gerechtigkeit (Billigkeit) nimmt ihren Ursprung unter ungefähr gleich Mächtigen, wie diess Thukydides (in dem furchtbaren Gespräche der athenischen und melischen Gesandten) richtig begriffen hat; wo es keine deutlich erkennbare Uebergewalt giebt und ein Kampf zum erfolglosen, gegenseitigen Schädigen würde, da entsteht der Gedanke sich zu verständigen und über die beiderseitigen Ansprüche zu verhandeln: der Charakter des Tausches ist der anfängliche Charakter der Gerechtigkeit. Jeder stellt den Andern zufrieden, indem Jeder bekommt, was er mehr schätzt als der Andere. […] Gerechtigkeit geht natürlich auf den Gesichtspunct einer einsichtigen Selbsterhaltung zurück, also auf den Egoismus jener Ueberlegung: „wozu sollte ich mich nutzlos schädigen und mein Ziel vielleicht doch nicht erreichen?“ – Soviel vom Ursprung der Gerechtigkeit.5 Auffällig an dieser Genealogie ist, dass sie den Ursprung der Gerechtigkeit in keiner Weise historisch zu situieren versucht. Im Gegenteil – ihr einziger historischer Verweis geht auf eine Situation, in der Fragen der Gerechtigkeit gerade nicht aufkamen: Im sogenannten Melierdialog berichtet Thukydides, wie die athenischen Gesandten sich weigerten, die Gerechtigkeit ihrer Forderungen an die militärisch unterlegen Melier zu verhandeln, mit der Begründung, Gerechtigkeitsfragen fänden nur unter Gleichstarken Anwendung. Ansonsten täten die Stärkeren, was sie könnten, und die Schwächeren erlitten, was sie müssten.6 Ein noch früheres Beispiel, in dem Nietzsche auch eher von einem hobbesschen Naturzustand ausgeht als von datierbaren Ereignissen, ist Nietzsches Genealogie des Willens zur Wahrheit, die er in „Über Wahrheit und Lüge im ausser­moralischen Sinne“ (1873) skizziert und in zahlreichen Nachlassnotizen expliziert. Der Wille zur Wahrheit wird dabei so verstanden, dass er sowohl den Willen zum Suchen als auch den zum Sagen der Wahrheit beinhaltet. Nietzsches Genealogie zufolge entsteht der erste Aspekt aus individuellen Bedürfnissen: 3 Für eine Foucault-inspirierte Lesart der Genealogie der Moral als eine Kritik der Geschichtsschreibung vgl. Thiel (2017). 4 Eine detaillierte Rekonstruktion dieser Genealogie und eine Diskussion einiger hier aus Platzgründen unterschlagenen Nuancen finden sich in Queloz (2017). Zu Nietzsches Gerechtigkeitsbegriff vgl. auch Elgat (2016), Knoll (2009), Patton (2013) u. Petersen (2015). 5 KSA 2, 89–90 (Hervorh. im Orig.).
+
+6 Vgl. Thukydides (2014), 5.85–111.
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM
+
+[p. 431]
+
+Nach dem Austritt des Menschen aus dem „bellum omnium contra omnes“7 durch den Eintritt in Gesellschaft und Sprache streben kluge Individuen danach, nützliche Wahrheiten zu sammeln und gefährliche Täuschungen zu durchschauen. So entsteht der durch individuelle Interessen motivierte und ebenso limitierte Wille zum Suchen der Wahrheit.8 Der zweite Aspekt entsteht aus sozialen Bedürfnissen: Weil soziale Kohäsion und Kooperation davon abhängen, dass sich nicht alle ständig belügen, stellt die Gesellschaft eine Pflicht auf, die Wahrheit zu sagen: „Man antecipirt die schlimmen Folgen gegenseitiger Lügen. Von hier aus entsteht die Pflicht der Wahrheit“9. Dem gleichen Nützlichkeitskalkül folgend, gestattet man dem „epischen Erzähler“ die Lüge, „weil hier keine schädliche Wirkung zu ersehen ist“10. So entsteht der durch soziale Interessen motivierte und limitierte Wille zum Sagen der Wahrheit.11 In beiden Genealogien werden diese instrumentell motivierten Praktiken anschließend moralisiert, so dass der Anspruch entsteht, dass sie über ihre Ursprungsbereiche hinaus Anwendung finden. In § 92 von Menschliches, Allzumenschliches führt Nietzsche aus, wie der ursprüngliche Zweck der Gerechtigkeit vergessen wird und man Kinder jahrtausendelang zur Bewunderung und Nachahmung gerechter Handlungen erziehe, wodurch Gerechtigkeit allmählich als etwas Unegoistisches und Moralisches wahrgenommen werde. Analog dazu geraten auch in der Genealogie des Willens zur Wahrheit die instrumentellen Ursprünge in Vergessenheit und der Wille wird moralisiert, so dass er nicht mehr vom absehbaren Nutzen abhängt, sondern unbedingt wird. Dadurch wird er nicht mehr nur dort an den Tag gelegt, wo er nützlich ist – innerhalb einer Gemeinschaft und unter Wohlgesinnten – sondern überall.12 Nietzsche führt dieses Schema in „Der Wanderer und sein Schatten“ allgemeiner aus: Die Bedeutung des Vergessens in der moralischen Empfindung. – Die selben Handlungen, welche innerhalb der ursprünglichen Gesellschaft zuerst die Absicht auf gemeinsamen Nutzen eingab, sind später von anderen Generationen auf andere Motive hin gethan worden: aus Furcht oder Ehrfurcht vor Denen, die sie forderten und anempfahlen, oder aus 7 KSA 1, 877.
+
+8 Vgl. ebd., 875–883; KSA 7, 1872, 19[175–177]; KSA 11, 1885, 40[43]. 9 KSA 7, 1872, 19[97] (Hervorh. im Orig.).
+
+10 Ebd.
+
+11 KSA 1, 875–883; KSA 7, 1872, 19[97, 175–177, 207]; KSA 10, 1883, 24[19]; KSA 11, 1885, 40[43]; KSA 12, 1886, 7[6].
+
+12 Vgl. KSA 11, 1885, 40[43]; KSA 12, 1886, 7[6]. Für eine ausführlichere Rekonstruktion dieser Genealogie vgl. Queloz (i. V. c). Für einen Kommentar zu „Wahrheit und Lüge“ vgl. Scheibenberger (2016).
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM
+
+[p. 432]
+
+Gewohnheit, weil man sie von Kindheit an um sich hatte thun sehen, oder aus Wohlwollen, weil ihre Ausübung überall Freude und zustimmende Gesichter schuf, oder aus Eitelkeit, weil sie gelobt wurden. Solche Handlungen, an denen das Grundmotiv, das der Nützlichkeit, vergessen worden ist, heissen dann moralische: nicht etwa, weil sie aus jenen anderen Motiven, sondern weil sie nicht aus bewusster Nützlichkeit gethan werden. […] So entsteht der Anschein, als ob die Moral nicht aus dem Nutzen herausgewachsen sei: während sie ursprünglich der Gesellschafts-Nutzen ist, der grosse Mühe hatte, sich gegen alle die PrivatNützlichkeiten durchzusetzen und in höheres Ansehen zu bringen.13 Wie hier deutlich wird, geht es Nietzsche in diesen Genealogien nicht um datierbare Ursprünge. Worum geht es ihm dann? Meine dreigliedrige These ist erstens, dass es Nietzsche hier um praktische Ursprünge geht; zweitens, dass seine frühen Genealogien deshalb einen affirmativen Aspekt haben; und drittens, dass sich dieser affirmative Aspekt genauer bestimmen lässt als eine Form dessen, was Nietzsche in seinem Spätwerk die ökonomische Rechtfertigung der Moral nennt.
+
+2 Praktische Ursprünge und Begriffsinstrumentalismus Widmen wir uns zunächst dem ersten Teil dieser These: Nietzsche beleuchtet die praktischen Ursprünge der Gerechtigkeit und des Willens zur Wahrheit in dem Sinne, dass er aufzeigt, aus welchen Bedürfnissen heraus sich diese Werte entwickeln. Im Vordergrund steht dabei nicht, wann und wo die Werte aufgekommen sind, sondern zu welchem Problem sie eine Lösung liefern, wenn sie denn aufkommen. Unter dem Einfluss von Schopenhauer, von Neukantianern wie Friedrich Lange und Afrikan Spir sowie nicht zuletzt von Darwins Evolutionstheorie versucht Nietzsche, historisch-funktionalistische Erklärungsformen von der Sphäre des Lebendigen auf die Sphäre des Begrifflichen zu übertragen: „Die Begriffe sind etwas Lebendiges, folglich auch etwas bald Wachsendes, bald Schwindendes: viele Begriffe sind eines elenden Todes gestorben. Sie wären im Gleichnisse wohl als Zellen zu bezeichnen, mit einem Zellen-Kern und einem Leibe herum“14. Daraus geht unter anderem eine instrumentalistische Sichtweise auf (Wert-) Begriffe hervor. Begriffe sind „Mittel, uns die Welt handlich zu machen“15, die 13 KSA 2, 570–571 (Hervorh. im Orig.).
+
+14 KSA 11, 1885, 40[51].
+
+15 Ebd., 34[58].
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM
+
+[p. 433]
+
+sich in unterschiedlichem Maße bewährt haben, und die „nützlichsten Begriffe sind übrig geblieben“16. Was Begriffe nützlich macht, ist ihre instrumentelle Beziehung zu den Bedürfnissen der Begriffsnutzenden. Wie Nietzsche es 1885 formuliert: „Unsere Begriffe sind von unserer Bedürftigkeit inspirirt“17. Es ist allerdings wichtig zu sehen, dass Nietzsches Begriffsinstrumentalismus nicht implizieren soll, dass alles Denken Zweck-Mittel-Denken ist. Nur weil Begriffe Mittel sind, uns die Welt handlich zu machen, heißt das nicht, dass sie Begriffe von Mitteln sein müssen. Im Gegenteil – es geht Nietzsche gerade darum zu zeigen, wie aus durch Eigeninteressen bedingte Wertschätzungen unbedingte Wertschätzungen werden konnten, und dabei ist die Einsicht wesentlich, dass auch nichtinstrumentelle Denk- und Wertungsweisen ihren Nutzen haben. Nietzsches Begriffsinstrumentalismus zielt also nicht auf die Explikation des Gehalts unserer Begriffe. Vielmehr handelt es sich bei Nietzsches Begriffsinstrumentalismus um eine explanatorische These: Er versucht zu erklären, wie und warum diese Begriffe entstanden sind, „ohne zur Annahme metaphysischer Eingriffe am Beginn und im Verlaufe der Bahn seine Zuflucht zu nehmen“18. Er tut dies, indem er die Begriffe auf die Bedürfnisse begriffsnutzender Wesen in bestimmten Situationen zurückführt und aufzeigt, inwiefern diese Begriffe geeignete Antworten auf praktische Herausforderungen darstellen.
+
+Die gleiche explanatorische Strategie verfolgt Nietzsche auch bei Tugenden und moralischen Wertschätzungen. Schon 1872 meint er: „Alle Tugenden entstehn aus Nothdurften“19. In Die fröhliche Wissenschaft (1882) hält er fest: „Wo wir eine Moral antreffen, da finden wir eine Abschätzung und Rangordnung der menschlichen Triebe und Handlungen. Diese Schätzungen und Rangordnungen sind immer der Ausdruck der Bedürfnisse einer Gemeinde und Heerde“20. Die durch diese skizzenhaften genealogischen Rückführungen auf praktische Ursprünge exemplifizierte Vorgehensweise zeichnet sich durch vier Charakteristika aus: Erstens wird nach der ursprünglichen Funktion eines Begriffs gefragt, der normalerweise gar nicht unter diesem instrumentellen Gesichtspunkt betrachtet wird.
+
+Zweitens wird gezeigt, dass der Begriff ursprünglich funktional ist, in dem Sinne, dass er in einer instrumentellen Beziehung zu bestimmten Bedürfnissen 16 Ebd., 34[62] (Hervorh. im Orig.).
+
+17 Ebd., 2[77] (Hervorh. im Orig.).
+
+18 KSA 2, 30 (Hervorh. im Orig.).
+
+19 KSA 7, 1872, 19[175].
+
+20 KSA 3, 474.
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM
+
+[p. 434]
+
+und Interessen steht. Damit wird gezeigt, dass es für Wesen mit den aus diesen Bedürfnissen und Interessen hervorgehenden Handlungsgründen prima facie rational wäre, von einem Initialzustand, in dem der Begriff noch nicht operativ ist, in einen Zielzustand überzugehen, in dem der Begriff und die damit verbundenen Handlungsgründe operieren. Drittens rührt der Witz einer solchen Erklärung gerade daher, dass es keinen direkten oder offensichtlichen Weg gibt, über den sich ein Individuum eigenständig in diesen Zielzustand hineinräsonieren könnte, ohne dass dabei bereits der zu erklärende Begriff vorausgesetzt würde. Was den Zielzustand für individuelle instrumentelle Überlegungen unerreichbar macht, kann zum Beispiel sein, dass der Übergang zwingend die Lösung spieltheoretischer Koordinationsprobleme involviert; oder es hat damit tun, dass der Übergang die Schaffung neuer Werte involviert, was ein sozialer Prozess ist und vom Individuum alleine nicht zu bewerkstelligen ist.
+
+Viertens zeichnet die genealogische Erklärung trotzdem einen plausiblen Weg vom Initial- zum Zielzustand, indem sie Mechanismen oder psychologische Dynamiken darlegt, die den Übergang erklären, ohne den Besitz des zu erklärenden Begriffs vorauszusetzen oder auf metaphysische Ad-hoc-Annahmen zurückzufallen.21 In Nietzsches frühen Genealogien ist dieser Weg immer der gleiche: Zuerst sehen sich Individuen unter bestimmten Umständen von instrumentellen Motivationen dazu getrieben, das, was später z. B. als gerechtes oder wahrhaftiges Verhalten erkennbar wird, an den Tag zu legen. Dann gehen diese instrumentellen Ursprünge über Generationen vergessen. Weil Nachkommen aber nach wie vor dazu angehalten werden, dieses Verhalten nachzuahmen, werden Gerechtigkeit oder Wahrhaftigkeit um ihrer selbst willen verfolgt. Dadurch werden sie allmählich auch dort an den Tag gelegt, wo sie keinen instrumentellen Wert haben. Wie Nietzsche über den Wahrheitstrieb sagt: Es handelt sich um „eine Erweiterung“ oder „ein Hart- und Festwerden einer in gewissen Fällen nöthigen Denk- und Handelnsweise“22. „Die Noth erzeugt, unter Fällen, die Wahrhaftigkeit, als Existenzmittel einer Societät,“ und „[d]urch häufige Übung erstarkt der Trieb und wird jetzt durch Metastase, unberechtigt, übertragen. Er wird zum Hang an sich“23. Nietzsche beschreibt die Erweiterung eines Wertes jenseits seiner ursprünglichen Nützlichkeitssphäre als „unberechtigt“. Zum einen muss das noch nicht heißen, dass sie kritikwürdig ist; sie kann auch einfach eine rational kontingente 21 Dieses Genealogie-Verständnis entspricht demjenigen von Bernard Williams. Vgl. Williams (2000) u. ders. (2002), 31–35, sowie Queloz (2018) u. ders. (i. V. a). 22 KSA 7, 1872, 19[178].
+
+23 Ebd., 19[177].
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM
+
+[p. 435]
+
+historische Gegebenheit darstellen. Zum anderen heißt es aber, dass der Wert innerhalb seiner Nützlichkeitssphäre eine gewisse Berechtigung hat. Und damit kommen wir zum zweiten Teil meiner These: dass diese frühen Genealogien einen affirmativen Aspekt haben.
+
+3 Unbedenklich und unentbehrlich: Der affirmative Aspekt Was diese frühen Genealogien affirmativ macht, ist ihre pragmatische Dimension: die Tatsache, dass sie Begriffe an die Bedürfnisse begriffsnutzender Subjekte zurückbinden. Einerseits hat dies eine naturalisierende Wirkung: Es lässt die natürliche Entstehung solcher Begriffe nachvollziehbar werden und macht damit metaphysische Eingriffe redundant. Andererseits hat es aber auch eine rechtfertigende Wirkung: Es macht den instrumentellen Zusammenhang zwischen diesen Begriffen und bestimmten Bedürfnissen und Interessen sichtbar und weist damit die Bildung solcher Begriffe für Wesen mit diesen Bedürfnissen und Interessen als prima facie rational aus. Es zeigt, dass wir diese Denk- und Wertungsweisen benötigen, wenn wir diese Bedürfnisse teilen. Und es macht deutlich, was verloren zu gehen droht, wenn wir diese Denk- und Wertungsweisen aufgeben. Die pragmatisch-genealogische Rückführung auf Bedürfnisse ist damit doppelt affirmativ: Sie weist Begriffe als zumindest im Kern unbedenklich und unentbehrlich aus.
+
+Wie Nietzsche selber sagt, ist es wichtig, diesen nützlichen Kern herauszuarbeiten, weil man sonst Gefahr läuft, kritikwürdige Aspekte auf Kosten der basalen Leistung eines Begriffs zu betonen. Man „muss die historische Berechtigung, ebenso die psychologische in solchen Vorstellungen begreifen“, und „muss erkennen, wie die grösste Förderung der Menschheit von dorther gekommen sei und wie man sich, ohne eine solche rückläufige Bewegung, der besten Ergebnisse der bisherigen Menschheit berauben würde“24. Weil die grundlegende Funktionalität vieler Begriffe schnell übersehen oder vergessen wird, ist eine pragmatisch-genealogische Rückbesinnung auf ihre Kernleistung vonnöten, wenn diese nicht verloren gehen soll.
+
+Es stimmt natürlich, dass Nietzsche dazu tendiert, sich von seiner kritischen Seite zu zeigen. Doch ist es auch nicht so, dass man ihm Gewalt antun muss, um einen affirmativen Aspekt in seinen Genealogien zu erkennen. In seinen Notiz- 24 KSA 2, 41–42.
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM
+
+[p. 436]
+
+bucheinträgen von 1887 und 1888 sagt er einiges mehr dazu, wie genau er sich die rechtfertigende Wirkung seiner Überlegungen zur Moral denkt – womit wir beim dritten Teil meiner These angelangt wären.
+
+4 Nietzsches Begriff der ökonomischen Rechtfertigung der Moral In seinem Spätwerk spricht Nietzsche von der „Rechtfertigung der Moral“.25 Er unterscheidet dabei vier Rechtfertigungsformen: die ökonomische, die ästhetische, die politische, und die physiologische.26 Die ökonomische ist diejenige, die uns hier interessiert. Nietzsche schreibt dazu: „Ich versuche eine ökonomische Rechtfertigung der Tugend. – Die Aufgabe ist, den Menschen möglichst nutzbar ‹zu› machen, und ihn soweit es irgendwie angeht der unfehlbaren Maschine zu nähern: zu diesem Zwecke muß er mit Maschinen-Tugenden ausgestattet werden“; das heißt, der Mensch „muß die Zustände, in welchen er machinal-nutzbar arbeitet, als die höchstwerthigen empfinden lernen“ und „von einem höheren Reize umspielt sehen lernen“27. Die Rechtfertigung der Moral besteht hier darin, dass sie zum Funktionieren der Gesellschaft beiträgt, indem sie Anreize zur Ausführung des Unangenehmen schafft: Die ökonomische Abschätzung der bisherigen Ideale. Der Gesetzgeber (oder der Instinkt der Gesellschaft) wählt eine Anzahl Zustände und Affekte aus, mit deren Thätigkeit eine reguläre Leistung verbürgt ist (ein Machinalismus, als Folge von den regelmäßigen Bedürfnissen jener Affekte und Zustände). Gesetzt, daß diese Zustände und Affekte Ingredienzien des Peinlichen anschlagen, so muß ein Mittel gefunden werden, dieses Peinliche durch eine Werthvorstellung zu überwinden, die Unlust als werthvoll, also, in Ehren dh lustvoll empfinden zu machen. In Formeln gefaßt: „wie wird etwas Unangenehmes angenehm?“ Zum Beispiel, wenn es als Beweis für Kraft, Macht, Selbstüberwindung dienen kann. Oder wenn in ihm unser Gehorsam, unsere Einordnung in das Gesetz, zu Ehren kommt. Insgleichen als Beweis für Gemeinsinn, Nächstensinn, Vaterlandssinn, für unsere „Vermenschlichung“, „Altruismus“, „Heroismus“. Daß man die unangenehmen Dinge gern thut – Absicht der Ideale.28 25 Vgl. KSA 12, 1887, 10[8, 57]; KSA 13, 1888, 12[1].
+
+26 KSA 12, 1887, 10[8].
+
+27 Ebd., 10[11].
+
+28 Ebd., 10[10] (Hervorh. im Orig.).
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM
+
+[p. 437]
+
+So, wie in „Wahrheit und Lüge“ die soziale Funktion der moralischen Pflicht zur Wahrhaftigkeit enthüllt wird, wird auch hier die soziale Funktion verschiedenster Tugenden hervorgehoben.
+
+Die wohlwollendste Lesart solcher Passagen scheint mir diejenige zu sein, die Nietzsches Rede einer ökonomischen Abschätzung und Rechtfertigung ernst nimmt, und ihn nicht als einen reduktiven Funktionalisten versteht, der Werte als bloße Kontrollmechanismen entlarvt, sondern als bestrebt, den instrumentellen Wert intrinsischer Werte zu würdigen. Das bedeutet nicht, dass Nietzsche hier mehr als eine Pro-tanto-Rechtfertigung vorschwebt. Was Nutzen hat, hat meistens auch Nachteile, und Nietzsche beklagt auch, dass für Ausnahmetalente in der ökonomisch optimierten, aber nivellierenden Gesellschaft wenig Platz sei.29 Aber die Einsicht in die instrumentelle Rechtfertigung intrinsischer Werte ist ein genuiner Fortschritt gegenüber seinen früheren Genealogien, weil sie für den Gedanken Raum schafft, dass wir nicht bloß aus Vergesslichkeit wertschätzen, was nicht in unserem Eigeninteresse liegt.
+
+Diese Verbindung des affirmativen Aspekts von Nietzsches frühen Genealogien mit seinen späteren Überlegungen zur ökonomischen Rechtfertigung der Moral soll als Vorschlag gelten, wie man diesen affirmativen Aspekt näher bestimmen könnte. Im Lichte dieser näheren Bestimmung können wir z. B. erkennen, was genau affirmiert wird und was nicht: Eine solche Genealogie gibt uns keinen Grund, in irgendeiner bestimmten Situation gerecht oder wahrhaftig zu sein – sie hilft uns also nicht dabei zu entscheiden, ob ein Wert in einem gegebenen Fall realisiert werden soll. Sie kann uns aber dabei helfen zu entscheiden, ob der Wert überhaupt realisiert werden soll. Sie kann zeigen, dass wir als Gesellschaft Grund haben, besagten Wert zu kultivieren, weil die Befriedigung grundlegender Bedürfnisse davon abhängt – ein wichtiger Zusammenhang, der uns vor dem Erzählen der Genealogie vielleicht nicht bewusst war.
+
+29 Vgl. KSA 13, 1888, 16[6]: „Erziehung: ein System von Mitteln, um die Ausnahmen zu Gunsten der Regel zu ruiniren. Bildung: ein System von Mitteln, um den Geschmack gegen die Ausnahme zu richten, zu Gunsten der Durchschnittlichen. So ist es hart; aber, ökonomisch betrachtet, vollkommen vernünftig. Mindestens für eine lange Zeit, wo eine Cultur noch mit Mühe sich aufrecht erhält, und jede Ausnahme eine Art von Vergeudung von Kraft darstellt (etwas, das ablenkt, verführt, ankränkelt, isolirt) Eine Cultur der Ausnahme, des Versuchs, der Gefahr, der Nuance – eine Treibhauscultur für die ungewöhnlichen Gewächse hat erst ein Recht auf Dasein, wenn Kraft genug vorhanden ist, daß nunmehr selbst die Verschwendung ökonomisch wird.“ Für Nietzsche ist „der Kampf gegen die großen Menschen, aus ökonomischen Gründen gerechtfertigt“ (KSA 12, 1887, 9[137]); was natürlich nicht heißt, dass er ihn insgesamt für gerechtfertigt hält. Vgl. auch KSA 12, 1887, 9[139], 10[8, 17] u. KSA 6, 136–39. (Alle Hervorh. im Orig.)
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM
+
+[p. 438]
+
+Schließlich ist anzumerken, dass die Einschätzung einer Genealogie von Werten als affirmativ oder kritisch wesentlich davon abhängt, welche Art von Überzeugungen man über Werte hat.30 Wer der Meinung ist, Werte müssten, um zurecht bejaht zu werden, in irgendeiner Form „höhere“ Ursprünge haben – in platonischen Ideen, göttlichen Befehlen oder kategorischen Imperativen zum Beispiel – wird von Ursprüngen in individuellen und sozialen Bedürfnissen enttäuscht sein. Wer hingegen gegenüber Werten ein naturalistisches Unbehagen verspürt, wenn sie nicht einen nachvollziehbaren Zusammenhang zu menschlichen Bestrebungen aufweisen, und deshalb transzendent anmutende Werte wie Gerechtigkeit oder Wahrhaftigkeit verdächtigt, Teil des langen Schatten Gottes zu sein, wird die gleiche Genealogie als affirmativ empfinden. Somit kann eine und dieselbe Genealogie auf eine Person kritisch und auf eine andere affirmativ wirken, je nachdem, was diese Personen für Vorstellungen über Werte und ihre zulässigen Ursprünge hegen. Und diese Vorstellungen sind natürlich selber wiederum Werturteile. Wie Nietzsche in seinen Notizen auch festhält: Welche Ursprünge ein respektabler Wert haben darf, ist selbst eine „moralische Schätzung“31.32 Literatur Elgat, G. (2016), Nietzsche on the Genealogy of Universal Moral Justice, in: History of Philosophy Quarterly 33.2, 155–171.
+
+Foucault, M. (1971), Nietzsche, la généalogie, l’histoire, in: Bachelard, S. (Hg.), Hommage à Jean Hyppolite, Paris, 145–172.
+
+Gutting, G. (2005), Foucault, Oxford.
+
+Knoll, M. (2009), Nietzsches Begriff der sozialen Gerechtigkeit, in: Nietzsche-Studien 38, 156–181.
+
+Koopman, C. (2013), Genealogy as Critique: Foucault and the Problems of Modernity, Bloomington, Ind., u. Indianapolis.
+
+Kusch, M. (1991), Foucault’s Strata and Fields: An Investigation Into Archaeological and Genealogical Science Studies, Dordrecht.
+
+Nietzsche, F. (1999), Sämtliche Werke. Kritische Studienausgabe, 15 Bde., hg. v. Colli, G., u. Montinari, M., Berlin [KSA].
+
+Patton, P. (2013), Nietzsche, Genealogy and Justice, in: Ansell-Pearson, K. (Hg.), Nietzsche and Political Thought, London, 7–22.
+
+Petersen, J. (2015), Nietzsches Genialität der Gerechtigkeit, Berlin.
+
+30 Vgl. Queloz (i. V. b) u. ders. (2019) sowie Queloz und Cueni (2019). 31 KSA 12, 1885, 2[131].
+
+32 Dieser Artikel wurde vom Schweizerischen Nationalfonds unterstützt (Grant N° P0BSP1_162025).
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM
+
+[p. 439]
+
+Queloz, M. (2017), Nietzsche’s Pragmatic Genealogy of Justice, in: British Journal for the History of Philosophy 25.4, 727–749, URL: https://doi.org/10.1080/09608788.2016.1266462 (10.7.2019).
+
+Queloz, M. (2018), Williams’s Pragmatic Genealogy and Self-Effacing Functionality, in: (10.7.2019).
+
+Queloz, M. (2019), Genealogy and Knowledge-First Epistemology: A Mismatch?, in: The Philosophical Quarterly 69.274, 100–120, URL: https://doi.org/10.1093/pq/pqy041 (10.7.2019).
+
+Queloz, M. (i. V. a), From Paradigm-Based Explanation to Pragmatic Genealogy, in: Mind, URL: https://doi.org/10.1093/mind/fzy083 (10.7.2019).
+
+Queloz, M. (i. V. b), How Genealogies Can Affect the Space of Reasons, in: Synthese, URL: https://doi.org/10.1007/s11229-018-1777-9 (10.7.2019).
+
+Queloz, M. (i. V. c), Nietzsche’s English Genealogy of Truthfulness, in: Archiv für Geschichte der Philosophie.
+
+Queloz, M., u. Cueni, D. (2019), Nietzsche as a Critic of Genealogical Debunking: Making Room for Naturalism Without Subversion, in: The Monist 102.3, 277–297, URL: https://doi. org/10.1093/monist/onz010 (10.7.2019).
+
+Saar, M. (2007), Genealogie als Kritik: Geschichte und Theorie des Subjekts nach Nietzsche und Foucault, Frankfurt am Main u. New York.
+
+Sarasin, P. (2008), Darwin und Foucault: Genealogie und Geschichte im Zeitalter der Biologie, Frankfurt am Main.
+
+Scheibenberger, S. (2016), Kommentar zu Nietzsches Ueber Wahrheit und Lüge im aussermoralischen Sinne, Berlin. Thiel, K. M. (2017), Geschichte ohne Vergangenheit: Nietzsches Genealogie der Moral als Kritik der Geschichtsschreibung, Paderborn.
+
+Thukydides (2014), Geschichte des Peloponnesischen Krieges, hg. v. Landmann, G. P., Berlin. Williams, B. (2000), Naturalism and Genealogy, in: Harcourt, E. (Hg.), Morality, Reflection, and Ideology, Oxford, 148–161.
+
+Williams, B. (2002), Truth and Truthfulness: An Essay in Genealogy, Princeton, N. J. Zusi, P. (2007), Toward a Genealogy of Modernism: Herder, Nietzsche, History, in: Modern Language Quarterly 67.4, 505–525.
+
+Brought to you by | Universitaetsbibliothek Basel Authenticated Download Date | 9/19/19 3:31 PM

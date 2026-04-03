@@ -1,6 +1,8 @@
 ---
 title: "The Double Nature of DNA: Reevaluating the Common Heritage Idea"
 year: "2016"
+llm_text_markdown: "/llm/papers/the-double-nature-of-dna-reevaluating-the-common-heritage-idea.md"
+llm_text_plain: "/llm/papers/the-double-nature-of-dna-reevaluating-the-common-heritage-idea.txt"
 tags:
   - "common-heritage"
   - "dna"

@@ -1,6 +1,8 @@
 ---
 title: "Function-Based Conceptual Engineering and the Authority Problem"
 year: "2022"
+llm_text_markdown: "/llm/papers/function-based-conceptual-engineering-and-the-authority-problem.md"
+llm_text_plain: "/llm/papers/function-based-conceptual-engineering-and-the-authority-problem.txt"
 tags:
   - "amelioration"
   - "authority"

@@ -17,6 +17,8 @@ tags:
   - "wolf"
 categories:
   - "practical philosophy"
+llm_text_markdown: "/llm/papers/reasons-of-love-and-conceptual-good-for-nothings.md"
+llm_text_plain: "/llm/papers/reasons-of-love-and-conceptual-good-for-nothings.txt"
 ---
 
 In *Themes from Susan Wolf*. Michael Frauchiger and Markus Stepanians (eds.). Berlin: De Gruyter. In Press.

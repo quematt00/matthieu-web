@@ -18,6 +18,6 @@ Pour Bernard Williams, philosophie et histoire sont étroitement liées. Son œu
 
 {{< entry-tags >}}
 
-<a class="download-link" href="https://philpapers.org/archive/VANMSO-5.pdf" aria-label="Télécharger le PDF de Bernard Williams on Philosophy and History" target="_blank" rel="noopener noreferrer">
-  <i class="fa-solid fa-download"></i> Télécharger le PDF
+<a class="download-link" href="https://academic.oup.com/book/61415" aria-label="Voir Bernard Williams on Philosophy and History sur Oxford Academic" target="_blank" rel="noopener noreferrer">
+  <i class="fa-solid fa-arrow-up-right-from-square"></i> Voir le livre
 </a>

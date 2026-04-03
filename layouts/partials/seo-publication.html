@@ -3,15 +3,16 @@
   - Google Scholar-style citation meta tags
   - schema.org JSON-LD (ScholarlyArticle)
 
-  This is intentionally conservative: we only emit for pages in the `entries` section.
+  This is intentionally conservative: we only emit for pages in the `entries` and `books` sections.
 */ -}}
 
-{{- if and .IsPage (eq .Section "entries") -}}
+{{- if and .IsPage (or (eq .Section "entries") (eq .Section "books")) -}}
   {{- $title := .Title -}}
   {{- $permalink := .Permalink -}}
   {{- $lang := .Lang -}}
   {{- $base := strings.TrimSuffix "/" site.BaseURL -}}
   {{- $personID := printf "%s/#person" $base -}}
+  {{- $schemaType := cond (eq .Section "books") "Book" "ScholarlyArticle" -}}
 
   {{- /* Author(s): prefer explicit frontmatter; fall back to site profile title. */ -}}
   {{- $primaryAuthor := site.Params.author.name | default site.Params.home.profile.title | default site.Title -}}
@@ -71,11 +72,11 @@
 
   {{- /* Extract DOI from content if present (doi.org/... or doi:...). */ -}}
   {{- $doi := "" -}}
-  {{- $doiMatches := findRESubmatch "doi\\.org/(10\\.[0-9]{4,9}/[^\\s\\\"<]+)" .Content 1 -}}
+  {{- $doiMatches := findRESubmatch "doi\\.org/([^\\s\\\"<\\)\\]]+)" .Content 1 -}}
   {{- if gt (len $doiMatches) 0 -}}
     {{- $doi = index (index $doiMatches 0) 1 -}}
   {{- else -}}
-    {{- $doiMatches2 := findRESubmatch "doi:\\s*(10\\.[0-9]{4,9}/[^\\s\\\"<]+)" .Content 1 -}}
+    {{- $doiMatches2 := findRESubmatch "doi:\\s*([^\\s\\\"<\\)\\]]+)" .Content 1 -}}
     {{- if gt (len $doiMatches2) 0 -}}
       {{- $doi = index (index $doiMatches2 0) 1 -}}
     {{- end -}}
@@ -84,6 +85,35 @@
   {{- /* Year handling: emit a publication date only if we have a 4-digit year. */ -}}
   {{- $year := printf "%v" (.Params.year | default "") -}}
   {{- $hasYear := (findRE "^[0-9]{4}$" $year) -}}
+
+  {{- $llmMarkdownURL := "" -}}
+  {{- with .Params.llm_text_markdown -}}
+    {{- if strings.HasPrefix . "http" -}}
+      {{- $llmMarkdownURL = . -}}
+    {{- else -}}
+      {{- $llmMarkdownURL = absURL . -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $llmPlainURL := "" -}}
+  {{- with .Params.llm_text_plain -}}
+    {{- if strings.HasPrefix . "http" -}}
+      {{- $llmPlainURL = . -}}
+    {{- else -}}
+      {{- $llmPlainURL = absURL . -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $encodings := slice -}}
+  {{- if $pdfURL -}}
+    {{- $encodings = $encodings | append (dict "@type" "MediaObject" "contentUrl" $pdfURL "encodingFormat" "application/pdf") -}}
+  {{- end -}}
+  {{- if $llmMarkdownURL -}}
+    {{- $encodings = $encodings | append (dict "@type" "MediaObject" "contentUrl" $llmMarkdownURL "encodingFormat" "text/markdown" "name" (printf "%s text companion (Markdown)" $title)) -}}
+  {{- end -}}
+  {{- if $llmPlainURL -}}
+    {{- $encodings = $encodings | append (dict "@type" "MediaObject" "contentUrl" $llmPlainURL "encodingFormat" "text/plain" "name" (printf "%s text companion (plain text)" $title)) -}}
+  {{- end -}}
 
   {{- /* Extract a clean description (abstract) for structured data. */ -}}
   {{- $description := "" -}}
@@ -112,6 +142,12 @@
   {{- if $pdfURL -}}
     <meta name="citation_pdf_url" content="{{ $pdfURL }}">
   {{- end -}}
+  {{- if $llmMarkdownURL -}}
+    <link rel="alternate" type="text/markdown" href="{{ $llmMarkdownURL }}" title="{{ printf "%s text companion (Markdown)" $title }}">
+  {{- end -}}
+  {{- if $llmPlainURL -}}
+    <link rel="alternate" type="text/plain" href="{{ $llmPlainURL }}" title="{{ printf "%s text companion (plain text)" $title }}">
+  {{- end -}}
   {{- if $doi -}}
     <meta name="citation_doi" content="{{ $doi }}">
   {{- end -}}
@@ -123,7 +159,7 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "ScholarlyArticle",
+    "@type": {{ $schemaType | jsonify | safeJS }},
     "name": {{ $title | jsonify | safeJS }},
     "headline": {{ $title | jsonify | safeJS }},
     "url": {{ $permalink | jsonify | safeJS }},
@@ -144,8 +180,9 @@
     {{- if not .Lastmod.IsZero -}}
       , "dateModified": {{ .Lastmod.Format "2006-01-02" | jsonify | safeJS }}
     {{- end -}}
-    {{- if $pdfURL -}}
-      , "encoding": { "@type": "MediaObject", "contentUrl": {{ $pdfURL | jsonify | safeJS }}, "fileFormat": "application/pdf" }
+    {{- if gt (len $encodings) 0 -}}
+      , "encoding": {{ $encodings | jsonify | safeJS }}
+      , "isAccessibleForFree": true
     {{- end -}}
     {{- if $doi -}}
       , "identifier": { "@type": "PropertyValue", "propertyID": "DOI", "value": {{ $doi | jsonify | safeJS }} }

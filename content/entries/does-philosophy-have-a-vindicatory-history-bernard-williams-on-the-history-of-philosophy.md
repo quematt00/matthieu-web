@@ -1,6 +1,8 @@
 ---
 title: "Does Philosophy Have a Vindicatory History? Bernard Williams on the History of Philosophy"
 year: "2017"
+llm_text_markdown: "/llm/papers/does-philosophy-have-a-vindicatory-history-bernard-williams-on-the-history-of-philosophy.md"
+llm_text_plain: "/llm/papers/does-philosophy-have-a-vindicatory-history-bernard-williams-on-the-history-of-philosophy.txt"
 tags:
   - "history-of-philosophy"
   - "historiography"

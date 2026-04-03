@@ -1,6 +1,8 @@
 ---
 title: "Moralism as a Dualism in Ethics and Politics"
 year: "2024"
+llm_text_markdown: "/llm/papers/moralism-as-a-dualism-in-ethics-and-politics.md"
+llm_text_plain: "/llm/papers/moralism-as-a-dualism-in-ethics-and-politics.txt"
 tags:
   - "dirty-hands"
   - "ethics"

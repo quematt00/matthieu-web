@@ -1,5 +1,7 @@
 ---
 title: "The Ethics of Conceptualization: Tailoring Thought and Language to Need"
+llm_text_markdown: "/llm/papers/the-ethics-of-conceptualization.md"
+llm_text_plain: "/llm/papers/the-ethics-of-conceptualization.txt"
 year: "2025"
 tags:
   - "conceptual-ethics"

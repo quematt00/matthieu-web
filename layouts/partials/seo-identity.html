@@ -48,6 +48,9 @@
   {{- with $image -}}
     , "image": {{ . | jsonify | safeJS }}
   {{- end -}}
+  {{- with site.Params.description -}}
+    , "description": {{ . | jsonify | safeJS }}
+  {{- end -}}
   {{- with site.Params.home.profile.subtitle -}}
     , "affiliation": { "@type": "Organization", "name": {{ . | jsonify | safeJS }} }
   {{- end -}}
@@ -61,4 +64,3 @@
   {{- end -}}
 }
 </script>
-

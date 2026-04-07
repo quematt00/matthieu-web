@@ -160,6 +160,10 @@ ignoreFiles = ["^assets/jsconfig\\.json$"]
     languageCode = "en"
     weight = 1
     title = "Matthieu Queloz"
+    [languages.en.params]
+      description = "Matthieu Queloz is a philosopher and Privatdozent at the University of Bern."
+      [languages.en.params.seo]
+        homeTitle = "Matthieu Queloz | Philosophy"
     [languages.en.params.home.profile]
       title = "Matthieu Queloz"
       subtitle = "Institute of Philosophy, University of Bern"
@@ -169,6 +173,10 @@ ignoreFiles = ["^assets/jsconfig\\.json$"]
     languageCode = "fr"
     weight = 2
     title = "Matthieu Queloz"
+    [languages.fr.params]
+      description = "Matthieu Queloz est philosophe et Privat-docent à l’Université de Berne."
+      [languages.fr.params.seo]
+        homeTitle = "Matthieu Queloz | Philosophie"
     [languages.fr.params.home.profile]
       title = "Matthieu Queloz"
       subtitle = "Institut de philosophie, Université de Berne"
@@ -178,6 +186,10 @@ ignoreFiles = ["^assets/jsconfig\\.json$"]
     languageCode = "de"
     weight = 3
     title = "Matthieu Queloz"
+    [languages.de.params]
+      description = "Matthieu Queloz ist Philosoph und Privatdozent an der Universität Bern."
+      [languages.de.params.seo]
+        homeTitle = "Matthieu Queloz | Philosophie"
     [languages.de.params.home.profile]
       title = "Matthieu Queloz"
       subtitle = "Institut für Philosophie, Universität Bern"

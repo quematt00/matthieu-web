@@ -74,7 +74,7 @@ readingProgress:
         <p class="subtitle">Genealogy as Conceptual Reverse-Engineering</p>
                 <p class="book-meta">Oxford University Press, 2021 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
         <p class="book-abstract">
-          Eine Untersuchung der Naturzustandserzählungen und imaginativen Genealogien, die erklären, warum abstrakte Ideen überhaupt entstehen. Das Buch verfolgt diese Praxis von Hume, Rousseau und Nietzsche bis zu E. J. Craig, Bernard Williams und Miranda Fricker und zeigt, wie Genealogie jene Zwänge freilegen kann, die den Besitz bestimmter Begriffe lohnenswert machen.
+          Eine Untersuchung der Naturzustandserzählungen und imaginativen Genealogien, die erklären, warum abstrakte Ideen überhaupt entstehen. Das Buch verfolgt diese Praxis von Hume, Rousseau und Nietzsche bis zu E. J. Craig, Bernard Williams und Miranda Fricker und zeigt, wie Genealogie jene Zwänge freilegen kann, die den Besitz bestimmter Begriffe lohnenswert machen. Das Buch wurde ins Arabische und Japanische übersetzt.
         </p>
         <div class="book-reviews">
           <p class="review-quote">„Hervorragend ... ein prächtiges Buch“ <span class="review-author">— Cheryl Misak, <em>Analysis</em></span></p>

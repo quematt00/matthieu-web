@@ -124,6 +124,9 @@ hr.section-divider {
   font-weight: 400;
   color: var(--showcase-meta);
 }
+.page.single #content > ul > li a em {
+  color: inherit;
+}
 .page.single #content > ul > li strong {
   font-weight: 700;
 }

@@ -73,10 +73,10 @@ readingProgress:
 	       <h3>The Practical Origins of Ideas</h3>
 	        <p class="subtitle">Genealogy as Conceptual Reverse-Engineering</p>
 	                <p class="book-meta">Oxford University Press, 2021 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
-	        <p class="book-abstract">
-	          A study of the “state-of-nature” stories and genealogies that explain why abstract ideas arise in the first place. The book traces this practice from Hume, Rousseau, and Nietzsche to E.J. Craig, Bernard Williams, and Miranda Fricker, showing how genealogy can reverse‑engineer the pressures that make concepts worth having.
-	        </p>
-	        <div class="book-reviews">
+        <p class="book-abstract">
+          A study of the “state-of-nature” stories and genealogies that explain why abstract ideas arise in the first place. The book traces this practice from Hume, Rousseau, and Nietzsche to E.J. Craig, Bernard Williams, and Miranda Fricker, showing how genealogy can reverse‑engineer the pressures that make concepts worth having. The book was translated into Arabic and Japanese.
+        </p>
+        <div class="book-reviews">
           <p class="review-quote">“Superb ... [a] splendid book” <span class="review-author">— Cheryl Misak, <em>Analysis</em></span></p>
           <p class="review-quote">“Refreshingly ambitious … delightful to read: the prose is colorful, elegant, and sharp, and Queloz has a knack for bringing high-minded ideals down to earth. I wish more philosophers wrote so well.” <span class="review-author">— Michael Hannon, <em>Mind</em></span></p>
           <p class="review-quote">“Ground-breaking" <span class="review-author">— Paul Roth, <em>Analysis</em></span></p>

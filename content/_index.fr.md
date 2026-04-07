@@ -74,7 +74,7 @@ readingProgress:
         <p class="subtitle">Genealogy as Conceptual Reverse-Engineering</p>
                 <p class="book-meta">Oxford University Press, 2021 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
         <p class="book-abstract">
-          Une étude des récits de l’état de nature et des généalogies qui éclairent l’émergence des idées abstraites. Je retrace cette pratique, de Hume, Rousseau et Nietzsche jusqu’à E. J. Craig, Bernard Williams et Miranda Fricker, en montrant comment la généalogie permet de reconstituer les pressions qui justifient la conservation de certains concepts.
+          Une étude des récits de l’état de nature et des généalogies qui éclairent l’émergence des idées abstraites. Je retrace cette pratique, de Hume, Rousseau et Nietzsche jusqu’à E. J. Craig, Bernard Williams et Miranda Fricker, en montrant comment la généalogie permet de reconstituer les pressions qui justifient la conservation de certains concepts. Le livre a été traduit en arabe et en japonais.
         </p>
         <div class="book-reviews">
           <p class="review-quote">« Superbe ... un livre splendide » <span class="review-author">— Cheryl Misak, <em>Analysis</em></span></p>

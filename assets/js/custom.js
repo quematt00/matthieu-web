@@ -96,6 +96,31 @@
     ensureDownloadLinksOpenNewTab(document);
   }
 
+  function markEntryMetaLinks(root) {
+    const links = root.querySelectorAll?.(".entry-item > p:first-of-type a") ?? [];
+
+    for (const link of links) {
+      const href = (link.getAttribute("href") || "").trim();
+      const text = (link.textContent || "").trim();
+
+      const isDoiLink = /^doi:/i.test(text);
+      const isBareUrlLabel = /^https?:\/\//i.test(text);
+      const isPdfLink = /\.pdf(?:$|[?#])/i.test(href);
+      const isPhilPapersArchive = /philpapers\.org\/archive\//i.test(href);
+
+      link.classList.toggle(
+        "entry-meta-link--aux",
+        isDoiLink || isBareUrlLabel || isPdfLink || isPhilPapersArchive,
+      );
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", () => markEntryMetaLinks(document));
+  } else {
+    markEntryMetaLinks(document);
+  }
+
   function markEntryTags(root) {
     const tagSpans = root.querySelectorAll?.(".entry-item span") ?? [];
     for (const span of tagSpans) {

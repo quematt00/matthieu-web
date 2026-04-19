@@ -1,5 +1,5 @@
 ---
-title: "Wie sich Denken und Sprache wandeln: Metapher als Prozess begrifflicher Anpassung an künstliche Intelligenz"
+title: "Evolving Minds, Evolving Language: Metaphor as a Process of Conceptual Adaptation to Artificial Intelligence"
 year: "manuskript"
 tags:
   - "philosophie-der-ki"
@@ -20,6 +20,6 @@ Argumentiert, dass kognitive Termini wie „Verstehen“ oder „Schlussfolgern�
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/philosophie-der-ki/">Philosophie der KI</a>, <a href="/de/tags/begriffe/">Begriffe</a>, <a href="/de/tags/sprachentwicklung/">Sprachentwicklung</a>, <a href="/de/tags/inferenz/">Inferenz</a>, <a href="/de/tags/grosse-sprachmodelle/">große Sprachmodelle</a>, <a href="/de/tags/metapher/">Metapher</a></span>
 
-<a class="download-link" href="#" aria-label="PDF folgt: Wie sich Denken und Sprache wandeln: Metapher als Prozess begrifflicher Anpassung an künstliche Intelligenz">
+<a class="download-link" href="#" aria-label="PDF folgt: Evolving Minds, Evolving Language: Metaphor as a Process of Conceptual Adaptation to Artificial Intelligence">
   <i class="fa-solid fa-download"></i> PDF folgt
 </a>

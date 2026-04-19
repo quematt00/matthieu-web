@@ -1,5 +1,5 @@
 ---
-title: "L’évolution de l’esprit et du langage : la métaphore comme processus d’adaptation conceptuelle à l’intelligence artificielle"
+title: "Evolving Minds, Evolving Language: Metaphor as a Process of Conceptual Adaptation to Artificial Intelligence"
 year: "manuscrit"
 tags:
   - "philosophie-de-l-ia"
@@ -20,6 +20,6 @@ Soutient que l’application croissante de termes cognitifs tels que « compr�
 
 <span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/philosophie-de-l-ia/">philosophie de l’IA</a>, <a href="/fr/tags/concepts/">concepts</a>, <a href="/fr/tags/evolution-du-langage/">évolution du langage</a>, <a href="/fr/tags/inference/">inférence</a>, <a href="/fr/tags/grands-modeles-de-langage/">grands modèles de langage</a>, <a href="/fr/tags/metaphore/">métaphore</a></span>
 
-<a class="download-link" href="#" aria-label="PDF à venir: L’évolution de l’esprit et du langage : la métaphore comme processus d’adaptation conceptuelle à l’intelligence artificielle">
+<a class="download-link" href="#" aria-label="PDF à venir: Evolving Minds, Evolving Language: Metaphor as a Process of Conceptual Adaptation to Artificial Intelligence">
   <i class="fa-solid fa-download"></i> PDF à venir
 </a>

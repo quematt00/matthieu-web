@@ -145,7 +145,7 @@ Mit dem fünfjährigen SNF Starting Grant, der mir kürzlich zugesprochen wurde,
 
 [Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation](#needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation.de), *Philosophical Studies*
 
-[Wie sich Denken und Sprache wandeln: Metapher als Prozess begrifflicher Anpassung an künstliche Intelligenz](#evolving-minds-evolving-language-metaphor-as-a-process-of-conceptual-adaptation-to-artificial-intelligence.de), *Manuskript*
+[Evolving Minds, Evolving Language: Metaphor as a Process of Conceptual Adaptation to Artificial Intelligence](#evolving-minds-evolving-language-metaphor-as-a-process-of-conceptual-adaptation-to-artificial-intelligence.de), *Manuskript*
 
 [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models.de), *Philosophical Studies*
 

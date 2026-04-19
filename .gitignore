@@ -2,6 +2,7 @@
 .hugo_build.lock
 .hugo_cache/
 .tmp/
+.claude/
 
 # Hugo build output
 public/

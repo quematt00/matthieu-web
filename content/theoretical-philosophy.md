@@ -146,6 +146,8 @@ With the five-year SNSF Starting Grant I was recently awarded, I am reconnecting
 
 [Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation](#needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation), *Philosophical Studies*
 
+[Evolving Minds, Evolving Language: Metaphor as a Process of Conceptual Adaptation to Artificial Intelligence](#evolving-minds-evolving-language-metaphor-as-a-process-of-conceptual-adaptation-to-artificial-intelligence), *Manuscript*
+
 [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models), *Philosophical Studies*
 
 </div>

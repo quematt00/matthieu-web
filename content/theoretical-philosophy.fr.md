@@ -145,6 +145,8 @@ Grâce au *Starting Grant* du FNS qui m’a été récemment accordé pour cinq 
 
 [Needs of the Mind: How Aptic Normativity Can Guide Conceptual Adaptation](#needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation.fr), *Philosophical Studies*
 
+[L’évolution de l’esprit et du langage : la métaphore comme processus d’adaptation conceptuelle à l’intelligence artificielle](#evolving-minds-evolving-language-metaphor-as-a-process-of-conceptual-adaptation-to-artificial-intelligence.fr), *Manuscrit*
+
 [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models.fr), *Philosophical Studies*
 
 </div>

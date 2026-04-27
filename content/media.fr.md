@@ -156,6 +156,7 @@ hr.section-divider {
 <h2>Presse et médiation scientifique</h2>
 
 - **[Unser Mensch bei den Maschinen: Interview mit Matthieu Queloz](https://www.hauptstadt.be/a/philosophie-ki-queloz)**. *Hauptstadt: Neuer Berner Journalismus*, 4 avril 2026.
+- **[Mechanistic Indicators of Understanding in Large Language Models](/fr/entries/mechanistic-indicators-of-understanding-in-large-language-models/)** a été recommandé dans l’édition d’avril 2026 de l’influent [*Philosophy of Computing Newsletter*](https://philosophyofcomputing.substack.com/p/philosophy-of-computing-in-april) du MINT Lab.
 - **[Mechanistic Indicators of Understanding in Large Language Models](/fr/entries/mechanistic-indicators-of-understanding-in-large-language-models/)** a fait l’objet d’une présentation détaillée sur la chaîne *AI Explained* le 14 janvier 2026 : [https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764](https://youtu.be/wYs6HWZ2FdM?si=HOxvPU6NiWm4Hwjh&t=764)
 - **[Bernard Williams on Philosophy and History](/fr/books/bernard-williams-on-philosophy-and-history/)** a fait l’objet d’un article dans [*Prospect Magazine*](https://www.matthieuqueloz.com/Prospect.pdf).
 - **[Mechanistic Interpretability and How LLMs Understand](https://open.spotify.com/episode/61XaYy42EGa8BjF5CnPjl3?si=a41c403438df4f8a)**. *RSAM Podcast for Philosophy and Cognitive Science*. 10 janvier 2026.

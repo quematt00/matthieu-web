@@ -359,6 +359,28 @@ ul.bl li .g{color:var(--gold-hi)}
     0 18px 42px rgba(0,0,0,0.3),
     0 0 38px rgba(255,216,120,0.06);
 }
+#s2 .s2-list .rv,
+#s2 .s2-phen-wrap.rv{
+  opacity:0;
+  transform:translateY(20px);
+  visibility:hidden;
+  pointer-events:none;
+  transition:
+    opacity 0.46s ease,
+    transform 0.56s var(--ez),
+    visibility 0s linear 0.56s;
+}
+#s2.stage-2 .s2-list .rv,
+#s2.stage-2 .s2-phen-wrap.rv{
+  opacity:1;
+  transform:translateY(0);
+  visibility:visible;
+  pointer-events:auto;
+  transition:
+    opacity 0.46s ease,
+    transform 0.56s var(--ez),
+    visibility 0s linear 0s;
+}
 #s2 .s2-phen-wrap img{
   display:block;
   width:100%;
@@ -684,6 +706,7 @@ ul.bl li .g{color:var(--gold-hi)}
   display:flex;
   flex-direction:column;
   gap:clamp(0.7rem,1.15vh,1.15rem);
+  margin-top:clamp(0.5rem,0.9vh,0.9rem);
 }
 .career-state li{
   display:flex;
@@ -1060,6 +1083,86 @@ ul.bl li .g{color:var(--gold-hi)}
   }
 }
 
+/* === SLIDE 19 — the shape of metaphor processing === */
+#s17 .slide-content{
+  justify-content:center;
+  padding-top:clamp(2.4rem,4vh,4rem);
+  padding-bottom:clamp(2.4rem,4vh,4rem);
+  gap:clamp(1.5rem,2.4vh,2.4rem);
+}
+#s17 .divider{
+  margin-bottom:clamp(2.1rem,3.2vh,3.2rem);
+}
+#s17 .s17-theory{
+  width:min(92vw,1260px);
+  position:relative;
+  overflow:hidden;
+  border-radius:28px;
+  padding:clamp(2rem,2.9vw,2.9rem) clamp(2.1rem,3.2vw,3.2rem);
+  background:
+    radial-gradient(circle at 18% 16%, rgba(255,216,120,0.12), transparent 32%),
+    linear-gradient(135deg, rgba(201,165,90,0.14) 0%, rgba(251,246,234,0.04) 50%, rgba(122,189,201,0.12) 100%),
+    rgba(16,13,9,0.96);
+  border:1px solid rgba(251,246,234,0.1);
+  box-shadow:0 22px 52px rgba(0,0,0,0.24);
+}
+#s17 .s17-theory::before{
+  content:'';
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  background:linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0));
+}
+#s17 .s17-kicker{
+  position:relative;
+  z-index:1;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  margin-bottom:clamp(0.95rem,1.3vh,1.3rem);
+  padding:0.46rem 0.98rem;
+  border-radius:999px;
+  font-size:clamp(0.94rem,1.05vw,1.05rem);
+  letter-spacing:0.2em;
+  text-transform:uppercase;
+  font-weight:700;
+  color:var(--gold-hi);
+  background:rgba(201,165,90,0.14);
+  border:1px solid rgba(255,216,120,0.18);
+}
+#s17 .s17-theory p{
+  position:relative;
+  z-index:1;
+  margin:0;
+  font-size:clamp(1.52rem,1.8vw,1.8rem);
+  line-height:1.45;
+  color:var(--text-mid);
+}
+#s17 .s17-theory p:first-of-type{
+  font-size:clamp(1.7rem,2.05vw,2.05rem);
+  line-height:1.28;
+}
+#s17 .s17-theory p + p{
+  margin-top:clamp(1.05rem,1.45vh,1.45rem);
+}
+#s17 .s17-theory strong{
+  color:var(--text);
+  font-weight:700;
+}
+#s17 .s17-theory em{
+  font-family:var(--fb);
+  font-style:normal;
+  font-weight:700;
+  color:var(--gold-hi);
+}
+#s17 .s17-meta{
+  display:block;
+  margin-top:clamp(0.28rem,0.45vh,0.45rem);
+  font-size:clamp(1.52rem,1.8vw,1.8rem);
+  letter-spacing:0.04em;
+  line-height:1.28;
+  color:var(--dim);
+}
 /* === SLIDE 22 — diagnosing the debate === */
 #s20 .diag-lead{
   max-width:min(90vw,1120px);
@@ -1133,10 +1236,10 @@ ul.bl li .g{color:var(--gold-hi)}
   align-items:center;
   justify-content:center;
   align-self:flex-start;
-  min-width:clamp(10rem,13vw,13rem);
-  padding:0.48rem 1rem;
+  min-width:clamp(13rem,16vw,16rem);
+  padding:0.68rem 1.35rem;
   border-radius:999px;
-  font-size:clamp(0.95rem,1.05vw,1.05rem);
+  font-size:clamp(1.22rem,1.38vw,1.38rem);
   letter-spacing:0.22em;
   text-transform:uppercase;
   font-weight:700;
@@ -1184,7 +1287,7 @@ ul.bl li .g{color:var(--gold-hi)}
   margin-top:clamp(0.75rem,1.1vh,1.1rem);
   padding-top:clamp(0.7rem,1vh,1rem);
   border-top:1px solid rgba(251,246,234,0.1);
-  font-size:clamp(1.12rem,1.28vw,1.28rem);
+  font-size:clamp(1.42rem,1.62vw,1.62rem);
   line-height:1.42;
   color:var(--dim);
 }
@@ -1230,43 +1333,6 @@ ul.bl li .g{color:var(--gold-hi)}
   font-style:normal;
   font-weight:700;
   color:var(--gold-hi);
-}
-#s20.stage-2 .diag-card{
-  opacity:0.6;
-  filter:saturate(0.78) brightness(0.9);
-}
-#s20.stage-2 .diag-summary{
-  margin-top:clamp(0.8rem,1.4vh,1.4rem);
-  background:
-    linear-gradient(90deg, rgba(201,165,90,0.2) 0%, rgba(251,246,234,0.08) 50%, rgba(122,189,201,0.18) 100%),
-    rgba(24,19,12,0.98);
-  border-width:1px;
-  border-left-width:3px;
-  border-right-width:3px;
-  padding:clamp(1.1rem,1.8vw,1.8rem) clamp(1.4rem,2.4vw,2.4rem);
-  max-height:24rem;
-  box-shadow:
-    0 0 0 1px rgba(251,246,234,0.08) inset,
-    0 0 36px rgba(245,199,90,0.12),
-    0 22px 52px rgba(0,0,0,0.32);
-  color:var(--text);
-  opacity:1;
-  visibility:visible;
-  transform:translateY(0);
-  transition:
-    opacity 0.42s ease 0.06s,
-    transform 0.56s var(--ez) 0.06s,
-    max-height 0.56s var(--ez),
-    padding 0.42s ease,
-    margin-top 0.42s ease,
-    border-width 0.42s ease,
-    visibility 0s linear 0s;
-}
-#s20.stage-2 .diag-summary strong{
-  color:var(--text);
-}
-#s20.stage-2 .diag-summary em{
-  color:#ffd878;
 }
 @media (max-width: 1120px){
   #s20 .diag-grid{
@@ -1361,7 +1427,7 @@ blockquote::before{
 
 /* === SLIDE 26 — The bind === */
 #s24 blockquote{
-  font-size:clamp(2.55rem,3.4vw,3.5rem);
+  font-size:clamp(2.3rem,3.05vw,3.1rem);
   line-height:1.24;
   max-width:min(88vw,1120px);
 }
@@ -1742,6 +1808,10 @@ blockquote::before{
   text-align:center;
 }
 .sec-sub strong{color:var(--gold-hi);font-weight:600}
+#s29 .sec-sub{
+  font-size:clamp(1.55rem,2.05vw,2.05rem);
+  max-width:min(68vw,940px);
+}
 
 /* === FULL-BLEED IMAGE SLIDE === */
 .img-full{
@@ -1757,6 +1827,139 @@ blockquote::before{
   width:100%;
   height:100%;
   object-fit:cover;
+}
+#s29a{
+  position:relative;
+  overflow:hidden;
+}
+#s29a::after{
+  content:'';
+  position:absolute;
+  inset:0;
+  background:none;
+  opacity:0;
+  transition:opacity 0.42s ease;
+  pointer-events:none;
+}
+#s29a .s29a-story-wrap{
+  position:absolute;
+  inset:0;
+  display:flex;
+  align-items:center;
+  justify-content:flex-start;
+  padding:clamp(2rem,3.8vw,3.8rem);
+  pointer-events:none;
+}
+#s29a .s29a-story{
+  width:min(62vw,1080px);
+  max-width:min(95vw,1080px);
+  border-radius:30px;
+  padding:clamp(2rem,2.95vw,2.95rem) clamp(2.15rem,3.15vw,3.15rem);
+  background:
+    linear-gradient(150deg, rgba(255,255,255,0.045), rgba(255,216,120,0.1)),
+    linear-gradient(180deg, rgba(18,14,10,0.93), rgba(8,6,4,0.9));
+  border:1px solid rgba(255,216,120,0.2);
+  box-shadow:0 32px 86px rgba(0,0,0,0.42), 0 0 46px rgba(255,216,120,0.05);
+  backdrop-filter:blur(18px);
+  -webkit-backdrop-filter:blur(18px);
+  color:var(--text);
+  opacity:0;
+  visibility:hidden;
+  transform:translateY(24px);
+  transition:
+    opacity 0.42s ease,
+    transform 0.56s var(--ez),
+    visibility 0s linear 0.56s;
+}
+#s29a .s29a-title{
+  margin:0;
+  font-family:var(--fd);
+  font-size:clamp(3.2rem,4.35vw,4.85rem);
+  line-height:1.08;
+  letter-spacing:-0.02em;
+  color:var(--text);
+  text-shadow:none;
+}
+#s29a .s29a-title em{
+  color:var(--gold-hi);
+  font-style:italic;
+}
+#s29a .s29a-divider{
+  width:clamp(4.4rem,7vw,7rem);
+  height:2px;
+  margin:clamp(1.05rem,1.5vh,1.5rem) 0 clamp(1.28rem,1.8vh,1.8rem);
+  background:linear-gradient(90deg, rgba(255,216,120,0.92), rgba(255,216,120,0));
+}
+#s29a .s29a-list{
+  list-style:none;
+  margin:0;
+  padding:0;
+  display:flex;
+  flex-direction:column;
+  gap:clamp(0.95rem,1.28vh,1.28rem);
+}
+#s29a .s29a-list li{
+  position:relative;
+  padding-left:clamp(1.55rem,1.95vw,1.95rem);
+  font-size:clamp(1.78rem,2.04vw,2.04rem);
+  line-height:1.33;
+  color:var(--text);
+  font-weight:500;
+  text-shadow:none;
+  opacity:0;
+  transform:translateY(14px);
+  transition:opacity 0.36s ease, transform 0.46s var(--ez);
+}
+#s29a .s29a-list li::before{
+  content:'';
+  position:absolute;
+  left:0;
+  top:0.72em;
+  width:0.72rem;
+  height:2px;
+  border-radius:999px;
+  background:var(--gold-hi);
+  box-shadow:0 0 12px rgba(255,216,120,0.28);
+}
+#s29a .s29a-list strong{
+  color:var(--gold-hi);
+  font-weight:700;
+}
+#s29a .s29a-list em{
+  color:var(--gold-hi);
+  font-weight:700;
+}
+#s29a.stage-2::after{
+  opacity:1;
+}
+#s29a.stage-2 .s29a-story{
+  opacity:1;
+  visibility:visible;
+  transform:translateY(0);
+  transition:
+    opacity 0.42s ease,
+    transform 0.56s var(--ez),
+    visibility 0s linear 0s;
+}
+#s29a.stage-2 .s29a-list li{
+  opacity:1;
+  transform:translateY(0);
+}
+#s29a.stage-2 .s29a-list li:nth-child(1){transition-delay:0.08s}
+#s29a.stage-2 .s29a-list li:nth-child(2){transition-delay:0.16s}
+#s29a.stage-2 .s29a-list li:nth-child(3){transition-delay:0.24s}
+#s29a.stage-2 .s29a-list li:nth-child(4){transition-delay:0.32s}
+@media (max-width: 980px){
+  #s29a .s29a-story{
+    width:min(100%,940px);
+    padding:clamp(1.4rem,4.2vw,2.2rem);
+  }
+  #s29a .s29a-title{
+    font-size:clamp(2.55rem,6.1vw,3.65rem);
+  }
+  #s29a .s29a-list li{
+    font-size:clamp(1.42rem,3.55vw,1.9rem);
+  }
 }
 
 /* ============================================================
@@ -1932,7 +2135,7 @@ blockquote::before{
     transform 0.56s var(--ez) 0.08s,
     visibility 0s linear 0s;
 }
-#s3.stage-3 .s3-takeaway{
+#s3.stage-4 .s3-takeaway{
   opacity:1;
   transform:translateY(0);
   visibility:visible;
@@ -2093,6 +2296,30 @@ blockquote::before{
 .cb ul li{font-size:var(--bd-s);line-height:1.4;display:flex;gap:0.7em;color:var(--text)}
 .cb ul li::before{content:'';display:inline-block;width:0.55em;height:0.55em;border-radius:50%;background:var(--dim);margin-top:0.55em;flex-shrink:0}
 .cb.pos ul li::before{background:var(--gold-hi);box-shadow:0 0 8px var(--gold-glow)}
+
+/* === SLIDE 41 — against both extremes === */
+#s41 .slide-content{
+  justify-content:center;
+}
+#s41 h2{
+  font-size:clamp(3.5rem,5.7vw,5.7rem);
+}
+#s41 .tcol{
+  max-width:min(95vw,1420px);
+  gap:clamp(1.9rem,3.3vw,3.4rem);
+  margin-top:clamp(0.9rem,1.7vh,1.7rem)!important;
+}
+#s41 .cb{
+  padding:clamp(1.35rem,2.3vw,2.3rem) clamp(1.6rem,2.8vw,2.8rem);
+}
+#s41 .cb .cl{
+  font-size:clamp(1.32rem,1.58vw,1.58rem);
+  margin-bottom:clamp(0.9rem,1.6vh,1.6rem);
+}
+#s41 .cb p{
+  font-size:clamp(1.9rem,2.28vw,2.28rem);
+  line-height:1.38;
+}
 
 /* ============================================================
    LOGIC CHAIN (slide 25) — premise → problem → conclusion
@@ -2359,7 +2586,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 02 — A field divided -->
 <section class="slide" id="s2">
   <div class="ssec">Introduction</div>
-  <div class="snum"><b>02</b> / 46</div>
+  <div class="snum"><b>02</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv">The phenomenon</div>
     <h2 class="rv d1">The rise of <em>anthropomorphic language</em></h2>
@@ -2376,14 +2603,14 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 03 — A field divided -->
 <section class="slide" id="s2a">
   <div class="ssec">Introduction</div>
-  <div class="snum"><b>03</b> / 46</div>
+  <div class="snum"><b>03</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv">The landscape</div>
     <h2 class="rv d1">A field <em>divided</em></h2>
     <div class="divider rv d2"></div>
     <ul class="bl s2a-list">
       <li class="rv d3"><span>When asked whether AI understands, AI researchers were roughly split <span class="gold"><strong>50/50</strong></span> on this issue according to a 2022 survey</span></li>
-      <li class="rv d4"><span><em>Inflationists</em> are happy to say that these systems really do understand and reason if anything does</span></li>
+      <li class="rv d4"><span><em>Inflationists</em> are happy to say that these systems really do understand and reason</span></li>
       <li class="rv d5"><span><em>Deflationists</em> take the cognitive vocabulary for an illegitimate anthropomorphism</span></li>
     </ul>
   </div>
@@ -2392,10 +2619,9 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 04 — First reframing -->
 <section class="slide" id="s3">
   <div class="ssec">Introduction</div>
-  <div class="snum"><b>04</b> / 46</div>
+  <div class="snum"><b>04</b> / 41</div>
   <div class="slide-content">
-    <div class="kicker rv">First Reframing</div>
-    <h2 class="rv d1">Anthropomorphic locutions as <em>metaphors</em></h2>
+    <h2 class="rv d1"><em>Reframe</em> how we think about<br>anthropomorphic locutions</h2>
     <div class="divider rv d2"></div>
     <div class="s3-debate">
       <p class="s3-question rv d3">&ldquo;Does AI understand?&rdquo;</p>
@@ -2404,15 +2630,15 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
         <span class="s3-toggle-side yes">Yes</span>
       </div>
     </div>
-    <p class="s3-reframe">Look at the rise of anthropomorphic language through the lens of metaphor.</p>
-    <p class="takeaway s3-takeaway">There is a <em>transfer</em> going on — our ways of thinking about biological minds are being <em>creatively extended</em> to artificial minds.</p>
+    <p class="s3-reframe">Look at the rise of anthropomorphic language through the lens of <em>metaphor</em>. There is a <em>transfer</em> going on — our ways of thinking about biological minds are being <em>creatively extended</em> to artificial minds.</p>
+    <p class="takeaway s3-takeaway">These metaphors illustrate something fundamental about how <em>language evolves</em>.</p>
   </div>
 </section>
 
 <!-- SLIDE 04 — Secondary framing -->
 <section class="slide" id="s4a">
   <div class="ssec">Introduction</div>
-  <div class="snum"><b>05</b> / 46</div>
+  <div class="snum"><b>05</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv">Second Reframing</div>
     <h2 class="rv d1">Metaphor as <em>conceptual adaptation</em></h2>
@@ -2422,21 +2648,21 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
       <li class="rv d3"><span>a community adjusting its expressive resources</span></li>
       <li class="rv d4"><span>the <em>words we talk with</em> and the <em>concepts we think with</em> interact: as we <em>apply words in new ways</em>, we gradually <em>adjust our conceptual repertoire</em></span></li>
     </ul>
-    <div class="callout s4a-takeaway" style="margin-top:clamp(1.8rem,3vh,3rem)"><strong>Double reframing:</strong> anthropomorphic locutions are metaphors, and these are conceptual adaptation at work.</div>
+    <div class="callout s4a-takeaway" style="margin-top:clamp(1.8rem,3vh,3rem)"><strong>Double reframing:</strong> anthropomorphic locutions are metaphors, and this is conceptual adaptation at work.</div>
   </div>
 </section>
 
 <!-- SLIDE 05 — Three questions -->
 <section class="slide" id="s4">
   <div class="ssec">Introduction</div>
-  <div class="snum"><b>06</b> / 46</div>
+  <div class="snum"><b>06</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv">Roadmap</div>
     <h2 class="rv d1">Three questions that will structure this talk</h2>
     <div class="divider rv d2"></div>
     <ol class="nl">
       <li class="rv d2"><span class="n">1</span><span><strong>What gets transferred</strong> when a term is metaphorically extended to a new domain?</span></li>
-      <li class="rv d3"><span class="n">2</span><span><strong>What guides</strong> the extension — what makes it non-arbitrary?</span></li>
+      <li class="rv d3"><span class="n">2</span><span><strong>What guides</strong> the transfer — what makes it non-arbitrary?</span></li>
       <li class="rv d4"><span class="n">3</span><span><strong>Does it track anything real</strong> — does the world sustain the transfer?</span></li>
     </ol>
   </div>
@@ -2444,7 +2670,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 
 <!-- SLIDE 6 — §1 header -->
 <section class="slide sec-hdr" id="s5">
-  <div class="snum"><b>07</b> / 46</div>
+  <div class="snum"><b>07</b> / 41</div>
   <div class="sec-wrap">
     <div class="sec-num-display rv">1</div>
     <div class="sec-rule rv d1"></div>
@@ -2455,7 +2681,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 07 — Seeing a dog as a dog -->
 <section class="slide" id="s6">
   <div class="ssec">§1 · Imagination &amp; Concept Application</div>
-  <div class="snum"><b>08</b> / 46</div>
+  <div class="snum"><b>08</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv">a trivial example</div>
     <h2 class="rv">Seeing a dog <em>as a dog</em></h2>
@@ -2482,7 +2708,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 08 — Imagination as the bridge -->
 <section class="slide" id="s7">
   <div class="ssec">§1 · Imagination &amp; Concept Application</div>
-  <div class="snum"><b>09</b> / 46</div>
+  <div class="snum"><b>09</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv d1">the bridge</div>
     <h2 class="rv d2">Imagination</h2>
@@ -2497,7 +2723,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 09 — Perception is saturated with thought -->
 <section class="slide" id="s7a">
   <div class="ssec">§1 · Imagination &amp; Concept Application</div>
-  <div class="snum"><b>10</b> / 46</div>
+  <div class="snum"><b>10</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv d1">Perception is <em>saturated with thought</em></h2>
     <div class="divider rv d2"></div>
@@ -2514,12 +2740,12 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 10 — Strawson’s continuity thesis -->
 <section class="slide" id="s7b">
   <div class="ssec">§1 · Imagination &amp; Concept Application</div>
-  <div class="snum"><b>11</b> / 46</div>
+  <div class="snum"><b>11</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv">From routine to <em>creative concept application</em></h2>
     <div class="divider rv d1"></div>
     <ul class="bl" style="margin-bottom:clamp(1.4rem,2.6vh,2.6rem)">
-      <li class="rv d2"><span>If even <em>routine</em> concept-application involves imagination, then <em>creative</em> concept-application involves the same faculty more inventively deployed</span></li>
+      <li class="rv d2"><span>If even <em>routine</em> concept application involves imagination, then <em>creative</em> concept application involves the same faculty more inventively deployed</span></li>
       <li class="rv d3"><span>&ldquo;dog <em>runs</em>&rdquo;<span class="s10-arr">→</span>&ldquo;cat <em>runs</em>&rdquo;<span class="s10-arr">→</span>&ldquo;water <em>runs</em>&rdquo;</span></li>
       <li class="rv d4"><span>Extension not covered by rules, yet humanly graspable</span></li>
       <li class="rv d5"><span>Goes against tradition seeking to <em>exhaustively</em> explain language in terms of general rules</span></li>
@@ -2529,24 +2755,12 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
   </div>
 </section>
 
-<!-- SLIDE 11 — Creativity comes in where the rules give out -->
-<section class="slide" id="s8">
-  <div class="ssec">§1 · Imagination &amp; Concept Application</div>
-  <div class="snum"><b>12</b> / 46</div>
-  <div class="slide-content">
-    <h2 class="rv d1">Strawson’s <em>continuity thesis</em></h2>
-    <div class="divider rv d2"></div>
-    <blockquote class="rv d3 quote-compact">Beginning from such simplicities as <em>seeing a cloud as a camel</em> or a <em>formation of stalagmites as a dragon</em>, we may move on to the <em>first application of the word &ldquo;astringent&rdquo; to a remark</em>; to a natural scientist seeing a pattern in phenomena and introducing, as we say, <em>new concepts</em> to express his insight.</blockquote>
-    <div class="attr rv d4">— P. F. Strawson</div>
-  </div>
-</section>
-
 <!-- SLIDE 12 — The continuity thesis -->
 <section class="slide" id="s9">
   <div class="ssec">§1 · Imagination &amp; Concept Application</div>
-  <div class="snum"><b>13</b> / 46</div>
+  <div class="snum"><b>12</b> / 41</div>
   <div class="slide-content">
-    <h2 class="rv">One faculty, a <em>spectrum of applications</em></h2>
+    <h2 class="rv">The <em>continuity thesis</em></h2>
     <div class="divider rv d1"></div>
     <div class="chain">
       <div class="ci2 rv d2"><span class="lead">Seeing a dog</span><em>as a dog</em></div>
@@ -2559,7 +2773,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 13 — Metaphor as conceptual adaptation -->
 <section class="slide" id="s10">
   <div class="ssec">§1 · Imagination &amp; Concept Application</div>
-  <div class="snum"><b>14</b> / 46</div>
+  <div class="snum"><b>13</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv d1">Seeing a neural network as <em>understanding</em></h2>
     <div class="divider rv d2"></div>
@@ -2578,7 +2792,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 
 <!-- SLIDE 14 — §2 header + bridge -->
 <section class="slide sec-hdr" id="s11">
-  <div class="snum"><b>15</b> / 46</div>
+  <div class="snum"><b>14</b> / 41</div>
   <div class="sec-wrap">
     <div class="sec-num-display rv">2</div>
     <div class="sec-rule rv d1"></div>
@@ -2589,19 +2803,20 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 15 — Framing effect -->
 <section class="slide" id="s11a">
   <div class="ssec">§2 · What Gets Transferred?</div>
-  <div class="snum"><b>16</b> / 46</div>
+  <div class="snum"><b>15</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv d1">Metaphors produce a <em>framing effect</em></h2>
     <div class="divider rv d2"></div>
     <p class="rv d3" style="color:var(--text-mid);margin-bottom:clamp(1.5rem,2.6vh,2.6rem)">Metaphorically extending a term to X <em>induces us to see or consider X in a new light</em> (Davidson, Moran)</p>
     <p class="takeaway rv d4">Don&rsquo;t look for <em>special metaphorical meanings of words</em> at the level of language; focus on how metaphorical usage <em>channels our attention directed at the world</em></p>
+    <p class="rv d5" style="max-width:min(90vw,1180px);margin-top:clamp(1.4rem,2.2vh,2.2rem);color:var(--text-mid)">But Davidson leaves the framing effect as a black box — an unstructured &ldquo;noticing of similarities.&rdquo;</p>
   </div>
 </section>
 
 <!-- SLIDE 16 — The bowtie structure -->
 <section class="slide" id="s13">
   <div class="ssec">§2 · What Gets Transferred?</div>
-  <div class="snum"><b>17</b> / 46</div>
+  <div class="snum"><b>16</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv">The <em>bowtie structure</em> of concepts</h2>
     <div class="divider rv d1"></div>
@@ -2642,24 +2857,24 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 19 — Second reframing -->
 <section class="slide" id="s16">
   <div class="ssec">§2 · What Gets Transferred?</div>
-  <div class="snum"><b>18</b> / 46</div>
+  <div class="snum"><b>17</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv">Selective transfer</div>
     <h2 class="rv d1">Metaphor <em>opens</em> the bowtie</h2>
     <div class="divider rv d2"></div>
-    <p class="rv d3">When we extend a concept to a new domain, we do <span class="gold"><strong>not</strong></span> transfer this bowtie structure wholesale. The metaphor <em>selectively</em> transfers some inferential connections, inviting us to explore which connections hold in the new domain and which do not.</p>
+    <p class="rv d3">When we extend a concept to a new domain, we do <span class="gold"><strong>not</strong></span> transfer this bowtie structure wholesale. The metaphor invites us to explore <em>which inferential connections hold</em> in the new domain and which do not.</p>
   </div>
 </section>
 
 <!-- SLIDE 18 — Conceptual adaptation as selective transfer -->
 <section class="slide" id="s16a">
   <div class="ssec">§2 · What Gets Transferred?</div>
-  <div class="snum"><b>19</b> / 46</div>
+  <div class="snum"><b>18</b> / 41</div>
   <div class="slide-content">
-    <h2 class="rv d1">Conceptual adaptation as <em>inferential transfer</em></h2>
+    <h2 class="rv d1">Adaptation as <em>selective inferential transfer</em></h2>
     <div class="divider rv d2"></div>
     <ul class="bl">
-      <li class="rv d3"><span>Referent changes. What gets transferred are <em>inferential patterns</em></span></li>
+      <li class="rv d3"><span>Referent changes. What gets transferred are <em>inferential connections</em></span></li>
       <li class="rv d4"><span>Conceptual adaptation is the work of selectively <em>preserving</em> the inferential connections that fit, <em>severing</em> those that don&rsquo;t, and potentially <em>forging</em> new ones</span></li>
     </ul>
   </div>
@@ -2668,23 +2883,22 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 20 — Structural alignment -->
 <section class="slide" id="s17">
   <div class="ssec">§2 · What Gets Transferred?</div>
-  <div class="snum"><b>20</b> / 46</div>
+  <div class="snum"><b>19</b> / 41</div>
   <div class="slide-content">
-    <h2 class="rv">Grounding the account <em>empirically</em></h2>
+    <h2 class="rv">The shape of <em>metaphor processing</em></h2>
     <div class="divider rv d1"></div>
-    <ul class="bl" style="margin-bottom:clamp(1.4rem,2.4vh,2.4rem)">
-      <li class="rv d2"><span>Gentner’s <em>structure-mapping theory</em>: analogical reasoning proceeds by <strong>structural alignment</strong> — relational commonalities projected, non-matching attributes filtered</span></li>
-      <li class="rv d3"><span>King &amp; Gentner (2022/23): verb metaphors&mdash;such as saying a motor &ldquo;complained&rdquo;&mdash;are processed as analogies: relational structure is constructed through comparison, not retrieved from a dictionary</span></li>
-      <li class="rv d4"><span>Carston &amp; Yan (2023): convergent conclusions from pragmatics</span></li>
-    </ul>
-    <p class="takeaway rv d5">When someone says an LLM &ldquo;learns,&rdquo; they project: <span class="gold">improves, generalises, acquires competences</span> — and filter: <span style="color:var(--red)">is conscious, feels satisfaction</span></p>
+    <div class="s17-theory rv d2">
+      <p><strong>Gentner&rsquo;s structure-mapping theory</strong></p>
+      <div class="s17-meta">(four decades of experimental work; King &amp; Gentner 2022, 2023)</div>
+      <p>When we hear &ldquo;the motor complained,&rdquo; we do not retrieve a stored secondary sense. We construct meaning <em>online</em>: we actively compare source and target and selectively project relational commonalities.</p>
+    </div>
   </div>
 </section>
 
 <!-- SLIDE 21 — The career of a metaphor -->
 <section class="slide" id="s18">
   <div class="ssec">§2 · What Gets Transferred?</div>
-  <div class="snum"><b>21</b> / 46</div>
+  <div class="snum"><b>20</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv">Metaphors undergo a <em>career</em></h2>
     <div class="divider rv d1"></div>
@@ -2700,7 +2914,6 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
           <ul>
             <li>Context-sensitive comparison</li>
             <li>Imaginatively demanding</li>
-            <li>Relational structure built on the fly</li>
           </ul>
         </article>
         <div class="career-state-connector" aria-hidden="true">
@@ -2716,7 +2929,6 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
           <ul>
             <li>Less context-sensitive</li>
             <li>Less imaginatively demanding</li>
-            <li>Processed more like categorisation</li>
           </ul>
         </article>
       </div>
@@ -2727,7 +2939,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 22 — Where we stand -->
 <section class="slide" id="s19">
   <div class="ssec">§2 · What Gets Transferred?</div>
-  <div class="snum"><b>22</b> / 46</div>
+  <div class="snum"><b>21</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv">Sleeping metaphors</h2>
     <div class="divider rv d1"></div>
@@ -2745,14 +2957,14 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
         <div class="career-band-main">Sleeping</div>
       </div>
     </div>
-    <p class="career-body rv d3">C. M&uuml;ller (2008) replaces the binary with a gradient: metaphors can oscillate between states of <span class="wake">waking</span> and <span class="sleep">sleeping</span>. Sleeping metaphors can be reawakened (Goldstein, Arzouan, and Faust 2012).</p>
+    <p class="career-body rv d3">Cornelia M&uuml;ller (2008): metaphors don't die; they oscillate between states of <span class="wake">waking</span> and <span class="sleep">sleeping</span>. Sleeping metaphors can be reawakened (Goldstein, Arzouan, and Faust 2012).</p>
   </div>
 </section>
 
 <!-- SLIDE 23 — Dissolving the binary -->
 <section class="slide" id="s20">
   <div class="ssec">§2 · What Gets Transferred?</div>
-  <div class="snum"><b>23</b> / 46</div>
+  <div class="snum"><b>22</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv">Diagnosing the debate</h2>
     <div class="divider rv d1"></div>
@@ -2777,24 +2989,23 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
         <div class="diag-why"><strong>Why?</strong> The deflationist registers only the stretch — and refuses it.</div>
       </article>
     </div>
-    <div class="diag-summary"><strong>Both miss the selective transfer:</strong> some connections are <em>preserved</em>, others <em>severed</em>, and the concept is <em>reshaped</em>.</div>
   </div>
 </section>
 
 <!-- SLIDE 25 — §3 header -->
 <section class="slide sec-hdr" id="s23">
-  <div class="snum"><b>24</b> / 46</div>
+  <div class="snum"><b>23</b> / 41</div>
   <div class="sec-wrap">
     <div class="sec-num-display rv">3</div>
     <div class="sec-rule rv d1"></div>
-    <div class="sec-title rv d2">What <em>guides</em> the extension?</div>
+    <div class="sec-title rv d2">What <em>guides</em> the transfer?</div>
   </div>
 </section>
 
 <!-- SLIDE 26 — Doctor illustration sequence -->
 <section class="slide doctor-seq-slide" id="s24d">
-  <div class="ssec">§3 · What Guides the Extension?</div>
-  <div class="snum"><b>25</b> / 46</div>
+  <div class="ssec">§3 · What Guides the Transfer?</div>
+  <div class="snum"><b>24</b> / 41</div>
   <div class="doctor-seq" id="doctorSeq" aria-label="Doctor illustration sequence">
     <img class="doctor-shot is-active" data-stage="1" src="assets/doctor/doctor1.png" alt="">
     <img class="doctor-shot" data-stage="2" src="assets/doctor/doctor2.png" alt="">
@@ -2805,42 +3016,32 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 
 <!-- SLIDE 28 — The bind -->
 <section class="slide" id="s24">
-  <div class="ssec">§3 · What Guides the Extension?</div>
-  <div class="snum"><b>26</b> / 46</div>
+  <div class="ssec">§3 · What Guides the Transfer?</div>
+  <div class="snum"><b>25</b> / 41</div>
   <div class="slide-content">
-    <h2 class="rv">The <em>bind</em></h2>
+    <h2 class="rv">The bind</h2>
     <div class="divider rv d1"></div>
-    <p class="rv d2" style="max-width:min(90vw,1220px);margin-bottom:clamp(2rem,3.4vh,3.4rem)">Our existing concept of understanding carries implications that do not fit AI&mdash;of consciousness or responsibility, for example.</p>
-    <blockquote class="rv d3" style="color:var(--text-mid);margin-top:clamp(1.2rem,2vh,2rem)">Our old ideas based on natural intelligence are inadequate</blockquote>
-    <div class="attr rv d6">— Terrence Sejnowski</div>
-  </div>
-</section>
-
-<!-- SLIDE 29 — The reintroduction argument -->
-<section class="slide" id="s25">
-  <div class="ssec">§3 · What Guides the Extension?</div>
-  <div class="snum"><b>27</b> / 46</div>
-  <div class="slide-content">
-    <h2 class="rv">Inadequate yet <em>indispensable</em></h2>
-    <div class="divider rv d1"></div>
-    <p class="rv d2" style="margin-bottom:clamp(1.2rem,2.2vh,2.2rem)">Our cognitive vocabulary is simultaneously</p>
+    <p class="rv d2" style="max-width:min(90vw,1220px);margin-bottom:clamp(1.2rem,2.2vh,2.2rem)">Our existing concept of understanding carries implications that do not fit AI&mdash;of consciousness or responsibility, for example.</p>
+    <p class="rv d3" style="margin-bottom:clamp(1.2rem,2.2vh,2.2rem)">This means that our cognitive vocabulary is simultaneously</p>
     <div class="tcol">
-      <div class="cb neg rv d3">
+      <div class="cb neg rv d4">
         <div class="cl">Inadequate</div>
         <p>encodes assumptions that don’t map onto machines</p>
       </div>
-      <div class="cb pos rv d4">
+      <div class="cb pos rv d5">
         <div class="cl">Indispensable</div>
         <p>we need its inferential richness to guide human–AI interaction</p>
       </div>
     </div>
+    <blockquote class="rv d6" style="margin-top:clamp(1.6rem,2.4vh,2.4rem)">People resist calling it &ldquo;reasoning&rdquo; because it&rsquo;s not <span class="gold" style="font-family:var(--fd);font-style:italic;font-weight:600">human</span> reasoning. But I think there is no way we can <span class="gold" style="font-family:var(--fd);font-style:italic;font-weight:600">not</span> call it reasoning.</blockquote>
+    <div class="attr rv d7">— S&eacute;bastien Bubeck</div>
   </div>
 </section>
 
 <!-- SLIDE 30 — Inadequate yet indispensable -->
 <section class="slide" id="s26">
-  <div class="ssec">§3 · What Guides the Extension?</div>
-  <div class="snum"><b>28</b> / 46</div>
+  <div class="ssec">§3 · What Guides the Transfer?</div>
+  <div class="snum"><b>26</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv">The <em>reintroduction</em> argument</h2>
     <div class="divider rv d1"></div>
@@ -2852,7 +3053,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
       <div class="larr rv d3">↓</div>
       <div class="ls prob rv d4">
         <div class="lt">Problem</div>
-        <div class="lx">Not all pattern-matching is equal — reliable pattern-matching <em>tracks the underlying structure</em> of the domain</div>
+        <div class="lx">Not all pattern-matching is equal — <em>reliable</em> pattern-matching <em>tracks the underlying structure</em> of the domain</div>
       </div>
       <div class="larr rv d5">↓</div>
       <div class="ls conc rv d6">
@@ -2865,19 +3066,19 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 
 <!-- SLIDE 31 — Third reframing -->
 <section class="slide" id="s27">
-  <div class="ssec">§3 · What Guides the Extension?</div>
-  <div class="snum"><b>29</b> / 46</div>
+  <div class="ssec">§3 · What Guides the Transfer?</div>
+  <div class="snum"><b>27</b> / 41</div>
   <div class="slide-content">
-    <h2 class="rv d1">Conceptual <em>needs</em></h2>
+    <h2 class="rv d1">Meeting <em>conceptual needs</em></h2>
     <div class="divider rv d2"></div>
     <div class="s27-top">
-      <p class="takeaway rv d3" style="color:var(--text)">A conceptual need is not a need of the body but a <em>need of the mind</em> — an <em>instrumental need for a certain way of thinking</em>, generated by a mismatch between our conceptual repertoire and our situation</p>
+      <p class="takeaway rv d3" style="color:var(--text)">A conceptual need is not a need of the body but a <em>need of the mind</em> — an <em>instrumental need for a certain way of thinking</em></p>
     </div>
     <div class="s27-lower">
       <ul class="bl s27-body rv d4" style="margin-bottom:clamp(1.2rem,2.2vh,2.2rem)">
         <li><span>The normativity of conceptual needs is the normativity of <em>fittingness</em></span></li>
         <li><span>Whether a key fits a lock is determined by whether its ridges mesh with the pins</span></li>
-        <li><span>Similarly, a concept fits a predicament to the extent that the <em>inferential pattern it encodes meshes with the inferential connections</em> we need to draw</span></li>
+        <li><span>Similarly, a concept fits a situation to the extent that the <em>inferential pattern it encodes meshes with the inferential connections</em> we need to draw</span></li>
       </ul>
     </div>
     <div class="s27-visual rv d4" aria-hidden="true">
@@ -2888,20 +3089,20 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 
 <!-- SLIDE 32 — Two roles of conceptual needs -->
 <section class="slide" id="s28">
-  <div class="ssec">§3 · What Guides the Extension?</div>
-  <div class="snum"><b>30</b> / 46</div>
+  <div class="ssec">§3 · What Guides the Transfer?</div>
+  <div class="snum"><b>28</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv">Conceptual needs: <em>two roles</em></h2>
     <div class="divider rv d1"></div>
     <ol class="nl">
       <li class="rv d2">
         <span class="n">I.</span>
-        <span><span class="gold"><strong>Explain</strong></span> metaphorical usage:<br>Researchers reach for cognitive vocabulary not out of carelessness, but <em class="gold">in answer to genuine pressures</em></span>
+        <span><span class="gold"><strong>Explain</strong></span> metaphorical usage:<br>Researchers reach for cognitive vocabulary not out of carelessness, but <strong>in answer to real practical pressures</strong></span>
       </li>
       <li class="rv d3">
         <span class="n">II.</span>
         <span><span class="gold"><strong>Guide</strong></span> the extension:
-          <br><em>The conceptual adaptation realized by the metaphorical usage <strong>should</strong> be responsive to our conceptual needs</em>
+          <br>The conceptual adaptation realized by the metaphorical usage <strong>should</strong> be responsive to our conceptual needs
         </span>
       </li>
     </ol>
@@ -2910,7 +3111,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 
 <!-- SLIDE 32 — §4 header + bridge -->
 <section class="slide sec-hdr" id="s29">
-  <div class="snum"><b>31</b> / 46</div>
+  <div class="snum"><b>29</b> / 41</div>
   <div class="sec-wrap">
     <div class="sec-num-display rv">4</div>
     <div class="sec-rule rv d1"></div>
@@ -2921,14 +3122,49 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 
 <!-- SLIDE 32 — OpenAI image -->
 <section class="slide img-full" id="s29a">
-  <div class="snum"><b>32</b> / 46</div>
+  <div class="snum"><b>30</b> / 41</div>
   <img src="assets/openai/openai.jpeg" alt="OpenAI">
+  <div class="s29a-story-wrap">
+    <div class="s29a-story" aria-hidden="true">
+      <h2 class="s29a-title">An accidental <em>discovery</em></h2>
+      <div class="s29a-divider"></div>
+      <ul class="s29a-list">
+        <li>In 2021, researchers at OpenAI were training a small neural network to perform modular addition</li>
+        <li>It was trained on a huge table of examples, but initial results were underwhelming — <em>it seemed to have simply memorised</em></li>
+        <li>A researcher went on vacation, accidentally leaving the model training</li>
+        <li>On return: accuracy on unseen examples had <span class="gold"><strong>shot up</strong></span></li>
+        <li>And: the model had become <strong>internally simpler</strong>, discarding its sprawling database of memorised examples and replacing them with a compact computational circuit</li>
+      </ul>
+    </div>
+  </div>
 </section>
 
-<!-- SLIDE 33 — What modular addition is -->
+<!-- SLIDE 35 — [ANIMATION: The grokking moment] -->
+<section class="slide" id="s32">
+  <div class="snum" style="color:rgba(255,255,255,0.35)"><b>31</b> / 41</div>
+  <div id="grok-cnv"></div>
+</section>
+
+<!-- SLIDE 37 — Why "grokking" works -->
+<section class="slide" id="s34">
+  <div class="ssec">§4 · Does It Track Anything Real?</div>
+  <div class="snum"><b>32</b> / 41</div>
+  <div class="slide-content">
+    <h2 class="rv"><span class="gold">Grokking</span></h2>
+    <div class="divider rv d1"></div>
+    <p class="rv d2" style="margin-bottom:clamp(1.4rem,2.5vh,2.5rem)">Robert Heinlein&rsquo;s <em style="font-family:var(--fb);font-style:italic">Stranger in a Strange Land</em> describes Martians as capable of achieving <em>an alien mode of deep understanding</em></p>
+    <ul class="bl">
+      <li class="rv d3"><span>The <em>source concept</em> being drawn on to make sense of this new phenomenon is that expressed by our term &ldquo;understanding&rdquo;</span></li>
+      <li class="rv d4"><span>Performs a <em>lexical marking</em> of the strangeness of the understanding involved</span></li>
+      <li class="rv d5"><span>The lexical marking keeps the metaphor <span class="gold"><strong>awake</strong></span>: holds open the tension between the understanding-frame and the alienness-frame</span></li>
+    </ul>
+  </div>
+</section>
+
+<!-- SLIDE 34 — What modular addition is -->
 <section class="slide" id="s30">
   <div class="ssec">§4 · Does It Track Anything Real?</div>
-  <div class="snum"><b>33</b> / 46</div>
+  <div class="snum"><b>33</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv">Modular addition: <em>addition with a ceiling</em></h2>
     <div class="divider rv d1"></div>
@@ -2941,63 +3177,10 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
   </div>
 </section>
 
-<!-- SLIDE 34 — The phenomenon -->
-<section class="slide" id="s31">
-  <div class="ssec">§4 · Does It Track Anything Real?</div>
-  <div class="snum"><b>34</b> / 46</div>
-  <div class="slide-content">
-    <h2 class="rv">An accidental <em>discovery</em></h2>
-    <div class="divider rv d1"></div>
-    <ul class="bl">
-      <li class="rv d2"><span>Early result: memorised training examples, poor generalisation — <em>it seemed to have simply memorised</em></span></li>
-      <li class="rv d3"><span>A researcher went on vacation, accidentally leaving the model training</span></li>
-      <li class="rv d4"><span>On return: accuracy on unseen examples had <span class="gold"><strong>shot up</strong></span></span></li>
-      <li class="rv d5"><span>And: the model had become <strong>internally simpler</strong>, discarding its sprawling database of memorised examples and replacing them with a compact computational circuit</span></li>
-    </ul>
-  </div>
-</section>
-
-<!-- SLIDE 35 — [ANIMATION: The grokking moment] -->
-<section class="slide" id="s32">
-  <div class="snum" style="color:rgba(255,255,255,0.35)"><b>35</b> / 46</div>
-  <div id="grok-cnv"></div>
-</section>
-
-<!-- SLIDE 36 — A phenomenon without a name -->
-<section class="slide" id="s33">
-  <div class="ssec">§4 · Does It Track Anything Real?</div>
-  <div class="snum"><b>36</b> / 46</div>
-  <div class="slide-content">
-    <h2 class="rv">A phenomenon <em>without a name</em></h2>
-    <div class="divider rv d1"></div>
-    <div class="slist">
-      <div class="si"><span class="st">&ldquo;Learning&rdquo;</span><span class="sr">— too broad</span></div>
-      <div class="si"><span class="st">&ldquo;Generalisation&rdquo;</span><span class="sr">— too flat; misses the suddenness, the drama</span></div>
-      <div class="si"><span class="st">&ldquo;Understanding&rdquo;</span><span class="sr">— carries too much phenomenological baggage</span></div>
-    </div>
-  </div>
-</section>
-
-<!-- SLIDE 37 — Why "grokking" works -->
-<section class="slide" id="s34">
-  <div class="ssec">§4 · Does It Track Anything Real?</div>
-  <div class="snum"><b>37</b> / 46</div>
-  <div class="slide-content">
-    <h2 class="rv"><span class="gold">Grokking</span></h2>
-    <div class="divider rv d1"></div>
-    <p class="rv d2" style="margin-bottom:clamp(1.4rem,2.5vh,2.5rem)">Robert Heinlein&rsquo;s <em>Stranger in a Strange Land</em> describes Martians as capable of achieving <em>an alien mode of deep understanding</em></p>
-    <ul class="bl">
-      <li class="rv d3"><span>The <em>source concept</em> being drawn on to make sense of this new phenomenon is that expressed by our term &ldquo;understanding&rdquo;</span></li>
-      <li class="rv d4"><span>Performs a <em>lexical marking</em> of the strangeness of the understanding involved</span></li>
-      <li class="rv d5"><span>The science-fiction provenance keeps the metaphor <span class="gold"><strong>awake</strong></span>: holds open the tension between the understanding-frame and the alienness-frame</span></li>
-    </ul>
-  </div>
-</section>
-
 <!-- SLIDE 38 — From line to circle -->
 <section class="slide cnv-slide" id="s35">
   <div class="ssec">§4 · Does It Track Anything Real?</div>
-  <div class="snum"><b>38</b> / 46</div>
+  <div class="snum"><b>34</b> / 41</div>
   <div class="cnv-hdr">
     <h2 class="rv">First trick: <em>circle-wrapping</em></h2>
     <div class="divider rv d1"></div>
@@ -3010,7 +3193,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 39 — Constructive interference -->
 <section class="slide cnv-slide" id="s36">
   <div class="ssec">§4 · Does It Track Anything Real?</div>
-  <div class="snum"><b>39</b> / 46</div>
+  <div class="snum"><b>35</b> / 41</div>
   <div class="cnv-hdr">
     <h2 class="rv">Second trick: <em>constructive interference</em></h2>
     <div class="divider rv d1"></div>
@@ -3022,7 +3205,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 
 <!-- SLIDE 40 — Drawing threads together -->
 <section class="slide sec-hdr" id="s37">
-  <div class="snum"><b>40</b> / 46</div>
+  <div class="snum"><b>36</b> / 41</div>
   <div class="sec-wrap">
     <div class="sec-num-display rv" style="font-style:normal;letter-spacing:0;font-size:clamp(8rem,14vw,14rem)">∴</div>
     <div class="sec-rule rv d1"></div>
@@ -3033,70 +3216,50 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <!-- SLIDE 41 — Q1 answered -->
 <section class="slide" id="s38">
   <div class="ssec">Synthesis</div>
-  <div class="snum"><b>41</b> / 46</div>
+  <div class="snum"><b>37</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv">Question I</div>
     <h2 class="rv d1">What gets <em>transferred?</em></h2>
     <div class="divider rv d2"></div>
-    <p class="rv d3" style="max-width:min(90vw,1180px)"><em>A selective subset of the concept&rsquo;s inferential connections</em>. Metaphors open up the bowtie structure of concepts and let us explore which connections hold in the new domain and which do not</p>
+    <p class="rv d3" style="max-width:min(90vw,1180px)"><em>A selective subset of the concept&rsquo;s inferential connections</em>. Metaphors open up the bowtie structure of concepts and let us explore which connections hold in the new domain and which do not.</p>
   </div>
 </section>
 
 <!-- SLIDE 42 — Q2 answered -->
 <section class="slide" id="s39">
   <div class="ssec">Synthesis</div>
-  <div class="snum"><b>42</b> / 46</div>
+  <div class="snum"><b>38</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv">Question II</div>
-    <h2 class="rv d1">What <em>guides</em> the extension?</h2>
+    <h2 class="rv d1">What <em>guides</em> the transfer?</h2>
     <div class="divider rv d2"></div>
-    <p class="rv d3" style="max-width:min(90vw,1200px);margin-bottom:clamp(1.2rem,2.2vh,2.2rem)"><em>Conceptual needs</em>: the instrumental need for certain ways of thinking generated by a mismatch between our conceptual repertoire and our situation. The reintroduction argument showed that the inferential work performed by cognitive vocabulary is <em>ineliminable</em>.</p>
-    <p class="rv d4" style="max-width:min(90vw,1200px)">But our cognitive concepts also carry commitments that don&rsquo;t map onto machines. This puts us in a bind calling for <em>conceptual adaptation</em>. Our conceptual needs <em>drive and discipline</em> that adaptation</p>
+    <p class="rv d3" style="max-width:min(90vw,1200px);margin-bottom:clamp(1.2rem,2.2vh,2.2rem)"><em>Conceptual needs</em>: our cognitive concepts perform work that we need to see performed in human-AI interactions &ndash; for example, the concept of understanding <em>guides how we place our trust</em>.</p>
+    <p class="rv d4" style="max-width:min(90vw,1200px)">But our cognitive concepts also carry commitments that don&rsquo;t map onto machines. This puts us in a bind calling for <em>conceptual adaptation</em>. Our conceptual needs <em>drive and discipline</em> that adaptation.</p>
   </div>
 </section>
 
 <!-- SLIDE 43 — Q3 answered -->
 <section class="slide" id="s40">
   <div class="ssec">Synthesis</div>
-  <div class="snum"><b>43</b> / 46</div>
+  <div class="snum"><b>39</b> / 41</div>
   <div class="slide-content">
     <div class="kicker rv">Question III</div>
     <h2 class="rv d1">Does it <em>track</em> anything real?</h2>
     <div class="divider rv d2"></div>
     <p class="rv d3" style="max-width:min(90vw,1200px);margin-bottom:clamp(1.2rem,2.2vh,2.2rem)">The case of grokking showed that it can. When a model groks, it ceases to rely on rote memorisation and <em>forms a compact computational circuit encoding a general principle</em>.</p>
-    <p class="rv d4" style="max-width:min(90vw,1200px)">But this is a deeply different form of understanding - understanding without consciousness</p>
-  </div>
-</section>
-
-<!-- SLIDE 44 — The same faculty — now fully in view -->
-<section class="slide" id="s41">
-  <div class="ssec">Synthesis</div>
-  <div class="snum"><b>44</b> / 46</div>
-  <div class="slide-content">
-    <h2 class="rv">Against both <em>extremes</em></h2>
-    <div class="divider rv d1"></div>
-    <div class="tcol" style="max-width:min(95vw,1320px);margin-top:clamp(0.6rem,1.2vh,1.2rem)">
-      <div class="cb neg rv d2">
-        <div class="cl">Against the deflationist</div>
-        <p style="font-size:clamp(1.5rem,1.95vw,1.95rem);line-height:1.42">The resulting framework shows that selective inferential transfer can be well-motivated and empirically supported: anthropomorphic language is not necessarily a failure of intellectual hygiene. It can be a mode of cognitive progress.</p>
-      </div>
-      <div class="cb pos rv d3">
-        <div class="cl">Against the inflationist</div>
-        <p style="font-size:clamp(1.5rem,1.95vw,1.95rem);line-height:1.42">The framework shows that aptness is always selective, and that letting the metaphor fall asleep risks importing unwarranted baggage.</p>
-      </div>
-    </div>
+    <p class="rv d4" style="max-width:min(90vw,1200px)">But this is a deeply different form of understanding &ndash; <em style="font-style:italic">understanding without consciousness</em></p>
   </div>
 </section>
 
 <!-- SLIDE 45 — Reciprocal illumination -->
 <section class="slide" id="s42">
   <div class="ssec">Synthesis</div>
-  <div class="snum"><b>45</b> / 46</div>
+  <div class="snum"><b>40</b> / 41</div>
   <div class="slide-content">
     <h2 class="rv">Conclusion</h2>
     <div class="divider rv d1"></div>
     <p class="rv d2" style="margin-bottom:clamp(1.4rem,2.4vh,2.4rem)">What looks like a terminological dispute is really a <em>struggle over which inferential connections to endorse</em> — a struggle whose consequences reach into hospitals, courtrooms, and regulatory agencies.</p>
-    <p class="rv d3" style="color:var(--text-mid)">Metaphorical extension is not ornamental. It is a vital mechanism by a linguistic community <em>reshapes its expressive resources</em> for a world that keeps outrunning them.</p>
+    <p class="rv d3" style="color:var(--text-mid)">Metaphorical extension is not ornamental. It is a vital mechanism by which a linguistic community <em>reshapes its expressive resources</em> for a world that keeps outrunning them.</p>
   </div>
 </section>
 
@@ -3104,7 +3267,7 @@ body.editing [contenteditable]:focus{outline:1px solid var(--gold-hi)}
 <section class="slide" id="s43">
   <div class="title-bg c2"></div>
   <div class="title-bg c1"></div>
-  <div class="snum" style="color:var(--dim)"><b>46</b> / 46</div>
+  <div class="snum" style="color:var(--dim)"><b>41</b> / 41</div>
   <div class="final-inner">
     <div class="final-q rv-blur">The task — for the philosophy of language and the philosophy of mind, working together — is to help ensure that our <em>evolving language</em> keeps step with the <em>evolving minds</em> it must describe.</div>
     <div class="final-rule rv d2"></div>
@@ -4340,16 +4503,16 @@ class SlideDeck {
     this.overviewCards = [];
     this.fullscreenLike = false;
     this.getSlideIndex = id => this.slideIndexById.get(id) ?? -1;
-    this.INTRO_IDX = -1; // slide 2 is now static
+    this.INTRO_IDX = this.getSlideIndex('s2');
     this.DEBATE_IDX = this.getSlideIndex('s3');
     this.SECOND_REFRAME_IDX = this.getSlideIndex('s4a');
     this.DOG_CONCEPT_IDX = this.getSlideIndex('s6');
     this.NETWORK_MEDIA_IDX = this.getSlideIndex('s10');
     this.BOWTIE_IDX = this.getSlideIndex('s13');
-    this.DIAG_IDX = this.getSlideIndex('s20');
     this.DOCTOR_IDX = this.getSlideIndex('s24d');
     this.REINTRO_IDX = this.getSlideIndex('s26');
     this.CONCEPT_NEEDS_IDX = this.getSlideIndex('s27');
+    this.IMAGE_STORY_IDX = this.getSlideIndex('s29a');
     this.GROK_IDX = this.getSlideIndex('s32');
     this.NAMELESS_IDX = this.getSlideIndex('s33');
     this.CIRCLE_IDX = this.getSlideIndex('s35');
@@ -4358,12 +4521,12 @@ class SlideDeck {
     this.doctorStage = 1;
     this.circleDemo = null;
     this.waveDemo = null;
+    this.imageStoryStage = 1;
     this.introStage = 1;
     this.debateStage = 1;
     this.secondReframeStage = 1;
     this.dogConceptStage = 1;
     this.networkMediaStage = 1;
-    this.diagStage = 1;
     this.reintroStage = 1;
     this.conceptNeedsStage = 1;
     this.namelessStage = 0;
@@ -4382,10 +4545,10 @@ class SlideDeck {
     this.setupSecondReframeSequence();
     this.setupDogConceptSequence();
     this.setupNetworkMediaSequence();
-    this.setupDiagSequence();
     this.setupDoctorSequence();
     this.setupReintroSequence();
     this.setupConceptNeedsSequence();
+    this.setupImageStorySequence();
     this.setupNamelessSequence();
     this.setupBowtie();
     this.setupCircleCanvas();
@@ -4741,18 +4904,6 @@ class SlideDeck {
           return;
         }
       }
-      if (this.current === this.DIAG_IDX) {
-        if (['ArrowRight','ArrowDown',' ','PageDown'].includes(e.key) && this.advanceDiagSequence()) {
-          this.syncPresentationChrome?.();
-          e.preventDefault();
-          return;
-        }
-        if (['ArrowLeft','ArrowUp','PageUp'].includes(e.key) && this.retreatDiagSequence()) {
-          this.syncPresentationChrome?.();
-          e.preventDefault();
-          return;
-        }
-      }
       if (this.current === this.NAMELESS_IDX) {
         if (['ArrowRight','ArrowDown',' ','PageDown'].includes(e.key) && this.advanceNamelessSequence()) {
           this.syncPresentationChrome?.();
@@ -4760,6 +4911,18 @@ class SlideDeck {
           return;
         }
         if (['ArrowLeft','ArrowUp','PageUp'].includes(e.key) && this.retreatNamelessSequence()) {
+          this.syncPresentationChrome?.();
+          e.preventDefault();
+          return;
+        }
+      }
+      if (this.current === this.IMAGE_STORY_IDX) {
+        if (['ArrowRight','ArrowDown',' ','PageDown'].includes(e.key) && this.advanceImageStorySequence()) {
+          this.syncPresentationChrome?.();
+          e.preventDefault();
+          return;
+        }
+        if (['ArrowLeft','ArrowUp','PageUp'].includes(e.key) && this.retreatImageStorySequence()) {
           this.syncPresentationChrome?.();
           e.preventDefault();
           return;
@@ -4935,13 +5098,13 @@ class SlideDeck {
           if (dy > 0 && this.advanceNetworkMediaSequence()) { y0 = null; return; }
           if (dy < 0 && this.retreatNetworkMediaSequence()) { y0 = null; return; }
         }
-        if (this.current === this.DIAG_IDX) {
-          if (dy > 0 && this.advanceDiagSequence()) { y0 = null; return; }
-          if (dy < 0 && this.retreatDiagSequence()) { y0 = null; return; }
-        }
         if (this.current === this.NAMELESS_IDX) {
           if (dy > 0 && this.advanceNamelessSequence()) { y0 = null; return; }
           if (dy < 0 && this.retreatNamelessSequence()) { y0 = null; return; }
+        }
+        if (this.current === this.IMAGE_STORY_IDX) {
+          if (dy > 0 && this.advanceImageStorySequence()) { y0 = null; return; }
+          if (dy < 0 && this.retreatImageStorySequence()) { y0 = null; return; }
         }
         if (this.current === this.REINTRO_IDX) {
           if (dy > 0 && this.advanceReintroSequence()) { y0 = null; return; }
@@ -4984,13 +5147,13 @@ class SlideDeck {
         if (e.deltaY > 0 && this.advanceNetworkMediaSequence()) return;
         if (e.deltaY < 0 && this.retreatNetworkMediaSequence()) return;
       }
-      if (this.current === this.DIAG_IDX) {
-        if (e.deltaY > 0 && this.advanceDiagSequence()) return;
-        if (e.deltaY < 0 && this.retreatDiagSequence()) return;
-      }
       if (this.current === this.NAMELESS_IDX) {
         if (e.deltaY > 0 && this.advanceNamelessSequence()) return;
         if (e.deltaY < 0 && this.retreatNamelessSequence()) return;
+      }
+      if (this.current === this.IMAGE_STORY_IDX) {
+        if (e.deltaY > 0 && this.advanceImageStorySequence()) return;
+        if (e.deltaY < 0 && this.retreatImageStorySequence()) return;
       }
       if (this.current === this.REINTRO_IDX) {
         if (e.deltaY > 0 && this.advanceReintroSequence()) return;
@@ -5016,11 +5179,11 @@ class SlideDeck {
     if (this.current !== this.SECOND_REFRAME_IDX && this.secondReframeStage !== 1) this.resetSecondReframeSequence();
     if (this.current !== this.DOG_CONCEPT_IDX && this.dogConceptStage !== 1) this.resetDogConceptSequence();
     if (this.current !== this.NETWORK_MEDIA_IDX && this.networkMediaStage !== 1) this.resetNetworkMediaSequence();
-    if (this.current !== this.DIAG_IDX && this.diagStage !== 1) this.resetDiagSequence();
     if (this.current !== this.DOCTOR_IDX && this.doctorStage !== 1) this.resetDoctorSequence();
     if (this.current !== this.REINTRO_IDX && this.reintroStage !== 1) this.resetReintroSequence();
     if (this.current !== this.CONCEPT_NEEDS_IDX && this.conceptNeedsStage !== 1) this.resetConceptNeedsSequence();
     if (this.current !== this.NAMELESS_IDX && this.namelessStage !== 0) this.resetNamelessSequence();
+    if (this.current !== this.IMAGE_STORY_IDX && this.imageStoryStage !== 1) this.resetImageStorySequence();
     if (this.current !== this.BOWTIE_IDX && this.bowtieStage !== 0) this.resetBowtie();
     if (this.current !== this.CIRCLE_IDX) this.circleDemo?.deactivate();
     if (this.current !== this.WAVE_IDX) this.waveDemo?.deactivate();
@@ -5082,27 +5245,38 @@ resetDebateSequence() {
   this.debateStage = 1;
   this.debateSlide.classList.remove('stage-2');
   this.debateSlide.classList.remove('stage-3');
+  this.debateSlide.classList.remove('stage-4');
   this.setDebateToggleState(false);
 }
 
 advanceDebateSequence() {
-  if (!this.debateSlide || this.debateStage >= 3) return false;
+  if (!this.debateSlide || this.debateStage >= 4) return false;
   if (this.debateStage === 1) {
     this.debateStage = 2;
     this.debateSlide.classList.add('stage-2');
     this.setDebateToggleState(true);
     return true;
   }
-    if (this.debateStage === 2) {
-      this.debateStage = 3;
-      this.debateSlide.classList.add('stage-3');
-      return true;
-    }
-    return false;
+  if (this.debateStage === 2) {
+    this.debateStage = 3;
+    this.debateSlide.classList.add('stage-3');
+    return true;
   }
+  if (this.debateStage === 3) {
+    this.debateStage = 4;
+    this.debateSlide.classList.add('stage-4');
+    return true;
+  }
+  return false;
+}
 
 retreatDebateSequence() {
   if (!this.debateSlide || this.debateStage <= 1) return false;
+  if (this.debateStage === 4) {
+    this.debateStage = 3;
+    this.debateSlide.classList.remove('stage-4');
+    return true;
+  }
   if (this.debateStage === 3) {
     this.debateStage = 2;
     this.debateSlide.classList.remove('stage-3');
@@ -5208,36 +5382,6 @@ setDebateToggleState(isNo) {
   retreatNetworkMediaSequence() {
     if (!this.networkMediaSlide || this.networkMediaStage <= 1) return false;
     this.resetNetworkMediaSequence();
-    return true;
-  }
-
-  setupDiagSequence() {
-    this.diagSlide = document.getElementById('s20');
-    if (!this.diagSlide) return;
-    this.resetDiagSequence();
-    this.diagSlide.addEventListener('click', e => {
-      if (e.target.getAttribute('contenteditable')) return;
-      if (this.current !== this.DIAG_IDX) return;
-      if (!this.advanceDiagSequence()) this.go(1);
-    });
-  }
-
-  resetDiagSequence() {
-    if (!this.diagSlide) return;
-    this.diagStage = 1;
-    this.diagSlide.classList.remove('stage-2');
-  }
-
-  advanceDiagSequence() {
-    if (!this.diagSlide || this.diagStage >= 2) return false;
-    this.diagStage = 2;
-    this.diagSlide.classList.add('stage-2');
-    return true;
-  }
-
-  retreatDiagSequence() {
-    if (!this.diagSlide || this.diagStage <= 1) return false;
-    this.resetDiagSequence();
     return true;
   }
 
@@ -5368,6 +5512,36 @@ setDebateToggleState(isNo) {
       return true;
     }
     this.resetConceptNeedsSequence();
+    return true;
+  }
+
+  setupImageStorySequence() {
+    this.imageStorySlide = document.getElementById('s29a');
+    if (!this.imageStorySlide) return;
+    this.resetImageStorySequence();
+    this.imageStorySlide.addEventListener('click', e => {
+      if (e.target.getAttribute('contenteditable')) return;
+      if (this.current !== this.IMAGE_STORY_IDX) return;
+      if (!this.advanceImageStorySequence()) this.go(1);
+    });
+  }
+
+  resetImageStorySequence() {
+    if (!this.imageStorySlide) return;
+    this.imageStoryStage = 1;
+    this.imageStorySlide.classList.remove('stage-2');
+  }
+
+  advanceImageStorySequence() {
+    if (!this.imageStorySlide || this.imageStoryStage >= 2) return false;
+    this.imageStoryStage = 2;
+    this.imageStorySlide.classList.add('stage-2');
+    return true;
+  }
+
+  retreatImageStorySequence() {
+    if (!this.imageStorySlide || this.imageStoryStage <= 1) return false;
+    this.resetImageStorySequence();
     return true;
   }
 

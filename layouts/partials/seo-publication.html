@@ -61,7 +61,7 @@
   {{- $pdfMatches := findRESubmatch "<a\\s+class=\\\"download-link\\\"[^>]*href=\\\"([^\\\"]+)\\\"" .Content 1 -}}
   {{- if gt (len $pdfMatches) 0 -}}
     {{- $href := index (index $pdfMatches 0) 1 -}}
-    {{- if and $href (ne $href "#") -}}
+    {{- if and $href (ne $href "#") (not (in $href "/talks/")) -}}
       {{- if strings.HasPrefix $href "http" -}}
         {{- $pdfURL = $href -}}
       {{- else -}}

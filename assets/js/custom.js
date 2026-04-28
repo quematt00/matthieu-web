@@ -67,7 +67,9 @@
       const hasLink = !!href && !href.startsWith("#");
 
       const existingAria = (link.getAttribute("aria-label") || "").trim();
-      const title = existingAria ? extractTitleFromAriaLabel(existingAria) : null;
+      const explicitLabel = (link.dataset.downloadLabel || "").trim();
+      const explicitTitle = (link.dataset.downloadTitle || "").trim();
+      const title = explicitTitle || (existingAria ? extractTitleFromAriaLabel(existingAria) : null);
 
       if (hasLink) {
         link.setAttribute("target", "_blank");
@@ -79,8 +81,9 @@
         }
         link.setAttribute("rel", relParts.join(" "));
 
-        setDownloadLinkText(link, labelDownload);
-        link.setAttribute("aria-label", title ? `${labelDownload}: ${title}` : labelDownload);
+        const label = explicitLabel || labelDownload;
+        setDownloadLinkText(link, label);
+        link.setAttribute("aria-label", title ? `${label}: ${title}` : label);
       } else {
         link.removeAttribute("target");
         link.removeAttribute("rel");

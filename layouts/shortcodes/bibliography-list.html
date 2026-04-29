@@ -45,8 +45,8 @@
       {{- $link = $external -}}
     {{- end -}}
     {{- $summary := $page.Summary -}}
-    {{- /* Keep only bibliographic prose in the bibliography page: remove DOI/URL links and bare DOI/URL strings. */ -}}
-    {{- $summary = replaceRE "\\s*<a[^>]*>[^<]*</a>" "" $summary -}}
+    {{- /* Keep bibliographic prose while removing DOI/URL links and bare DOI/URL strings. */ -}}
+    {{- $summary = replaceRE "(?i)\\s*<a[^>]*>\\s*(doi:\\s*10\\.[^<]*|https?://[^<]*)\\s*</a>" "" $summary -}}
     {{- $summary = replaceRE "(?i)\\s*(doi:\\s*10\\.[^\\s<\\)]*|https?://[^\\s<\\)]+)" "" $summary -}}
     {{- $summary = replaceRE "\\s+</p>" "</p>" $summary -}}
     {{- $number := sub $total $i -}}

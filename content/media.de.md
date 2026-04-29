@@ -47,8 +47,8 @@ hr.section-divider {
   margin: 1.2rem 0 3rem;
 }
 .page.single #content > ul > li {
-  --media-li-pad-y: 0.18rem;
-  --media-li-line-height: 1.56;
+  --media-li-pad-y: 0.34rem;
+  --media-li-line-height: 1.62;
   position: relative;
   margin: 0;
   padding: var(--media-li-pad-y) 0 var(--media-li-pad-y) 1.06rem;
@@ -135,8 +135,8 @@ hr.section-divider {
 }
 @media (max-width: 640px) {
   .page.single #content > ul > li {
-    --media-li-pad-y: 0.12rem;
-    --media-li-line-height: 1.48;
+    --media-li-pad-y: 0.26rem;
+    --media-li-line-height: 1.54;
     padding: var(--media-li-pad-y) 0 var(--media-li-pad-y) 0.94rem;
     font-size: 1.01rem;
     line-height: var(--media-li-line-height);

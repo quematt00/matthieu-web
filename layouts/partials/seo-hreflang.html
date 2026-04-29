@@ -1,7 +1,13 @@
 {{- /* Emit hreflang alternates for multilingual SEO. */ -}}
 {{- if hugo.IsMultilingual -}}
-  {{- $alts := .AllTranslations -}}
-  {{- if gt (len $alts) 1 -}}
+  {{- $alts := slice -}}
+  {{- range .AllTranslations -}}
+    {{- $robots := lower (.Params.robots | default "") -}}
+    {{- if not (in $robots "noindex") -}}
+      {{- $alts = $alts | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if gt (len $alts) 0 -}}
     {{- range $alts -}}
       <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
     {{- end -}}
@@ -10,4 +16,3 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
-

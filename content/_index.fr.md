@@ -1,6 +1,9 @@
 ---
 title: "Accueil"
 translationKey: "home"
+robots: "noindex,follow"
+sitemap:
+  disable: true
 readingProgress:
   enable: true
   start: "left"

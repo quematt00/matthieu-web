@@ -1466,11 +1466,16 @@ hr.section-divider {
     }
 }
 
+.page.single.special.entry-single {
+    padding-top: clamp(4rem, 8vh, 7rem);
+}
+
 .page.single.special.entry-single .header {
     display: grid;
     grid-template-columns: minmax(0, 1fr) auto;
     column-gap: 1rem;
     align-items: start;
+    min-width: 0;
 }
 
 .page.single.special.entry-single .single-title {
@@ -1542,11 +1547,17 @@ hr.section-divider {
 }
 
 @media (max-width: 719px) {
+    .page.single.special.entry-single {
+        padding-top: clamp(2.75rem, 7vh, 4rem);
+    }
+
     .page.single.special.entry-single .header {
         display: block;
     }
 
     .page.single.special.entry-single .entry-single-actions {
+        display: flex;
+        justify-content: flex-start;
         margin-top: 0.65rem;
     }
 }

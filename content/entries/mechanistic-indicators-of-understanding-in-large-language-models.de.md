@@ -1,6 +1,6 @@
 ---
 title: "Mechanistic Indicators of Understanding in Large Language Models"
-year: "im Erscheinen"
+year: "2026"
 tags:
   - "ki-safety"
   - "computational-kognition"
@@ -22,7 +22,7 @@ categories:
   - "Theoretische Philosophie"
 ---
 
-*Philosophical Studies*. Mit Pierre Beckmann. [doi:10.48550/arXiv.2507.08017](https://doi.org/10.48550/arXiv.2507.08017)
+*Philosophical Studies*. 2026. Mit Pierre Beckmann. [doi:10.1007/s11098-026-02513-1](https://doi.org/10.1007/s11098-026-02513-1)
 <!--more-->
 
 Stützt sich auf detaillierte technische Evidenz aus der Forschung zur mechanistischen Interpretierbarkeit (MI), um zu zeigen, dass LLMs zwar tiefgreifend von menschlicher Kognition abweichen, aber mehr tun als Wort‑Ko‑Okkurrenzen zu zählen: Sie bilden interne Strukturen, die sich fruchtbar mit verschiedenen Formen menschlichen Verstehens vergleichen lassen, etwa mit begrifflichem, faktischem und prinzipiellem Verständnis. Wir synthetisieren die bislang relevantesten Befunde der MI und betten sie in einen integrativen theoretischen Rahmen ein, um über Verständnis in LLMs nachzudenken. Wie das Phänomen „parallel mechanisms“ zeigt, sind die Unterschiede zwischen LLMs und menschlicher Kognition jedoch ebenso philosophisch ergiebig wie die Ähnlichkeiten.

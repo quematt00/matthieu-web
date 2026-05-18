@@ -1,6 +1,6 @@
 ---
 title: "The Authority and Politics of Epiphanic Experience"
-year: "im Erscheinen"
+year: "2026"
 tags:
   - "autoritaet"
   - "epiphanies"
@@ -12,7 +12,7 @@ categories:
   - "Praktische Philosophie"
 ---
 
-*Zeitschrift für Ethik und Moralphilosophie (ZEMO) – Journal for Ethics and Moral Philosophy*. Im Erscheinen.
+*Zeitschrift für Ethik und Moralphilosophie (ZEMO) – Journal for Ethics and Moral Philosophy* 9, 8 (2026). [doi:10.1007/s42048-026-00250-y](https://doi.org/10.1007/s42048-026-00250-y)
 <!--more-->
 
 In Reaktion auf Chappells Arbeiten zu Epiphanien stellt der Aufsatz zunächst die normative Autorität epiphanischer Erfahrungen gegenüber nüchternerer Reflexion in Frage und warnt, dass ihre Macht unsere Werte verzerren und zu einer Art „transzendenter Bauchrednerei“ führen kann. Anschliessend kritisiert er Chappells politische Lösung der „konversationellen Gerechtigkeit (conversational justice)“ und argumentiert, dass deren rationalistische Beschränkungen letztlich gerade die erfahrungs- und gefühlsbezogene Dimension unterminieren, die Epiphanien eigentlich hervorheben sollten.

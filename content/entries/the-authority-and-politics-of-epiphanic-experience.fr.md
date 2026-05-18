@@ -1,6 +1,6 @@
 ---
 title: "The Authority and Politics of Epiphanic Experience"
-year: "à paraître"
+year: "2026"
 tags:
   - "autorite"
   - "épiphanies"
@@ -12,7 +12,7 @@ categories:
   - "philosophie pratique"
 ---
 
-*Zeitschrift für Ethik und Moralphilosophie (ZEMO) – Journal for Ethics and Moral Philosophy*. À paraître.
+*Zeitschrift für Ethik und Moralphilosophie (ZEMO) – Journal for Ethics and Moral Philosophy* 9, 8 (2026). [doi:10.1007/s42048-026-00250-y](https://doi.org/10.1007/s42048-026-00250-y)
 <!--more-->
 
 En réponse aux travaux de Chappell sur les épiphanies, l’article commence par mettre en question l’autorité normative des expériences épiphaniques par rapport à une réflexion plus sobre, en avertissant que leur puissance peut déformer nos valeurs et conduire à une forme de « ventriloquie transcendante ». Il conteste ensuite la solution politique de Chappell — la « justice conversationnelle » — en soutenant que ses contraintes rationalistes finissent par saper précisément la dimension expérientielle et émotionnelle que les épiphanies étaient censées défendre.

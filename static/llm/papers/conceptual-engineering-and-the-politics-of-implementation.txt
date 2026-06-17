@@ -246,7 +246,7 @@ Podosky, P.-M. C. (2018). ‘Ideology and Normativity: Constraints on Conceptual
 
 Post, R. (1995). ‘Social Practices: Recuperating First Amendment Doctrine,’ Stanford Law Review 47(6), pp. 1249–1281.
 
-Queloz, M. (2021). The Practical Origins of Ideas: Genealogy as Conceptual ReverseEngineering. Oxford: Oxford University Press. https://fdslive.oup.com/www.oup.com/ academic/pdf/openaccess/9780198868705.pdf
+Queloz, M. (2021). The Practical Origins of Ideas: Genealogy as Conceptual ReverseEngineering. Oxford: Oxford University Press. /Queloz_The_Practical_Origins_of_Ideas.pdf
 
 Queloz, M. (2022). ‘Genealogy, Evaluation, and Engineering,’ The Monist 105(4).
 

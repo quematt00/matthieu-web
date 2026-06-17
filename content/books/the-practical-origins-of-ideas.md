@@ -20,6 +20,6 @@ Why did such highly abstract ideas as truth, knowledge, or justice become so imp
 
 {{< entry-tags >}}
 
-<a class="download-link" href="https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf" aria-label="Download PDF of The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering" target="_blank" rel="noopener noreferrer">
+<a class="download-link" href="/Queloz_The_Practical_Origins_of_Ideas.pdf" aria-label="Download PDF of The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Download PDF
 </a>

@@ -568,7 +568,7 @@ O'Grady, J. (2004, June 16). Sir Stuart Hampshire. The Guardian.
 
 Queloz, M. (2021a). The essential superficiality of the voluntary and the moralization of psychology. Philosophical Studies. https://doi.org/10.1007/s11098-021-01720-2
 
-Queloz, M. (2021b). The practical origins of ideas: Genealogy as conceptual reverse-engineering. Oxford: Oxford University Press. https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf
+Queloz, M. (2021b). The practical origins of ideas: Genealogy as conceptual reverse-engineering. Oxford: Oxford University Press. /Queloz_The_Practical_Origins_of_Ideas.pdf
 
 Queloz, M. (2022). A shelter from luck: The morality system reconstructed. In A. Szigeti & M. Talbert (Eds.), Morality and agency: Themes from Bernard Williams (pp. 184–211). New York: Oxford University Press.
 

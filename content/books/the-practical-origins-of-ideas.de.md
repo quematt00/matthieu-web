@@ -18,6 +18,6 @@ Warum wurden so hoch abstrakte Ideen wie Wahrheit, Wissen oder Gerechtigkeit fü
 
 {{< entry-tags >}}
 
-<a class="download-link" href="https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf" aria-label="PDF von The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering herunterladen" target="_blank" rel="noopener noreferrer">
+<a class="download-link" href="/Queloz_The_Practical_Origins_of_Ideas.pdf" aria-label="PDF von The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen
 </a>

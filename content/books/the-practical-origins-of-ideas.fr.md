@@ -18,6 +18,6 @@ Pourquoi des idées aussi abstraites que la vérité, la connaissance ou la just
 
 {{< entry-tags >}}
 
-<a class="download-link" href="https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf" aria-label="Télécharger le PDF de The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering" target="_blank" rel="noopener noreferrer">
+<a class="download-link" href="/Queloz_The_Practical_Origins_of_Ideas.pdf" aria-label="Télécharger le PDF de The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF
 </a>

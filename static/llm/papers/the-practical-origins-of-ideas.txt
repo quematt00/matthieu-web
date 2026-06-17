@@ -4,7 +4,7 @@ Author: Matthieu Queloz
 Published in: Oxford: Oxford University Press. 2021. [doi:10.1093/oso/9780198868705.001.0001](https://doi.org/10.1093/oso/9780198868705.001.0001)
 DOI: 10.1093/oso/9780198868705.001.0001
 Canonical entry: https://www.matthieuqueloz.com/books/the-practical-origins-of-ideas/
-Published PDF: https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf
+Published PDF: /Queloz_The_Practical_Origins_of_Ideas.pdf
 
 Machine-readable text companion generated from the PDF. Page markers follow the printed pagination.
 

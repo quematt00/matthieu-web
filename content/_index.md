@@ -60,7 +60,7 @@ readingProgress:
     </article>
     <article class="book-card">
 	      <div class="book-media">
-	        <a href="https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198868705.pdf" target="_blank" rel="noopener">
+	        <a href="/Queloz_The_Practical_Origins_of_Ideas.pdf" target="_blank" rel="noopener">
 	          <img src="/images/origins-cover.jpg" alt="The Practical Origins of Ideas cover">
 	        </a>
 	        <div class="book-actions">

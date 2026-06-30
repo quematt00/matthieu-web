@@ -18,7 +18,7 @@ categories:
   - "philosophie théorique"
 ---
 
-À paraître dans *Dialogue : Revue canadienne de philosophie*
+Contribution invitée à *Dialogue : Revue canadienne de philosophie*
 <!--more-->
 
 En soustrayant le concept de vérité à l’historicisme foucaldien, Pascal Engel finit par exposer davantage les « vertus de la vérité » à la généalogie négative de Foucault. Cet article propose une lecture plus ambitieuse de la généalogie positive de ces vertus, montrant que cultiver l’exactitude et la sincérité comme valeurs intrinsèques est une nécessité fonctionnelle, et non un accident historique. Établir le statut de vertu de ces dispositions offre une défense plus robuste contre le cynisme foucaldien et l’indifférence contemporaine à l’égard de la vérité.

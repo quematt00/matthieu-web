@@ -25,6 +25,6 @@ Indem Pascal Engel den Wahrheitsbegriff dem foucaultschen Historismus entzieht, 
 
 <span><i class="fa-solid fa-tags"></i> <a href="/de/tags/wahrheit/">Wahrheit</a>, <a href="/de/tags/normativitaet/">Normativität</a>, <a href="/de/tags/epistemische-normen/">epistemische Normen</a>, <a href="/de/tags/epistemische-tugenden/">epistemische Tugenden</a>, <a href="/de/tags/glaube/">Glaube</a>, <a href="/de/tags/behauptung/">Behauptung</a></span>
 
-<a class="download-link" href="https://philpapers.org/archive/QUEUNS.pdf" aria-label="PDF von Une normativité sans histoire ? Foucault, Engel et la normativité de la vérité herunterladen" target="_blank" rel="noopener noreferrer">
-  <i class="fa-solid fa-download"></i> PDF herunterladen
+<a class="download-link" href="#" aria-label="PDF folgt: Une normativité sans histoire ? Foucault, Engel et la normativité de la vérité">
+  <i class="fa-solid fa-download"></i> PDF folgt
 </a>

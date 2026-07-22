@@ -27,6 +27,6 @@ By shielding the concept of truth from Foucauldian historicism, Pascal Engel end
 
 <span><i class="fa-solid fa-tags"></i> <a href="/tags/truth/">truth</a>, <a href="/tags/normativity/">normativity</a>, <a href="/tags/epistemic-norms/">epistemic norms</a>, <a href="/tags/epistemic-virtues/">epistemic virtues</a>, <a href="/tags/belief/">belief</a>, <a href="/tags/assertion/">assertion</a></span>
 
-<a class="download-link" href="https://philpapers.org/archive/QUEUNS.pdf" aria-label="Download PDF of Une normativité sans histoire ? Foucault, Engel et la normativité de la vérité" target="_blank" rel="noopener noreferrer">
-  <i class="fa-solid fa-download"></i> Download PDF
+<a class="download-link" href="#" aria-label="PDF coming soon: Une normativité sans histoire ? Foucault, Engel et la normativité de la vérité">
+  <i class="fa-solid fa-download"></i> PDF coming soon
 </a>

@@ -25,6 +25,6 @@ En soustrayant le concept de vérité à l’historicisme foucaldien, Pascal Eng
 
 <span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/verite/">vérité</a>, <a href="/fr/tags/normativite/">normativité</a>, <a href="/fr/tags/normes-epistemiques/">normes épistémiques</a>, <a href="/fr/tags/vertus-epistemiques/">vertus épistémiques</a>, <a href="/fr/tags/croyance/">croyance</a>, <a href="/fr/tags/assertion/">assertion</a></span>
 
-<a class="download-link" href="https://philpapers.org/archive/QUEUNS.pdf" aria-label="Télécharger le PDF de Une normativité sans histoire ? Foucault, Engel et la normativité de la vérité" target="_blank" rel="noopener noreferrer">
-  <i class="fa-solid fa-download"></i> Télécharger le PDF
+<a class="download-link" href="#" aria-label="PDF à venir: Une normativité sans histoire ? Foucault, Engel et la normativité de la vérité">
+  <i class="fa-solid fa-download"></i> PDF à venir
 </a>

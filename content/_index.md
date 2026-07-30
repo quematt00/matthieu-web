@@ -1,6 +1,11 @@
 ---
 title: "Home"
 translationKey: "home"
+outputs:
+  - "HTML"
+  - "RSS"
+  - "search"
+  - "llmstxt"
 readingProgress:
   enable: true
   start: "left"

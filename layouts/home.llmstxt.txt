@@ -1,0 +1,32 @@
+{{- $entries := partial "llm-papers-data.html" . -}}
+{{- $fullTextEntries := where $entries "full_text_available" true -}}
+# Matthieu Queloz — publications site
+
+This site contains academic philosophy publications by Matthieu Queloz. Use the indexes below to select works by title, abstract, year, tags, and categories, then retrieve an exact full-text companion when one is listed.
+
+## Machine-readable indexes
+
+- [LLM works hub]({{ "llm/papers/" | absURL }}): Crawlable HTML discovery index.
+- [LLM works index (Markdown)]({{ "llm/papers/index.md" | absURL }}): Compact work-selection index.
+- [LLM works index (JSON)]({{ "llm/papers/index.json" | absURL }}): Structured work metadata and companion URLs.
+- [LLM sitemap]({{ "llm/papers/sitemap.xml" | absURL }}): Sitemap containing the indexes, canonical work pages, and every available companion.
+- [Canonical sitemap]({{ "sitemap.xml" | absURL }}): Human-facing site pages.
+
+## Retrieval guidance
+
+- Use a canonical entry URL for citation metadata and the published PDF.
+- Prefer a Markdown companion for structured reading; use its plain-text counterpart when Markdown is inconvenient.
+- Companion full texts preserve section headings and printed page markers such as `[p. 12]` where available.
+- A work is listed below only when its declared companion file exists. Do not infer companion URLs for unlisted works.
+
+## Companion full texts ({{ len $fullTextEntries }} works)
+
+{{ range $fullTextEntries }}
+{{- $entry := . -}}
+{{ with .llm_markdown_url -}}
+- [{{ $entry.title }} (Markdown)]({{ . }}): Structured full-text companion.
+{{ end -}}
+{{ with .llm_plain_url -}}
+- [{{ $entry.title }} (plain text)]({{ . }}): Plain-text full-text companion.
+{{ end -}}
+{{ end }}

@@ -55,23 +55,9 @@
     {{- end -}}
   {{- end -}}
 
-  {{- $llmMarkdownURL := "" -}}
-  {{- with .Params.llm_text_markdown -}}
-    {{- if strings.HasPrefix . "http" -}}
-      {{- $llmMarkdownURL = . -}}
-    {{- else -}}
-      {{- $llmMarkdownURL = absURL . -}}
-    {{- end -}}
-  {{- end -}}
-
-  {{- $llmPlainURL := "" -}}
-  {{- with .Params.llm_text_plain -}}
-    {{- if strings.HasPrefix . "http" -}}
-      {{- $llmPlainURL = . -}}
-    {{- else -}}
-      {{- $llmPlainURL = absURL . -}}
-    {{- end -}}
-  {{- end -}}
+  {{- $companions := partial "llm-companions.html" . -}}
+  {{- $llmMarkdownURL := $companions.markdown_url -}}
+  {{- $llmPlainURL := $companions.plain_url -}}
 
   {{- $year := printf "%v" (.Params.year | default "") -}}
   {{- if not $year -}}

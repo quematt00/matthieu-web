@@ -25,6 +25,14 @@ ignoreFiles = ["^assets/jsconfig\\.json$"]
 [outputs]
   home = ["HTML", "RSS", "search"]
 
+[outputFormats.llmstxt]
+  baseName = "llms"
+  mediaType = "text/plain"
+  isPlainText = true
+  isHTML = false
+  permalinkable = true
+  notAlternative = true
+
 [outputFormats.llmjson]
   baseName = "index"
   mediaType = "application/json"

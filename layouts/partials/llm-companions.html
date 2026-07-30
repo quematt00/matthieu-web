@@ -1,0 +1,48 @@
+{{- /*
+  Resolve the machine-readable full-text companions for a publication page.
+
+  Companion metadata is canonicalized on the English source page. Localized
+  translations inherit it through AllTranslations, and local URLs are emitted
+  only when the corresponding file exists under static/.
+*/ -}}
+{{- $source := . -}}
+{{- if and (not .Params.llm_text_markdown) (not .Params.llm_text_plain) -}}
+  {{- $found := false -}}
+  {{- range .AllTranslations -}}
+    {{- if and (not $found) (or .Params.llm_text_markdown .Params.llm_text_plain) -}}
+      {{- $source = . -}}
+      {{- $found = true -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $markdownURL := "" -}}
+{{- with $source.Params.llm_text_markdown -}}
+  {{- $value := printf "%v" . -}}
+  {{- if or (strings.HasPrefix $value "https://") (strings.HasPrefix $value "http://") -}}
+    {{- $markdownURL = $value -}}
+  {{- else -}}
+    {{- $relativePath := strings.TrimPrefix "/" $value -}}
+    {{- if fileExists (printf "static/%s" $relativePath) -}}
+      {{- $markdownURL = absURL (printf "/%s" $relativePath) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $plainURL := "" -}}
+{{- with $source.Params.llm_text_plain -}}
+  {{- $value := printf "%v" . -}}
+  {{- if or (strings.HasPrefix $value "https://") (strings.HasPrefix $value "http://") -}}
+    {{- $plainURL = $value -}}
+  {{- else -}}
+    {{- $relativePath := strings.TrimPrefix "/" $value -}}
+    {{- if fileExists (printf "static/%s" $relativePath) -}}
+      {{- $plainURL = absURL (printf "/%s" $relativePath) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return (dict
+  "markdown_url" $markdownURL
+  "plain_url" $plainURL
+) -}}

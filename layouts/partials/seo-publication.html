@@ -86,33 +86,19 @@
   {{- $year := printf "%v" (.Params.year | default "") -}}
   {{- $hasYear := (findRE "^[0-9]{4}$" $year) -}}
 
-  {{- $llmMarkdownURL := "" -}}
-  {{- with .Params.llm_text_markdown -}}
-    {{- if strings.HasPrefix . "http" -}}
-      {{- $llmMarkdownURL = . -}}
-    {{- else -}}
-      {{- $llmMarkdownURL = absURL . -}}
-    {{- end -}}
-  {{- end -}}
-
-  {{- $llmPlainURL := "" -}}
-  {{- with .Params.llm_text_plain -}}
-    {{- if strings.HasPrefix . "http" -}}
-      {{- $llmPlainURL = . -}}
-    {{- else -}}
-      {{- $llmPlainURL = absURL . -}}
-    {{- end -}}
-  {{- end -}}
+  {{- $companions := partial "llm-companions.html" . -}}
+  {{- $llmMarkdownURL := $companions.markdown_url -}}
+  {{- $llmPlainURL := $companions.plain_url -}}
 
   {{- $encodings := slice -}}
   {{- if $pdfURL -}}
     {{- $encodings = $encodings | append (dict "@type" "MediaObject" "contentUrl" $pdfURL "encodingFormat" "application/pdf") -}}
   {{- end -}}
   {{- if $llmMarkdownURL -}}
-    {{- $encodings = $encodings | append (dict "@type" "MediaObject" "contentUrl" $llmMarkdownURL "encodingFormat" "text/markdown" "name" (printf "%s text companion (Markdown)" $title)) -}}
+    {{- $encodings = $encodings | append (dict "@type" "MediaObject" "contentUrl" $llmMarkdownURL "encodingFormat" "text/markdown" "isAccessibleForFree" true "name" (printf "%s text companion (Markdown)" $title)) -}}
   {{- end -}}
   {{- if $llmPlainURL -}}
-    {{- $encodings = $encodings | append (dict "@type" "MediaObject" "contentUrl" $llmPlainURL "encodingFormat" "text/plain" "name" (printf "%s text companion (plain text)" $title)) -}}
+    {{- $encodings = $encodings | append (dict "@type" "MediaObject" "contentUrl" $llmPlainURL "encodingFormat" "text/plain" "isAccessibleForFree" true "name" (printf "%s text companion (plain text)" $title)) -}}
   {{- end -}}
 
   {{- /* Extract a clean description (abstract) for structured data. */ -}}
@@ -182,7 +168,9 @@
     {{- end -}}
     {{- if gt (len $encodings) 0 -}}
       , "encoding": {{ $encodings | jsonify | safeJS }}
-      , "isAccessibleForFree": true
+      {{- if or $llmMarkdownURL $llmPlainURL -}}
+        , "isAccessibleForFree": true
+      {{- end -}}
     {{- end -}}
     {{- if $doi -}}
       , "identifier": { "@type": "PropertyValue", "propertyID": "DOI", "value": {{ $doi | jsonify | safeJS }} }

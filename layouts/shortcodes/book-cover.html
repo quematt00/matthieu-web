@@ -1,0 +1,9 @@
+{{- $name := .Get "name" -}}
+{{- $alt := .Get "alt" -}}
+{{- $width := .Get "width" -}}
+{{- $height := .Get "height" -}}
+<picture class="book-cover-picture">
+  <source type="image/avif" srcset="{{ printf "images/%s-240.avif" $name | relURL }} 240w, {{ printf "images/%s-480.avif" $name | relURL }} 480w" sizes="240px">
+  <source type="image/webp" srcset="{{ printf "images/%s-240.webp" $name | relURL }} 240w, {{ printf "images/%s-480.webp" $name | relURL }} 480w" sizes="240px">
+  <img src="{{ printf "images/%s-480.jpg" $name | relURL }}" alt="{{ $alt }}" width="{{ $width }}" height="{{ $height }}" sizes="240px" loading="lazy" decoding="async">
+</picture>

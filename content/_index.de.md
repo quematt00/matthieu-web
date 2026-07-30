@@ -38,7 +38,7 @@ readingProgress:
       <article class="book-card">
 	      <div class="book-media">
 	        <a href="https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198926252.pdf" target="_blank" rel="noopener">
-	          <img src="/images/conceptualization.jpg" alt="Cover von The Ethics of Conceptualization">
+	          {{< book-cover name="conceptualization" alt="Cover von The Ethics of Conceptualization" width="1688" height="2560" >}}
 	        </a>
 	        <div class="book-actions">
 	          <a class="book-action-button book-audio-button" href="/audio/the-ethics-of-conceptualization-audio-overview-de.m4a" title="Erstellt mit NotebookLM">
@@ -64,7 +64,7 @@ readingProgress:
 	    <article class="book-card">
 	      <div class="book-media">
 	        <a href="/Queloz_The_Practical_Origins_of_Ideas.pdf" target="_blank" rel="noopener">
-	          <img src="/images/origins-cover.jpg" alt="Cover von The Practical Origins of Ideas">
+	          {{< book-cover name="origins-cover" alt="Cover von The Practical Origins of Ideas" width="921" height="1417" >}}
 	        </a>
 	        <div class="book-actions">
 	          <a class="book-action-button book-audio-button" href="/audio/the-practical-origins-of-ideas-audio-overview-de.m4a" title="Erstellt mit NotebookLM">
@@ -91,7 +91,7 @@ readingProgress:
     <article class="book-card">
       <div class="book-media">
         <a href="https://academic.oup.com/book/61415" target="_blank" rel="noopener">
-          <img src="/images/williams.jpg" alt="Cover von Bernard Williams on Philosophy and History">
+          {{< book-cover name="williams" alt="Cover von Bernard Williams on Philosophy and History" width="1362" height="2048" >}}
         </a>
         <div class="book-actions">
           <a class="book-action-button book-audio-button" href="/audio/bernard-williams-on-philosophy-and-history-audio-overview-de.m4a" title="Erstellt mit NotebookLM">

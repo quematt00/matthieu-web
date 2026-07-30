@@ -1,0 +1,5 @@
+<link rel="preload" href="{{ "fonts/lato/lato-v25-latin-400.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ "fonts/lato/lato-v25-latin-700.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+{{- if .IsHome }}
+<link rel="preload" href="{{ "images/profile-288.avif" | relURL }}" as="image" type="image/avif" imagesrcset="{{ "images/profile-144.avif" | relURL }} 1x, {{ "images/profile-288.avif" | relURL }} 2x" imagesizes="144px" fetchpriority="high">
+{{- end }}

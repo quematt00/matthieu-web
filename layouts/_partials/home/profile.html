@@ -13,13 +13,12 @@
   {{- end -}}
   {{- if $avatar -}}
     <div class="home-avatar">
-      {{- $optim := slice
-        (dict "Process" "fill center 144x144 webp q75" "descriptor" "144w")
-        (dict "Process" "fill center 192x192 webp q75" "descriptor" "192w")
-        (dict "Process" "fill center 240x240 webp q75" "descriptor" "240w")
-      -}}
       {{- /* Intentionally not linking the avatar anywhere. */ -}}
-      {{- dict "Src" $avatar "Alt" "Home avatar" "Width" 144 "Height" 144 "OptimConfig" $optim | partial "plugin/image.html" -}}
+      <picture>
+        <source type="image/avif" srcset="{{ "images/profile-144.avif" | relURL }} 1x, {{ "images/profile-288.avif" | relURL }} 2x">
+        <source type="image/webp" srcset="{{ "images/profile-144.webp" | relURL }} 1x, {{ "images/profile-288.webp" | relURL }} 2x">
+        <img src="{{ "images/profile-288.jpg" | relURL }}" alt="Home avatar" width="144" height="144" loading="eager" decoding="async" fetchpriority="high">
+      </picture>
     </div>
   {{- end -}}
 
@@ -105,4 +104,3 @@
 
   {{- block "custom-profile" . }}{{ end -}}
 </div>
-

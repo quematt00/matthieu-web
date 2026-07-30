@@ -64,6 +64,7 @@ ignoreFiles = ["^assets/jsconfig\\.json$"]
   description = "Privatdozent at the University of Bern | Philosophy"
   keywords = ["philosophy", "Matthieu Queloz", "University of Bern", "Bern", "ethics", "political philosophy", "Kant"]
   defaultTheme = "auto" # Auto-detects if user prefers Dark Mode
+  fingerprint = "sha384"
 
   [params.author]
     name = "Matthieu Queloz"
@@ -127,7 +128,7 @@ ignoreFiles = ["^assets/jsconfig\\.json$"]
 
   # --- ANIMATIONS & VISUALS ---
   [params.page]
-    lightgallery = true # Click to zoom on images
+    lightgallery = false # Enable per page when zoomable images are present
     [params.page.share]
       enable = true
       Twitter = true
@@ -332,4 +333,4 @@ ignoreFiles = ["^assets/jsconfig\\.json$"]
   tileColor = "#111111"
 
 [params.customPartials]
-  head = ["favicon-fallback.html", "seo-hreflang.html", "seo-identity.html", "seo-publication.html"]
+  head = ["performance-head.html", "favicon-fallback.html", "seo-hreflang.html", "seo-identity.html", "seo-publication.html"]

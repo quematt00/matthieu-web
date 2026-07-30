@@ -31,7 +31,7 @@ categories:
 
 Répond aux commentaires de Cheryl Misak, Alexander Prescott‑Couch et Paul Roth.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/analyse/">analyse</a>, <a href="/fr/tags/concepts/">concepts</a>, <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/retro-ingenierie-conceptuelle/">rétro-ingénierie conceptuelle</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/histoire/">histoire</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/fr/tags/analyse/">analyse</a>, <a href="/fr/tags/concepts/">concepts</a>, <a href="/fr/tags/ingenierie-conceptuelle/">ingénierie conceptuelle</a>, <a href="/fr/tags/analyse-conceptuelle-a-rebours/">rétro-ingénierie conceptuelle</a>, <a href="/fr/tags/genealogie/">généalogie</a>, <a href="/fr/tags/histoire/">histoire</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEDGA.pdf" aria-label="Télécharger le PDF de Defending Genealogy as Conceptual Reverse-Engineering" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> Télécharger le PDF

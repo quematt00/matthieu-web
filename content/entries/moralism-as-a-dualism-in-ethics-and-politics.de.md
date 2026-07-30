@@ -29,7 +29,7 @@ categories:
 
 Argumentiert, dass Moralismus sowohl in der Ethik als auch in der Politik aus einem problematischen Dualismus hervorgeht, der die nützliche Unterscheidung zwischen Moralischem und Nicht‑Moralischem in eine starre Trennlinie verwandelt. Wie der historische Vergleich mit dem antiken griechischen Denken zeigt, verschleiert dies echte Wertkonflikte und wird komplexen politischen Realitäten wie „dirty hands“-Situationen nicht angemessen gerecht.
 
-<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/moralismus/">politischer Moralismus</a>, <a href="/de/tags/realismus/">Realismus</a>, <a href="/de/tags/wertkonflikte/">Wertkonflikte</a>, <a href="/de/tags/hume/">Hume</a>, <a href="/de/tags/bernard-williams/">Bernard Williams</a></span>
+<span><i class="fa-solid fa-tags"></i> <a href="/de/tags/ethik/">Ethik</a>, <a href="/de/tags/moralismus/">politischer Moralismus</a>, <a href="/de/tags/realismus/">Realismus</a>, <a href="/de/tags/wertkonflikt/">Wertkonflikte</a>, <a href="/de/tags/hume/">Hume</a>, <a href="/de/tags/bernard-williams/">Bernard Williams</a></span>
 
 <a class="download-link" href="https://philpapers.org/archive/QUEMAA.pdf" aria-label="PDF von Moralism as a Dualism in Ethics and Politics herunterladen" target="_blank" rel="noopener noreferrer">
   <i class="fa-solid fa-download"></i> PDF herunterladen

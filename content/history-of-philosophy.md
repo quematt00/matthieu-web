@@ -113,7 +113,7 @@ Besides the history of cognitive systematization, the main themes of my work in 
 
 [Nietzsche's English Genealogy of Truthfulness](#nietzsche-s-english-genealogy-of-truthfulness), *Archiv für Geschichte der Philosophie*
 
-[Nietzsche as a Critic of Genealogical Debunking](#content/entries/nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion.md), *The Monist*
+[Nietzsche as a Critic of Genealogical Debunking](#nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion), *The Monist*
 
 [Nietzsche’s Conceptual Ethics](#nietzsche-s-conceptual-ethics), *Inquiry*
 

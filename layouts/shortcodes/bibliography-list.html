@@ -45,9 +45,10 @@
       {{- $link = $external -}}
     {{- end -}}
     {{- $summary := $page.Summary -}}
-    {{- /* Keep bibliographic prose while removing DOI/URL links and bare DOI/URL strings. */ -}}
-    {{- $summary = replaceRE "(?i)\\s*<a[^>]*>\\s*(doi:\\s*10\\.[^<]*|https?://[^<]*)\\s*</a>" "" $summary -}}
-    {{- $summary = replaceRE "(?i)\\s*(doi:\\s*10\\.[^\\s<\\)]*|https?://[^\\s<\\)]+)" "" $summary -}}
+    {{- /* Keep linked bibliographic prose while removing DOI/URL labels and bare DOI/URL text. */ -}}
+    {{- $summary = replaceRE "(?i)\\s*<a[^>]*>\\s*(doi:\\s*[^<]*|https?://[^<]*)\\s*</a>" "" $summary -}}
+    {{- /* Require a text boundary so URLs inside quoted HTML attributes remain intact. */ -}}
+    {{- $summary = replaceRE "(?i)(^|[>[:space:]])(doi:\\s*[^\\s<\\)]*|https?://[^\\s<\\)]+)" "$1" $summary -}}
     {{- $summary = replaceRE "\\s+</p>" "</p>" $summary -}}
     {{- $number := sub $total $i -}}
     <li class="bibliography-item" value="{{ $number }}">

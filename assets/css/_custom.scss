@@ -502,9 +502,9 @@ h1, h2, h3, h4, .header-title, .menu-item {
     letter-spacing: 0.01em;
 }
 
-/* Add breathing room at the bottom of the home page */
+/* Add breathing room above the footer and enough scroll runway for the final book */
 .page.home {
-    padding-bottom: 4rem !important;
+    padding-bottom: calc(4rem + 3cm) !important;
 }
 
 /* -------------------------------------------------- */

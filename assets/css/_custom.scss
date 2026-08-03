@@ -988,11 +988,21 @@ main {
     margin: 0 0 0.3rem;
 }
 
+.page.home .books-section .book-body h3 {
+    font-size: clamp(1.35rem, calc(1.2rem + 0.45vw), 1.55rem);
+    line-height: 1.18;
+}
+
 .book-body .subtitle {
     display: block;
     color: #425066;
     margin-bottom: 0.5rem;
     font-weight: 600;
+}
+
+.page.home .books-section .book-body .subtitle {
+    font-size: clamp(1.1rem, calc(1.03rem + 0.2vw), 1.2rem);
+    line-height: 1.35;
 }
 
 [data-theme='dark'] .book-body .subtitle {
@@ -1049,6 +1059,61 @@ main {
 [data-theme='dark'] .oa-icon {
     /* Brighten for dark mode so the icon matches the lighter meta text */
     filter: invert(93%) sepia(9%) saturate(240%) hue-rotate(175deg) brightness(110%) contrast(94%);
+}
+
+.page.home .books-section .open-access-badge {
+    --open-access-spectrum: linear-gradient(100deg, #7ba9c4 0%, #559bc3 46%, #7884bd 100%);
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.3em;
+    margin-inline-start: 0.5rem;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: none;
+    box-shadow: none;
+    font-size: 1em;
+    font-weight: 500;
+    letter-spacing: 0.005em;
+    line-height: inherit;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+.page.home .books-section .open-access-badge .oa-icon {
+    display: inline-block;
+    align-self: center;
+    flex: 0 0 auto;
+    height: 1.05em;
+    width: 0.54em;
+    margin: 0;
+    background: var(--open-access-spectrum);
+    filter: none;
+    -webkit-mask: url('/icons/open-access.svg') center / contain no-repeat;
+    mask: url('/icons/open-access.svg') center / contain no-repeat;
+}
+
+.page.home .books-section .open-access-label {
+    color: #668ebc;
+    line-height: inherit;
+}
+
+[data-theme='dark'] .page.home .books-section .open-access-badge {
+    --open-access-spectrum: linear-gradient(100deg, #9bc2dc 0%, #79b9d9 46%, #a79bdf 100%);
+}
+
+[data-theme='dark'] .page.home .books-section .open-access-label {
+    color: #91a9d6;
+}
+
+@supports ((-webkit-background-clip: text) or (background-clip: text)) {
+    .page.home .books-section .open-access-label {
+        background: var(--open-access-spectrum);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        -webkit-text-fill-color: transparent;
+    }
 }
 
 .book-reviews {

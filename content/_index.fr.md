@@ -49,7 +49,7 @@ readingProgress:
       <div class="book-body">
         <h3>The Ethics of Conceptualization</h3>
         <p class="subtitle">Tailoring Thought and Language to Need</p>
-                  <p class="book-meta">Oxford University Press, 2025 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
+                  <p class="book-meta">Oxford University Press, 2025 <span class="open-access-badge"><span class="oa-icon" aria-hidden="true"></span><span class="open-access-label">Open Access</span></span></p>
         <p class="book-abstract">
           Pourquoi accepter une définition plutôt qu’une autre ? Je propose un cadre d’évaluation des concepts à partir des besoins conceptuels que nous mettons au jour par la distanciation réflexive. Je soutiens que des concepts vagues, voire conflictuels, sont parfois précisément ce dont nous avons besoin, et je montre comment distinguer une clarification utile d’un découpage conceptuel arbitraire.
 	        </p>
@@ -75,7 +75,7 @@ readingProgress:
       <div class="book-body">
        <h3>The Practical Origins of Ideas</h3>
         <p class="subtitle">Genealogy as Conceptual Reverse-Engineering</p>
-                <p class="book-meta">Oxford University Press, 2021 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
+                <p class="book-meta">Oxford University Press, 2021 <span class="open-access-badge"><span class="oa-icon" aria-hidden="true"></span><span class="open-access-label">Open Access</span></span></p>
         <p class="book-abstract">
           Une étude des récits de l’état de nature et des généalogies qui éclairent l’émergence des idées abstraites. Je retrace cette pratique, de Hume, Rousseau et Nietzsche jusqu’à E. J. Craig, Bernard Williams et Miranda Fricker, en montrant comment la généalogie permet de reconstituer les pressions qui justifient la conservation de certains concepts. Le livre a été traduit en arabe et en japonais.
         </p>
@@ -100,7 +100,7 @@ readingProgress:
         </div>
       </div>
       <div class="book-body">
-        <h3><a href="https://academic.oup.com/book/61415" target="_blank" rel="noopener">Bernard Williams on Philosophy and History</a></h3>
+        <h3>Bernard Williams on Philosophy and History</h3>
         <p class="subtitle">Edited by Marcel van Ackeren &amp; Matthieu Queloz</p>
         <p class="book-meta">Oxford University Press, 2025</p>
         <p class="book-abstract">

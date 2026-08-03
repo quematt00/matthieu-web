@@ -46,7 +46,7 @@ readingProgress:
 	      <div class="book-body">
 	        <h3>The Ethics of Conceptualization</h3>
 	        <p class="subtitle">Tailoring Thought and Language to Need</p>
-	                  <p class="book-meta">Oxford University Press, 2025 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
+	                  <p class="book-meta">Oxford University Press, 2025 <span class="open-access-badge"><span class="oa-icon" aria-hidden="true"></span><span class="open-access-label">Open Access</span></span></p>
 	        <p class="book-abstract">
 	          Why should we accept one definition rather than another? The book develops a framework for judging concepts by the conceptual needs we uncover when we step back from them. It argues that sometimes, vague and even conflicting concepts are exactly what we need, and shows how to distinguish helpful clarification from conceptual gerrymandering.
 	        </p>
@@ -72,7 +72,7 @@ readingProgress:
 	      <div class="book-body">
 	       <h3>The Practical Origins of Ideas</h3>
 	        <p class="subtitle">Genealogy as Conceptual Reverse-Engineering</p>
-	                <p class="book-meta">Oxford University Press, 2021 <img src="/icons/open-access.svg" alt="Open Access" class="oa-icon"> Open Access</p>
+	                <p class="book-meta">Oxford University Press, 2021 <span class="open-access-badge"><span class="oa-icon" aria-hidden="true"></span><span class="open-access-label">Open Access</span></span></p>
         <p class="book-abstract">
           A study of the “state-of-nature” stories and genealogies that explain why abstract ideas arise in the first place. The book traces this practice from Hume, Rousseau, and Nietzsche to E.J. Craig, Bernard Williams, and Miranda Fricker, showing how genealogy can reverse‑engineer the pressures that make concepts worth having. The book was translated into Arabic and Japanese.
         </p>
@@ -97,7 +97,7 @@ readingProgress:
         </div>
       </div>
       <div class="book-body">
-        <h3><a href="https://academic.oup.com/book/61415" target="_blank" rel="noopener">Bernard Williams on Philosophy and History</a></h3>
+        <h3>Bernard Williams on Philosophy and History</h3>
         <p class="subtitle">Edited by Marcel van Ackeren &amp; Matthieu Queloz</p>
         <p class="book-meta">Oxford University Press, 2025</p>
         <p class="book-abstract">

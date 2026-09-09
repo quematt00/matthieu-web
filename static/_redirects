@@ -8,3 +8,36 @@
 /home/oxfordportraitweb/ / 301
 /home/philsem/ / 301
 /de/tags/begriffsengineering/ /de/tags/conceptual-engineering/ 301
+
+# Retired WordPress URLs. Keep both trailing-slash variants for saved links.
+/the_practical_origins_of_ideas /books/the-practical-origins-of-ideas/ 301
+/the_practical_origins_of_ideas/ /books/the-practical-origins-of-ideas/ 301
+/articles/nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion /entries/nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion/ 301
+/articles/nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion/ /entries/nietzsche-as-a-critic-of-genealogical-debunking-making-room-for-naturalism-without-subversion/ 301
+/chapters /bibliography/ 301
+/chapters/ /bibliography/ 301
+/chapters/social-functions-cover /entries/revealing-social-functions-through-pragmatic-genealogies/ 301
+/chapters/social-functions-cover/ /entries/revealing-social-functions-through-pragmatic-genealogies/ 301
+# The old journal attachment does not identify a specific paper.
+/articles/synthese /bibliography/ 301
+/articles/synthese/ /bibliography/ 301
+/home/oxfordportrait / 301
+/home/oxfordportrait/ / 301
+/publications /bibliography/ 301
+/publications/ /bibliography/ 301
+
+# Hugo publication titles renamed in January and February 2026.
+/entries/foucault-et-engel-sur-la-normativit-des-normes-du-savoir /entries/une-normativite-sans-histoire-foucault-engel-et-la-normativite-de-la-verite/ 301
+/entries/foucault-et-engel-sur-la-normativit-des-normes-du-savoir/ /entries/une-normativite-sans-histoire-foucault-engel-et-la-normativite-de-la-verite/ 301
+/entries/needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation /entries/needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation/ 301
+/entries/needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation/ /entries/needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation/ 301
+
+# Preserve the corresponding French and German publication links as well.
+/fr/entries/foucault-et-engel-sur-la-normativit-des-normes-du-savoir /fr/entries/une-normativite-sans-histoire-foucault-engel-et-la-normativite-de-la-verite/ 301
+/fr/entries/foucault-et-engel-sur-la-normativit-des-normes-du-savoir/ /fr/entries/une-normativite-sans-histoire-foucault-engel-et-la-normativite-de-la-verite/ 301
+/de/entries/foucault-et-engel-sur-la-normativit-des-normes-du-savoir /de/entries/une-normativite-sans-histoire-foucault-engel-et-la-normativite-de-la-verite/ 301
+/de/entries/foucault-et-engel-sur-la-normativit-des-normes-du-savoir/ /de/entries/une-normativite-sans-histoire-foucault-engel-et-la-normativite-de-la-verite/ 301
+/fr/entries/needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation /fr/entries/needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation/ 301
+/fr/entries/needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation/ /fr/entries/needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation/ 301
+/de/entries/needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation /de/entries/needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation/ 301
+/de/entries/needs-of-the-mind-how-the-aptic-normativity-of-needs-can-guide-conceptual-adaptation/ /de/entries/needs-of-the-mind-how-aptic-normativity-can-guide-conceptual-adaptation/ 301

@@ -107,6 +107,7 @@ readingProgress:
           Pour Bernard Williams, la philosophie et l’histoire sont étroitement liées. Il soutient que la philosophie, contrairement à la science, ne peut ignorer sa propre histoire et que tout travail historique ou philosophique exige de reconnaître l’altérité du passé. En outre, la philosophie systématique requiert elle-même une approche historique de ses concepts. Ce volume explore ces diverses interconnexions à travers des contributions inédites qui évaluent de manière critique l’œuvre de Williams en histoire de la philosophie, son tournant historiciste et son usage de la généalogie. Ce volume propose une alliance inédite entre des études approfondies de figures historiques (d’Homère à Wittgenstein) et des discussions méthodologiques sur la manière dont la philosophie devrait faire usage de l’histoire et dialoguer avec elle.
         </p>
         <div class="book-reviews">
+          <p class="review-quote">Présenté dans la <a href="https://drb.ie/article/holding-quicksilver/" target="_blank" rel="noopener noreferrer">Dublin Review of Books</a> et dans <a href="https://www.prospectmagazine.co.uk/culture/72871/bernard-williamss-reckoning-with-history" target="_blank" rel="noopener noreferrer">Prospect Magazine</a>.</p>
         </div>
       </div>
     </article>

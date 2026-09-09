@@ -104,6 +104,7 @@ readingProgress:
           For Bernard Williams, philosophy and history are deeply connected. He argues that philosophy, unlike science, cannot ignore its own history, and that historical engagement, whether to produce history or philosophy, requires acknowledging the past's difference from the present. Furthermore, systematic philosophy itself requires a historical approach to its concepts. This volume explores these different interconnections through commissioned contributions that critically appraise Williams’s work in the history of philosophy, his historicist turn, and his use of genealogy. The collection uniquely combines substantive discussions of historical figures (from Homer to Wittgenstein) with methodological discussions of how philosophy should use and engage with history.
         </p>
         <div class="book-reviews">
+          <p class="review-quote">Featured in the <a href="https://drb.ie/article/holding-quicksilver/" target="_blank" rel="noopener noreferrer">Dublin Review of Books</a> and <a href="https://www.prospectmagazine.co.uk/culture/72871/bernard-williamss-reckoning-with-history" target="_blank" rel="noopener noreferrer">Prospect Magazine</a>.</p>
         </div>
       </div>
     </article>

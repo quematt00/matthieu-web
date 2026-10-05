@@ -149,6 +149,8 @@ Mit dem fünfjährigen SNF Starting Grant, der mir kürzlich zugesprochen wurde,
 
 [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models.de), *Philosophical Studies*
 
+[A Polyphonic Conception of AI Understanding](#a-polyphonic-conception-of-ai-understanding.de), *Manuskript*
+
 </div>
 </section>
 

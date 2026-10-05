@@ -150,6 +150,8 @@ With the five-year SNSF Starting Grant I was recently awarded, I am reconnecting
 
 [Mechanistic Indicators of Understanding in Large Language Models](#mechanistic-indicators-of-understanding-in-large-language-models), *Philosophical Studies*
 
+[A Polyphonic Conception of AI Understanding](#a-polyphonic-conception-of-ai-understanding), *Manuscript*
+
 </div>
 </section>
 
